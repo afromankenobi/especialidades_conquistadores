@@ -126,7 +126,11 @@ Luego en GitHub:
 - **Solución:** Asegúrate de servir desde la raíz: `bundle exec jekyll serve`
 
 **Problema:** Mermaid no renderiza
-- **Solución:** Verifica que usas bloques \`\`\`mermaid (no solo \`\`\`)
+- **Solución:** Los diagramas Mermaid.js ahora se renderizan automáticamente. Verifica que:
+  - Usas bloques \`\`\`mermaid (no solo \`\`\`)
+  - El archivo incluye el layout default (se aplica automáticamente)
+  - El navegador no está bloqueando el CDN de Mermaid.js
+- **Documentación completa:** Ver [docs/MERMAID_FIX.md](docs/MERMAID_FIX.md)
 
 **Problema:** Cambios no se reflejan
 - **Solución:** Usa `--livereload` o presiona Ctrl+C y reinicia
