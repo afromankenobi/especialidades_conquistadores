@@ -1,3 +1,8 @@
+---
+layout: default
+title: Temperancia
+---
+
 # Temperancia
 
 <div align="center">

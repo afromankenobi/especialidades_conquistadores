@@ -1,3 +1,8 @@
+---
+layout: default
+title: Árboles
+---
+
 # Árboles
 
 <div align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Campamento I
+---
+
 # Campamento I
 
 <div align="center">

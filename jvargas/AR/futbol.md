@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fútbol
+---
+
 # Fútbol
 
 <div align="center">

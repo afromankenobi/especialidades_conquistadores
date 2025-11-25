@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nudos y amarras
+---
+
 # Nudos y amarras
 
 <div align="center">

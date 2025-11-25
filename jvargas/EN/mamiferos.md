@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mamíferos
+---
+
 # Mamíferos
 
 <div align="center">

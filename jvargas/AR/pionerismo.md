@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pionerismo
+---
+
 # Pionerismo
 
 <div align="center">

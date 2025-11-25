@@ -1,3 +1,8 @@
+---
+layout: default
+title: Aves domésticas
+---
+
 # Aves domésticas
 
 <div align="center">

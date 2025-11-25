@@ -1,3 +1,8 @@
+---
+layout: default
+title: Virus
+---
+
 # Virus
 
 <div align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Respuestas de Especialidades - Líder
+---
+
 # Respuestas de Especialidades - Líder
 
 <div align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Escatología
+---
+
 # Escatología
 
 <div align="center">

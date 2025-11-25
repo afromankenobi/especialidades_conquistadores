@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vida silvestre
+---
+
 # Vida silvestre
 
 <div align="center">

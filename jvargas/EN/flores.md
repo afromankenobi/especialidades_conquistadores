@@ -1,3 +1,8 @@
+---
+layout: default
+title: Flores
+---
+
 # Flores
 
 <div align="center">

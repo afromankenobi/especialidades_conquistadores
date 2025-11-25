@@ -1,3 +1,8 @@
+---
+layout: default
+title: Primeros Auxilios
+---
+
 # Primeros Auxilios
 
 <div align="center">

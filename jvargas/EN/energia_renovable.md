@@ -1,3 +1,8 @@
+---
+layout: default
+title: Energía Renovable
+---
+
 # Energía Renovable
 
 <div align="center">

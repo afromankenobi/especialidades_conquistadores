@@ -1,3 +1,8 @@
+---
+layout: default
+title: Globos Aerostáticos
+---
+
 # Globos Aerostáticos
 
 <div align="center">

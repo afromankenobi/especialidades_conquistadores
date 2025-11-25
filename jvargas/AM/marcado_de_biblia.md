@@ -1,3 +1,8 @@
+---
+layout: default
+title: Marcado de Biblia
+---
+
 # Marcado de Biblia
 
 <div align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arbustos
+---
+
 # Arbustos
 
 <div align="center">

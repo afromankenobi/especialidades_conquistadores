@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resolución de Conflictos
+---
+
 # Resolución de Conflictos
 
 <div align="center">

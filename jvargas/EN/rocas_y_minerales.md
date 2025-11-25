@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rocas y Minerales
+---
+
 # Rocas y Minerales
 
 <div align="center">

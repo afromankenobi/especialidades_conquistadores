@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cuidado de Bebés
+---
+
 # Cuidado de Bebés
 
 <div align="center">

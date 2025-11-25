@@ -1,3 +1,8 @@
+---
+layout: default
+title: Goma EVA (Foami)
+---
+
 # Goma EVA (Foami)
 
 <div align="center">

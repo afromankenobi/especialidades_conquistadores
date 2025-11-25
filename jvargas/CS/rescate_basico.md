@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rescate Básico
+---
+
 # Rescate Básico
 
 <div align="center">

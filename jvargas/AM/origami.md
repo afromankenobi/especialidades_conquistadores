@@ -1,3 +1,8 @@
+---
+layout: default
+title: Origami
+---
+
 # Origami
 
 <div align="center">
