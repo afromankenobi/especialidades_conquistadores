@@ -34,7 +34,6 @@ optional_front_matter:
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
       layout: "default"
 
