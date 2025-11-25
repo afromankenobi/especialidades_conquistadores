@@ -1,0 +1,54 @@
+# Configuración Jekyll para Manual de Especialidades
+
+# Configuración básica
+title: Manual de Especialidades - Club de Conquistadores
+description: Especialidades del Club de Conquistadores (División Sudamericana)
+baseurl: "" # Para desarrollo local
+url: "" # Tu URL de GitHub Pages cuando lo publiques
+
+# Tema
+theme: minima
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Configuración de relative links
+relative_links:
+  enabled: true
+  collections: false
+
+# Front Matter opcional (permite markdown sin front matter)
+optional_front_matter:
+  remove_originals: false
+
+# Incluir archivos/carpetas
+include:
+  - README.md
+  - especialidades
+  - jvargas
+  - assets
+
+# Excluir
+exclude:
+  - pdfs
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+
+# Configuración de colecciones (opcional)
+collections:
+  especialidades:
+    output: true
+    permalink: /especialidades/:path/
