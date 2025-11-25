@@ -11,12 +11,36 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
     <!-- Mermaid.js para renderizar diagramas -->
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-      mermaid.initialize({
-        startOnLoad: true,
-        theme: 'default',
-        securityLevel: 'loose'
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11.12.1/dist/mermaid.min.js" integrity="sha256-GYsZRC+G8LRqF+VtOr90TDooo0J+ZvqNraO1iad7q8w=" crossorigin="anonymous"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        if (typeof mermaid !== 'undefined') {
+          mermaid.initialize({
+            startOnLoad: false,
+            theme: 'default',
+            securityLevel: 'loose'
+          });
+          
+          // Convertir bloques de código con clase 'language-mermaid' a divs con clase 'mermaid'
+          document.querySelectorAll('pre code.language-mermaid').forEach(function(codeBlock) {
+            const pre = codeBlock.parentElement;
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = codeBlock.textContent;
+            pre.parentElement.replaceChild(mermaidDiv, pre);
+          });
+          
+          // También manejar bloques <pre class="mermaid">
+          document.querySelectorAll('pre.mermaid').forEach(function(preBlock) {
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = preBlock.textContent;
+            preBlock.parentElement.replaceChild(mermaidDiv, preBlock);
+          });
+          
+          // Renderizar todos los diagramas
+          mermaid.run();
+        }
       });
     </script>
 
