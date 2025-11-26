@@ -311,6 +311,12 @@ Debes construir físicamente estas tres fogatas y explicar para qué sirve cada 
 
 **a) FOGATA ESTRELLA (Star Fire)**
 
+<div align="center">
+
+![Fogata Estrella](https://upload.wikimedia.org/wikipedia/commons/4/4b/Camp_Star_Fire.svg)
+
+</div>
+
 **Construcción:**
 1. **Material:**
    - 5-7 troncos largos (1.5-2 metros cada uno)
@@ -348,6 +354,12 @@ Debes construir físicamente estas tres fogatas y explicar para qué sirve cada 
 
 **b) FOGATA CAZADOR (Hunter's Fire)**
 
+<div align="center">
+
+![Fogata Cazador](https://upload.wikimedia.org/wikipedia/commons/b/b5/Camp_Hunters_Fire.svg)
+
+</div>
+
 **Construcción:**
 1. **Material:**
    - 2 troncos grandes (50-60 cm largo, 15-20 cm diámetro)
@@ -383,6 +395,12 @@ Debes construir físicamente estas tres fogatas y explicar para qué sirve cada 
 - Coloca olla directamente sobre troncos
 
 **c) FOGATA REFLECTOR (Reflector Fire)**
+
+<div align="center">
+
+![Fogata Reflector](https://upload.wikimedia.org/wikipedia/commons/7/76/Camp_Reflector_Fire.svg)
+
+</div>
 
 **Construcción:**
 1. **Pared reflectora (detrás del fuego):**
@@ -1323,6 +1341,988 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 
 ---
 
+### 11. Demostrar la capacidad de mantener segura y firme una tienda de campaña o carpa
+
+**Respuesta:**
+
+**[PRÁCTICA REQUERIDA]**
+Debes demostrar que sabes armar una carpa correctamente para que resista viento y lluvia.
+
+**ELEMENTOS DE SEGURIDAD:**
+
+**1. ESTACAS (Piquetes):**
+
+**Tipos:**
+- Metal: Resistentes, para terreno duro
+- Plástico: Ligeras, terreno normal
+- Madera: Improvisadas en emergencia
+- Forma Y: Mayor agarre
+
+**Técnica correcta:**
+- Ángulo 45-60 grados hacia la carpa
+- Enterradas 2/3 de su longitud
+- Martillar firmemente (sin doblar)
+- Verificar que no se suelten
+
+**2. TENSORES (Vientos):**
+
+**Función:**
+- Mantienen estructura tensa
+- Resisten viento
+- Evitan acumulación de agua en techo
+
+**Ajuste correcto:**
+- Tirantes desde esquinas superiores
+- Ángulo 45 grados desde carpa
+- Tensión uniforme (ni flojos ni excesivos)
+- Usar nudo ajustable (dos medios cotes)
+
+**3. ESTRUCTURA DE VARILLAS:**
+
+**Armado:**
+- Ensambla varillas completamente
+- Inserta en mangas/clips
+- Verifica conexiones seguras
+- No fuerces varillas dobladas
+
+**4. SOBRETECHO (Rainfly):**
+
+**Instalación:**
+- Debe cubrir completamente carpa interna
+- NO debe tocar paredes internas
+- Espacio aire entre ambos (5-10 cm)
+- Bien tensado para evitar flapping
+
+**PROCEDIMIENTO COMPLETO:**
+
+**Paso 1: Ubicación**
+- Terreno plano
+- Sin piedras/ramas bajo piso
+- Orientación contra viento dominante
+
+**Paso 2: Base**
+- Extiende piso de carpa
+- Estaca esquinas ligeramente
+
+**Paso 3: Estructura**
+- Arma varillas
+- Inserta en carpa
+- Levanta estructura
+
+**Paso 4: Estacado firme**
+- Esquinas primero (45° hacia afuera)
+- Puertas/lados después
+- Verifica firmeza
+
+**Paso 5: Tensores**
+- Instala vientos desde esquinas superiores
+- Ajusta con dos medios cotes
+- Tensión uniforme
+
+**Paso 6: Sobretecho**
+- Coloca sobre estructura
+- Estaca faldones
+- Ajusta para separación correcta
+
+**Paso 7: Verificación final**
+- Tira suavemente esquinas
+- No debe moverse
+- Estructura firme
+- Tensión pareja
+
+**PRUEBA DE SEGURIDAD:**
+
+**Test del viento simulado:**
+- Empuja lateralmente
+- Debe resistir sin ceder
+- Estacas no se sueltan
+
+**Test de lluvia:**
+- Rocía agua sobre sobretecho
+- Agua escurre (no se acumula)
+- Interior permanece seco
+
+**ERRORES COMUNES:**
+
+1. **Estacas flojas** - causa principal de carpas voladas
+2. **Sobretecho tocando interior** - transfiere condensación
+3. **Tensores desiguales** - estructura torcida
+4. **Ángulo incorrecto de estacas** - se sueltan fácil
+
+**NUDOS ESENCIALES:**
+
+**Dos medios cotes (para tensores):**
+- Nudo ajustable
+- Permite aflojar/tensar fácilmente
+- No se suelta solo
+
+**Nudo de anclaje (para estacas):**
+- Seguro
+- Fácil de deshacer
+
+**MANTENIMIENTO:**
+
+Después del campamento:
+- Seca completamente antes de guardar
+- Limpia barro de estacas
+- Verifica varillas sin fisuras
+- Guarda ordenadamente
+
+---
+
+### 12. Durante un campamento, planificar y presentar un devocional de diez minutos u organizar y dirigir un juego sobre la Biblia en la naturaleza, o liderar una Escuela Sabática o el culto de despedida de sábado
+
+**Respuesta:**
+
+**[PRÁCTICA REQUERIDA]**
+Debes preparar y liderar UNA de estas opciones durante el campamento.
+
+**OPCIÓN A: DEVOCIONAL DE 10 MINUTOS**
+
+**Estructura sugerida:**
+
+**1. Introducción (1-2 min)**
+- Saludo y bienvenida
+- Conexión con la naturaleza alrededor
+- Presenta tema brevemente
+
+**2. Texto bíblico (2-3 min)**
+- Lee pasaje seleccionado
+- Explica contexto simple
+- Relaciona con experiencia de campamento
+
+**3. Aplicación práctica (4-5 min)**
+- ¿Qué nos enseña este texto?
+- Ejemplos de la vida diaria
+- Conexión con lecciones del campamento
+
+**4. Oración final (1 min)**
+- Agradecimiento
+- Peticiones relacionadas al tema
+- Bendición para el día
+
+**TEMAS SUGERIDOS CON NATURALEZA:**
+
+**Tema 1: "Dios el Creador"**
+- Texto: Génesis 1
+- Conexión: Observar creación alrededor
+- Aplicación: Cuidar lo creado
+
+**Tema 2: "Jesús en la tormenta"**
+- Texto: Marcos 4:35-41
+- Conexión: Confiar en condiciones difíciles de campamento
+- Aplicación: Jesús calma nuestras "tormentas"
+
+**Tema 3: "El buen pastor"**
+- Texto: Salmo 23
+- Conexión: Dios cuida como pastor cuida ovejas
+- Aplicación: Confianza en Su cuidado
+
+**Preparación:**
+- Lee el pasaje varios días antes
+- Practica en voz alta
+- Prepara preguntas para involucrar grupo
+- Ten Biblia marcada
+
+**OPCIÓN B: JUEGO BÍBLICO EN LA NATURALEZA**
+
+**Juego 1: Búsqueda del tesoro bíblico**
+
+**Preparación:**
+- Esconde 10 objetos naturales
+- Cada uno representa historia bíblica
+- Crea mapa simple
+
+**Ejemplos de objetos:**
+- Piedra = David y Goliat
+- Rama = Moisés y vara
+- Agua = Bautismo de Jesús
+- Pan = Alimentación 5000
+- Oveja (figura) = Parábola oveja perdida
+
+**Desarrollo:**
+- Divide en equipos
+- Entregar mapa
+- Encuentran objetos
+- Cuentan historia asociada
+
+**Juego 2: Estaciones bíblicas**
+
+**Preparación:**
+- 5 estaciones en diferentes puntos
+- Cada estación = actividad bíblica
+
+**Estación 1: Creación**
+- Identificar 10 cosas creadas por Dios
+- Anotar en lista
+
+**Estación 2: Milagros**
+- Recrear cruce Mar Rojo (saltar "agua")
+- Recolectar "maná" (piedritas blancas)
+
+**Estación 3: Parábolas**
+- Buscar "semilla" escondida
+- Explicar parábola del sembrador
+
+**Estación 4: Arca de Noé**
+- Construir arca miniatura con palitos
+- Tiempo límite
+
+**Estación 5: Jesús sana**
+- Vendaje de primeros auxilios (práctica)
+- Reflexión sobre sanidad espiritual
+
+**OPCIÓN C: LIDERAR ESCUELA SABÁTICA**
+
+**Estructura (45 min - 1 hora):**
+
+**1. Bienvenida e Introducción (5 min)**
+- Saludo
+- Oración inicial
+- Presentación del tema
+
+**2. Canto y adoración (10 min)**
+- 3-4 cantos relacionados al tema
+- Preferir cantos conocidos
+- Usar naturaleza como "escenario"
+
+**3. Lección/Estudio (20-25 min)**
+- Presenta lección de la semana
+- Usa preguntas participativas
+- Divide en grupos pequeños para discusión
+- Comparten conclusiones
+
+**4. Actividad práctica (10 min)**
+- Relacionada a lección
+- Ejemplo: si lección es mayordomía → recolectar basura del área
+- Si es creación → observar e identificar especies
+
+**5. Cierre (5 min)**
+- Resumen de aprendido
+- Oración final
+- Anunciar actividades del día
+
+**Preparación:**
+- Estudia lección con anticipación
+- Prepara preguntas interesantes
+- Trae materiales necesarios
+- Coordina con instructor
+
+**OPCIÓN D: CULTO DE DESPEDIDA DE SÁBADO**
+
+**Estructura (30-40 min):**
+
+**1. Preparación del ambiente (antes)**
+- Fogata pequeña o círculo
+- Todos sentados cómodamente
+- Materiales preparados
+
+**2. Introducción (5 min)**
+- Bienvenida
+- Reflexión sobre la semana/día
+- Canto suave de apertura
+
+**3. Devocional especial (10 min)**
+- Historia o testimonio
+- Conexión con experiencias del campamento
+- Qué aprendimos esta semana
+
+**4. Momento de compartir (10 min)**
+- Cada conquistador comparte:
+  - Una bendición recibida
+  - Algo que aprendió
+  - Agradecimiento a Dios
+
+**5. Cantos de despedida (5 min)**
+- Cantos de reflexión
+- Cantos de paz
+
+**6. Oración final (5 min)**
+- Por semana que comienza
+- Por cada conquistador
+- Bendición
+
+**Elementos especiales:**
+- Velas pequeñas (seguras)
+- Círculo de amistad
+- Ambiente de reflexión
+
+**TIPS GENERALES:**
+
+**Para cualquier opción:**
+- Llega 10 min antes para preparar
+- Ten plan B si clima no coopera
+- Involucra a participantes
+- Mantén energía apropiada al momento
+- Termina a tiempo
+- Pide feedback después
+
+**Evaluación:**
+- ¿Mensaje claro?
+- ¿Participación del grupo?
+- ¿Timing correcto?
+- ¿Impacto espiritual?
+
+---
+
+### 13. Construir una de las siguientes opciones y describir su importancia para el individuo y el medio ambiente
+
+**Respuesta:**
+
+**[PRÁCTICA REQUERIDA]**
+Debes construir físicamente UNA de estas opciones en el campamento.
+
+**OPCIÓN A: LETRINA**
+
+**IMPORTANCIA:**
+
+**Para el individuo:**
+- Higiene personal básica
+- Dignidad y privacidad
+- Previene enfermedades
+- Comodidad en campamento largo
+
+**Para el medio ambiente:**
+- Concentra desechos en un lugar
+- Evita contaminación de agua
+- Protege flora (no defecar cerca de plantas)
+- Facilita descomposición adecuada
+- Previene dispersión de enfermedades a fauna
+
+**CONSTRUCCIÓN:**
+
+**Tipo recomendado: Letrina de zanja**
+
+**Materiales:**
+- Pala
+- Papel higiénico en recipiente impermeable
+- Cal o cenizas
+- Lona o tela para privacidad
+- Estacas y cuerda
+- Pala pequeña (para usuarios)
+
+**Ubicación:**
+1. **Distancia mínima:**
+   - 50-70 metros de fuente de agua
+   - 30-50 metros del campamento
+   - No en dirección del viento hacia campamento
+
+2. **Terreno:**
+   - Ligeramente inclinado (drena lluvia)
+   - Tierra excavable
+   - Sin rocas grandes
+
+3. **Privacidad:**
+   - Detrás de arbustos/árboles
+   - No visible desde campamento
+
+**Paso a paso:**
+
+**1. Excavar zanja:**
+   - Largo: 1 metro
+   - Ancho: 25-30 cm
+   - Profundidad: 45-60 cm
+   - Reserva tierra excavada (tapar después)
+
+**2. Construir soporte:**
+   - Dos troncos paralelos a los lados
+   - Distancia 30 cm (ancho zanja)
+   - Para apoyar pies
+
+**3. Privacidad:**
+   - Cuatro estacas en las esquinas
+   - Atar lona/tela alrededor
+   - Altura 1.5-1.8 metros
+   - Dejar abertura frontal con solapa
+
+**4. Techo (opcional):**
+   - Lona sobre estacas
+   - Protege de lluvia
+
+**5. Equipamiento:**
+   - Papel higiénico en recipiente cerrado
+   - Pala pequeña
+   - Cal/cenizas en recipiente
+   - Señal "Ocupado/Libre"
+
+**USO CORRECTO:**
+
+**Instrucciones para usuarios:**
+1. Usa señal "Ocupado"
+2. Después de usar, cubre con tierra
+3. Agrega cal/cenizas (neutraliza olor, acelera descomposición)
+4. Papel higiénico EN la zanja
+5. Deja señal "Libre"
+
+**Mantenimiento diario:**
+- Agrega capa de tierra cada noche
+- Reabastece papel
+- Mantiene limpio alrededor
+- Agrega cal/cenizas regularmente
+
+**Al finalizar campamento:**
+- Rellena completamente con tierra
+- Compacta bien
+- Marca lugar (opcional, para no reusar pronto)
+- Restaura área natural
+
+**OPCIÓN B: DUCHA**
+
+**IMPORTANCIA:**
+
+**Para el individuo:**
+- Higiene personal completa
+- Comodidad
+- Moral del grupo (sentirse limpio)
+- Previene infecciones de piel
+
+**Para el medio ambiente:**
+- Concentra agua jabonosa
+- Permite filtración antes de llegar a cuerpos de agua
+- Usa jabón biodegradable
+- Evita contaminación dispersa
+
+**CONSTRUCCIÓN:**
+
+**Tipo recomendado: Ducha de gravedad**
+
+**Materiales:**
+- Recipiente grande (10-20 litros) con tapa
+- Manguera o tubo (2 metros)
+- Ducha de mano o perforar tapa
+- Cuerda resistente
+- 4 estacas largas (2 metros)
+- Lona para privacidad
+- Paleta de madera (base)
+
+**Ubicación:**
+1. **Distancia mínima:**
+   - 50 metros de fuente de agua
+   - 30 metros del campamento
+   - Pendiente para drenaje
+
+2. **Terreno:**
+   - Con drenaje natural
+   - O cavar zanja drenaje
+   - Absorbe agua
+
+3. **Privacidad:**
+   - Área apartada
+   - Protegida de viento
+
+**Paso a paso:**
+
+**1. Estructura soporte:**
+   - Cuatro estacas formando cuadrado (1m x 1m)
+   - Altura 2.5 metros
+   - Enterradas 50 cm
+   - Amarradas en top con amarra cuadrada
+
+**2. Sistema de agua:**
+   - Bidón con perforaciones en tapa (duchador)
+   - O manguera conectada desde bidón
+   - Cuelga de estructura superior
+   - Válvula para controlar flujo
+
+**3. Privacidad:**
+   - Lona alrededor de tres lados
+   - Cuarto lado = entrada con solapa
+   - Altura 1.8 metros
+
+**4. Piso:**
+   - Paleta de madera o piedras planas
+   - Eleva del barro
+   - Permite drenaje
+
+**5. Drenaje:**
+   - Zanja alrededor (10 cm profundo)
+   - Dirigida hacia terreno absorbente
+   - Lejos de carpas y agua limpia
+
+**6. Área vestidor:**
+   - Espacio seco adyacente
+   - Gancho para ropa
+   - Estante para toalla
+
+**USO CORRECTO:**
+
+**Preparación:**
+1. Calienta agua al sol (día)
+2. O mezcla agua tibia de fogata con fría
+3. Llena recipiente
+4. Verifica temperatura
+
+**Durante ducha:**
+1. Usa SOLO jabón biodegradable
+2. Moja cuerpo
+3. Cierra agua
+4. Enjabona
+5. Enjuaga
+6. Uso eficiente de agua
+
+**Restricciones:**
+- NO usar shampoos químicos fuertes
+- NO dejar correr agua constantemente
+- NO tirar agua directamente al suelo sin drenaje
+
+**Mantenimiento:**
+- Limpia recipiente regularmente
+- Verifica estructura estable
+- Mantiene área alrededor limpia
+- Rellenar/cubrir zanja drenaje si se satura
+
+**Al finalizar campamento:**
+- Desmantela estructura
+- Rellena zanjas
+- Restaura área natural
+- Verifica no dejar basura
+
+**DIAGRAMAS:**
+
+**Letrina de zanja:**
+```mermaid
+graph TB
+    subgraph Letrina["Letrina de Zanja - Vista Lateral"]
+        A["Lona/Tela<br/>privacidad<br/>h: 1.5-1.8m"]
+        B["Estacas<br/>soporte"]
+        C["Zanja<br/>60cm profundo<br/>30cm ancho<br/>1m largo"]
+        D["Troncos<br/>apoyo pies"]
+        E["Tierra<br/>reservada"]
+    end
+
+    B --> A
+    B --> C
+    D --> C
+    C -.cubrir diariamente.- E
+
+    style A fill:#D2B48C
+    style C fill:#8B4513
+    style E fill:#A0522D
+```
+
+**Ducha de gravedad:**
+```mermaid
+graph TB
+    subgraph Ducha["Sistema de Ducha - Vista Lateral"]
+        A["Bidón 10-20L<br/>colgado alto"]
+        B["Manguera/<br/>duchador"]
+        C["Lona<br/>privacidad"]
+        D["Paleta/<br/>base"]
+        E["Zanja<br/>drenaje"]
+        F["Estacas<br/>2.5m altura"]
+    end
+
+    F --> A
+    A --> B
+    F --> C
+    B --> D
+    D --> E
+
+    style A fill:#87CEEB
+    style D fill:#D2691E
+    style E fill:#8B4513
+```
+
+---
+
+### 14. Conocer las cuatro amarras básicas y construir un objeto simple
+
+**Respuesta:**
+
+**[PRÁCTICA REQUERIDA]**
+Debes conocer las 4 amarras Y construir un objeto físico usándolas.
+
+**📚 Recurso recomendado:** [Knots 3D - Nudos de Amarre](https://knots3d.com/es/nudos-de-amarre) ofrece animaciones 3D interactivas de todas estas amarras.
+
+**LAS CUATRO AMARRAS BÁSICAS:**
+
+**1. AMARRA CUADRADA**
+
+**🔗 Referencia visual:** [Ver animación 3D de Amarra Cuadrada](https://knots3d.com/es/amarre-cuadrado-nudo)
+
+**Uso:** Unir palos que se cruzan en ángulo de 90° (perpendiculares)
+
+**Cómo hacerla:**
+1. Nudo ballestrinque en palo vertical
+2. Pasa cuerda SOBRE horizontal, BAJO vertical
+3. Pasa BAJO horizontal, SOBRE vertical
+4. Repite 3-4 vueltas (formar cuadrado)
+5. "Frapping": envuelve entre palos (aprieta)
+6. Termina con nudo ballestrinque en palo horizontal
+
+**Aplicaciones:**
+- Marcos rectangulares
+- Mesas
+- Sillas
+- Bases de estructura
+
+**2. AMARRA DIAGONAL**
+
+**🔗 Referencia visual:** [Ver animación 3D de Amarra Diagonal](https://knots3d.com/es/amarre-diagonal-nudo)
+
+**Uso:** Unir palos que se cruzan en cualquier ángulo (especialmente NO 90°)
+
+**Cómo hacerla:**
+1. Nudo ballestrinque donde se cruzan
+2. Tres vueltas diagonalmente (/)
+3. Tres vueltas diagonalmente opuesto (\)
+4. Forma X
+5. "Frapping" entre palos
+6. Nudo ballestrinque final
+
+**Aplicaciones:**
+- Refuerzos diagonales
+- Estructuras triangulares
+- Tijeras (dos palos cruzados)
+- Trípodes
+
+**3. AMARRA REDONDA (PARALELA)**
+
+**🔗 Referencia visual:** [Ver animación 3D de Amarra Redonda](https://knots3d.com/es/amarre-redondo-nudo)
+
+**Uso:** Unir palos paralelos, extender largo de palo
+
+**Cómo hacerla:**
+1. Nudo ballestrinque en primer palo
+2. Figura de 8 alrededor de ambos palos
+3. 6-8 vueltas justas y apretadas
+4. "Frapping" entre palos (2-3 vueltas)
+5. Nudo ballestrinque en segundo palo
+
+**Aplicaciones:**
+- Extender palo largo (asta bandera)
+- Hacer vigas más fuertes
+- Reparar palo quebrado
+- Construir escaleras
+
+**4. AMARRA TRÍPODE (TIJERA)**
+
+**🔗 Referencia visual:** [Ver animación 3D de Amarra de Trípode](https://knots3d.com/es/amarre-de-trípode-nudo)
+
+**Uso:** Unir 3 o más palos para que se abran como trípode
+
+**Cómo hacerla:**
+1. Coloca 3 palos paralelos, juntos
+2. Nudo ballestrinque en primer palo
+3. Envuelve cuerda suelta alrededor de los 3 (6-8 vueltas)
+4. NO aprietes mucho
+5. "Frapping" entre cada par de palos
+6. Nudo final
+7. Abre palos en forma de trípode
+
+**Aplicaciones:**
+- Soportes para lavamanos
+- Asta de bandera
+- Estructura de fogata elevada
+- Soporte para lámpara
+
+**NUDO ESENCIAL: BALLESTRINQUE**
+
+**Cómo hacer:**
+1. Da vuelta completa alrededor del palo
+2. Cruza cuerda sobre sí misma
+3. Da segunda vuelta
+4. Pasa extremo bajo la segunda vuelta
+5. Aprieta
+
+**Por qué es importante:**
+- Inicio/fin de casi todas las amarras
+- No se suelta
+- Fácil de ajustar
+
+**OBJETO SIMPLE A CONSTRUIR: MESA DE CAMPAMENTO**
+
+**Materiales:**
+- 4 palos verticales (patas): 70-80 cm
+- 4 palos horizontales (marco): 60 cm
+- 4 palos horizontales (marco): 40 cm
+- Palos delgados para superficie: varios
+- Cuerda: 15-20 metros
+
+**Construcción:**
+
+**Paso 1: Dos marcos laterales**
+- 2 palos verticales (patas)
+- 2 palos horizontales (arriba y abajo)
+- Únelos con amarra cuadrada
+- Repite para segundo marco
+
+**Paso 2: Conectar marcos**
+- 4 palos horizontales entre ambos marcos
+- 2 arriba (soporte de tabla)
+- 2 abajo (estabilidad)
+- Usa amarra cuadrada
+
+**Paso 3: Refuerzos diagonales**
+- 2 palos diagonales por lado
+- Amarra diagonal
+- Mayor estabilidad
+
+**Paso 4: Superficie**
+- Palos delgados uno al lado del otro
+- Ata con amarra redonda
+- Forma tope de mesa
+
+**Otras opciones de objetos:**
+
+**1. Trípode para lavamanos:**
+- 3 palos de 1.5 metros
+- Amarra trípode
+- Cuelga recipiente con agua
+
+**2. Perchero:**
+- 3 palos en trípode
+- Palo horizontal amarrado
+- Para colgar ropa/toallas
+
+**3. Silla simple:**
+- Similar a mesa pero con respaldo
+- Tejido de cuerda para asiento
+
+**EVALUACIÓN:**
+
+Tu instructor verificará:
+- Amarras correctamente hechas
+- Objeto estable y funcional
+- Uso apropiado de cada amarra
+- Terminaciones prolijas
+
+**PRÁCTICA PREVIA:**
+
+Antes del campamento:
+- Practica cada amarra 10 veces
+- Usa palos de escoba en casa
+- Cronométrate mejorando velocidad
+- Enseña a otro conquistador
+
+**ERRORES COMUNES:**
+
+1. **No apretar suficiente** - amarra queda floja
+2. **Omitir frapping** - no queda firme
+3. **Ballestrinque mal hecho** - se suelta
+4. **Muy poca cuerda** - no alcanza para vueltas necesarias
+
+**TIPS:**
+
+- Cuerda húmeda amarra mejor
+- Palos secos y rectos
+- Remueve corteza (resbala menos)
+- Practica con paciencia
+
+---
+
+### 15. Saber cómo cambiar las camisetas o repuesto de las lámparas de gas. Demostrar cómo colocar el combustible en las lámparas de kerosene y cocinas de campamento. Saber mantener en buen funcionamiento los quemadores de la estufa
+
+**Respuesta:**
+
+**[PRÁCTICA REQUERIDA]**
+Debes demostrar estas habilidades de mantenimiento de equipo de campamento.
+
+**A. LÁMPARAS DE GAS (Coleman y similares)**
+
+**CAMBIO DE CAMISETAS (Manto de lámpara):**
+
+**Qué son:**
+- Mallas delicadas que se queman para producir luz intensa
+- Se desintegran con el uso
+- Necesitan reemplazo regular
+
+**Cuándo cambiar:**
+- Rotas o con agujeros
+- Después de ~50-100 horas uso
+- Luz débil aunque tanque lleno
+
+**Procedimiento:**
+
+**1. Preparación:**
+   - Lámpara fría y apagada
+   - Tanque sin presión
+   - Área bien ventilada
+   - Camisetas nuevas listas
+
+**2. Remover camiseta vieja:**
+   - Quita globo de vidrio (cuidado, frágil)
+   - Desatornilla anillo superior
+   - Retira camiseta vieja cuidadosamente
+   - Limpia soporte con trapo
+
+**3. Instalar camiseta nueva:**
+   - Abre paquete (NO toques con dedos grasosos)
+   - Ata camiseta nueva al soporte (hilo incluido)
+   - Centra correctamente
+   - Aprieta anillo superior
+   - Reemplaza globo de vidrio
+
+**4. "Quemar" camiseta:**
+   - IMPORTANTE: Antes de usar por primera vez
+   - Con globo REMOVIDO
+   - Enciende cuidadosamente
+   - Deja quemar hasta que se consuma el material
+   - Se vuelve ceniza blanca frágil
+   - Apaga
+   - Reemplaza globo
+   - Lista para usar
+
+**PRECAUCIONES:**
+- Camiseta quemada es MUY frágil
+- No toques después de quemar
+- Un golpe la destruye
+- Lleva repuestos al campamento
+
+**B. LÁMPARAS DE KEROSENE**
+
+**LLENAR TANQUE:**
+
+**Materiales:**
+- Kerosene limpio (parafina)
+- Embudo
+- Trapo limpio
+
+**Procedimiento:**
+
+**1. Verificar:**
+   - Lámpara apagada y fría
+   - Sin mecha encendida
+
+**2. Llenar:**
+   - Desenrosca tapa del tanque
+   - Usa embudo (evita derrames)
+   - Llena hasta 3/4 (no completamente)
+   - Espacio para expansión
+   - Cierra tapa firmemente
+
+**3. Limpieza:**
+   - Limpia cualquier kerosene derramado
+   - NO dejes líquido en exterior
+   - Guarda kerosene en recipiente seguro
+
+**AJUSTE DE MECHA:**
+- Sube/baja mecha con rueda
+- Altura correcta: llama amarilla estable
+- Muy alta: humea (carbón)
+- Muy baja: luz débil
+- Corta punta quemada regularmente
+
+**C. COCINAS DE CAMPAMENTO (Estufa a gas/kerosene)**
+
+**LLENAR COMBUSTIBLE:**
+
+**Cocinas a gas (Coleman, etc.):**
+
+**1. Identificar tipo:**
+   - Presurizado (bombear)
+   - Gasolina blanca o kerosene
+
+**2. Llenar:**
+   - Cocina fría y apagada
+   - Exterior, lejos de llamas
+   - Desenrosca tapa combustible
+   - Usa embudo
+   - Llena hasta marca (3/4 tanque)
+   - Cierra firmemente
+   - Limpia derrames
+
+**3. Presurizar:**
+   - Bombea 20-30 veces
+   - Hasta sentir resistencia
+   - Presión adecuada para funcionamiento
+
+**MANTENIMIENTO DE QUEMADORES:**
+
+**Limpieza regular:**
+
+**1. Inspección:**
+   - Agujeros de quemador limpios
+   - Sin obstrucciones
+   - Sin residuos
+
+**2. Limpieza:**
+   - Usa aguja de limpieza (incluida)
+   - Destapa orificios obstruidos
+   - Sopla para remover residuos
+   - Limpia superficie con trapo
+
+**3. Partes a verificar:**
+   - Jets (inyectores): Sin carbón
+   - Válvulas: Giran suavemente
+   - Empaques: Sin fugas
+   - Generador: Limpio
+
+**SOLUCIÓN DE PROBLEMAS:**
+
+**Problema:** Llama amarilla (no azul)
+- **Causa:** Inyector sucio o presión baja
+- **Solución:** Limpia inyector, bombea más
+
+**Problema:** No enciende
+- **Causa:** Sin combustible, presión baja, inyector tapado
+- **Solución:** Llena, presuriza, limpia
+
+**Problema:** Fuga de combustible
+- **Causa:** Tapa floja, empaque dañado
+- **Solución:** Aprieta tapa, reemplaza empaque
+
+**Problema:** Llama irregular
+- **Causa:** Quemador sucio
+- **Solución:** Limpia con aguja
+
+**SEGURIDAD CRÍTICA:**
+
+**SIEMPRE:**
+- Llena combustible AFUERA
+- Lejos de llamas/chispas
+- Cocina fría antes de llenar
+- Ventilación adecuada al usar
+- Nunca dentro de carpa
+
+**NUNCA:**
+- Llenes tanque completamente
+- Uses combustible incorrecto
+- Enciendas sin verificar fugas
+- Dejes desatendida encendida
+
+**MANTENIMIENTO PREVENTIVO:**
+
+**Antes de cada campamento:**
+- Verifica nivel combustible
+- Prueba encendido
+- Limpia quemadores
+- Verifica empaques
+- Lleva repuestos (camisetas, cerillas)
+
+**Durante campamento:**
+- Limpia después de cada uso
+- Protege de lluvia
+- Guarda en lugar ventilado
+
+**Después de campamento:**
+- Limpia completamente
+- Vacía combustible si almacenaje largo
+- Guarda en lugar seco
+- Empaques lubricados
+
+**KIT DE MANTENIMIENTO:**
+
+Lleva siempre:
+- Camisetas extra (2-3)
+- Aguja de limpieza
+- Empaques de repuesto
+- Llave apropiada
+- Trapo limpio
+- Embudo
+- Cerillas/encendedor
+
+**DEMOSTRACIÓN:**
+
+Para instructor demostrarás:
+1. Cambiar camiseta de lámpara correctamente
+2. Llenar lámpara kerosene sin derramar
+3. Llenar cocina con combustible
+4. Limpiar quemador con aguja
+5. Explicar señales de problema
+
+---
+
 ## 📚 Referencias y recursos adicionales
 
 - **Libros:**
@@ -1341,6 +2341,8 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
   - Leave No Trace - lnt.org
   - Conquistadores DSA
   - Survival Skills - Bushcraft USA
+  - **Knots 3D** - knots3d.com/es/nudos-de-amarre (Animaciones 3D de amarras y nudos)
+  - **Pathfinders Wiki** - wiki.pathfindersonline.org (Ilustraciones de fogatas y técnicas)
 
 - **Canales YouTube útiles:**
   - Primitive Technology
@@ -1361,17 +2363,28 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 **Evaluación:**
 
 **Habilidades técnicas:**
-- Construcción de 3 fogatas específicas
-- Encendido sin fósforos (demostración real)
+- Construcción de 3 fogatas específicas (estrella, cazador, reflector)
+- Encendido sin fósforos (demostración real de 1 método)
 - Afilado de herramientas (verificar filo resultante)
 - Cocina con alimentos secos/frescos
-- Conocimiento teórico de carpas
+- Conocimiento teórico de carpas (tipos y usos)
+- **Armado seguro de carpa** (estacas, tensores, verificación)
+- **4 amarras básicas** (cuadrada, diagonal, redonda, trípode)
+- **Construcción de objeto** con amarras (mesa, trípode, etc.)
+- **Construcción letrina O ducha** (funcional y con importancia ambiental)
+- **Mantenimiento equipo** (cambio camisetas, llenado combustible, limpieza quemadores)
+
+**Habilidades espirituales/liderazgo:**
+- **Liderazgo espiritual:** Devocional, juego bíblico, Escuela Sabática O culto (elegir 1)
+- Presentación clara y organizada
+- Involucramiento del grupo
 
 **Actitudes:**
-- Servicio comunitario (proyecto 3 horas)
+- Servicio comunitario (proyecto 3 horas conservación)
 - Liderazgo entre pares
 - Autonomía en campamento
 - Responsabilidad con equipo
+- Iniciativa propia
 
 **Seguridad prioritaria:**
 
@@ -1387,12 +2400,34 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 - Primeros auxilios disponibles
 - Protección ocular recomendada
 
+**Amarras y construcciones:**
+- Supervisa uso de herramientas cortantes
+- Verifica estabilidad de estructuras antes de uso
+- No permitir trepar estructuras improvisadas
+- Enseña técnica correcta de nudos
+
+**Construcción letrina/ducha:**
+- Ubicación apropiada (distancias de agua)
+- Herramientas de excavación bajo supervisión
+- Privacidad respetada
+- Instrucciones claras de uso e higiene
+
+**Lámparas/cocinas:**
+- NUNCA manipular combustible cerca de llamas
+- Área ventilada para demostraciones
+- Extintor disponible
+- Solo en exteriores
+- Supervisión directa en llenado de combustible
+
 **Consejos pedagógicos:**
 
 **Antes del campamento:**
 - Practica fogatas en sesiones previas
 - Demostración de afilado en reunión
 - Practica encendido sin fósforos múltiples veces
+- **Enseña 4 amarras básicas en club** (no esperar al campamento)
+- **Practica armado de carpas** en varias sesiones
+- **Asigna devocionales/juegos** con anticipación (tiempo de preparación)
 - No esperes al campamento para primera vez
 
 **Durante el campamento:**
@@ -1400,6 +2435,10 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 - Celebra éxitos
 - Aprende de fallos (análisis constructivo)
 - Fomenta ayuda entre conquistadores
+- **Día 1:** Construcción letrina/ducha (úsala todo el campamento)
+- **Día 2:** Amarras y construcción de objetos
+- **Cada mañana/noche:** Rotación de devocionales/cultos
+- **Verifica estructuras** antes de permitir uso
 
 **Proyecto de conservación:**
 - Coordina con parques/áreas naturales con anticipación
@@ -1407,6 +2446,14 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 - Herramientas apropiadas
 - Supervisión adulta
 - Primeros auxilios disponibles
+- Puede hacerse antes o durante campamento
+
+**Liderazgo espiritual (requisito 12):**
+- Asigna responsabilidades con 1-2 semanas anticipación
+- Ofrece guía en planificación
+- Permite creatividad pero verifica contenido
+- Retroalimentación constructiva después
+- Todos deben participar (rotación)
 
 **Desarrollo espiritual:**
 - Reflexión sobre mayordomía
@@ -1421,11 +2468,49 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 - Campamento IV: Liderazgo y enseñanza
 
 **Materiales necesarios:**
+
+**Fuego y cocina:**
 - Kit de encendido sin fósforos (pedernal, ferrocerio, etc.)
-- Piedras de afilar
-- Limas
-- Alimentos deshidratados
+- Piedras de afilar + limas
+- Alimentos deshidratados y/o frescos
 - Madera suficiente para 3 tipos de fogatas
+
+**Amarras y construcciones:**
+- Cuerda/soga (50-100 metros para grupo)
+- Palos/troncos variados (recolección in-situ)
+- Machetes/hachas (compartidas, supervisadas)
+
+**Carpas:**
+- Carpas de diferentes tipos (demostración)
+- Estacas extra
+- Martillo para estacas
+- Paracord para tensores
+
+**Letrina/ducha:**
+- Palas (2-3 para grupo)
+- Lona/tela para privacidad
+- Cal o cenizas
+- Bidones/recipientes para ducha
+- Jabón biodegradable
+
+**Lámparas/cocinas:**
+- Lámpara Coleman (o similar) con camisetas extra
+- Lámpara kerosene
+- Cocina de campamento
+- Combustible apropiado (gasolina blanca/kerosene)
+- Kit limpieza (agujas, empaques)
+- Embudos
+
+**Liderazgo espiritual:**
+- Biblias
+- Materiales para juegos (según planificación)
+- Velas (culto despedida sábado)
+
+**Seguridad:**
+- Botiquín completo
+- Extintores (2 mínimo)
+- Agua abundante
+- Kit primeros auxilios para quemaduras
 
 ---
 
