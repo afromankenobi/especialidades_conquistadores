@@ -97,6 +97,10 @@ Las especialidades están diseñadas para **niños y adolescentes** (Conquistado
 - **Manual DSA 2013** - Fuente oficial de requisitos (División Sudamericana)
 - **Manuales GO!** - Material complementario (División Peruana)
 - **Investigación verificada** - Respuestas investigadas y citadas
+- https://wiki.pathfindersonline.org/
+- https://mundoja.org/
+- https://www.conquismania.cl/
+
 
 ## 🤝 Contribuir
 
