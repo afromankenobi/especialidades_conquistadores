@@ -10,9 +10,7 @@
 
 ## 📋 Sobre este proyecto
 
-Este repositorio contiene las especialidades del Club de Conquistadores (División Sudamericana) en formato Markdown, organizadas por área, con requisitos extraídos de los manuales oficiales y respuestas investigadas y verificadas.
-
-**Estado del proyecto:** 28/29 especialidades completadas (96.6%)
+Este repositorio contiene las especialidades del Club de Conquistadores (División Sudamericana) en formato Markdown, organizadas por área, con requisitos extraídos de los manuales oficiales y respuestas recolectadas desde que comence a trabajar en Conquistadores el año 2023.
 
 ## 📚 Especialidades por Área
 
@@ -88,11 +86,11 @@ docs/                   # Documentación del proyecto
 
 Las especialidades están diseñadas para **niños y adolescentes** (Conquistadores, 10-16 años) con los siguientes objetivos:
 
-- ✅ Conocer y entender superficialmente temas nuevos
-- ✅ Desarrollar curiosidad para profundizar en el futuro
-- ✅ Lenguaje claro, accesible y práctico
-- ✅ Respuestas directas y concisas
-- ❌ NO es un curso universitario - evita tecnicismos excesivos
+- Conocer y entender superficialmente temas nuevos
+- Desarrollar curiosidad para profundizar en el futuro
+- Lenguaje claro, accesible y práctico
+- Respuestas directas y concisas
+- NO es un curso universitario - evita tecnicismos excesivos
 
 ## 📖 Fuentes
 
@@ -104,15 +102,4 @@ Las especialidades están diseñadas para **niños y adolescentes** (Conquistado
 
 Las especialidades siguen una plantilla estándar. Ver [_PLANTILLA.md](./_PLANTILLA.md) para el formato.
 
-## 📝 Licencia
 
-Este material está basado en los manuales oficiales de la División Sudamericana de los Adventistas del Séptimo Día.
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
