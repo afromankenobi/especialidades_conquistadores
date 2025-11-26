@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Campamento III
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-051
+nivel: 3
+ano_creacion: 1986
+institucion_origen: Asociación General
 ---
-
-# Campamento III
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-051
-**Nivel:** 3
-**Año de creación:** 1986
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -2354,12 +2344,3 @@ Para instructor demostrarás:
   - Dave Canterbury (Pathfinder School)
   - MCQBushcraft
   - Corporación Bushcraft
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

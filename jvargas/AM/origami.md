@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Origami
+area: Artes y Actividades Manuales
+area_codigo: AM
+codigo: AM-059
+nivel: 1
+ano_creacion: 1997
+institucion_origen: Asociación General
 ---
-
-# Origami
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Artes y Actividades Manuales
-**Código:** AM-059
-**Nivel:** 1
-**Año de creación:** 1997
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -305,12 +295,3 @@ Debes preparar y presentar una historia bíblica usando figuras de origami como 
 - Superficie plana para trabajar
 - Dedos limpios y secos (la grasa dificulta los dobleces)
 - Opcional: regla y tijeras (solo para preparar el papel cuadrado)
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

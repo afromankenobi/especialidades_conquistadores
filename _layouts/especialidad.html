@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    <!-- Mermaid.js para renderizar diagramas -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11.12.1/dist/mermaid.min.js" integrity="sha256-GYsZRC+G8LRqF+VtOr90TDooo0J+ZvqNraO1iad7q8w=" crossorigin="anonymous"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        if (typeof mermaid !== 'undefined') {
+          mermaid.initialize({
+            startOnLoad: false,
+            theme: 'default',
+            securityLevel: 'loose'
+          });
+
+          // Convertir bloques de código con clase 'language-mermaid' a divs con clase 'mermaid'
+          document.querySelectorAll('pre code.language-mermaid').forEach(function(codeBlock) {
+            const pre = codeBlock.parentElement;
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = codeBlock.textContent;
+            pre.parentElement.replaceChild(mermaidDiv, pre);
+          });
+
+          // También manejar bloques <pre class="mermaid">
+          document.querySelectorAll('pre.mermaid').forEach(function(preBlock) {
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = preBlock.textContent;
+            preBlock.parentElement.replaceChild(mermaidDiv, preBlock);
+          });
+
+          // Renderizar todos los diagramas
+          mermaid.run();
+        }
+      });
+    </script>
+
+    <style>
+      :root {
+        /* Colores por categoría */
+        --ar-color: #4CAF50; /* Actividades Recreativas - Verde */
+        --en-color: #2E7D32; /* Estudio de la Naturaleza - Verde Oscuro */
+        --cs-color: #1976D2; /* Ciencia y Salud - Azul */
+        --am-color: #F57C00; /* Artes y Actividades Manuales - Naranja */
+        --hd-color: #7B1FA2; /* Habilidades Domésticas - Púrpura */
+        --mc-color: #D32F2F; /* Misioneras y Comunitarias - Rojo */
+        --aa-color: #689F38; /* Agrícolas - Verde Lima */
+        --ap-color: #0288D1; /* Profesionales - Azul Claro */
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background: #f8f9fa;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        background: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        min-height: 100vh;
+      }
+
+      /* Header de especialidad */
+      .especialidad-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 30px;
+        border-radius: 8px 8px 0 0;
+        margin: -20px -20px 30px -20px;
+        text-align: center;
+        position: relative;
+      }
+
+      .especialidad-header.ar { background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%); }
+      .especialidad-header.en { background: linear-gradient(135deg, #2E7D32 0%, #43A047 100%); }
+      .especialidad-header.cs { background: linear-gradient(135deg, #1976D2 0%, #42A5F5 100%); }
+      .especialidad-header.am { background: linear-gradient(135deg, #F57C00 0%, #FF9800 100%); }
+      .especialidad-header.hd { background: linear-gradient(135deg, #7B1FA2 0%, #9C27B0 100%); }
+      .especialidad-header.mc { background: linear-gradient(135deg, #D32F2F 0%, #E57373 100%); }
+      .especialidad-header.aa { background: linear-gradient(135deg, #689F38 0%, #8BC34A 100%); }
+      .especialidad-header.ap { background: linear-gradient(135deg, #0288D1 0%, #03A9F4 100%); }
+
+      .especialidad-logo {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 15px;
+        filter: brightness(0) invert(1);
+      }
+
+      .especialidad-header h1 {
+        font-size: 2.2em;
+        margin-bottom: 10px;
+        font-weight: 600;
+      }
+
+      .especialidad-subtitle {
+        font-size: 1.1em;
+        opacity: 0.95;
+        font-weight: 300;
+      }
+
+      /* Metadata cards */
+      .especialidad-meta {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 15px;
+        margin-bottom: 30px;
+      }
+
+      .meta-card {
+        background: #f8f9fa;
+        padding: 15px;
+        border-radius: 8px;
+        border-left: 4px solid #667eea;
+        transition: transform 0.2s, box-shadow 0.2s;
+      }
+
+      .meta-card.ar { border-left-color: var(--ar-color); }
+      .meta-card.en { border-left-color: var(--en-color); }
+      .meta-card.cs { border-left-color: var(--cs-color); }
+      .meta-card.am { border-left-color: var(--am-color); }
+      .meta-card.hd { border-left-color: var(--hd-color); }
+      .meta-card.mc { border-left-color: var(--mc-color); }
+      .meta-card.aa { border-left-color: var(--aa-color); }
+      .meta-card.ap { border-left-color: var(--ap-color); }
+
+      .meta-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      }
+
+      .meta-label {
+        font-size: 0.85em;
+        color: #666;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 5px;
+      }
+
+      .meta-value {
+        font-size: 1.1em;
+        color: #333;
+        font-weight: 500;
+      }
+
+      /* Badge de código */
+      .codigo-badge {
+        display: inline-block;
+        padding: 8px 16px;
+        border-radius: 20px;
+        font-weight: 700;
+        font-size: 1.1em;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        background: rgba(255,255,255,0.2);
+        backdrop-filter: blur(10px);
+      }
+
+      /* Nivel badge */
+      .nivel-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      .nivel-star {
+        color: #FFD700;
+        font-size: 1.2em;
+      }
+
+      /* Contenido principal */
+      .content {
+        padding: 0 10px;
+      }
+
+      h2 {
+        color: #2c3e50;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #e0e0e0;
+        font-size: 1.8em;
+      }
+
+      h3 {
+        color: #34495e;
+        margin-top: 30px;
+        margin-bottom: 15px;
+        font-size: 1.4em;
+      }
+
+      h4 {
+        color: #555;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 1.1em;
+      }
+
+      /* Práctica requerida badge */
+      strong:has(+ [href*="PRÁCTICA REQUERIDA"]),
+      strong:contains("PRÁCTICA REQUERIDA") {
+        background: #ff9800;
+        color: white;
+        padding: 4px 10px;
+        border-radius: 4px;
+        font-size: 0.85em;
+        font-weight: 600;
+      }
+
+      /* Listas */
+      ul, ol {
+        margin-left: 20px;
+        margin-bottom: 15px;
+      }
+
+      li {
+        margin-bottom: 8px;
+      }
+
+      /* Imágenes */
+      img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin: 20px 0;
+      }
+
+      /* SVG de fogatas */
+      img[src*="Camp_"][src$=".svg"] {
+        max-width: 400px;
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      }
+
+      /* Mermaid diagrams */
+      .mermaid {
+        text-align: center;
+        margin: 30px 0;
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      }
+
+      /* Tablas */
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 20px 0;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        border-radius: 8px;
+        overflow: hidden;
+      }
+
+      table, th, td {
+        border: 1px solid #ddd;
+      }
+
+      th, td {
+        padding: 12px 15px;
+        text-align: left;
+      }
+
+      th {
+        background-color: #f8f9fa;
+        font-weight: 600;
+        color: #2c3e50;
+      }
+
+      tbody tr:hover {
+        background-color: #f5f5f5;
+      }
+
+      /* Code blocks */
+      code {
+        background-color: #f4f4f4;
+        padding: 3px 6px;
+        border-radius: 3px;
+        font-family: 'SF Mono', 'Monaco', 'Courier New', monospace;
+        font-size: 0.9em;
+      }
+
+      pre {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+        overflow-x: auto;
+        border-left: 4px solid #667eea;
+        margin: 20px 0;
+      }
+
+      pre code {
+        background-color: transparent;
+        padding: 0;
+      }
+
+      /* Enlaces */
+      a {
+        color: #1976D2;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+      }
+
+      a:hover {
+        border-bottom-color: #1976D2;
+      }
+
+      /* Blockquotes */
+      blockquote {
+        border-left: 4px solid #e0e0e0;
+        padding-left: 20px;
+        margin: 20px 0;
+        color: #666;
+        font-style: italic;
+      }
+
+      /* Footer */
+      .especialidad-footer {
+        margin-top: 60px;
+        padding-top: 30px;
+        border-top: 2px solid #e0e0e0;
+        text-align: center;
+        color: #666;
+        font-size: 0.9em;
+      }
+
+      /* Responsive */
+      @media (max-width: 768px) {
+        .container {
+          padding: 15px;
+        }
+
+        .especialidad-header {
+          margin: -15px -15px 20px -15px;
+          padding: 20px;
+        }
+
+        .especialidad-header h1 {
+          font-size: 1.6em;
+        }
+
+        .especialidad-meta {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      /* Print styles */
+      @media print {
+        .container {
+          box-shadow: none;
+          max-width: 100%;
+        }
+
+        .especialidad-header {
+          break-inside: avoid;
+        }
+
+        a {
+          color: #333;
+          text-decoration: underline;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header de especialidad -->
+      {% if page.codigo %}
+      <header class="especialidad-header {{ page.area_codigo | downcase }}">
+        <img src="{{ site.baseurl }}/assets/images/logo.svg" alt="Logo Conquistadores" class="especialidad-logo">
+        <h1>{{ page.title }}</h1>
+        <div class="especialidad-subtitle">{{ page.area }}</div>
+        <span class="codigo-badge">{{ page.codigo }}</span>
+      </header>
+
+      <!-- Metadata cards -->
+      <div class="especialidad-meta">
+        {% if page.nivel %}
+        <div class="meta-card {{ page.area_codigo | downcase }}">
+          <div class="meta-label">Nivel</div>
+          <div class="meta-value nivel-badge">
+            {% for i in (1..page.nivel) %}
+              <span class="nivel-star">★</span>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if page.ano_creacion %}
+        <div class="meta-card {{ page.area_codigo | downcase }}">
+          <div class="meta-label">Año de Creación</div>
+          <div class="meta-value">{{ page.ano_creacion }}</div>
+        </div>
+        {% endif %}
+
+        {% if page.institucion_origen %}
+        <div class="meta-card {{ page.area_codigo | downcase }}">
+          <div class="meta-label">Institución de Origen</div>
+          <div class="meta-value">{{ page.institucion_origen }}</div>
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      <!-- Contenido principal -->
+      <div class="content">
+        {{ content }}
+      </div>
+
+      <!-- Footer -->
+      <footer class="especialidad-footer">
+        <em>Manual de Especialidades - Club de Conquistadores</em><br>
+        <em>División Sudamericana</em>
+      </footer>
+    </div>
+  </body>
+</html>

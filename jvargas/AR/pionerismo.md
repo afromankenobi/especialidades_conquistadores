@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Pionerismo
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-021
+nivel: 2
+ano_creacion: 1956
+institucion_origen: Asociación General
 ---
-
-# Pionerismo
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-021
-**Nivel:** 2
-**Año de creación:** 1956
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1820,12 +1810,3 @@ Debes completar **UNA** de estas dos opciones:
   - Granjas históricas
   - Recreaciones de vida pionera
   - Ferias de oficios tradicionales
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

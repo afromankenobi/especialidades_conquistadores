@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Aves domésticas
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-004
+nivel: 2
+ano_creacion: 1928
+institucion_origen: Asociación General
 ---
-
-# Aves domésticas
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza (EN)
-**Código:** EN-004
-**Nivel:** 2
-**Año de creación:** 1928
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -789,12 +779,3 @@ Debes elegir UNA de las siguientes tres opciones y realizarla durante varias sem
 ### Para incubación:
 - "Brinsea Incubation Guide" (PDF gratuito)
 - Videos de candling/ovoscopía en YouTube
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

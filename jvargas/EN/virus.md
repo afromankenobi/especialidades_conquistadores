@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Virus
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-095
+nivel: 3
+ano_creacion: 2012
+institucion_origen: División Sudamericana
 ---
-
-# Virus
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-095
-**Nivel:** 3
-**Año de creación:** 2012
-**Institución de origen:** División Sudamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -459,12 +449,3 @@ Virus desarrolla resistencia a medicamentos antivirales:
 - CDC - Centros para el Control de Enfermedades
 - Libros de microbiología básica
 - Documentales sobre virus y pandemias
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

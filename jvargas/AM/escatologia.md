@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: especialidad
 title: Escatología
+area: Actividades Misioneras y Comunitarias
+area_codigo: MC
+codigo: AM-037
+nivel: 2
+ano_creacion: 2012
+institucion_origen: División Sudamericana
 ---
 
 # Escatología

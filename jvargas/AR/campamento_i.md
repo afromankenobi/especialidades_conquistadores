@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Campamento I
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-049
+nivel: 1
+ano_creacion: 1986
+institucion_origen: Asociación General
 ---
-
-# Campamento I
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-049
-**Nivel:** 1
-**Año de creación:** 1986
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1403,12 +1393,3 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
   - lnt.org - Leave No Trace Center
   - Conquistadores DSA
   - Pronóstico del tiempo local
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Resolución de Conflictos
+area: Actividades Misioneras y Comunitarias
+area_codigo: MC
+codigo: AM-007
+nivel: 1
+ano_creacion: 2009
+institucion_origen: Asociación General
 ---
-
-# Resolución de Conflictos
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Misioneras y Comunitarias
-**Código:** AM-007
-**Nivel:** 1
-**Año de creación:** 2009
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1334,12 +1324,3 @@ Derivar es reconocer que un problema está fuera de tu capacidad de ayuda y cone
 - TED Talks sobre empatía y comunicación
 - Tutoriales de escucha activa
 - Role-plays de mediación
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

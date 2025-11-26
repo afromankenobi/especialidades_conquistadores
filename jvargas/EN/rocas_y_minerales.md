@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Rocas y Minerales
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-012
+nivel: 2
+ano_creacion: 1937
+institucion_origen: Asociación General
 ---
-
-# Rocas y Minerales
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-012
-**Nivel:** 2
-**Año de creación:** 1937
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -730,12 +720,3 @@ Debes recolectar o adquirir 15 especímenes reales, documentados apropiadamente.
 - Museos de historia natural
 - Universidades con departamento de geología
 - Ferias de minerales
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

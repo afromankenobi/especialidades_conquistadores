@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Rescate Básico
+area: Ciencia y Salud
+area_codigo: CS
+codigo: CS-010
+nivel: 1
+ano_creacion: 1986
+institucion_origen: Asociación General
 ---
-
-# Rescate Básico
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Ciencia y Salud
-**Código:** CS-010
-**Nivel:** 1
-**Año de creación:** 1986
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -768,12 +758,3 @@ Cualquier combinación de:
   - Cruz Roja de tu país
   - Protocolos de emergencia
   - Conquistadores DSA
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

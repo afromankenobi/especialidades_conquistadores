@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Nudos y amarras
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-040
+nivel: 1
+ano_creacion: 1975
+institucion_origen: Asociación General
 ---
-
-# Nudos y amarras
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas (AR)
-**Código:** AR-040
-**Nivel:** 1
-**Año de creación:** 1975
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -912,14 +902,3 @@ Este cuadro puede usarse para:
 ### Aplicaciones móviles:
 - "Knots 3D" (iOS/Android) - Visualización 3D interactiva
 - "Animated Knots" (iOS/Android) - De los creadores del sitio web
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*Material de estudio con fines educativos*
-
-**¡Que disfrutes aprendiendo el arte de los nudos!**
-
-</div>

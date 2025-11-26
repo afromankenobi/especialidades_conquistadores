@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Higiene Oral
+area: Ciencia y Salud
+area_codigo: CS
+codigo: CS-021
+nivel: 1
+ano_creacion: 2012
+institucion_origen: División Sudamericana
 ---
-
-# Higiene Oral
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Ciencia y Salud
-**Código:** CS-021
-**Nivel:** 1
-**Año de creación:** 2012
-**Institución de origen:** División Sudamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1024,12 +1014,3 @@ Tu boca tiene ciclos naturales de desmineralización y remineralización todo el
 - **Apps:**
   - Temporizadores de cepillado
   - Recordatorios de higiene oral
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

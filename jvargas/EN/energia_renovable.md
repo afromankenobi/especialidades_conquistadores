@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Energía Renovable
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-081
+nivel: 2
+ano_creacion: 2012
+institucion_origen: División Sudamericana
 ---
-
-# Energía Renovable
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-081
-**Nivel:** 2
-**Año de creación:** 2012
-**Institución de origen:** División Sudamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -813,13 +803,3 @@ Cada vez que:
   - Parques solares locales
   - Parques eólicos
   - Plantas hidroeléctricas
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
-

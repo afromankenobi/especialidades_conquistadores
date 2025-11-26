@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Cuidado de Bebés
+area: Habilidades Domésticas
+area_codigo: HD
+codigo: HD-002
+nivel: 1
+ano_creacion: 1928
+institucion_origen: División Intereuropea
 ---
-
-# Cuidado de Bebés
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Habilidades Domésticas
-**Código:** HD-002
-**Nivel:** 1
-**Año de creación:** 1928
-**Institución de origen:** División Intereuropea
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1238,12 +1228,3 @@ Con bebés, SIEMPRE es mejor llamar si hay duda. Especialmente:
 - RCP infantil
 - Cursos de puericultura
 - Talleres para cuidadores
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

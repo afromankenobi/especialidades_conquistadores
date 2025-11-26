@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Mamíferos
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-010
+nivel: 1
+ano_creacion: 1937
+institucion_origen: Asociación General
 ---
-
-# Mamíferos
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-010
-**Nivel:** 1
-**Año de creación:** 1937
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1276,13 +1266,3 @@ Debes escribir tu propia historia basada en una observación real. Puede ser pre
 - Museo Nacional de Historia Natural (Santiago, Chile)
 - Museo de Historia Natural (Lima, Perú)
 - Visitas guiadas con colecciones de mamíferos taxidermizados
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
-

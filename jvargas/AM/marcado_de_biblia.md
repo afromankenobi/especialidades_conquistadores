@@ -1,23 +1,12 @@
 ---
-layout: default
+layout: especialidad
 title: Marcado de Biblia
+area: Actividades Misioneras y Comunitarias
+area_codigo: MC
+codigo: AM-018
+nivel: 1
+institucion_origen: División del Pacífico Sur
 ---
-
-# Marcado de Biblia
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Misioneras y Comunitarias
-**Código:** AM-018
-**Nivel:** 1
-**Año de creación:** No especificado
-**Institución de origen:** División del Pacífico Sur
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -596,12 +585,3 @@ Muestra tu Biblia con:
 - YouTube: "Cómo marcar la Biblia"
 - Tutoriales de coloquios bíblicos
 - Demostraciones de pastores
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

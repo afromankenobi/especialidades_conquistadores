@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Arte de Acampar
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-001
+nivel: 1
+ano_creacion: 1929
+institucion_origen: Asociación General
 ---
-
-# Arte de Acampar
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-001
-**Nivel:** 1
-**Año de creación:** 1929
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -840,12 +830,3 @@ Al seguir este código, honramos a Dios, respetamos a otros, y preservamos la na
   - Mapas offline (Maps.me, Gaia GPS)
   - Identificación de plantas (PlantNet)
   - Primeros auxilios (Cruz Roja)
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

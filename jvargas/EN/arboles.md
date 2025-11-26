@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Árboles
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-006
+nivel: 1
+ano_creacion: 1928
+institucion_origen: Asociación General
 ---
-
-# Árboles
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza (EN)
-**Código:** EN-006
-**Nivel:** 1
-**Año de creación:** 1928
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1024,12 +1014,3 @@ El manual GO! Árboles I proporciona:
 - Información sobre diferencias entre árboles y arbustos
 - Explicación sobre el origen de nombres de árboles
 - Plantillas para completar el herbario
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

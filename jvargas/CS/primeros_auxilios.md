@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Primeros Auxilios
+area: Ciencia y Salud
+area_codigo: CS
+codigo: CS-001
+nivel: 1
+ano_creacion: 1938
+institucion_origen: Asociación General
 ---
-
-# Primeros Auxilios
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Ciencia y Salud
-**Código:** CS-001
-**Nivel:** 1
-**Año de creación:** 1938
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1827,12 +1817,3 @@ Tratamiento:
 - OMS - Primeros Auxilios: www.who.int
 - Mayo Clinic - Primeros auxilios: mayoclinic.org
 - Medline Plus (español): medlineplus.gov/spanish
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

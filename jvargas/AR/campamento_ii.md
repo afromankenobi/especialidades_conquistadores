@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Campamento II
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-050
+nivel: 2
+ano_creacion: 1986
+institucion_origen: Asociación General
 ---
-
-# Campamento II
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-050
-**Nivel:** 2
-**Año de creación:** 1986
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -2023,12 +2013,3 @@ Debes demostrar estas tres técnicas durante el campamento.
   - lnt.org - Leave No Trace
   - Conquistadores.org.ar
   - Meteorología local
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

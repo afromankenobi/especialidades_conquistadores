@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Goma EVA (Foami)
+area: Artes y Actividades Manuales
+area_codigo: AM
+codigo: AM-078
+nivel: 1
+ano_creacion: 2012
+institucion_origen: División Sudamericana
 ---
-
-# Goma EVA (Foami)
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Artes y Actividades Manuales
-**Código:** AM-078
-**Nivel:** 1
-**Año de creación:** 2012
-**Institución de origen:** División Sudamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -460,12 +450,3 @@ Debes crear UNO de los siguientes proyectos combinando goma EVA con materiales r
 - Pistola de silicona: $3-5 USD
 - Barras de silicona (10 unidades): $2-3 USD
 - **Total:** $10-18 USD aproximadamente
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

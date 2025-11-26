@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Fútbol
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-064
+nivel: 1
+ano_creacion: 1999
+institucion_origen: División Norteamericana
 ---
-
-# Fútbol
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-064
-**Nivel:** 1
-**Año de creación:** 1999
-**Institución de origen:** División Norteamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1184,12 +1174,3 @@ Conversación seria con líder sobre desafíos de jóvenes adventistas en deport
   - FIFA Official
   - Entrenamiento de fútbol
   - Ejercicios técnicos
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

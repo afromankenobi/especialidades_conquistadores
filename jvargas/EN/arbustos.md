@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Arbustos
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-019
+nivel: 1
+ano_creacion: 1945
+institucion_origen: Asociación General
 ---
-
-# Arbustos
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-019
-**Nivel:** 1
-**Año de creación:** 1945
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -479,12 +469,3 @@ Debes recolectar, prensar, montar y etiquetar personalmente los 10 especímenes 
 - **PlantNet** - Identificación por fotos
 - **iNaturalist** - Registro y comunidad
 - **PictureThis** - Identificación rápida
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

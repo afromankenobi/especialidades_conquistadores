@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Temperancia
+area: Actividades Misioneras y Comunitarias
+area_codigo: MC
+codigo: AM-012
+nivel: 1
+ano_creacion: 1976
+institucion_origen: Asociación General
 ---
-
-# Temperancia
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Misioneras y Comunitarias
-**Código:** AM-012
-**Nivel:** 1
-**Año de creación:** 1976
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -144,12 +134,3 @@ f) Amigo ebrio insiste en conducir
 - Libros de Elena G. White: *La temperancia*, *Consejos sobre salud*, *Ministerio médico*
 - OMS - Alcohol y drogas
 - Ministerios de Salud nacionales
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

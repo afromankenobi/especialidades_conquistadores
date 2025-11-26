@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Reptiles
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-011
+nivel: 1
+ano_creacion: 1937
+institucion_origen: Asociación General
 ---
-
-# Reptiles
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-011
-**Nivel:** 1
-**Año de creación:** 1937
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 **NOTA:** Los requisitos en el manual DSA aparecen en portugués. Aquí se presentan traducidos al español.
 
@@ -993,12 +983,3 @@ Así como los israelitas debían MIRAR a la serpiente de bronce para ser salvos 
 **Videos:**
 - Documentales de National Geographic sobre reptiles
 - "72 Dangerous Animals: Latin America" (Netflix)
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

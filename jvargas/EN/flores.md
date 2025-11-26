@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Flores
+area: Estudio de la Naturaleza
+area_codigo: EN
+codigo: EN-005
+nivel: 2
+ano_creacion: 1928
+institucion_origen: Asociación General
 ---
-
-# Flores
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Estudio de la Naturaleza
-**Código:** EN-005
-**Nivel:** 2
-**Año de creación:** 1928
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1161,12 +1151,3 @@ Debes realizar personalmente las dos actividades que elijas. Documenta con fotos
 - Visita jardines botánicos locales para ver colecciones etiquetadas
 - Muchos ofrecen talleres de identificación de flores
 - Herbariosde universidades (para ver especímenes preservados)
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

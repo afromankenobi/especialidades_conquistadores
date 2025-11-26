@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Globos Aerostáticos
+area: Artes y Actividades Manuales
+area_codigo: AM
+codigo: AM-074
+nivel: 2
+ano_creacion: 2008
+institucion_origen: División Norteamericana
 ---
-
-# Globos Aerostáticos
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Artes y Actividades Manuales
-**Código:** AM-074
-**Nivel:** 2
-**Año de creación:** 2008
-**Institución de origen:** División Norteamericana
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1781,12 +1771,3 @@ Gajo individual:
 - Construir modelos a escala
 - Experimentar con diferentes materiales
 - Competencias de tiempo de vuelo
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>

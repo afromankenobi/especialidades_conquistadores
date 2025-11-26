@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: especialidad
 title: Vida silvestre
+area: Actividades Recreativas
+area_codigo: AR
+codigo: AR-024
+nivel: 2
+ano_creacion: 1956
+institucion_origen: Asociación General
 ---
-
-# Vida silvestre
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-024
-**Nivel:** 2
-**Año de creación:** 1956
-**Institución de origen:** Asociación General
-
----
-
-</div>
 
 ## 📋 Requisitos
 
@@ -1192,12 +1182,3 @@ Tu cuerpo es tu recurso #1. Si enfermas o te lesionas gravemente, tus probabilid
 - **PlantNet** - Identificar plantas
 - **First Aid** - Guía primeros auxilios
 - **SAS Survival Guide** - Manual completo
-
----
-
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
