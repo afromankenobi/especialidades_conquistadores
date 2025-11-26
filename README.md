@@ -1,4 +1,4 @@
-# Manual de Especialidades - Club de Conquistadores
+# Guías para resolver especialidades
 
 <div align="center">
 
