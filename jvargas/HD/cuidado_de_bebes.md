@@ -13,44 +13,7 @@ institucion_origen: División Intereuropea
 
 ### 1. Cuidar un bebé durante cinco horas o más, tres veces por semana
 
-**[PRÁCTICA REQUERIDA]**
-
-Debes cuidar a un bebé real durante al menos **15 horas totales** distribuidas en **tres sesiones diferentes** de mínimo 5 horas cada una.
-
-**¿Qué implica "cuidar"?**
-
-- Supervisar constantemente su seguridad
-- Atender su llanto y necesidades
-- Alimentarlo cuando corresponda
-- Cambiar pañales cuando sea necesario
-- Entretenerlo y jugar apropiadamente
-- Mantenerlo limpio y cómodo
-- Comunicarse con los padres sobre su estado
-
-**Bebés apropiados para esta especialidad:**
-
-- **Edad ideal:** 6 meses a 2 años
-- Puede ser un hermano menor, primo, hijo de vecinos, o bebé de la iglesia
-- Requiere autorización escrita de los padres
-- Preferiblemente con padres cerca en las primeras sesiones
-
-**Registro requerido:**
-
-Llevar un diario con:
-- Fecha y horario de cuidado
-- Edad del bebé
-- Actividades realizadas
-- Situaciones enfrentadas
-- Firma de los padres confirmando el cuidado
-
-**Consejos importantes:**
-
-- **Nunca dejar al bebé solo** ni siquiera por un minuto
-- Mantener número de emergencia de los padres a mano
-- Saber dónde están pañales, ropa, comida y medicinas
-- Apagar celular o ponerlo en silencio (excepto para emergencias)
-- Lavarse manos antes de tocar al bebé o preparar alimentos
-- Tener paciencia: los bebés lloran, es normal
+Tengo 4 hijos. La mayor tiene 18, el menor 3 años.
 
 ---
 
@@ -74,7 +37,7 @@ Llevar un diario con:
 - ❌ Clara de huevo cruda
 - ❌ Pescados o mariscos (algunos pediatras recomiendan esperar)
 - ❌ Chocolate
-- ❌ Fresas (pueden causar alergias)
+- ❌ Frutillas (pueden causar alergias)
 
 **Por daño a la salud:**
 - ❌ Sal añadida (sus riñones no la procesan bien)
@@ -114,17 +77,15 @@ Llevar un diario con:
    - Huevos completamente cocidos
    - Verduras cocidas hasta que estén blandas
 
-**[PRÁCTICA REQUERIDA]**
-
 **Preparar y dar una comida a un bebé:**
 
-**Receta sugerida: Papilla de verduras (9-12 meses)**
+**Receta: Papilla de verduras (9-12 meses)**
 
 Ingredientes:
 - 1 papa pequeña
 - 1 zanahoria pequeña
 - 2 cucharadas de zapallo/calabaza
-- 1 cucharadita de aceite de oliva
+- 1 cucharadita de aceite.
 - Agua hervida
 
 Preparación:
@@ -151,8 +112,6 @@ Preparación:
 ---
 
 ### 3. Preparar el baño, bañarlo, cambiar el pañal y vestirlo
-
-**[PRÁCTICA REQUERIDA]**
 
 **PREPARAR EL BAÑO:**
 
@@ -264,8 +223,6 @@ Preparación:
 
 ### 4. Preparar la cuna del bebé y ponerlo a dormir en la noche
 
-**[PRÁCTICA REQUERIDA]**
-
 **PREPARAR LA CUNA SEGURA:**
 
 **Cuna apropiada:**
@@ -301,9 +258,9 @@ Preparación:
    - Beso de buenas noches
 
 3. **Posición para dormir:**
-   - ✅ **BOCA ARRIBA** (sobre la espalda)
-   - ❌ NUNCA boca abajo (riesgo de muerte súbita)
-   - ❌ NUNCA de costado (puede darse vuelta)
+   - **BOCA ARRIBA** (sobre la espalda)
+   - NUNCA boca abajo (riesgo de muerte súbita)
+   - NUNCA de costado (puede darse vuelta)
    - Cabeza alternando lado (evitar aplanamiento)
 
 4. **Poner en la cuna:**
@@ -335,17 +292,15 @@ Preparación:
 - **1-2 años:** 11-14 horas (1-2 siestas diarias)
 
 **LO QUE NO SE DEBE HACER:**
-- ❌ Acostar con biberón en la boca
-- ❌ Dejar llorar por horas sin atender
-- ❌ Dormir con el bebé en cama de adultos (riesgo de asfixia)
-- ❌ Usar mantas pesadas o almohadas
-- ❌ Abrigarlo excesivamente
+- Acostar con biberón en la boca
+- Dejar llorar por horas sin atender
+- Dormir con el bebé en cama de adultos (riesgo de asfixia)
+- Usar mantas pesadas o almohadas
+- Abrigarlo excesivamente
 
 ---
 
 ### 5. ¿Cuál es el peso normal de un bebé al nacer? ¿Cuál es el peso esperado a los 6 y 12 meses? Ver la curva de crecimiento (o del bebé a cuidar), y comparar con los valores esperados en la tabla de crecimiento. ¿Qué se debe hacer para que un bebé tenga un crecimiento adecuado?
-
-**Respuesta:**
 
 **PESO NORMAL AL NACER:**
 
@@ -378,15 +333,9 @@ Preparación:
 | 9 meses | 7.5-9.5 | 68-73 |
 | 12 meses | 8.5-10.5 | 71-78 |
 
-**[PRÁCTICA REQUERIDA]**
-
 **Ver curva de crecimiento del bebé:**
 
-1. Pedir a los padres el carnet de salud o tarjeta de control
-2. Ubicar la gráfica de peso/talla
-3. Verificar que las mediciones estén en la curva entre percentiles 3 y 97
-4. Observar que la línea de crecimiento sea ascendente y estable
-5. Comparar con los valores de la tabla
+Vista en control sano de todos los hijos.
 
 **¿QUÉ SE DEBE HACER PARA UN CRECIMIENTO ADECUADO?**
 
@@ -440,17 +389,16 @@ Preparación:
 - Agua segura
 
 **SEÑALES DE ALERTA:**
-- ⚠️ Pérdida de peso
-- ⚠️ Estancamiento en crecimiento por 2 meses
-- ⚠️ Caída fuera de percentiles normales
-- ⚠️ Rechazo constante de alimentos
-- → CONSULTAR PEDIATRA INMEDIATAMENTE
+-  Pérdida de peso
+-  Estancamiento en crecimiento por 2 meses
+-  Caída fuera de percentiles normales
+-  Rechazo constante de alimentos
+
+**CONSULTAR PEDIATRA INMEDIATAMENTE**
 
 ---
 
 ### 6. Explicar por qué los biberones y los chupetes deben ser evitados
-
-**Respuesta:**
 
 **POR QUÉ EVITAR O LIMITAR BIBERONES:**
 
@@ -474,14 +422,14 @@ Preparación:
 
 **4. Dependencia:**
 - Difícil de quitar después del año
-- El niño lo asocia con consuelo
+- El niño lo asocia con consuelo / Estimula el sistema de recompensas del cerebro
 - Puede interferir con alimentación sólida
 
 **5. Higiene:**
 - Requieren limpieza y esterilización constante
 - Si no se limpian bien, acumulan bacterias
 
-**POR QUÉ EVITAR O LIMITAR CHUPETES (CHUPONES):**
+**Por qué evitar o limitar chupetes (chupones):**
 
 **DESVENTAJAS:**
 
@@ -548,8 +496,6 @@ Preparación:
 
 ### 7. ¿Cuánto tiempo un bebé debe alimentarse exclusivamente de la leche materna? ¿Qué es el destete?
 
-**Respuesta:**
-
 **LACTANCIA MATERNA EXCLUSIVA:**
 
 Según la **Organización Mundial de la Salud (OMS)** y **UNICEF**:
@@ -557,12 +503,12 @@ Según la **Organización Mundial de la Salud (OMS)** y **UNICEF**:
 **Los primeros 6 MESES de vida, el bebé debe alimentarse EXCLUSIVAMENTE con leche materna**
 
 **"Exclusivamente" significa:**
-- ❌ SIN agua
-- ❌ SIN jugos
-- ❌ SIN té o infusiones
-- ❌ SIN fórmula
-- ❌ SIN alimentos sólidos
-- ✅ SOLO leche materna
+- SIN agua
+- SIN jugos
+- SIN té o infusiones
+- SIN fórmula
+- SIN alimentos sólidos
+- SOLO leche materna
 
 **¿Por qué 6 meses?**
 
@@ -580,7 +526,7 @@ Según la **Organización Mundial de la Salud (OMS)** y **UNICEF**:
 **DESPUÉS DE LOS 6 MESES:**
 
 - **Continuar** lactancia materna
-- **Agregar** alimentos complementarios (papillas, purés, etc.)
+- **Agregar** alimentos complementarios (papillas, purés, etc.) **LENTAMENTE**
 - Mantener lactancia hasta los 2 años o más si madre e hijo desean
 
 **CALENDARIO DE ALIMENTACIÓN:**
@@ -671,8 +617,6 @@ Según la **Organización Mundial de la Salud (OMS)** y **UNICEF**:
 
 ### 8. ¿Qué es la mollera? ¿Alrededor de qué edad desaparece?
 
-**Respuesta:**
-
 **¿QUÉ ES LA MOLLERA?**
 
 La **mollera** (también llamada **fontanela**) es un espacio blando en la cabeza del bebé donde los huesos del cráneo todavía no se han unido completamente.
@@ -726,27 +670,27 @@ La **mollera** (también llamada **fontanela**) es un espacio blando en la cabez
 
 **CUIDADOS DE LA MOLLERA:**
 
-**✅ SÍ SE PUEDE:**
+**SÍ SE PUEDE:**
 - Tocar suavemente
 - Lavar normalmente durante el baño
 - Peinar con cuidado
 - Secar después del baño
 
-**❌ EVITAR:**
+**EVITAR:**
 - Golpes fuertes en la cabeza
 - Presión excesiva
 - Preocupación excesiva (es resistente)
 
 **MITOS SOBRE LA MOLLERA:**
 
-**❌ FALSO:** "No se puede tocar la mollera o le hace daño"
-- ✅ VERDAD: Está protegida por membrana resistente, se puede tocar con normalidad
+**FALSO:** "No se puede tocar la mollera o le hace daño"
+- VERDAD: Está protegida por membrana resistente, se puede tocar con normalidad
 
-**❌ FALSO:** "La mollera 'caída' o 'hundida' se arregla colgando al bebé de los pies"
-- ✅ VERDAD: Mollera hundida indica deshidratación – LLEVAR AL MÉDICO
+**FALSO:** "La mollera 'caída' o 'hundida' se arregla colgando al bebé de los pies"
+- VERDAD: Mollera hundida indica deshidratación – LLEVAR AL MÉDICO
 
-**❌ FALSO:** "Si late muy fuerte es malo"
-- ✅ VERDAD: Es normal ver y sentir el pulso
+**FALSO:** "Si late muy fuerte es malo"
+- VERDAD: Es normal ver y sentir el pulso
 
 **SEÑALES DE ALERTA (consultar médico):**
 
@@ -785,78 +729,98 @@ La **mollera** (también llamada **fontanela**) es un espacio blando en la cabez
 
 ### 9. Entrevistar a trabajadores de una guardería y preguntar sobre el trabajo que realizan y qué ayuda ofrecen a las madres
 
-**[PRÁCTICA REQUERIDA]**
 
-Debes visitar una guardería (jardín infantil, sala cuna, o centro de cuidado diurno) y entrevistar al personal.
+**Entrevista a una profesional del cuidado infantil**
 
-**PREPARACIÓN:**
+---
 
-1. **Ubicar guarderías cercanas:**
-   - Jardines infantiles públicos
-   - Guarderías privadas
-   - Salas cuna de hospitales o empresas
-   - Centros comunitarios
+## **1. Datos básicos del jardín infantil**
 
-2. **Solicitar cita:**
-   - Llamar con anticipación
-   - Explicar que es para especialidad de Conquistadores
-   - Elegir horario que no interrumpa actividades con niños
+**Nombre:** Jardín Infantil Ochagavía – JUNJI
+**Dirección:** José Joaquín Prieto 6075, Pedro Aguirre Cerda, Santiago
+**Código JUNJI:** 13121017
+**Tipo:** Jardín Infantil y Sala Cuna, administración JUNJI
+**Horario:** 08:30 a 16:30 hrs (con extensión autorizada hasta las 17:00)
 
-3. **Preparar preguntas:**
-   - Llevar cuaderno y lápiz
-   - Lista de preguntas impresas
+---
 
-**PREGUNTAS SUGERIDAS:**
+## **2. Datos de la entrevistada**
 
-**Sobre el trabajo:**
-1. ¿Cuántos años de experiencia tiene trabajando con bebés/niños?
-2. ¿Qué formación o estudios se necesitan para trabajar aquí?
-3. ¿Cuántos niños cuida por día? ¿Qué edades?
-4. ¿Cuál es un día típico en la guardería?
-5. ¿Qué actividades realizan con los bebés?
-6. ¿Cuál es la parte más difícil de su trabajo?
-7. ¿Cuál es la parte más gratificante?
-8. ¿Qué protocolos de seguridad siguen?
-9. ¿Cómo manejan emergencias?
-10. ¿Qué consejo daría a alguien que quiere cuidar bebés?
+**Nombre:** Tía Yessenia
+**Cargo:** Educadora de Párvulos – Líder del nivel Medio Menor (3 años)
+**Experiencia:** 15 años trabajando con bebés y niños pequeños.
 
-**Sobre la ayuda a las madres:**
-11. ¿Qué servicios ofrecen a las familias?
-12. ¿Qué horarios tienen? ¿Son flexibles?
-13. ¿Cómo se comunican con los padres sobre el día del niño?
-14. ¿Ofrecen orientación o consejería a los padres?
-15. ¿Qué apoyo dan a madres primerizas?
-16. ¿Tienen programas especiales (lactancia, estimulación, etc.)?
-17. ¿Cómo ayudan en la transición del bebé al cuidado fuera de casa?
-18. ¿Qué requisitos piden a los padres (vacunas, documentos)?
+---
 
-**DESPUÉS DE LA ENTREVISTA:**
+## **3. Resumen de la entrevista**
 
-1. **Escribir informe** que incluya:
-   - Nombre y ubicación de la guardería
-   - Nombre del entrevistado y cargo
-   - Resumen de respuestas
-   - Tus impresiones y aprendizajes
-   - Fotos (con permiso)
+### **Formación y trabajo**
 
-2. **Presentar al instructor:**
-   - Informe escrito (1-2 páginas)
-   - Presentación oral breve
+* La tía Yessenia es **Educadora de Párvulos**, profesión requerida para el rol que cumple.
+* El jardín incluye distintos equipos: técnicas en párvulos, profesionales, tías de aseo y personal de cocina.
 
-**ASPECTOS A OBSERVAR:**
+### **Cantidad de niños y edades**
 
-- ✓ Limpieza e higiene del lugar
-- ✓ Seguridad (protecciones, salidas, botiquín)
-- ✓ Ambiente acogedor y estimulante
-- ✓ Relación del personal con los niños
-- ✓ Organización del espacio
-- ✓ Materiales y juguetes apropiados
+* Es educadora líder del nivel **Medio Menor (3 años)**.
+* Trabajan en ciclos de dos años con cada grupo, así que acompañará a mi hijo Emanuel este año y el próximo.
+
+### **Rutina diaria del jardín**
+
+* **08:30:** llegada y desayuno
+* Actividades **exploratorias** (cuentos, música, teatro, experiencias Montessori)
+* **Recreo y juegos al aire libre**
+* **12:00:** almuerzo
+* **13:00–14:30:** siesta
+* Actividades de **experimentación y juego libre guiado**
+* **16:00:** once
+* **16:30:** salida oficial
+
+### **Actividades para el desarrollo del niño**
+
+* Juego con harina, exploración sensorial, traslado de objetos con cucharas, búsqueda de tesoros naturales, observación de plantas, picnics, manipulación de piezas de computadora u objetos reutilizados para experiencias.
+
+### **Aspectos difíciles y gratificantes del trabajo**
+
+* **Más difícil:** la relación con algunos padres.
+* **Más gratificante:** que los niños se sientan seguros, queridos y expresen cariño.
+
+### **Seguridad**
+
+* Siguen los **protocolos oficiales JUNJI** para protección, higiene y control de acceso.
+
+### **Consejo para cuidar bebés**
+
+> *“Paciencia, mucha paciencia no más.”*
+
+---
+
+## **4. Apoyo a las familias**
+
+* El jardín contribuye a la **conciliación laboral**, permitiendo que las madres trabajen.
+* Comunicación diaria mediante **libreta de comunicaciones**.
+* Realizan **talleres de formación para padres** con Fundación Santa Rosa.
+* No poseen programas especiales (como lactancia o estimulación formal), pero cuidan la **transición emocional** dando un ambiente alegre, de juego y afecto.
+* Requisitos: **vacunas al día** y documentos legales del apoderado/tutor.
+
+---
+
+## **5. Impresiones personales y aprendizajes**
+
+El Jardín Infantil Ochagavía me sorprendió por su **entorno acogedor**, la infraestructura adecuada y, sobre todo, su enfoque **experiencial y autosuficiente**, donde los niños aprenden explorando el mundo real.
+
+Pude ver que la tía Yessenia ama lo que hace; transmite cariño, seguridad y un trato respetuoso. Esto refuerza la importancia del **afecto, rutina, exploración y paciencia**, pilares del desarrollo infantil temprano, que también están alineados con los principios de cuidado que valoramos en Conquistadores (desarrollo físico, mental, social y espiritual – *Manual Administrativo* DSA, cap. 1) .
+
+Aprendí que un buen cuidado no depende solo de actividades bonitas, sino de crear **un lugar donde el niño quiere estar**, donde se siente amado, seguro y respetado.
+
+---
+
+## **6. Fotografías**
+
+*(Aquí solo debe insertar 2–4 fotos tomadas con permiso del establecimiento y de la educadora.)*
 
 ---
 
 ### 10. Conocer el certificado de nacimiento entregado en tu país, y saber cuáles son los datos básicos que aparecen allí
-
-**Respuesta:**
 
 El **certificado (o partida) de nacimiento** es el documento oficial que registra el nacimiento de una persona y es fundamental para la identidad legal.
 
@@ -895,50 +859,11 @@ El **certificado (o partida) de nacimiento** es el documento oficial que registr
 21. **Sello oficial**
 22. **Folio y tomo:** Números de archivo
 
-**[PRÁCTICA REQUERIDA]**
-
-**Actividad a realizar:**
-
-1. **Solicita una copia de tu propio certificado de nacimiento:**
-   - Pide a tus padres que te muestren el original
-   - O solicita una copia certificada en el Registro Civil
-   - Observa todos los datos que contiene
-
-2. **Compara con el formato de tu país:**
-   - Busca en internet el formato oficial
-   - Identifica similitudes y diferencias
-   - Verifica qué datos adicionales puede tener
-
-3. **Investiga:**
-   - ¿Cuánto tiempo tienen los padres para registrar al bebé?
-   - ¿Qué documentos se necesitan para registrar un nacimiento?
-   - ¿Hay multa por registro tardío?
-   - ¿Dónde se hace el registro?
-
-**IMPORTANCIA DEL CERTIFICADO:**
-
-El certificado de nacimiento es necesario para:
-- ✓ Obtener documento de identidad
-- ✓ Inscribirse en la escuela
-- ✓ Acceder a servicios de salud
-- ✓ Tramitar pasaporte
-- ✓ Casarse (en el futuro)
-- ✓ Herencias
-- ✓ Cualquier trámite legal
-
-**PAÍSES Y SUS PARTICULARIDADES:**
-
-Cada país tiene su formato, pero los datos esenciales son similares. Algunos incluyen:
-- Huella del pie del bebé
-- Número de seguridad social
-- Grupo sanguíneo
-- Nombre del médico que atendió el parto
+!["Nacimiento"](../../assets/especialidades/cuidado_de_bebes/cert_nat.png)
 
 ---
 
 ### 11. Conocer el calendario de vacunación básico. ¿Qué vacunas son necesarias o exigidas? ¿Qué enfermedades previenen? ¿Cuándo deben ser administradas? Comprobar la tarjeta de vacunación del bebé a cuidar. En caso de estar incompleta, informar a la madre del bebé, ayudarle a buscar un centro de salud y a ponerse al día en los controles
-
-**Respuesta:**
 
 **IMPORTANCIA DE LAS VACUNAS:**
 
@@ -1201,30 +1126,3 @@ Con bebés, SIEMPRE es mejor llamar si hay duda. Especialmente:
 - Consuela al bebé con voz suave
 - No des medicamentos sin indicación
 - No muevas al bebé si hubo caída o golpe (excepto si es necesario para salvar vida)
-
----
-
-## 📚 Referencias y recursos adicionales
-
-**Sitios web confiables:**
-- OMS (Organización Mundial de la Salud): who.int
-- UNICEF: unicef.org
-- Academia Americana de Pediatría: healthychildren.org
-- Ministerio de Salud de tu país
-
-**Libros recomendados:**
-- "El Cuidado del Bebé y el Niño Pequeño" - American Academy of Pediatrics
-- "Qué Esperar el Primer Año" - Heidi Murkoff
-- "Tu Bebé Semana a Semana" - Simone Cave
-
-**Videos educativos:**
-- Canales de pediatría en YouTube
-- Videos de lactancia materna (OMS)
-- Tutoriales de cambio de pañal y baño
-- Primeros auxilios infantiles (Cruz Roja)
-
-**Cursos recomendados:**
-- Primeros auxilios pediátricos (Cruz Roja)
-- RCP infantil
-- Cursos de puericultura
-- Talleres para cuidadores
