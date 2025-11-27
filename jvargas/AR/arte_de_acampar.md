@@ -9,7 +9,7 @@ ano_creacion: 1929
 institucion_origen: Asociación General
 ---
 
-!["AR-001"](https://wiki.pathfindersonline.org/w/File:Camp_Craft_AY_Honor.png)
+!["AR-001"](https://wiki.pathfindersonline.org/images/3/3b/Camp_Craft_AY_Honor.png)
 
 ## 📋 Requisitos
 
