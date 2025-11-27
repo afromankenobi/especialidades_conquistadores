@@ -27,23 +27,21 @@ Este es un requisito de edad. Debes tener al menos 11 años cumplidos para compl
 
 ### 2. Desarrollar una filosofía personal de buen comportamiento en los campamentos. La filosofía debe abarcar la cortesía con los demás campistas y la preservación de la naturaleza
 
-**Respuesta:**
-
 Una filosofía personal es tu conjunto de principios y valores que guían tus acciones. Debe ser escrita y practicada.
-
-**EJEMPLO DE FILOSOFÍA PERSONAL DE CAMPAMENTO:**
 
 **MI COMPROMISO COMO CAMPISTA:**
 
 **Con Dios:**
+
 - Reconozco que la naturaleza es creación de Dios
 - Buscaré conocerlo mejor a través de Su creación
 - Guardaré el sábado con reverencia incluso en campamento
 - Compartiré lecciones espirituales con otros
 
 **Con otros campistas:**
+
 - Seré cortés y respetuoso con todos
-- Ayudaré sin que me lo pidan
+- Tomaré la iniciativa.
 - Compartiré mis recursos generosamente
 - Respetaré el descanso de otros (sin ruidos innecesarios)
 - Incluiré a todos en actividades
@@ -51,6 +49,7 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 - Reconoceré el trabajo de los líderes y compañeros
 
 **Con la naturaleza:**
+
 - No dejaré rastro de mi presencia
 - Llevaré toda mi basura conmigo
 - No dañaré plantas ni animales innecesariamente
@@ -59,35 +58,16 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 - Enseñaré a otros sobre conservación
 
 **Con mi seguridad:**
+
 - Seguiré todas las reglas de seguridad
 - Usaré herramientas correctamente
 - Informaré de peligros a los líderes
 - Usaré sistema de compañeros siempre
 - Estaré preparado para emergencias
 
-**CÓMO DESARROLLAR TU PROPIA FILOSOFÍA:**
+**Notas importantes*
 
-1. **Reflexiona:**
-   - ¿Qué es importante para ti en campamento?
-   - ¿Qué principios guían tus acciones?
-   - ¿Qué tipo de campista quieres ser?
-
-2. **Escribe:**
-   - Usa tus propias palabras
-   - Sé específico y práctico
-   - Incluye compromisos medibles
-
-3. **Revisa:**
-   - Comparte con tu consejero
-   - Ajusta según feedback
-   - Asegúrate que sea realista
-
-4. **Practica:**
-   - Lleva tu filosofía al campamento
-   - Evalúate después de cada campamento
-   - Mejora basándote en experiencia
-
-**CORTESÍA CON OTROS CAMPISTAS:**
+*CORTESÍA CON OTROS CAMPISTAS:*
 
 - "Por favor" y "gracias" siempre
 - Ofrece ayuda proactivamente
@@ -98,7 +78,7 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 - Escucha activamente
 - Anima, no critiques
 
-**PRESERVACIÓN DE LA NATURALEZA:**
+*PRESERVACIÓN DE LA NATURALEZA:*
 
 - Principios "No Dejar Rastro"
 - Minimiza impacto en cada acción
@@ -113,20 +93,21 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 
 **a) Viento**
 
-**Respuesta:**
-
 **Por qué importa:**
+
 - Viento fuerte puede derribar carpas
 - Enfría el cuerpo (sensación térmica)
 - Dificulta fogatas y cocina
 - Puede llevar chispas (peligro de incendio)
 
 **Cómo evaluar:**
+
 - Observa movimiento de árboles y hojas
 - Siente dirección predominante del viento
 - Pregunta a locales sobre patrones de viento
 
 **Qué buscar:**
+
 - **Protección natural:** Detrás de árboles, rocas grandes, colinas
 - **No demasiado cerrado:** Necesitas algo de ventilación
 - **Evitar:** Crestas de colinas (mucho viento), valles estrechos (viento canalizado)
@@ -138,32 +119,35 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 
 **b) Agua**
 
-**Respuesta:**
-
 **Por qué importa:**
+
 - Necesitas agua para beber, cocinar, limpiar
 - Fuentes de agua influyen en vida silvestre
 - Riesgo de inundaciones
 - Higiene y salud del grupo
 
 **Distancia ideal:**
+
 - **Cerca pero no demasiado:** 60-90 metros (200-300 pies)
 - Suficientemente cerca para acceso fácil
 - Suficientemente lejos para proteger fuente y campamento
 
 **Qué buscar:**
+
 - Agua corriente (más limpia que estancada)
 - Sin contaminación visible aguas arriba
 - Acceso seguro (sin resbalones o caídas)
 - Caudal estable (no inundable)
 
 **Qué evitar:**
+
 - Lechos secos de río (pueden llenarse súbitamente con lluvia aguas arriba)
 - Inmediatamente al lado de agua (mosquitos, inundación)
 - Aguas abajo de caminos o poblados (contaminación)
 - Zonas pantanosas (humedad excesiva, mosquitos)
 
 **Consideraciones adicionales:**
+
 - ¿Es agua potable? Si no, ¿cómo la purificarás?
 - ¿Hay suficiente para todo el grupo durante toda la estadía?
 - ¿Dónde lavarás platos? (lejos de donde tomas agua)
@@ -173,12 +157,14 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 **Respuesta:**
 
 **Por qué importa:**
+
 - Seguridad del grupo
 - Protección de tu comida
 - Respeto por hábitats animales
 - Prevenir encuentros peligrosos
 
 **Señales de vida silvestre:**
+
 - Huellas y excrementos
 - Madrigueras y nidos
 - Senderos de animales
@@ -186,7 +172,8 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 - Sonidos (especialmente al amanecer/atardecer)
 
 **Qué evitar:**
-- Senderos de animales grandes (ciervo, oso, etc.)
+
+- Senderos de animales grandes (ciervo, zorro, vacas, caballos, etc.)
 - Cerca de madrigueras o guaridas
 - Áreas con muchas huellas frescas
 - Panales de abejas/avispas
@@ -195,30 +182,26 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 
 **Consideraciones por tipo de animal:**
 
-**Osos (si hay en la zona):**
-- Acampa lejos de fuentes de comida natural (bayas, salmón)
-- Sistema de triángulo: dormir - cocinar - guardar comida (50m entre cada uno)
-- Contenedores a prueba de osos si están disponibles
+**Zorros y ratones**
 
-**Serpientes/escorpiones:**
 - Evita áreas rocosas con muchas grietas
 - Sacude ropa y zapatos antes de usar
-- Revisa dentro del saco de dormir
+- Revisa estructura de la carpa, que no esté rota.
 
 **Insectos:**
+
 - Evita agua estancada (mosquitos)
 - Distancia de panales
 - Brisa ayuda a mantener insectos alejados
 
 **Respeto:**
+
 - No acampes directamente en hábitat crítico
 - Observa desde lejos
 - No molestes nidos o madrigueras
 - Si ves animales frecuentemente, considera moverte
 
 **d) Madera**
-
-**Respuesta:**
 
 **Por qué importa:**
 - Necesaria para fogatas (cocina, calor, luz)
@@ -331,9 +314,7 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 
 ### 4. Demostrar habilidad para proteger la naturaleza y la fuente de agua que será utilizada, con medidas de higiene personal y limpieza a la hora de cocinar
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
+Requisito practico
 
 **PROTEGER LA FUENTE DE AGUA:**
 
@@ -459,12 +440,8 @@ Una filosofía personal es tu conjunto de principios y valores que guían tus ac
 
 ### 5. Participar de un campamento de fin de semana, con al menos dos pernoctes
 
-**Respuesta:**
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
 
-**[PRÁCTICA REQUERIDA]**
-Campamento de viernes a domingo (2 noches mínimo).
-
-Este campamento es donde demostrarás todas las habilidades aprendidas en Campamento II.
 
 **PREPARACIÓN:**
 
@@ -810,9 +787,7 @@ Debes demostrar que sabes encender y usar estos equipos con seguridad.
 
 ### 8. Conocer las normas de seguridad en el uso de un hacha o machete. Demostrar la capacidad para cortar leña correctamente
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
 
 **NORMAS DE SEGURIDAD:**
 
@@ -948,11 +923,9 @@ Debes demostrar que sabes encender y usar estos equipos con seguridad.
 
 ### 9. Usando maderas o ramas, construir y conocer el uso del "fuego del consejo" o alguna fogata indígena usada para cocinar. Revisar las normas de seguridad para la construcción de fogatas
 
-**Respuesta:**
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
 
-**[PRÁCTICA REQUERIDA]**
-
-**FUEGO DEL CONSEJO (Council Fire):**
+**FUEGO DEL CONSEJO:**
 
 **Qué es:**
 - Fogata grande para reuniones grupales
@@ -1104,8 +1077,6 @@ Debes demostrar que sabes encender y usar estos equipos con seguridad.
 
 ### 10. Explicar dos formas de mantener frescos los alimentos sin usar equipos eléctricos
 
-**Respuesta:**
-
 **1. MÉTODO DEL HOYO EN LA TIERRA (Ground cooler):**
 
 **Cómo funciona:**
@@ -1232,7 +1203,6 @@ El agua al evaporarse absorbe calor, enfriando el interior.
 
 **CONSEJOS:**
 - Consume primero alimentos más perecederos
-- Mantén carnes separadas de otros alimentos
 - Abre lo menos posible
 - Verifica estado de alimentos antes de comer
 
@@ -1240,9 +1210,7 @@ El agua al evaporarse absorbe calor, enfriando el interior.
 
 ### 11. Conocer y ejecutar dos maneras diferentes para levantar objetos pesados en un campamento
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
 
 **1. PALANCA SIMPLE CON TRONCO:**
 
@@ -1347,10 +1315,7 @@ Cuanto más largo el palo y más cerca el punto de apoyo al objeto, menos fuerza
 
 ### 12. Preparar las comidas cocinando, friendo y asando los alimentos
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar estas tres técnicas durante el campamento.
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh. También en otros campamentos.
 
 **1. COCINAR (hervir/guisar):**
 
@@ -1382,7 +1347,7 @@ Debes demostrar estas tres técnicas durante el campamento.
 6. Escurre
 7. Agrega salsa
 
-**Sopa/guiso:**
+**Sopa:**
 1. Calienta aceite en olla
 2. Sofríe cebolla y ajo
 3. Agrega carne (si usas)
@@ -1399,10 +1364,7 @@ Debes demostrar estas tres técnicas durante el campamento.
 **Comidas apropiadas:**
 - Huevos
 - Papas fritas
-- Carne molida
-- Salchichas
 - Tortillas/arepas
-- Empanadas
 
 **Técnica:**
 
@@ -1414,15 +1376,6 @@ Debes demostrar estas tres técnicas durante el campamento.
 5. Revuelve suavemente con espátula
 6. Cuando estén casi listos (aún húmedos), retira
 7. Continúan cocinándose con calor residual
-
-**Carne/salchichas:**
-1. Calienta sartén bien
-2. Agrega poco aceite
-3. Coloca carne (no amontones)
-4. Deja dorar sin mover (3-4 min)
-5. Voltea
-6. Dora otro lado
-7. Verifica cocción interna (no rosado si es pollo/cerdo)
 
 **Papas fritas:**
 1. Corta papas en palitos
@@ -1436,32 +1389,13 @@ Debes demostrar estas tres técnicas durante el campamento.
 **3. ASAR (en parrilla o directamente al fuego):**
 
 **Comidas apropiadas:**
-- Carnes
-- Salchichas/chorizos
-- Mazorcas
+- Choclo
 - Vegetales (pimientos, cebolla, calabacín)
-- Malvaviscos/S'mores
+- Malvaviscos
 - Pan al palo
+- Tortillas
 
 **Técnica:**
-
-**Carne a la parrilla:**
-1. Prepara buenas brasas (no llamas)
-2. Parrilla limpia y aceitada
-3. Carne a temperatura ambiente (30 min fuera del cooler)
-4. Sazona ambos lados
-5. Coloca en parrilla caliente
-6. Deja sellar sin mover (3-5 min)
-7. Voltea UNA sola vez
-8. Cocina al punto deseado
-9. Retira y deja reposar 5 min
-
-**Salchichas/chorizos:**
-1. Parrilla a calor medio
-2. Coloca salchichas
-3. Gira regularmente para dorar parejo
-4. 8-12 minutos total
-5. Verifica que estén calientes por dentro
 
 **Vegetales:**
 1. Corta piezas grandes
@@ -1505,29 +1439,11 @@ Debes demostrar estas tres técnicas durante el campamento.
 - Cuidado con vapor
 - Ollas estables
 
-**Menú sugerido para demostrar las 3 técnicas:**
-
-**Desayuno:**
-- Huevos revueltos (freír)
-- Salchichas (asar)
-- Avena (cocinar)
-
-**Almuerzo:**
-- Sopa de vegetales (cocinar)
-- Arepas/tortillas (freír)
-
-**Cena:**
-- Arroz (cocinar)
-- Pollo a la parrilla (asar)
-- Vegetales salteados (freír)
-
 ---
 
 ### 13. Demostrar cómo elegir un lugar adecuado para las carpas. Armar correctamente una carpa. ¿Qué precauciones se deben tomar al armar una carpa mojada? Limpiar, secar y guardar una carpa
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
+Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh. También en otros campamentos.
 
 **ELEGIR LUGAR ADECUADO:**
 
@@ -1600,7 +1516,7 @@ Debes demostrar estas tres técnicas durante el campamento.
    - Evita condensación
 
 4. **No cierres completamente:**
-   - Dejamplía ventilación
+   - Deja ventilando
    - Húmedad necesita escapar
 
 5. **Seca cuanto antes:**
@@ -1619,7 +1535,7 @@ Debes demostrar estas tres técnicas durante el campamento.
 1. Sacude para quitar hojas/tierra
 2. Limpia piso con escoba suave o trapo
 3. Limpia estacas y varillas
-4. Retira telarañas
+4. Retira telarañas / Restos de insectos
 
 **En casa después:**
 1. Árma en jardín o área grande
@@ -1643,7 +1559,7 @@ Debes demostrar estas tres técnicas durante el campamento.
 **Proceso:**
 1. Arma completamente
 2. Abre todas las puertas/ventanas
-3. Déjala al sol (pero no por días - UV daña)
+3. Déjala al sol (pero no por días)
 4. Voltea para secar ambos lados
 5. Interior: especialmente el piso
 6. Sobretecho también
@@ -1707,10 +1623,6 @@ Debes demostrar estas tres técnicas durante el campamento.
 ### 14. Para dormir
 
 **a) Demostrar la forma correcta de enrollar una bolsa de dormir o colchoneta para llevar a una excursión**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 
 **ENROLLAR SACO DE DORMIR:**
 
@@ -1994,22 +1906,3 @@ Debes demostrar estas tres técnicas durante el campamento.
 - Saco: extendido o en bolsa grande (no comprimido)
 - Colchoneta: enrollada suelta o extendida
 - Lugar fresco, seco, oscuro
-
----
-
-## 📚 Referencias y recursos adicionales
-
-- **Libros:**
-  - Manual de Campamento Avanzado - Conquistadores DSA
-  - "Guía de Cocina al Aire Libre"
-  - "Leave No Trace" - Principios de conservación
-
-- **Videos:**
-  - Serie Campamento II (YouTube Conquistadores)
-  - Técnicas de fogatas indígenas
-  - Cómo almacenar comida en campamento
-
-- **Sitios web:**
-  - lnt.org - Leave No Trace
-  - Conquistadores.org.ar
-  - Meteorología local

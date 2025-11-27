@@ -34,10 +34,7 @@ Este es un requisito de edad. Debes tener al menos 12 años cumplidos para compl
 
 ### 2. Trabajar por lo menos tres horas en un proyecto de arreglo de la naturaleza, como hacer o despejar un camino
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes participar en un proyecto real de conservación o mejora de un área natural.
+Participar en un proyecto real de conservación o mejora de un área natural.
 
 **TIPOS DE PROYECTOS APROPIADOS:**
 
@@ -135,8 +132,6 @@ Prepara informe breve que incluya:
 
 ### 3. Revisar los seis puntos importantes en la selección de un buen lugar de campamento. Revisar las reglas de seguridad para hacer una fogata
 
-**Respuesta:**
-
 **SEIS PUNTOS PARA SELECCIONAR LUGAR DE CAMPAMENTO:**
 
 **1. TERRENO:**
@@ -221,9 +216,6 @@ Prepara informe breve que incluya:
 
 ### 4. Participar de un campamento de fin de semana, con un mínimo de dos pernoctes
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Campamento de viernes a domingo (2 noches) donde demostrarás las habilidades de Campamento III.
 
 **PROPÓSITO:**
@@ -299,12 +291,9 @@ Durante el campamento se evalúa:
 
 ### 5. Construir las siguientes fogatas y explicar su uso
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes construir físicamente estas tres fogatas y explicar para qué sirve cada una.
 
-**a) FOGATA ESTRELLA (Star Fire)**
+**a) FOGATA ESTRELLA**
 
 <div align="center">
 
@@ -347,7 +336,7 @@ Debes construir físicamente estas tres fogatas y explicar para qué sirve cada 
 - Fácil de controlar intensidad
 - Segura (fuego concentrado en centro pequeño)
 
-**b) FOGATA CAZADOR (Hunter's Fire)**
+**b) FOGATA CAZADOR**
 
 <div align="center">
 
@@ -449,9 +438,6 @@ Debes construir físicamente estas tres fogatas y explicar para qué sirve cada 
 
 ### 6. Conocer seis maneras de encender una fogata sin usar fósforos. Construir una fogata usando uno de los siguientes métodos
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes conocer 6 métodos Y demostrar uno físicamente.
 
 **SEIS MÉTODOS PARA ENCENDER FUEGO SIN FÓSFOROS:**
@@ -643,9 +629,6 @@ Debes conocer 6 métodos Y demostrar uno físicamente.
 
 ### 7. Saber afilar un cuchillo o navaja y un hacha
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes demostrar que sabes afilar ambas herramientas correctamente.
 
 **POR QUÉ AFILAR:**
@@ -785,9 +768,6 @@ Debes demostrar que sabes afilar ambas herramientas correctamente.
 
 ### 8. Cocinar una comida utilizando alimentos frescos o secos durante el campamento
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes preparar una comida completa usando alimentos frescos O deshidratados.
 
 **OPCIÓN 1: ALIMENTOS FRESCOS**
@@ -812,143 +792,25 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 - Jugo de naranja
 
 **Almuerzo:**
-- Sándwiches (pan, jamón, queso, vegetales frescos)
+- Sándwiches (pan, queso, vegetales frescos)
 - Zanahorias y pepinos crudos
 - Galletas
 - Fruta
 
 **Cena:**
-- Pollo a la parrilla (fresco, bien refrigerado)
-- Arroz
+- Arroz con carne de soya.
 - Ensalada (lechuga, tomate, pepino)
-- Pan de ajo
+- Pan
 - Agua/bebida
 
 **Consideraciones:**
-- Lleva cooler con hielo
+- Usar cooler con hielo
 - Consume alimentos más perecederos primero
 - Mantén cadena de frío
-- Verifica cocción completa de carnes
-
-**OPCIÓN 2: ALIMENTOS DESHIDRATADOS/SECOS**
-
-**Ventajas:**
-- Livianos (para mochileros)
-- No requieren refrigeración
-- Larga duración
-- Fáciles de transportar
-
-**Desafíos:**
-- Requieren agua para rehidratar
-- Sabor menos natural
-- Textura diferente
-
-**ALIMENTOS DESHIDRATADOS COMUNES:**
-
-**Comerciales:**
-- Comidas liofilizadas (Mountain House, etc.)
-- Sopas instantáneas
-- Puré de papas instantáneo
-- Arroz instantáneo
-- Pasta deshidratada
-- Leche en polvo
-- Huevos en polvo
-
-**Naturales secos:**
-- Frutas secas (pasas, manzana, mango)
-- Frutos secos (almendras, nueces)
-- Carne seca (jerky)
-- Frijoles secos
-- Lentejas
-- Avena
-
-**EJEMPLO DE MENÚ SECO:**
-
-**Desayuno:**
-- Avena instantánea con pasas
-- Leche en polvo
-- Frutos secos
-- Barras energéticas
-
-**Almuerzo:**
-- Sopa instantánea
-- Galletas de campaña
-- Carne seca
-- Trail mix (mezcla de frutos secos)
-
-**Cena:**
-- Comida liofilizada (estofado de carne)
-- O arroz instantáneo con atún en lata
-- O pasta con salsa deshidratada
-- Puré de papas instantáneo
-- Bebida en polvo
-
-**TÉCNICA DE PREPARACIÓN - ALIMENTOS SECOS:**
-
-**Principios básicos:**
-1. **Lee instrucciones:** cada producto tiene proporción agua diferente
-2. **Agua caliente:** rehidrata más rápido que fría
-3. **Tiempo:** generalmente 5-15 minutos de reposo
-4. **Revolver:** distribuye agua uniformemente
-
-**Ejemplo: Comida liofilizada**
-1. Hierve agua (cantidad indicada en paquete)
-2. Vierte agua en bolsa de comida
-3. Revuelve bien
-4. Cierra bolsa
-5. Espera tiempo indicado (5-10 min)
-6. Revuelve de nuevo
-7. Come directamente de bolsa (menos platos para lavar)
-
-**PRÁCTICA SUGERIDA PARA EVALUACIÓN:**
-
-**Menú combinado (lo más práctico):**
-- Algunos alimentos frescos (primer día)
-- Algunos deshidratados
-- Demuestra versatilidad
-
-**Ejemplo día 2 del campamento:**
-
-**Desayuno:**
-- Avena instantánea + pasas (seco)
-- Leche en polvo reconstituida (seco)
-- Manzana fresca (fresco)
-
-**Almuerzo:**
-- Sopa instantánea (seco)
-- Sándwich de mantequilla de maní (seco/estable)
-- Frutos secos (seco)
-
-**Cena (la que prepararás para evaluación):**
-- Arroz instantáneo (seco)
-- Atún en lata (estable)
-- Vegetales deshidratados rehidratados (seco)
-- Salsa de tomate (estable)
-- Mezcla todo = plato completo nutritivo
-
-**Preparación:**
-1. Hierve 2 tazas agua
-2. Agrega arroz instantáneo (1 taza)
-3. Espera 5 min, tapa
-4. Aparte: rehidrata vegetales deshidratados en agua caliente (10 min)
-5. Escurre vegetales
-6. Mezcla arroz + atún + vegetales + salsa
-7. Calienta junto 2-3 min
-8. Sazona (sal, pimienta)
-9. Sirve caliente
-
-**PRESENTACIÓN AL INSTRUCTOR:**
-- Explica qué usaste (fresco vs seco)
-- Por qué elegiste esos alimentos
-- Cómo los preparaste
-- Valor nutricional
-- Ventajas/desventajas
 
 ---
 
 ### 9. Describir los diferentes tipos de carpas y sus utilidades
-
-**Respuesta:**
 
 **TIPOS PRINCIPALES DE CARPAS:**
 
@@ -1168,8 +1030,6 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 
 ### 10. ¿Cómo ocurre la condensación en una carpa y cómo se la puede prevenir?
 
-**Respuesta:**
-
 **CÓMO OCURRE LA CONDENSACIÓN:**
 
 **Física básica:**
@@ -1338,8 +1198,6 @@ Debes preparar una comida completa usando alimentos frescos O deshidratados.
 
 ### 11. Demostrar la capacidad de mantener segura y firme una tienda de campaña o carpa
 
-**Respuesta:**
-
 **[PRÁCTICA REQUERIDA]**
 Debes demostrar que sabes armar una carpa correctamente para que resista viento y lluvia.
 
@@ -1467,107 +1325,7 @@ Después del campamento:
 
 ### 12. Durante un campamento, planificar y presentar un devocional de diez minutos u organizar y dirigir un juego sobre la Biblia en la naturaleza, o liderar una Escuela Sabática o el culto de despedida de sábado
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes preparar y liderar UNA de estas opciones durante el campamento.
-
-**OPCIÓN A: DEVOCIONAL DE 10 MINUTOS**
-
-**Estructura sugerida:**
-
-**1. Introducción (1-2 min)**
-- Saludo y bienvenida
-- Conexión con la naturaleza alrededor
-- Presenta tema brevemente
-
-**2. Texto bíblico (2-3 min)**
-- Lee pasaje seleccionado
-- Explica contexto simple
-- Relaciona con experiencia de campamento
-
-**3. Aplicación práctica (4-5 min)**
-- ¿Qué nos enseña este texto?
-- Ejemplos de la vida diaria
-- Conexión con lecciones del campamento
-
-**4. Oración final (1 min)**
-- Agradecimiento
-- Peticiones relacionadas al tema
-- Bendición para el día
-
-**TEMAS SUGERIDOS CON NATURALEZA:**
-
-**Tema 1: "Dios el Creador"**
-- Texto: Génesis 1
-- Conexión: Observar creación alrededor
-- Aplicación: Cuidar lo creado
-
-**Tema 2: "Jesús en la tormenta"**
-- Texto: Marcos 4:35-41
-- Conexión: Confiar en condiciones difíciles de campamento
-- Aplicación: Jesús calma nuestras "tormentas"
-
-**Tema 3: "El buen pastor"**
-- Texto: Salmo 23
-- Conexión: Dios cuida como pastor cuida ovejas
-- Aplicación: Confianza en Su cuidado
-
-**Preparación:**
-- Lee el pasaje varios días antes
-- Practica en voz alta
-- Prepara preguntas para involucrar grupo
-- Ten Biblia marcada
-
-**OPCIÓN B: JUEGO BÍBLICO EN LA NATURALEZA**
-
-**Juego 1: Búsqueda del tesoro bíblico**
-
-**Preparación:**
-- Esconde 10 objetos naturales
-- Cada uno representa historia bíblica
-- Crea mapa simple
-
-**Ejemplos de objetos:**
-- Piedra = David y Goliat
-- Rama = Moisés y vara
-- Agua = Bautismo de Jesús
-- Pan = Alimentación 5000
-- Oveja (figura) = Parábola oveja perdida
-
-**Desarrollo:**
-- Divide en equipos
-- Entregar mapa
-- Encuentran objetos
-- Cuentan historia asociada
-
-**Juego 2: Estaciones bíblicas**
-
-**Preparación:**
-- 5 estaciones en diferentes puntos
-- Cada estación = actividad bíblica
-
-**Estación 1: Creación**
-- Identificar 10 cosas creadas por Dios
-- Anotar en lista
-
-**Estación 2: Milagros**
-- Recrear cruce Mar Rojo (saltar "agua")
-- Recolectar "maná" (piedritas blancas)
-
-**Estación 3: Parábolas**
-- Buscar "semilla" escondida
-- Explicar parábola del sembrador
-
-**Estación 4: Arca de Noé**
-- Construir arca miniatura con palitos
-- Tiempo límite
-
-**Estación 5: Jesús sana**
-- Vendaje de primeros auxilios (práctica)
-- Reflexión sobre sanidad espiritual
-
-**OPCIÓN C: LIDERAR ESCUELA SABÁTICA**
+**LIDERAR ESCUELA SABÁTICA**
 
 **Estructura (45 min - 1 hora):**
 
@@ -1597,54 +1355,8 @@ Debes preparar y liderar UNA de estas opciones durante el campamento.
 - Oración final
 - Anunciar actividades del día
 
-**Preparación:**
-- Estudia lección con anticipación
-- Prepara preguntas interesantes
-- Trae materiales necesarios
-- Coordina con instructor
-
-**OPCIÓN D: CULTO DE DESPEDIDA DE SÁBADO**
-
-**Estructura (30-40 min):**
-
-**1. Preparación del ambiente (antes)**
-- Fogata pequeña o círculo
-- Todos sentados cómodamente
-- Materiales preparados
-
-**2. Introducción (5 min)**
-- Bienvenida
-- Reflexión sobre la semana/día
-- Canto suave de apertura
-
-**3. Devocional especial (10 min)**
-- Historia o testimonio
-- Conexión con experiencias del campamento
-- Qué aprendimos esta semana
-
-**4. Momento de compartir (10 min)**
-- Cada conquistador comparte:
-  - Una bendición recibida
-  - Algo que aprendió
-  - Agradecimiento a Dios
-
-**5. Cantos de despedida (5 min)**
-- Cantos de reflexión
-- Cantos de paz
-
-**6. Oración final (5 min)**
-- Por semana que comienza
-- Por cada conquistador
-- Bendición
-
-**Elementos especiales:**
-- Velas pequeñas (seguras)
-- Círculo de amistad
-- Ambiente de reflexión
-
 **TIPS GENERALES:**
 
-**Para cualquier opción:**
 - Llega 10 min antes para preparar
 - Ten plan B si clima no coopera
 - Involucra a participantes
@@ -1662,106 +1374,7 @@ Debes preparar y liderar UNA de estas opciones durante el campamento.
 
 ### 13. Construir una de las siguientes opciones y describir su importancia para el individuo y el medio ambiente
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes construir físicamente UNA de estas opciones en el campamento.
-
-**OPCIÓN A: LETRINA**
-
-**IMPORTANCIA:**
-
-**Para el individuo:**
-- Higiene personal básica
-- Dignidad y privacidad
-- Previene enfermedades
-- Comodidad en campamento largo
-
-**Para el medio ambiente:**
-- Concentra desechos en un lugar
-- Evita contaminación de agua
-- Protege flora (no defecar cerca de plantas)
-- Facilita descomposición adecuada
-- Previene dispersión de enfermedades a fauna
-
-**CONSTRUCCIÓN:**
-
-**Tipo recomendado: Letrina de zanja**
-
-**Materiales:**
-- Pala
-- Papel higiénico en recipiente impermeable
-- Cal o cenizas
-- Lona o tela para privacidad
-- Estacas y cuerda
-- Pala pequeña (para usuarios)
-
-**Ubicación:**
-1. **Distancia mínima:**
-   - 50-70 metros de fuente de agua
-   - 30-50 metros del campamento
-   - No en dirección del viento hacia campamento
-
-2. **Terreno:**
-   - Ligeramente inclinado (drena lluvia)
-   - Tierra excavable
-   - Sin rocas grandes
-
-3. **Privacidad:**
-   - Detrás de arbustos/árboles
-   - No visible desde campamento
-
-**Paso a paso:**
-
-**1. Excavar zanja:**
-   - Largo: 1 metro
-   - Ancho: 25-30 cm
-   - Profundidad: 45-60 cm
-   - Reserva tierra excavada (tapar después)
-
-**2. Construir soporte:**
-   - Dos troncos paralelos a los lados
-   - Distancia 30 cm (ancho zanja)
-   - Para apoyar pies
-
-**3. Privacidad:**
-   - Cuatro estacas en las esquinas
-   - Atar lona/tela alrededor
-   - Altura 1.5-1.8 metros
-   - Dejar abertura frontal con solapa
-
-**4. Techo (opcional):**
-   - Lona sobre estacas
-   - Protege de lluvia
-
-**5. Equipamiento:**
-   - Papel higiénico en recipiente cerrado
-   - Pala pequeña
-   - Cal/cenizas en recipiente
-   - Señal "Ocupado/Libre"
-
-**USO CORRECTO:**
-
-**Instrucciones para usuarios:**
-1. Usa señal "Ocupado"
-2. Después de usar, cubre con tierra
-3. Agrega cal/cenizas (neutraliza olor, acelera descomposición)
-4. Papel higiénico EN la zanja
-5. Deja señal "Libre"
-
-**Mantenimiento diario:**
-- Agrega capa de tierra cada noche
-- Reabastece papel
-- Mantiene limpio alrededor
-- Agrega cal/cenizas regularmente
-
-**Al finalizar campamento:**
-- Rellena completamente con tierra
-- Compacta bien
-- Marca lugar (opcional, para no reusar pronto)
-- Restaura área natural
-
-**OPCIÓN B: DUCHA**
+**DUCHA**
 
 **IMPORTANCIA:**
 
@@ -1872,30 +1485,6 @@ Debes construir físicamente UNA de estas opciones en el campamento.
 - Restaura área natural
 - Verifica no dejar basura
 
-**DIAGRAMAS:**
-
-**Letrina de zanja:**
-```mermaid
-graph TB
-    subgraph Letrina["Letrina de Zanja - Vista Lateral"]
-        A["Lona/Tela<br/>privacidad<br/>h: 1.5-1.8m"]
-        B["Estacas<br/>soporte"]
-        C["Zanja<br/>60cm profundo<br/>30cm ancho<br/>1m largo"]
-        D["Troncos<br/>apoyo pies"]
-        E["Tierra<br/>reservada"]
-    end
-
-    B --> A
-    B --> C
-    D --> C
-    C -.cubrir diariamente.- E
-
-    style A fill:#D2B48C
-    style C fill:#8B4513
-    style E fill:#A0522D
-```
-
-**Ducha de gravedad:**
 ```mermaid
 graph TB
     subgraph Ducha["Sistema de Ducha - Vista Lateral"]
@@ -1922,11 +1511,6 @@ graph TB
 
 ### 14. Conocer las cuatro amarras básicas y construir un objeto simple
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes conocer las 4 amarras Y construir un objeto físico usándolas.
-
 **📚 Recurso recomendado:** [Knots 3D - Nudos de Amarre](https://knots3d.com/es/nudos-de-amarre) ofrece animaciones 3D interactivas de todas estas amarras.
 
 **LAS CUATRO AMARRAS BÁSICAS:**
@@ -1942,8 +1526,8 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 2. Pasa cuerda SOBRE horizontal, BAJO vertical
 3. Pasa BAJO horizontal, SOBRE vertical
 4. Repite 3-4 vueltas (formar cuadrado)
-5. "Frapping": envuelve entre palos (aprieta)
-6. Termina con nudo ballestrinque en palo horizontal
+5. "Ahogar": envuelve entre palos (aprieta)
+6. Termina con nudo llano.
 
 **Aplicaciones:**
 - Marcos rectangulares
@@ -1962,8 +1546,8 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 2. Tres vueltas diagonalmente (/)
 3. Tres vueltas diagonalmente opuesto (\)
 4. Forma X
-5. "Frapping" entre palos
-6. Nudo ballestrinque final
+5. "Ahogado" entre palos
+6. Nudo llano
 
 **Aplicaciones:**
 - Refuerzos diagonales
@@ -1981,8 +1565,8 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 1. Nudo ballestrinque en primer palo
 2. Figura de 8 alrededor de ambos palos
 3. 6-8 vueltas justas y apretadas
-4. "Frapping" entre palos (2-3 vueltas)
-5. Nudo ballestrinque en segundo palo
+4. "Ahogado" entre palos (2-3 vueltas)
+5. Nudo llano para cerrar
 
 **Aplicaciones:**
 - Extender palo largo (asta bandera)
@@ -2001,7 +1585,7 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 2. Nudo ballestrinque en primer palo
 3. Envuelve cuerda suelta alrededor de los 3 (6-8 vueltas)
 4. NO aprietes mucho
-5. "Frapping" entre cada par de palos
+5. "Ahogar" entre cada par de palos
 6. Nudo final
 7. Abre palos en forma de trípode
 
@@ -2021,7 +1605,7 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 5. Aprieta
 
 **Por qué es importante:**
-- Inicio/fin de casi todas las amarras
+- Inicio de casi todas las amarras
 - No se suelta
 - Fácil de ajustar
 
@@ -2070,10 +1654,6 @@ Debes conocer las 4 amarras Y construir un objeto físico usándolas.
 - Palo horizontal amarrado
 - Para colgar ropa/toallas
 
-**3. Silla simple:**
-- Similar a mesa pero con respaldo
-- Tejido de cuerda para asiento
-
 **EVALUACIÓN:**
 
 Tu instructor verificará:
@@ -2107,11 +1687,6 @@ Antes del campamento:
 ---
 
 ### 15. Saber cómo cambiar las camisetas o repuesto de las lámparas de gas. Demostrar cómo colocar el combustible en las lámparas de kerosene y cocinas de campamento. Saber mantener en buen funcionamiento los quemadores de la estufa
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar estas habilidades de mantenimiento de equipo de campamento.
 
 **A. LÁMPARAS DE GAS (Coleman y similares)**
 
@@ -2306,41 +1881,3 @@ Lleva siempre:
 - Trapo limpio
 - Embudo
 - Cerillas/encendedor
-
-**DEMOSTRACIÓN:**
-
-Para instructor demostrarás:
-1. Cambiar camiseta de lámpara correctamente
-2. Llenar lámpara kerosene sin derramar
-3. Llenar cocina con combustible
-4. Limpiar quemador con aguja
-5. Explicar señales de problema
-
----
-
-## 📚 Referencias y recursos adicionales
-
-- **Libros:**
-  - Manual de Supervivencia - Club de Conquistadores
-  - "Fogatas Primitivas y Métodos de Ignición"
-  - "Bushcraft 101" - Dave Canterbury
-  - "El Arte del Fuego" - Daniel Hume
-
-- **Videos recomendados:**
-  - Técnicas de encendido primitivo (YouTube)
-  - Construcción de fogatas especializadas
-  - Afilado de herramientas de campo
-  - Alimentos deshidratados para campamento
-
-- **Sitios web:**
-  - Leave No Trace - lnt.org
-  - Conquistadores DSA
-  - Survival Skills - Bushcraft USA
-  - **Knots 3D** - knots3d.com/es/nudos-de-amarre (Animaciones 3D de amarras y nudos)
-  - **Pathfinders Wiki** - wiki.pathfindersonline.org (Ilustraciones de fogatas y técnicas)
-
-- **Canales YouTube útiles:**
-  - Primitive Technology
-  - Dave Canterbury (Pathfinder School)
-  - MCQBushcraft
-  - Corporación Bushcraft

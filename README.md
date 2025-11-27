@@ -2,15 +2,36 @@
 
 <div align="center">
 
-![Logo Conquistadores](./assets/images/logo.svg)
+<img src="./assets/images/logo.svg" width="150" alt="Logo Conquistadores">
 
 **División Sudamericana**
 
+![Progreso](https://img.shields.io/badge/Progreso-28%2F29-brightgreen?style=flat-square)
+![Areas](https://img.shields.io/badge/Áreas-5%2F8-blue?style=flat-square)
+
 </div>
+
+---
 
 ## 📋 Sobre este proyecto
 
-Este repositorio contiene las especialidades del Club de Conquistadores (División Sudamericana) en formato Markdown, organizadas por área, con requisitos extraídos de los manuales oficiales y respuestas recolectadas desde que comence a trabajar en Conquistadores el año 2023.
+Este repositorio contiene las especialidades del Club de Conquistadores (División Sudamericana) en formato Markdown, organizadas por área, con requisitos extraídos de los manuales oficiales y respuestas recolectadas desde que comencé a trabajar en Conquistadores el año 2023.
+
+---
+
+## 📊 Estado actual
+
+| Área | Especialidades | Estado |
+|------|:--------------:|:------:|
+| 🏕️ Actividades Recreativas (AR) | 8 | ✅ 100% |
+| 🌳 Estudio de la Naturaleza (EN) | 9 | ✅ 100% |
+| 🏥 Ciencia y Salud (CS) | 3 | ✅ 100% |
+| 🎨 Artes y Actividades Manuales (AM) | 7 | ✅ 100% |
+| 🏠 Habilidades Domésticas (HD) | 1 | ✅ 100% |
+
+**Total: 28/29 especialidades completadas (96.6%)**
+
+---
 
 ## 📚 Especialidades por Área
 
@@ -52,6 +73,8 @@ Este repositorio contiene las especialidades del Club de Conquistadores (Divisi�
 ### 🏠 Habilidades Domésticas (HD)
 - [Cuidado de bebés](./especialidades/HD/cuidado_de_bebes.md) (HD-002)
 
+---
+
 ## 📂 Estructura del Repositorio
 
 ```
@@ -66,21 +89,12 @@ assets/                  # Recursos compartidos
 ├── images/             # Logo y gráficos generales
 ├── ocr/                # Archivos de texto extraídos de PDFs
 └── especialidades/     # Assets específicos por especialidad
-    ├── arboles/
-    ├── nudos_y_amarras/
-    └── [etc...]
 
 pdfs/                   # Manuales oficiales originales
-├── manual_especialidades.pdf
-├── Actividades Recreativas.pdf
-├── Estudio de la Naturaleza.pdf
-└── [otros manuales...]
-
 docs/                   # Documentación del proyecto
-├── CLAUDE.md          # Guía de trabajo del proyecto
-├── LEER_PRIMERO.md    # Introducción al proyecto
-└── progress.md        # Estado del progreso
 ```
+
+---
 
 ## 🎯 Enfoque Pedagógico
 
@@ -92,18 +106,30 @@ Las especialidades están diseñadas para **niños y adolescentes** (Conquistado
 - Respuestas directas y concisas
 - NO es un curso universitario - evita tecnicismos excesivos
 
+---
+
 ## 📖 Fuentes
 
+**Manuales oficiales:**
 - **Manual DSA 2013** - Fuente oficial de requisitos (División Sudamericana)
 - **Manuales GO!** - Material complementario (División Peruana)
-- **Investigación verificada** - Respuestas investigadas y citadas
-- https://wiki.pathfindersonline.org/
-- https://mundoja.org/
-- https://www.conquismania.cl/
 
+**Recursos web:**
+- [Pathfinders Online Wiki](https://wiki.pathfindersonline.org/)
+- [MundoJA](https://mundoja.org/)
+- [Conquismania](https://www.conquismania.cl/)
+
+---
 
 ## 🤝 Contribuir
 
 Las especialidades siguen una plantilla estándar. Ver [_PLANTILLA.md](./_PLANTILLA.md) para el formato.
 
+---
 
+<div align="center">
+
+*Manual de Especialidades - Club de Conquistadores*
+*División Sudamericana*
+
+</div>

@@ -9,11 +9,11 @@ ano_creacion: 1986
 institucion_origen: Asociación General
 ---
 
+!["AR-049"](https://wiki.pathfindersonline.org/w/File:Camping_Skills_I_AY_Honor.png)
+
 ## 📋 Requisitos
 
 ### 1. Entender y practicar las guías éticas de campamento en relación a la conservación de la naturaleza
-
-**Respuesta:**
 
 Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastro"** (Leave No Trace), que nos enseña a disfrutar la naturaleza sin dañarla.
 
@@ -40,7 +40,6 @@ Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastr
    - Toma solo fotos
 
 5. **Minimiza el impacto de fogatas:**
-   - Usa estufa cuando sea posible
    - Si haces fogata, usa círculo existente
    - Quema toda la leña hasta cenizas
    - Apaga completamente con agua
@@ -65,65 +64,84 @@ Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastr
 
 ### 2. Saber ocho cosas que se debe hacer cuando se está perdido
 
-**Respuesta:**
+**PROTOCOLO CUANDO ESTÁS PERDIDO:**
 
-**PROTOCOLO S.T.O.P. CUANDO ESTÁS PERDIDO:**
+1. **DETENTE - NO SIGAS CAMINANDO**
 
-1. **S - SIT (SIÉNTATE):**
-   - En cuanto notes que estás perdido, para de moverte
-   - Siéntate y descansa
-   - Caminar más solo te aleja del grupo
+   - En cuanto te das cuenta que estás perdido, PARA
+   - Caminar más solo te aleja más del grupo
+   - Siéntate y mantén la calma
+   - Ora al Señor para que calme tu mente y pronto resuelva la situación.
 
-2. **T - THINK (PIENSA):**
-   - Mantén la calma, respira profundo
-   - ¿Cuándo te diste cuenta que estabas perdido?
-   - ¿Qué puntos de referencia recuerdas?
-   - ¿El grupo sabe que te perdiste?
+2. **QUÉDATE EN UN LUGAR**
 
-3. **O - OBSERVE (OBSERVA):**
-   - Mira alrededor buscando algo familiar
-   - Escucha atentamente (voces, silbatos, agua)
-   - Busca señales de civilización (humo, caminos, construcciones)
+   - Es mucho más fácil que te encuentren si estás quieto
+   - Si sigues moviéndote, los rescatistas te persiguen sin alcanzarte
+   - Busca un lugar visible y seguro (claro del bosque, al lado de árbol grande)
 
-4. **P - PLAN (PLANEA):**
-   - Decide quedarte donde estás (mejor opción)
-   - Prepara señales de tu ubicación
+3. **MANTÉN LA CALMA - PIENSA**
 
-5. **SEÑALIZA TU POSICIÓN:**
-   - Usa tu silbato: 3 silbidos cortos = emergencia
-   - Coloca ropa brillante en lugar visible
-   - Haz señales con rocas o ramas (SOS en área abierta)
-   - Responde inmediatamente si escuchas búsqueda
+   - El pánico te hace tomar malas decisiones
+   - Respira profundo varias veces controlando la exhalación (inhalas 2, exhalas 4) para forzar al cuerpo a calmarse.
+   - Recuerda que te van a buscar
+   - La mayoría de personas perdidas se encuentran en 24-48 horas
 
-6. **BUSCA O CONSTRUYE REFUGIO:**
-   - Protégete del sol, viento, frío
-   - Mantente seco
-   - Usa refugio natural: árbol caído, cueva pequeña, rocas
+4. **SEÑALA TU POSICIÓN**
 
-7. **MANTÉN TEMPERATURA CORPORAL:**
-   - Abrígate con toda la ropa que tengas
-   - Busca lugar protegido del viento
-   - La hipotermia es peligro principal
+   - Usa tu silbato: 3 silbidos = señal de emergencia
+   - Espera respuesta, repite cada 5-10 minutos
+   - Haz señales visibles: ropa de colores brillantes en rama alta
+   - Si tienes espejo, usa reflejos de sol para señalizar
+   - Forma SOS con piedras o ramas en área abierta (visible desde aire)
 
-8. **CONSERVA ENERGÍA Y RECURSOS:**
-   - No corras sin sentido
-   - Raciona el agua
-   - Descansa y mantén la calma
-   - No comas plantas desconocidas
+5. **BUSCA O CONSTRUYE REFUGIO**
 
-**PREVENCIÓN:**
-- SIEMPRE usa sistema de compañeros
-- Avisa al grupo si te alejas
-- Lleva silbato, agua, y algo de abrigo
-- Conoce las señales de emergencia del grupo
+   - Protégete del sol, viento, lluvia
+   - Mantente seco y a temperatura adecuada
+   - Refugio simple: bajo árbol caído, cueva pequeña, entre rocas grandes
+   - No gastes mucha energía construyendo refugio elaborado
+
+6. **LOCALÍZATE SI PUEDES**
+   - Piensa: ¿Cuándo notaste que estabas perdido?
+   - ¿Qué puntos de referencia viste? (río, montaña, camino)
+   - Si tienes mapa y brújula, trata de ubicarte
+   - NO sigas caminando "buscando el camino"
+
+7. **CONSERVA ENERGÍA Y RECURSOS**
+   - Racional el agua que tengas
+   - No comas plantas que no conozcas (pueden ser venenosas)
+   - Descansa y guarda energía
+   - Mantente abrigado
+
+8. **HAZTE ESCUCHAR Y VER**
+   - Responde inmediatamente si escuchas voces o silbidos
+   - Grita fuerte: "¡AUXILIO!" o "¡AQUÍ!"
+   - Si escuchas helicóptero: sal a área abierta, mueve los brazos
+   - Por la noche: mantén fogata (si sabes hacerla con seguridad)
+
+**PREVENCIÓN ES MEJOR:**
+
+- NO acampes solo
+- NUNCA te separes del grupo
+- Informa al grupo si vas al baño o te alejas
+- Lleva siempre silbato, agua, y algo de abrigo
+
+**Regla del 3:**
+
+- 3 minutos sin aire
+- 3 horas sin refugio (en clima extremo)
+- 3 días sin agua
+- 3 semanas sin comida
+
+**Prioridad: refugio y temperatura corporal antes que comida**
 
 ---
 
 ### 3. Estar familiarizado con varios tipos de equipos para dormir, adecuados para diversos climas y estaciones
 
-**Respuesta:**
+**SACOS DE DORMIR:**
 
-**SACOS DE DORMIR (Sleeping bags):**
+!["Tipos de saco de dormir"](https://wiki.pathfindersonline.org/w/File:Sacos_de_Dormir.png)
 
 **Por temperatura:**
 - **Saco de verano:** +5°C o más, liviano, relleno delgado
@@ -173,8 +191,6 @@ Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastr
 ---
 
 ### 4. Mencionar los objetos personales necesarios para un campamento de fin de semana
-
-**Respuesta:**
 
 **LISTA DE OBJETOS PERSONALES (2 noches):**
 
@@ -243,11 +259,6 @@ Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastr
 ---
 
 ### 5. Planificar y participar de un campamento de fin de semana, de por lo menos dos noches
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes participar en un campamento real de viernes a domingo (2 noches).
 
 **PLANIFICACIÓN PREVIA:**
 
@@ -318,11 +329,6 @@ Debes participar en un campamento real de viernes a domingo (2 noches).
 ---
 
 ### 6. Saber armar una carpa. Prestar atención a las normas de prevención de incendios después de armar la carpa
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar que puedes armar una carpa correctamente.
 
 **PASOS PARA ARMAR UNA CARPA:**
 
@@ -415,10 +421,6 @@ Debes demostrar que puedes armar una carpa correctamente.
 
 ### 7. Conocer y practicar los principios de higiene en un campamento, ya sea en un campamento estable o en un campamento rústico
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-
 **HIGIENE PERSONAL:**
 
 1. **Lavado de manos:**
@@ -510,9 +512,6 @@ Debes demostrar que puedes armar una carpa correctamente.
 
 ### 8. Demostrar la capacidad de utilizar correctamente el cuchillo y el hacha. Conocer diez reglas de seguridad para el uso de estas herramientas
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes demostrar físicamente el uso correcto de estas herramientas.
 
 **DIEZ REGLAS DE SEGURIDAD:**
@@ -615,10 +614,6 @@ Debes demostrar físicamente el uso correcto de estas herramientas.
 
 **a) Demostrar la habilidad para escoger el lugar y preparar una fogata**
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-
 **ESCOGER EL LUGAR:**
 
 **Ubicación segura:**
@@ -664,8 +659,6 @@ Hay varios tipos (ver requisito 9c y 9d)
 
 **b) Conocer las reglas de seguridad al manipular el fuego**
 
-**Respuesta:**
-
 **REGLAS DE SEGURIDAD:**
 
 **ANTES DE ENCENDER:**
@@ -704,8 +697,6 @@ Hay varios tipos (ver requisito 9c y 9d)
 25. Si no puedes controlarlo: evacúa y pide ayuda
 
 **c) Saber cómo usar los fósforos**
-
-**Respuesta:**
 
 **USO CORRECTO DE FÓSFOROS:**
 
@@ -754,11 +745,6 @@ Hay varios tipos (ver requisito 9c y 9d)
 - Fósforos mojados: seca la cabeza en tu cabello (aceite natural repele agua)
 
 **d) Hacer una fogata y encenderla usando solo un fósforo y materiales naturales**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar que puedes encender fogata con un solo fósforo.
 
 **PREPARACIÓN ES CLAVE:**
 
@@ -809,7 +795,7 @@ c) Arma tipi más grande con leña alrededor
 - No agregues mucho de golpe (apaga el fuego)
 - Sopla suavemente si es necesario (aumenta oxígeno)
 
-**CONSEJOS PARA ÉXITO:**
+**CONSEJOS PARA EL ÉXITO:**
 - Más yesca es mejor (abundancia)
 - Todo MUY seco
 - No apures - prepara todo primero
@@ -817,8 +803,6 @@ c) Arma tipi más grande con leña alrededor
 - Si falla: analiza qué salió mal, mejora técnica
 
 **e) Mostrar cómo proteger la leña que será usada en las fogatas; en caso de lluvia o mal tiempo**
-
-**Respuesta:**
 
 **MÉTODOS PARA PROTEGER LEÑA:**
 
@@ -876,12 +860,9 @@ c) Arma tipi más grande con leña alrededor
 
 ### 10. Preparar y comer el "pan al palo" en una de las comidas del campamento
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
 Debes preparar y comer pan al palo durante el campamento.
 
-**PAN AL PALO (Stick bread / Bannock):**
+**PAN AL PALO:**
 
 **INGREDIENTES (porción individual):**
 - 1 taza de harina
@@ -945,7 +926,6 @@ Debes preparar y comer pan al palo durante el campamento.
 - Solo
 - Con miel, mermelada, o mantequilla
 - Con chocolate derretido dentro
-- Relleno con salchicha antes de envolver
 
 **VARIACIONES:**
 - Agregar canela y pasas a la masa
@@ -962,8 +942,6 @@ Debes preparar y comer pan al palo durante el campamento.
 ---
 
 ### 11. Describir el procedimiento adecuado para manejar y mantener los utensilios de cocina limpios
-
-**Respuesta:**
 
 **SISTEMA DE TRES BALDES:**
 
@@ -1062,8 +1040,6 @@ Debes preparar y comer pan al palo durante el campamento.
 ---
 
 ### 12. Describir la ropa adecuada para dormir y cómo mantenerse caliente durante la noche
-
-**Respuesta:**
 
 **ROPA ADECUADA PARA DORMIR:**
 
@@ -1178,8 +1154,6 @@ Debes preparar y comer pan al palo durante el campamento.
 
 ### 13. Durante el campamento, pensar en una lección espiritual práctica que se relacione con la naturaleza
 
-**Respuesta:**
-
 **[PRÁCTICA REQUERIDA]**
 Durante tu campamento, observa la naturaleza y encuentra una lección espiritual.
 
@@ -1238,11 +1212,6 @@ Durante tu campamento, observa la naturaleza y encuentra una lección espiritual
 
 ### 14. Explicar y practicar el lema: "No llevar nada más que fotografías, no dejar nada más que huellas y no matar nada más que el tiempo"
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes practicar este lema durante todo el campamento.
-
 **EL LEMA "NO DEJAR RASTRO":**
 
 Este lema resume la filosofía de respeto y conservación de la naturaleza.
@@ -1250,18 +1219,21 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 **"NO LLEVAR NADA MÁS QUE FOTOGRAFÍAS"**
 
 **Significado:**
+
 - No remuevas nada de la naturaleza
 - No te lleves flores, piedras, conchas, plumas
 - No cortes plantas vivas
 - No saques artefactos históricos
 
 **Por qué:**
+
 - Si cada visitante se lleva algo, pronto no quedará nada
 - Plantas y animales necesitan esos recursos
 - Otros visitantes quieren disfrutar la naturaleza completa
 - Es ilegal en muchas áreas protegidas
 
 **Cómo practicar:**
+
 - Toma fotos de flores (no las arranques)
 - Observa animales con binoculares (no los captures)
 - Dibuja o fotografía en vez de coleccionar
@@ -1274,11 +1246,13 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 **"NO DEJAR NADA MÁS QUE HUELLAS"**
 
 **Significado:**
+
 - No dejes basura de ningún tipo
 - No dejes señales de tu presencia
 - Restaura el área a su estado natural
 
 **Por qué:**
+
 - Basura contamina y daña ecosistemas
 - Animales pueden comer basura y enfermarse
 - Arruina experiencia de otros visitantes
@@ -1287,12 +1261,14 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 **Cómo practicar:**
 
 **Basura:**
+
 - Empaca TODA la basura que produjiste
 - Recoge basura que otros dejaron
 - "Si lo trajiste, te lo llevas"
 - Incluso cáscaras de frutas y orgánicos (no son naturales del lugar)
 
 **Rastros del campamento:**
+
 - Desmonta círculo de piedras de fogata si lo creaste
 - Esparce cenizas frías lejos
 - Dispersa agujas/hojas sobre área compactada
@@ -1300,11 +1276,13 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 - Deja el lugar como lo encontraste (o mejor)
 
 **Instalaciones:**
+
 - No claves cosas en árboles
 - No construyas estructuras permanentes
 - Desmantela todo lo que construiste
 
 **Sanitario:**
+
 - Entierra desechos humanos (60m de agua)
 - Tapa completamente huecos
 
@@ -1313,11 +1291,13 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 **"NO MATAR NADA MÁS QUE EL TIEMPO"**
 
 **Significado:**
+
 - No lastimes ni mates animales o plantas innecesariamente
 - Respeta toda forma de vida
 - El tiempo es lo único que "consumimos"
 
 **Por qué:**
+
 - Toda criatura tiene propósito en el ecosistema
 - Somos visitantes, no dueños
 - Dios nos hizo mayordomos, no destructores
@@ -1326,6 +1306,7 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 **Cómo practicar:**
 
 **Animales:**
+
 - No caces ni captures animales
 - No molestes nidos, madrigueras, panales
 - Observa desde distancia respetuosa
@@ -1333,17 +1314,20 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 - Si hay mosquitos o insectos: usa repelente, no los mates masivamente
 
 **Plantas:**
+
 - Usa solo madera muerta caída para fogatas
 - No cortes árboles vivos
 - No arranques plantas solo por curiosidad
 - Camina en senderos para no pisar vegetación
 
 **Excepciones razonables:**
+
 - Defenderte de animal peligroso
 - Obtener comida silvestre comestible (con conocimiento y permiso)
 - Control de plaga si es problema de salud
 
 **"Matar el tiempo":**
+
 - Significa: disfrutar, relajarse, pasar tiempo de calidad
 - Desconectar de prisa del mundo
 - Conectar con Dios a través de Su creación
@@ -1373,23 +1357,4 @@ Este lema resume la filosofía de respeto y conservación de la naturaleza.
 - Dios nos dio la creación para disfrutar y cuidar
 - Somos mayordomos, no dueños
 - Génesis 2:15 - Dios puso al hombre en el jardín para cuidarlo
-- Respet la creación = respeto al Creador
-
----
-
-## 📚 Referencias y recursos adicionales
-
-- **Libros:**
-  - Manual de Campamento - Club de Conquistadores
-  - "Leave No Trace" - Centro de Ética al Aire Libre
-  - "Guía de Campamento para Principiantes"
-
-- **Videos:**
-  - Serie de Campamento (Canal Conquistadores YouTube)
-  - Técnicas de fogata
-  - Cómo armar diferentes carpas
-
-- **Sitios web:**
-  - lnt.org - Leave No Trace Center
-  - Conquistadores DSA
-  - Pronóstico del tiempo local
+- Respeto la creación = respeto al Creador

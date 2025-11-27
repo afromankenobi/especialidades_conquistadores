@@ -9,11 +9,24 @@ ano_creacion: 1986
 institucion_origen: Asociación General
 ---
 
+## IMPORTANTE – LÍMITES DEL CONQUISTADOR
+
+Los Conquistadores no son bomberos, ni paramédicos ni rescatistas profesionales.
+Todo lo aprendido en esta especialidad se aplica solo si la escena es razonablemente segura.
+
+Siempre que sea posible:
+
+- Avisar a un adulto responsable.
+- Llamar al número de emergencias.
+  - 131: Ambulancia
+  - 132: Bomberos
+  - 133: Carabineros
+  - 134: Policia de Investigaciones
+- Actuar sin ponerse en riesgo.
+
 ## 📋 Requisitos
 
 ### 1. ¿Qué es el rescate de emergencia?
-
-**Respuesta:**
 
 **RESCATE DE EMERGENCIA** es la **acción inmediata** de sacar a una persona de una situación de peligro que amenaza su vida, para luego poder darle primeros auxilios y atención médica.
 
@@ -56,9 +69,6 @@ institucion_origen: Asociación General
 ---
 
 ### 2. Demostrar cómo rescatar, con seguridad, a una persona en las siguientes situaciones
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar estos 5 tipos de rescate (pueden ser simulaciones).
 
 **a) En contacto con un cable eléctrico:**
 
@@ -272,8 +282,6 @@ Debes demostrar estos 5 tipos de rescate (pueden ser simulaciones).
 
 ### 3. Conocer tres maneras de atraer la atención y de comunicarse con un avión o helicóptero de rescate
 
-**Respuesta:**
-
 **TRES MÉTODOS DE SEÑALIZACIÓN AÉREA:**
 
 **1. SEÑALES VISUALES:**
@@ -366,29 +374,45 @@ Debes demostrar estos 5 tipos de rescate (pueden ser simulaciones).
 
 ### 4. Conocer seis indicadores de la necesidad de un rescate inmediato
 
-**Respuesta:**
+**CRITERIO GENERAL**
 
-**6 SITUACIONES DE RESCATE INMEDIATO:**
+    - No respira / está inconsciente
+    - Sangrado severo
+    - Shock evidente
+2. Peligro inmediato en el lugar
+    - Fuego, humo, riesgo de explosión
+    - Agua subiendo, derrumbe, etc.
+3. No puede salir por sí misma
+   - Niños, inconscientes, atrapados
 
-**1. PERSONA INCONSCIENTE:**
+**SITUACIONES DE RESCATE INMEDIATO:**
+
+
+**1. CONDICIÓN CRÍTICA DE LA VÍCTIMA**
+
+**Persona Inconsciente:**
+
 - No responde a estímulos
 - Puede no estar respirando
 - Cada segundo cuenta
 - **Acción:** Rescate y RCP si es necesario
 
-**2. SANGRADO SEVERO / HEMORRAGIA:**
+**Sangrado severo / Hemorragia:**
+
 - Sangre saliendo a chorros (arteria)
 - Sangrado que no se detiene
 - Víctima perdiendo conciencia
 - **Acción:** Rescate y presión directa inmediata
 
-**3. NO PUEDE RESPIRAR / ASFIXIA:**
+**No Puede Respirar / Asfixia:**
+
 - Se agarra la garganta
 - Cara azulada
 - No puede hablar ni toser
 - **Acción:** Rescate y maniobra de Heimlich
 
-**4. PELIGRO INMEDIATO EN LA ESCENA:**
+**2. PELIGRO INMEDIATO EN LA ESCENA:**
+
 - Fuego creciendo
 - Edificio colapsando
 - Vehículo a punto de explotar
@@ -396,19 +420,24 @@ Debes demostrar estos 5 tipos de rescate (pueden ser simulaciones).
 - Inundación
 - **Acción:** Saca a víctima del peligro AHORA
 
-**5. HIPOTERMIA SEVERA / CONGELAMIENTO:**
+**3. NO PUEDE SALIR POR SI MISMA**
+
+**Hipotermia severa / Congelamiento:**
+
 - En agua fría
 - Exposición prolongada a frío extremo
 - Temblores violentos o dejó de temblar (peor)
 - Confusión
 - **Acción:** Mueve a ambiente cálido urgentemente
 
-**6. SHOCK (CHOQUE):**
+**Shock:**
 - Piel pálida, fría, húmeda
 - Pulso muy rápido y débil
 - Respiración rápida
 - Confusión
 - **Acción:** Posición antichoque, calentar, emergencias
+
+---
 
 **SEÑAL DE RESCATE INMEDIATO:**
 
@@ -417,7 +446,8 @@ Cualquier combinación de:
 - Condición empeorando rápidamente = RESCATE YA
 - No puede salvarse a sí misma = RESCATE YA
 
-**Vs. situaciones que pueden esperar:**
+**Situaciones que pueden esperar:**
+
 - Lesión estable
 - Escena segura
 - Víctima consciente y respirando bien
@@ -426,8 +456,6 @@ Cualquier combinación de:
 ---
 
 ### 5. Conocer seis procedimientos a seguir antes de mover a una víctima en una situación que presenta riesgo de muerte
-
-**Respuesta:**
 
 **PRINCIPIO GENERAL:**
 **NO muevas a víctima** a menos que sea absolutamente necesario. Mover puede empeorar lesiones (especialmente espinales).
@@ -535,7 +563,7 @@ Cualquier combinación de:
 
 ### 6. Conocer las maneras apropiadas de ayudar a una víctima en peligro, en las siguientes situaciones
 
-**[PRÁCTICA REQUERIDA]**
+Practica realizada en Convención Recreativa AMCH de parque Chuchunco.
 
 **a) Tirar a la víctima:**
 
@@ -734,27 +762,3 @@ Cualquier combinación de:
 - Cabeza y cuello protegidos
 - Movimiento suave
 - Comunicar a víctima qué harán
-
----
-
-## 📚 Referencias y recursos adicionales
-
-- **Libros:**
-  - Manual de Primeros Auxilios - Cruz Roja
-  - "Rescate de Emergencia" - Guía práctica
-  - Protocolos de rescate básico
-
-- **Videos:**
-  - Técnicas de rescate (YouTube Cruz Roja)
-  - Señales de emergencia aérea
-  - Transporte de víctimas
-
-- **Cursos recomendados:**
-  - Primeros Auxilios - Cruz Roja
-  - RCP básico
-  - Rescate y emergencias
-
-- **Sitios web:**
-  - Cruz Roja de tu país
-  - Protocolos de emergencia
-  - Conquistadores DSA
