@@ -233,20 +233,25 @@
           document.body.appendChild(tocMenu);
           
           floatingNav.insertBefore(tocBtn, scrollTopBtn);
+          
+          // Track menu state to avoid layout recalculation
+          let tocMenuOpen = false;
 
           tocBtn.addEventListener('click', function() {
             tocMenu.style.right = '0';
+            tocMenuOpen = true;
           });
 
           closeBtn.addEventListener('click', function() {
             tocMenu.style.right = '-100%';
+            tocMenuOpen = false;
           });
 
           // Cerrar al hacer clic fuera
           document.addEventListener('click', function(e) {
-            const isOpen = getComputedStyle(tocMenu).right === '0px';
-            if (!tocMenu.contains(e.target) && !tocBtn.contains(e.target) && isOpen) {
+            if (!tocMenu.contains(e.target) && !tocBtn.contains(e.target) && tocMenuOpen) {
               tocMenu.style.right = '-100%';
+              tocMenuOpen = false;
             }
           });
         }
@@ -726,10 +731,24 @@
          OPTIMIZACIONES DE RENDIMIENTO
          ============================================ */
       @media (prefers-reduced-motion: reduce) {
-        *, *::before, *::after {
-          animation: none !important;
-          transition-duration: 0s !important;
+        /* Disable decorative animations while preserving essential UI feedback */
+        html {
           scroll-behavior: auto !important;
+        }
+        
+        *,
+        *::before,
+        *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+
+        /* Preserve opacity changes for essential UI feedback */
+        button:hover,
+        a:hover,
+        .nav-btn:hover {
+          transition-duration: 0.01ms !important;
         }
       }
 
