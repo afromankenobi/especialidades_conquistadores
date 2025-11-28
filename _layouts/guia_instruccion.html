@@ -94,6 +94,8 @@
         // ============================================
         // LAZY LOADING PARA IMÁGENES
         // ============================================
+        // Note: Only applies to images present at page load
+        // Dynamically added images need to set loading="lazy" attribute manually
         if ('loading' in HTMLImageElement.prototype) {
           const images = document.querySelectorAll('img');
           images.forEach(img => {
@@ -108,7 +110,8 @@
         // ============================================
         const links = document.querySelectorAll('a[href^="http"]');
         links.forEach(function(link) {
-          if (!link.hostname.includes(window.location.hostname)) {
+          // Use exact hostname comparison to avoid false positives
+          if (link.hostname !== window.location.hostname) {
             link.setAttribute('target', '_blank');
             link.setAttribute('rel', 'noopener noreferrer');
           }
@@ -127,7 +130,8 @@
         // NAVEGACIÓN ENTRE SECCIONES (H2)
         // ============================================
         const headings = document.querySelectorAll('h2');
-        if (headings.length > 3 && window.innerWidth <= 768) {
+        const isMobileView = window.matchMedia('(max-width: 768px)').matches;
+        if (headings.length > 3 && isMobileView) {
           // Crear índice móvil solo si hay suficientes secciones
           const tocBtn = document.createElement('button');
           tocBtn.className = 'nav-btn toc-btn';
@@ -240,7 +244,8 @@
 
           // Cerrar al hacer clic fuera
           document.addEventListener('click', function(e) {
-            if (!tocMenu.contains(e.target) && !tocBtn.contains(e.target) && tocMenu.style.right === '0px') {
+            const isOpen = getComputedStyle(tocMenu).right === '0px';
+            if (!tocMenu.contains(e.target) && !tocBtn.contains(e.target) && isOpen) {
               tocMenu.style.right = '-100%';
             }
           });
@@ -262,11 +267,18 @@
         `;
         document.body.appendChild(progressBar);
 
+        // Throttle scroll events for better performance
+        let progressTimeout;
         window.addEventListener('scroll', function() {
-          const windowHeight = window.innerHeight;
-          const documentHeight = document.documentElement.scrollHeight - windowHeight;
-          const scrolled = (window.pageYOffset / documentHeight) * 100;
-          progressBar.style.width = scrolled + '%';
+          if (!progressTimeout) {
+            progressTimeout = setTimeout(function() {
+              const windowHeight = window.innerHeight;
+              const documentHeight = document.documentElement.scrollHeight - windowHeight;
+              const scrolled = (window.pageYOffset / documentHeight) * 100;
+              progressBar.style.width = scrolled + '%';
+              progressTimeout = null;
+            }, 50);
+          }
         });
       });
     </script>
@@ -715,9 +727,8 @@
          ============================================ */
       @media (prefers-reduced-motion: reduce) {
         *, *::before, *::after {
-          animation-duration: 0.01ms !important;
-          animation-iteration-count: 1 !important;
-          transition-duration: 0.01ms !important;
+          animation: none !important;
+          transition-duration: 0s !important;
           scroll-behavior: auto !important;
         }
       }
