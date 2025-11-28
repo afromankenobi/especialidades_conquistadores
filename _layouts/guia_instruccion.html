@@ -44,77 +44,682 @@
       });
     </script>
 
+    <!-- Mejoras de UX móvil -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // ============================================
+        // BOTÓN DE SCROLL TO TOP
+        // ============================================
+        const scrollTopBtn = document.createElement('button');
+        scrollTopBtn.className = 'nav-btn scroll-top';
+        scrollTopBtn.innerHTML = '↑';
+        scrollTopBtn.setAttribute('aria-label', 'Volver arriba');
+        scrollTopBtn.style.display = 'none';
+        
+        const floatingNav = document.createElement('div');
+        floatingNav.className = 'floating-nav';
+        floatingNav.appendChild(scrollTopBtn);
+        document.body.appendChild(floatingNav);
+
+        // Mostrar/ocultar botón según scroll
+        let scrollTimeout;
+        window.addEventListener('scroll', function() {
+          clearTimeout(scrollTimeout);
+          scrollTimeout = setTimeout(function() {
+            if (window.pageYOffset > 300) {
+              scrollTopBtn.style.display = 'flex';
+            } else {
+              scrollTopBtn.style.display = 'none';
+            }
+          }, 100);
+        });
+
+        scrollTopBtn.addEventListener('click', function() {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // ============================================
+        // ENVOLVER TABLAS EN CONTENEDOR SCROLLABLE
+        // ============================================
+        const tables = document.querySelectorAll('table');
+        tables.forEach(function(table) {
+          if (!table.parentElement.classList.contains('table-wrapper')) {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'table-wrapper';
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+          }
+        });
+
+        // ============================================
+        // LAZY LOADING PARA IMÁGENES
+        // ============================================
+        if ('loading' in HTMLImageElement.prototype) {
+          const images = document.querySelectorAll('img');
+          images.forEach(img => {
+            if (!img.getAttribute('loading')) {
+              img.setAttribute('loading', 'lazy');
+            }
+          });
+        }
+
+        // ============================================
+        // MEJORAR ENLACES EXTERNOS
+        // ============================================
+        const links = document.querySelectorAll('a[href^="http"]');
+        links.forEach(function(link) {
+          if (!link.hostname.includes(window.location.hostname)) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+
+        // ============================================
+        // DETECCIÓN DE TOQUE PARA OPTIMIZACIÓN
+        // ============================================
+        let isTouch = false;
+        window.addEventListener('touchstart', function() {
+          isTouch = true;
+          document.body.classList.add('touch-device');
+        }, { once: true });
+
+        // ============================================
+        // NAVEGACIÓN ENTRE SECCIONES (H2)
+        // ============================================
+        const headings = document.querySelectorAll('h2');
+        if (headings.length > 3 && window.innerWidth <= 768) {
+          // Crear índice móvil solo si hay suficientes secciones
+          const tocBtn = document.createElement('button');
+          tocBtn.className = 'nav-btn toc-btn';
+          tocBtn.innerHTML = '☰';
+          tocBtn.setAttribute('aria-label', 'Índice de contenido');
+          
+          const tocMenu = document.createElement('div');
+          tocMenu.className = 'toc-menu';
+          tocMenu.style.cssText = `
+            position: fixed;
+            top: 0;
+            right: -100%;
+            width: 80%;
+            max-width: 300px;
+            height: 100vh;
+            background-color: var(--bg-color);
+            box-shadow: -4px 0 12px var(--shadow);
+            padding: 20px;
+            overflow-y: auto;
+            transition: right 0.3s ease;
+            z-index: 1001;
+          `;
+
+          const tocHeader = document.createElement('div');
+          tocHeader.style.cssText = `
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border-color);
+          `;
+          
+          const tocTitle = document.createElement('h3');
+          tocTitle.textContent = 'Índice';
+          tocTitle.style.margin = '0';
+          
+          const closeBtn = document.createElement('button');
+          closeBtn.textContent = '✕';
+          closeBtn.style.cssText = `
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--text-color);
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          `;
+
+          tocHeader.appendChild(tocTitle);
+          tocHeader.appendChild(closeBtn);
+          tocMenu.appendChild(tocHeader);
+
+          const tocList = document.createElement('ul');
+          tocList.style.cssText = `
+            list-style: none;
+            padding: 0;
+            margin: 0;
+          `;
+
+          headings.forEach(function(heading, index) {
+            const id = heading.id || 'section-' + index;
+            if (!heading.id) heading.id = id;
+
+            const li = document.createElement('li');
+            li.style.marginBottom = '10px';
+            
+            const link = document.createElement('a');
+            link.href = '#' + id;
+            link.textContent = heading.textContent;
+            link.style.cssText = `
+              display: block;
+              padding: 10px;
+              color: var(--text-color);
+              text-decoration: none;
+              border-radius: 6px;
+              transition: background-color 0.2s;
+            `;
+            link.addEventListener('mouseover', function() {
+              this.style.backgroundColor = 'var(--bg-secondary)';
+            });
+            link.addEventListener('mouseout', function() {
+              this.style.backgroundColor = 'transparent';
+            });
+            link.addEventListener('click', function(e) {
+              e.preventDefault();
+              tocMenu.style.right = '-100%';
+              document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+            });
+
+            li.appendChild(link);
+            tocList.appendChild(li);
+          });
+
+          tocMenu.appendChild(tocList);
+          document.body.appendChild(tocMenu);
+          
+          floatingNav.insertBefore(tocBtn, scrollTopBtn);
+
+          tocBtn.addEventListener('click', function() {
+            tocMenu.style.right = '0';
+          });
+
+          closeBtn.addEventListener('click', function() {
+            tocMenu.style.right = '-100%';
+          });
+
+          // Cerrar al hacer clic fuera
+          document.addEventListener('click', function(e) {
+            if (!tocMenu.contains(e.target) && !tocBtn.contains(e.target) && tocMenu.style.right === '0px') {
+              tocMenu.style.right = '-100%';
+            }
+          });
+        }
+
+        // ============================================
+        // INDICADOR DE PROGRESO DE LECTURA
+        // ============================================
+        const progressBar = document.createElement('div');
+        progressBar.style.cssText = `
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 0%;
+          height: 4px;
+          background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+          z-index: 9999;
+          transition: width 0.2s ease;
+        `;
+        document.body.appendChild(progressBar);
+
+        window.addEventListener('scroll', function() {
+          const windowHeight = window.innerHeight;
+          const documentHeight = document.documentElement.scrollHeight - windowHeight;
+          const scrolled = (window.pageYOffset / documentHeight) * 100;
+          progressBar.style.width = scrolled + '%';
+        });
+      });
+    </script>
+
     <style>
-      /* Estilos base para pantalla */
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        line-height: 1.6;
-        color: #333;
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 20px;
+      /* ============================================
+         VARIABLES CSS PARA TEMAS
+         ============================================ */
+      :root {
+        --primary-color: #3498db;
+        --primary-dark: #2980b9;
+        --secondary-color: #2ecc71;
+        --text-color: #2c3e50;
+        --text-light: #34495e;
+        --bg-color: #ffffff;
+        --bg-secondary: #f8f9fa;
+        --border-color: #e1e4e8;
+        --code-bg: #f6f8fa;
+        --shadow: rgba(0, 0, 0, 0.1);
+        --header-height: 60px;
       }
 
+      /* Dark Mode */
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --primary-color: #5dade2;
+          --primary-dark: #3498db;
+          --secondary-color: #52c77e;
+          --text-color: #e8e8e8;
+          --text-light: #b8b8b8;
+          --bg-color: #1a1a1a;
+          --bg-secondary: #2d2d2d;
+          --border-color: #404040;
+          --code-bg: #2d2d2d;
+          --shadow: rgba(0, 0, 0, 0.3);
+        }
+      }
+
+      /* ============================================
+         ESTILOS BASE - MOBILE FIRST
+         ============================================ */
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        line-height: 1.7;
+        color: var(--text-color);
+        background-color: var(--bg-color);
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+        overflow-x: hidden;
+      }
+
+      /* ============================================
+         CONTENEDOR PRINCIPAL
+         ============================================ */
+      .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 16px;
+      }
+
+      /* Tablets */
+      @media (min-width: 768px) {
+        .container {
+          max-width: 720px;
+          padding: 24px;
+        }
+      }
+
+      /* Desktop */
+      @media (min-width: 1024px) {
+        .container {
+          max-width: 900px;
+          padding: 32px;
+        }
+      }
+
+      /* ============================================
+         TIPOGRAFÍA RESPONSIVE
+         ============================================ */
+      h1 {
+        font-size: 1.75rem;
+        line-height: 1.2;
+        margin: 1.5rem 0 1rem;
+        color: var(--text-color);
+        font-weight: 700;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin: 2rem 0 1rem;
+        color: var(--text-color);
+        border-bottom: 3px solid var(--primary-color);
+        padding-bottom: 0.5rem;
+        font-weight: 600;
+      }
+
+      h3 {
+        font-size: 1.25rem;
+        line-height: 1.4;
+        margin: 1.5rem 0 0.75rem;
+        color: var(--text-light);
+        font-weight: 600;
+      }
+
+      h4 {
+        font-size: 1.1rem;
+        line-height: 1.4;
+        margin: 1.25rem 0 0.5rem;
+        color: var(--text-light);
+        font-weight: 600;
+      }
+
+      /* Tablets y Desktop - Tipografía más grande */
+      @media (min-width: 768px) {
+        h1 { font-size: 2.25rem; }
+        h2 { font-size: 1.75rem; }
+        h3 { font-size: 1.4rem; }
+        h4 { font-size: 1.15rem; }
+      }
+
+      p {
+        margin: 0 0 1rem;
+        line-height: 1.7;
+      }
+
+      /* ============================================
+         IMÁGENES Y MULTIMEDIA
+         ============================================ */
       img {
         max-width: 100%;
         height: auto;
+        border-radius: 8px;
+        display: block;
+        margin: 1.5rem auto;
       }
 
       .mermaid {
         text-align: center;
-        margin: 20px 0;
+        margin: 1.5rem 0;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      /* ============================================
+         TABLAS RESPONSIVE
+         ============================================ */
+      .table-wrapper {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 1.5rem 0;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px var(--shadow);
       }
 
       table {
         border-collapse: collapse;
         width: 100%;
-        margin: 20px 0;
+        min-width: 300px;
+        background-color: var(--bg-color);
       }
 
       table, th, td {
-        border: 1px solid #ddd;
+        border: 1px solid var(--border-color);
       }
 
       th, td {
         padding: 12px;
         text-align: left;
+        font-size: 0.95rem;
       }
 
       th {
-        background-color: #f2f2f2;
+        background-color: var(--bg-secondary);
+        font-weight: 600;
+        position: sticky;
+        top: 0;
+        z-index: 10;
       }
 
+      @media (max-width: 767px) {
+        th, td {
+          padding: 8px;
+          font-size: 0.9rem;
+        }
+      }
+
+      /* ============================================
+         CÓDIGO
+         ============================================ */
       code {
-        background-color: #f4f4f4;
+        background-color: var(--code-bg);
+        color: var(--text-color);
         padding: 2px 6px;
-        border-radius: 3px;
-        font-family: 'Courier New', monospace;
+        border-radius: 4px;
+        font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+        font-size: 0.9em;
+        border: 1px solid var(--border-color);
       }
 
       pre {
-        background-color: #f4f4f4;
+        background-color: var(--code-bg);
         padding: 16px;
-        border-radius: 6px;
+        border-radius: 8px;
         overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 1.5rem 0;
+        border: 1px solid var(--border-color);
       }
 
       pre code {
         background-color: transparent;
         padding: 0;
+        border: none;
       }
 
-      h2 {
-        margin-top: 30px;
-        margin-bottom: 15px;
-        color: #2c3e50;
-        border-bottom: 2px solid #3498db;
-        padding-bottom: 8px;
+      /* ============================================
+         LISTAS
+         ============================================ */
+      ul, ol {
+        margin: 0 0 1rem;
+        padding-left: 1.5rem;
       }
 
-      h3 {
-        margin-top: 20px;
-        margin-bottom: 10px;
-        color: #34495e;
+      li {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+      }
+
+      /* ============================================
+         ENLACES
+         ============================================ */
+      a {
+        color: var(--primary-color);
+        text-decoration: none;
+        transition: color 0.2s ease;
+      }
+
+      a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+      }
+
+      a:active {
+        opacity: 0.7;
+      }
+
+      /* ============================================
+         BLOCKQUOTES
+         ============================================ */
+      blockquote {
+        margin: 1.5rem 0;
+        padding: 1rem 1rem 1rem 1.5rem;
+        border-left: 4px solid var(--primary-color);
+        background-color: var(--bg-secondary);
+        border-radius: 0 8px 8px 0;
+        font-style: italic;
+      }
+
+      /* ============================================
+         BOTONES Y ELEMENTOS INTERACTIVOS
+         ============================================ */
+      .btn {
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: var(--primary-color);
+        color: white;
+        border-radius: 8px;
+        text-align: center;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        border: none;
+        cursor: pointer;
+        min-height: 44px; /* Touch target size */
+      }
+
+      .btn:hover {
+        background-color: var(--primary-dark);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px var(--shadow);
+      }
+
+      .btn:active {
+        transform: translateY(0);
+      }
+
+      /* ============================================
+         NAVEGACIÓN FLOTANTE
+         ============================================ */
+      .floating-nav {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .nav-btn {
+        width: 50px;
+        height: 50px;
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        box-shadow: 0 4px 12px var(--shadow);
+        cursor: pointer;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+      }
+
+      .nav-btn:hover {
+        background-color: var(--primary-dark);
+        transform: scale(1.1);
+      }
+
+      .nav-btn:active {
+        transform: scale(0.95);
+      }
+
+      /* ============================================
+         SECCIONES COLAPSABLES
+         ============================================ */
+      details {
+        margin: 1rem 0;
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        overflow: hidden;
+      }
+
+      summary {
+        padding: 1rem;
+        background-color: var(--bg-secondary);
+        cursor: pointer;
+        font-weight: 600;
+        user-select: none;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 44px; /* Touch target */
+      }
+
+      summary::-webkit-details-marker {
+        display: none;
+      }
+
+      summary::after {
+        content: '▼';
+        font-size: 0.8em;
+        transition: transform 0.3s ease;
+      }
+
+      details[open] summary::after {
+        transform: rotate(-180deg);
+      }
+
+      details > *:not(summary) {
+        padding: 1rem;
+      }
+
+      /* ============================================
+         HEADER DE ESPECIALIDAD
+         ============================================ */
+      .especialidad-header {
+        background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+        color: white;
+        padding: 2rem 1rem;
+        border-radius: 12px;
+        margin-bottom: 2rem;
+        text-align: center;
+        box-shadow: 0 4px 12px var(--shadow);
+      }
+
+      .especialidad-header h1 {
+        color: white;
+        margin: 0.5rem 0;
+      }
+
+      .especialidad-header img {
+        max-width: 100px;
+        margin: 0 auto 1rem;
+      }
+
+      /* ============================================
+         BADGES Y ETIQUETAS
+         ============================================ */
+      .badge {
+        display: inline-block;
+        padding: 4px 10px;
+        background-color: var(--bg-secondary);
+        border-radius: 12px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin: 4px;
+      }
+
+      /* ============================================
+         UTILIDADES
+         ============================================ */
+      .text-center {
+        text-align: center;
+      }
+
+      .mt-1 { margin-top: 0.5rem; }
+      .mt-2 { margin-top: 1rem; }
+      .mt-3 { margin-top: 1.5rem; }
+      .mb-1 { margin-bottom: 0.5rem; }
+      .mb-2 { margin-bottom: 1rem; }
+      .mb-3 { margin-bottom: 1.5rem; }
+
+      .p-1 { padding: 0.5rem; }
+      .p-2 { padding: 1rem; }
+      .p-3 { padding: 1.5rem; }
+
+      /* ============================================
+         MEJORAS DE ACCESIBILIDAD
+         ============================================ */
+      :focus-visible {
+        outline: 3px solid var(--primary-color);
+        outline-offset: 2px;
+      }
+
+      /* Asegurar buen contraste */
+      ::selection {
+        background-color: var(--primary-color);
+        color: white;
+      }
+
+      /* ============================================
+         OPTIMIZACIONES DE RENDIMIENTO
+         ============================================ */
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+          scroll-behavior: auto !important;
+        }
       }
 
       /* Estilos de impresión optimizados para INSTRUCCIÓN */
@@ -309,6 +914,8 @@
     </style>
   </head>
   <body>
-    {{ content }}
+    <div class="container">
+      {{ content }}
+    </div>
   </body>
 </html>
