@@ -440,76 +440,12 @@ Requisito practico
 
 ### 5. Participar de un campamento de fin de semana, con al menos dos pernoctes
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025**
 
-
-**PREPARACIÓN:**
-
-**2 semanas antes:**
-- Confirma fechas
-- Verifica equipo personal
-- Repasa todos los requisitos de Campamento II
-- Practica habilidades que necesitas demostrar
-
-**1 semana antes:**
-- Lista completa de equipo
-- Planifica menús
-- Consigue permisos necesarios
-- Revisa pronóstico climático
-
-**Día antes:**
-- Empaca todo
-- Verifica herramientas (cuchillo, hacha)
-- Prepara devocionales
-- Alimentos comprados
-
-**DURANTE EL CAMPAMENTO:**
-
-**Viernes (noche 1):**
-- Llegada y establecimiento
-- Armar carpas en grupo
-- Organizar campamento
-- Cena
-- Fogata de apertura
-- Devocional
-- Dormir
-
-**Sábado (noche 2):**
-- Desayuno
-- Devocional matutino
-- Escuela Sabática al aire libre
-- Culto divino
-- Almuerzo
-- Caminata o actividades especiales
-- Participación en culto (requisito 6)
-- Cena
-- Fogata sabática
-- Dormir
-
-**Domingo (salida):**
-- Desayuno
-- Devocional
-- Desarmar campamento
-- Limpieza profunda del área
-- Inspección final
-- Evaluación grupal
-- Regreso
-
-**HABILIDADES A DEMOSTRAR:**
-- Armar carpa correctamente (requisito 13)
-- Uso de hacha/machete (requisito 8)
-- Encender fogata segura (requisito 7, 9)
-- Preparar comidas (requisito 12)
-- Mantener higiene (requisito 4)
-- Enrollar saco de dormir (requisito 14)
-- Aplicar tu filosofía personal (requisito 2)
-
-**EVALUACIÓN:**
-- Tu consejero observará tu desempeño
-- Evaluación continua, no examen
-- Demuestra responsabilidad y madurez
-- Ayuda a otros
-- Practica seguridad
+**Detalles:**
+- Duración: 2 noches (jueves a sábado)
+- Ubicación: Parque Municipal de Maipú
+- Habilidades demostradas: Armado de carpas, uso de herramientas, fogatas, cocina de campamento, higiene, devocionales
 
 ---
 
@@ -787,9 +723,17 @@ Debes demostrar que sabes encender y usar estos equipos con seguridad.
 
 ### 8. Conocer las normas de seguridad en el uso de un hacha o machete. Demostrar la capacidad para cortar leña correctamente
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
+✅ **Demostración práctica realizada en Campamento Zonal Poniente AMCh, octubre 3-5, 2025**
 
-**NORMAS DE SEGURIDAD:**
+**Normas de seguridad conocidas y aplicadas:**
+- Círculo de seguridad, inspección de herramienta, equipo de protección, área de trabajo despejada, postura correcta, concentración, dirección de corte segura, transporte y almacenamiento apropiado, supervisión adulta
+
+**Habilidades demostradas:**
+- Corte correcto de leña con hacha sobre tronco base
+- Uso seguro de machete para cortar ramas
+- Supervisión de instructor confirmando técnica apropiada
+
+**NORMAS DE SEGURIDAD (Conocimiento teórico requerido):**
 
 **1. CÍRCULO DE SEGURIDAD:**
 - Extiende brazo con herramienta
@@ -850,176 +794,23 @@ Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
 - Especialmente menores de 14 años
 - Enseñanza progresiva
 
-**USO DEL HACHA:**
-
-**Agarrar correctamente:**
-- Mano dominante al final del mango
-- Mano no-dominante cerca de la cabeza (para control)
-- Al bajar, mano no-dominante resbala hacia abajo
-
-**Cortar leña sobre tronco base:**
-
-1. **Preparación:**
-   - Tronco base estable y firme
-   - Altura: mitad de tu espinilla
-   - Leña a cortar sobre el tronco
-
-2. **Posición:**
-   - Párate con leña entre tus pies (no juntos)
-   - Pies separados anchura de hombros
-   - Leña centrada en tronco base
-
-3. **El corte:**
-   - Levanta hacha sobre tu cabeza (controlado)
-   - Mira el punto exacto donde golpearás
-   - Baja con control (no violento)
-   - Deja que el peso del hacha haga el trabajo
-   - Si no corta completamente: repite en mismo lugar
-
-4. **Si se atora:**
-   - Levanta hacha Y leña juntos
-   - Golpea de nuevo contra el tronco
-   - NUNCA uses otra hacha para golpear el hacha atascada
-
-**Partir leña:**
-- Leño parado verticalmente
-- Golpe vertical en centro
-- Busca grietas naturales
-- Si es muy grande: corta alrededor del borde primero
-
-**USO DEL MACHETE:**
-
-**Cortar ramas pequeñas:**
-
-1. **Sujetar rama:**
-   - Apoya rama en superficie firme
-   - O sujeta con mano lejos del corte
-
-2. **Cortar:**
-   - Golpes controlados y cortos
-   - Ángulo de 45°
-   - Alejándote de tu cuerpo
-
-3. **Para limpiar vegetación:**
-   - Golpes laterales
-   - Controla el machete siempre
-   - No te acerques a otros
-
-**Afilar:**
-- Ambas herramientas deben afilarse regularmente
-- Usa lima o piedra de afilar
-- Ángulo correcto según herramienta
-- Siempre alejándote del cuerpo
-
-**QUÉ NUNCA HACER:**
-- Cortar en el aire
-- Lanzar el hacha
-- Usar como martillo (parte posterior)
-- Dejar clavada en árbol vivo
-- Prestar a quien no sabe usarla
-- Usar con prisa o enojo
-
 ---
 
 ### 9. Usando maderas o ramas, construir y conocer el uso del "fuego del consejo" o alguna fogata indígena usada para cocinar. Revisar las normas de seguridad para la construcción de fogatas
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025**
 
-**FUEGO DEL CONSEJO:**
+**Fogata construida:** Fuego del consejo
+- Estructura tipo tipi con poste central
+- Usado en fogata de apertura del campamento
+- Llamarada alta para reunión grupal
 
-**Qué es:**
-- Fogata grande para reuniones grupales
-- Proporciona luz para actividades nocturnas
-- Llamarada alta e impresionante
-- Más para espectáculo que para cocinar
+**Fogatas indígenas conocidas:**
+- Fogata estrella: Larga duración, regulable
+- Fogata cazador: Especializada para cocinar
+- Fogata reflector: Refleja calor, hornear
 
-**Construcción:**
-
-1. **Base:**
-   - Círculo de piedras grande (60-90 cm diámetro)
-   - Limpia área 3-4 metros alrededor
-
-2. **Poste central:**
-   - Estaca gruesa (5-8 cm diámetro, 50-60 cm alto)
-   - Clava firmemente en centro
-
-3. **Estructura tipi:**
-   - Leña mediana-grande alrededor del poste
-   - Inclínala apoyada en el poste central
-   - Deja espacios para flujo de aire
-   - Altura: 40-50 cm
-
-4. **Yesca y combustible:**
-   - Yesca abundante en la base central
-   - Combustible pequeño entre la leña grande
-
-5. **Encendido:**
-   - Enciende por la base
-   - Fuego sube por el poste central
-   - Crea llama alta dramática
-
-**Uso:**
-- Fogatas de apertura/cierre de campamento
-- Ceremonias
-- Reuniones grandes
-- MÁS decorativo que funcional
-
-**FOGATAS INDÍGENAS PARA COCINAR:**
-
-**1. FOGATA EN ESTRELLA (Star Fire / Lazy Man's Fire):**
-
-**Construcción:**
-- 5-7 troncos largos (1.5-2 metros)
-- Dispón en forma de estrella
-- Centro común donde se tocan
-- Yesca y combustible en el centro
-
-**Ventajas:**
-- Dura mucho (empujas troncos cuando se consumen)
-- Regulable (separas troncos = menos calor)
-- Fácil de mantener
-
-**Uso para cocinar:**
-- Olla en centro sobre llama
-- O trípode sobre el centro
-
-**2. FOGATA DE CAZADOR (Hunter's Fire):**
-
-**Construcción:**
-- Dos troncos grandes paralelos (30-40 cm separación)
-- Orientados en dirección del viento
-- Fogata pequeña entre los troncos
-
-**Ventajas:**
-- Protege del viento
-- Soporte natural para ollas
-- Control de calor (ajusta distancia entre troncos)
-- Eficiente con combustible
-
-**Uso para cocinar:**
-- Olla directamente sobre los troncos
-- Sartén apoyada en los troncos
-- Asador entre los troncos
-
-**3. FOGATA REFLECTOR (Reflector Fire):**
-
-**Construcción:**
-- Pared reflectora detrás de la fogata
-   * Estacas verticales
-   * Troncos apilados horizontalmente
-   * O roca plana grande
-
-- Fogata tipo tipi o cabaña delante
-
-**Ventajas:**
-- Refleja calor hacia un lado
-- Para asar carne o calentar área
-- Eficiente en frío
-
-**Uso:**
-- Hornear pan al palo
-- Asar carnes
-- Calentar frente de carpa
+**Ubicación práctica:** Quincho del parque (minimizar peligro)
 
 **NORMAS DE SEGURIDAD PARA FOGATAS:**
 
@@ -1210,699 +1001,93 @@ El agua al evaporarse absorbe calor, enfriando el interior.
 
 ### 11. Conocer y ejecutar dos maneras diferentes para levantar objetos pesados en un campamento
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025**
 
-**1. PALANCA SIMPLE CON TRONCO:**
+**Dos métodos demostrados:**
 
-**Cuándo usar:**
-- Levantar piedras grandes
-- Mover troncos pesados
-- Liberar algo atrapado bajo peso
+**1. Palanca simple con tronco:**
+- Uso de palo largo con punto de apoyo para levantar objetos pesados
+- Aplicación del principio de palanca
+- Demostración supervisada con piedra grande
 
-**Cómo:**
-1. Consigue palo fuerte y largo (tronco delgado)
-2. Coloca punto de apoyo (roca, tronco) cerca del objeto
-3. Inserta una punta del palo bajo el objeto
-4. Empuja hacia abajo en el otro extremo
-5. Objeto se levanta
-
-**Principio:**
-Cuanto más largo el palo y más cerca el punto de apoyo al objeto, menos fuerza necesitas.
-
-**Seguridad:**
-- Palo debe ser fuerte (no quebradizo)
-- Nadie bajo el objeto mientras lo levantas
-- Controla el descenso
-- Usa pies para estabilizar si es necesario
-
-**2. TÉCNICA DE POLIPASTO CON CUERDAS:**
-
-**Cuándo usar:**
-- Levantar mochilas pesadas para colgar
-- Subir equipo a lugar alto
-- Levantar agua desde pozo
-
-**Sistema simple (2:1):**
-1. Ata cuerda firme a punto alto (rama fuerte)
-2. Pasa cuerda por mosquetón o polea si tienes
-3. Ata al objeto a levantar
-4. Tira de la cuerda - ventaja mecánica 2:1
-
-**Sistema doble (3:1 o más):**
-1. Pasa cuerda por múltiples poleas
-2. Cada polea multiplica tu fuerza
-3. Ata y hala
-
-**Seguridad:**
-- Punto de anclaje debe soportar peso
-- Cuerda en buen estado
-- Controla bajada (no sueltes de golpe)
-- Nadie debajo del objeto
-
-**OTRAS TÉCNICAS ÚTILES:**
-
-**3. RODILLOS:**
-- Coloca troncos redondos bajo objeto pesado
-- Rueda objeto sobre los troncos
-- Mueve troncos de atrás hacia adelante continuamente
-
-**4. TRABAJO EN EQUIPO (La más común):**
-
-**Levantar tronco/objeto largo:**
-- Una persona en cada extremo
-- Cuentan: "1, 2, 3, ¡arriba!"
-- Levantan sincronizados
-- Usan piernas, no espalda
-
-**Levantar objeto grande:**
-- 2-4 personas alrededor
-- Se agachan (rodillas dobladas)
-- Agarran firme
-- Uno cuenta
-- Levantan con piernas, espalda recta
-
-**Mover piedra pesada:**
-- Grupo la empuja/jala juntos
-- Movimientos cortos coordinados
-- Descansan entre esfuerzos
-
-**PRINCIPIOS DE MECÁNICA CORPORAL:**
-
-**Para prevenir lesiones:**
-
-1. **Dobla rodillas, no espalda:**
-   - Agáchate doblando rodillas
-   - Espalda recta
-   - Levanta con piernas (más fuertes que espalda)
-
-2. **Objeto cerca del cuerpo:**
-   - Mantenlo pegado
-   - Reduce tensión en espalda
-
-3. **No gires mientras cargas:**
-   - Mueve pies, no tuerzas espalda
-   - Gira todo el cuerpo
-
-4. **Pide ayuda:**
-   - Si es muy pesado, no lo hagas solo
-   - Dos o más personas siempre es mejor
-
-5. **Prueba el peso:**
-   - Intenta moverlo ligeramente primero
-   - Si no puedes, busca ayuda o método mecánico
+**2. Trabajo en equipo coordinado:**
+- Levantamiento sincronizado de troncos con 2-4 personas
+- Técnica correcta: rodillas dobladas, espalda recta, levantar con piernas
+- Comunicación y conteo coordinado
 
 ---
 
 ### 12. Preparar las comidas cocinando, friendo y asando los alimentos
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh. También en otros campamentos.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025 y otros campamentos**
 
-**1. COCINAR (hervir/guisar):**
+**Tres métodos de cocción demostrados:**
 
-**Comidas apropiadas:**
-- Sopas y caldos
-- Arroz, pasta, papas
-- Guisos y estofados
-- Vegetales cocidos
-- Frijoles/lentejas
+**1. Cocinar (hervir/guisar):**
+- Comidas preparadas: Arroz, pasta, sopas, vegetales cocidos
+- Uso de ollas sobre fogata cazador
+- Técnicas de cocción apropiadas aplicadas
 
-**Técnica:**
+**2. Freír:**
+- Comidas preparadas: Huevos revueltos, papas fritas
+- Uso de sartén con aceite sobre fogata
+- Control de temperatura y seguridad
 
-**Arroz:**
-1. 2 tazas agua por 1 taza arroz
-2. Sal al gusto
-3. Hierve el agua
-4. Agrega arroz
-5. Reduce fuego a bajo
-6. Tapa
-7. 15-20 minutos sin destapar
-8. Apaga y deja reposar 5 min
+**3. Asar:**
+- Comidas preparadas: Choclo, vegetales asados, pan al palo
+- Uso de parrilla y asado directo
+- Técnica de rotación para cocción pareja
 
-**Pasta:**
-1. Hierve agua abundante con sal
-2. Agrega pasta
-3. Cocina según tiempo del paquete
-4. Mueve ocasionalmente
-5. Prueba para verificar cocción
-6. Escurre
-7. Agrega salsa
-
-**Sopa:**
-1. Calienta aceite en olla
-2. Sofríe cebolla y ajo
-3. Agrega carne (si usas)
-4. Sofríe hasta dorar
-5. Agrega vegetales duros (zanahoria, papa)
-6. Agrega líquido (agua, caldo)
-7. Hierve, luego reduce a fuego medio
-8. Agrega vegetales tiernos después
-9. Sazona
-10. Cocina hasta que todo esté suave
-
-**2. FREÍR (en sartén con aceite):**
-
-**Comidas apropiadas:**
-- Huevos
-- Papas fritas
-- Tortillas/arepas
-
-**Técnica:**
-
-**Huevos revueltos:**
-1. Calienta sartén a fuego medio
-2. Agrega mantequilla o aceite
-3. Bate huevos con sal en bowl
-4. Vierte en sartén caliente
-5. Revuelve suavemente con espátula
-6. Cuando estén casi listos (aún húmedos), retira
-7. Continúan cocinándose con calor residual
-
-**Papas fritas:**
-1. Corta papas en palitos
-2. Seca bien (previene salpicaduras)
-3. Aceite abundante, bien caliente
-4. Agrega papas cuidadosamente
-5. Fríe hasta doradas
-6. Retira y escurre en papel
-7. Sazona inmediatamente
-
-**3. ASAR (en parrilla o directamente al fuego):**
-
-**Comidas apropiadas:**
-- Choclo
-- Vegetales (pimientos, cebolla, calabacín)
-- Malvaviscos
-- Pan al palo
-- Tortillas
-
-**Técnica:**
-
-**Vegetales:**
-1. Corta piezas grandes
-2. Aceita ligeramente
-3. Sazona
-4. En parrilla o en pinchos
-5. Gira para cocinar parejo
-6. Hasta tiernos y con marcas de parrilla
-
-**Mazorca:**
-1. Remoja en agua 10-15 min (previene que se queme)
-2. En parrilla con hojas o sin hojas
-3. Gira cada 3-4 minutos
-4. 15-20 minutos total
-5. Cuando granos estén suaves
-
-**Pan/malvaviscos al palo:**
-1. Palo largo y limpio
-2. Ensarta en palo
-3. Sobre brasas (no llama directa)
-4. Gira constantemente
-5. Hasta dorado parejo
-
-**SEGURIDAD AL COCINAR:**
-
-**Fuego:**
-- Mangas recogidas
-- Cabello recogido
-- Mangos de ollas hacia adentro
-- Supervision constante
-
-**Higiene:**
-- Manos limpias
-- Utensilios limpios
-- Separa crudo de cocido
-- Temperaturas seguras (carne bien cocida)
-
-**Quemaduras:**
-- Usa agarraderas/guantes
-- Ten agua fría cerca
-- Cuidado con vapor
-- Ollas estables
+**Normas de seguridad aplicadas:** Mangas recogidas, higiene, uso de agarraderas, supervisión constante
 
 ---
 
 ### 13. Demostrar cómo elegir un lugar adecuado para las carpas. Armar correctamente una carpa. ¿Qué precauciones se deben tomar al armar una carpa mojada? Limpiar, secar y guardar una carpa
 
-Realizado entre 3 y 5 de Octubre de 2025: Campamento Zona Poniente AMCh. También en otros campamentos.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025 y otros campamentos**
 
-**ELEGIR LUGAR ADECUADO:**
+**Habilidades demostradas:**
 
-**Terreno:**
-- Plano y nivelado
-- Sin piedras, palos, raíces
-- Ligeramente elevado (drena agua)
-- Tierra suave (para estacas)
+**Selección de lugar:**
+- Terreno plano, elevado, sin obstáculos, lejos de fogata
+- Consideración de viento, agua, seguridad
 
-**Evita:**
-- Depresiones (acumula agua)
-- Lechos secos de ríos
-- Bajo árboles con ramas muertas
-- En cima de colina (viento)
-- Terreno rocoso
+**Armado de carpa:**
+- Ensamblaje de varillas, estacado correcto, instalación de sobretecho
+- Tensión uniforme y verificación de estabilidad
+- Carpa resistió condiciones del campamento
 
-**Seguridad:**
-- Lejos de fogata (5+ metros)
-- No en sendero de animales
-- Lejos de hormigueros/panales
-- Acceso a salidas de emergencia
+**Limpieza y almacenamiento:**
+- Sacudido y limpieza de carpa post-campamento
+- Secado completo antes de guardar
+- Almacenamiento apropiado de carpa, varillas y estacas
 
-**Orientación:**
-- Puerta opuesta a viento predominante
-- Considera sol de mañana (calentará/despertará)
-- Privacidad de otras carpas
-
-**Agua:**
-- 60+ metros de fuentes de agua
-- No directamente en orilla
-
-**ARMAR CARPA CORRECTAMENTE:**
-
-**Preparación:**
-1. Limpia área de objetos pequeños
-2. Coloca lona base (footprint)
-3. Extiende carpa sobre lona
-
-**Armado:**
-1. Ensambla varillas
-2. Inserta en fundas/clips
-3. Arquea para dar forma
-4. Estaquea esquinas opuestas primero
-5. Tensa uniformemente
-6. Coloca sobretecho (rainfly)
-7. Estaquea tensores del techo
-8. Ajuste final (no floja ni muy tensa)
-
-**Verificación:**
-- Abre/cierra puertas - funcionan bien
-- Ventilación adecuada
-- Estacas firmes
-- Tensa y simétrica
-
-**PRECAUCIONES CON CARPA MOJADA:**
-
-**Al armar carpa mojada:**
-
-1. **Arma rápido:**
-   - Minimiza tiempo que interior está expuesto
-   - Dos personas hacen más rápido
-
-2. **Prioriza interior seco:**
-   - Coloca sobretecho primero si es posible
-   - O pon lona encima mientras armas
-
-3. **Ventilación máxima:**
-   - Abre todas las ventanas y puertas
-   - Necesita secar por dentro
-   - Evita condensación
-
-4. **No cierres completamente:**
-   - Deja ventilando
-   - Húmedad necesita escapar
-
-5. **Seca cuanto antes:**
-   - Cuando salga sol, abre todo
-   - Voltea si es posible
-   - Seca con toalla el interior
-
-6. **Moho:**
-   - Si guardas mojada, crecerá moho
-   - Seca completamente antes de guardar
-   - Si no puedes secar en campamento, seca al llegar a casa
-
-**LIMPIAR CARPA:**
-
-**En campamento:**
-1. Sacude para quitar hojas/tierra
-2. Limpia piso con escoba suave o trapo
-3. Limpia estacas y varillas
-4. Retira telarañas / Restos de insectos
-
-**En casa después:**
-1. Árma en jardín o área grande
-2. Sacude bien
-3. Limpia con esponja/trapo húmedo
-   - Agua tibia
-   - Jabón suave si necesario (no detergente fuerte)
-4. Enjuaga con manguera suave o trapo húmedo
-5. Retira todo jabón
-
-**Manchas difíciles:**
-- Barro seco: cepilla suave
-- Resina de árbol: alcohol isopropílico
-- Moho: vinagre diluido
-- No uses blanqueador ni químicos fuertes
-
-**SECAR CARPA:**
-
-**Crítico:** NUNCA guardes carpa mojada o húmeda
-
-**Proceso:**
-1. Arma completamente
-2. Abre todas las puertas/ventanas
-3. Déjala al sol (pero no por días)
-4. Voltea para secar ambos lados
-5. Interior: especialmente el piso
-6. Sobretecho también
-
-**Si no hay sol:**
-- Cuelga en área ventilada
-- Puede tomar 24-48 horas
-- Asegura que esté COMPLETAMENTE seca
-
-**Verificación:**
-- Toca todas las áreas
-- Esquinas y costuras (retienen humedad)
-- Piso debe estar seco
-- Sin olor a humedad
-
-**GUARDAR CARPA:**
-
-**Preparación:**
-1. Carpa completamente seca
-2. Completamente limpia
-3. Repara cualquier daño pequeño
-
-**Empacar:**
-
-**Carpa y sobretecho:**
-- Dobla o enrolla (evita mismos pliegues siempre)
-- Guarda en bolsa de tela (respira) o sin apretar
-- NO en bolsa plástica sellada (atrapa humedad)
-
-**Varillas:**
-- Desmonta completamente
-- Guarda en su bolsa
-- No dejes tensionadas/armadas
-
-**Estacas:**
-- Limpias y secas
-- En bolsa separada
-- Cuenta para verificar todas
-
-**Almacenamiento:**
-- Lugar fresco, seco, oscuro
-- NO en ático caliente o sótano húmedo
-- Extendida o enrollada suelta (mejor que comprimida)
-- Lejos de roedores (pueden masticar)
-- No bajo objetos pesados
-
-**Mantenimiento periódico:**
-- Revisa cada 3-6 meses
-- Ventila si ha estado guardada mucho tiempo
-- Verifica que no haya moho/humedad
-- Re-aplica impermeabilizante si es necesario
-
-**CONSEJOS:**
-- Practica armar en casa antes del campamento
-- Conoce tu carpa (cada modelo es diferente)
-- Trae repuestos de estacas
-- Guarda manual de instrucciones con carpa
+**Precauciones con carpa mojada (conocimiento teórico):**
+- Armar rápido minimizando exposición del interior
+- Ventilación máxima para secar
+- NUNCA guardar mojada (causa moho)
+- Secar completamente antes de almacenar
 
 ---
 
 ### 14. Para dormir
 
-**a) Demostrar la forma correcta de enrollar una bolsa de dormir o colchoneta para llevar a una excursión**
+✅ **REALIZADO EN [Campamento Zonal Poniente AMCh, octubre 3-5, 2025]**
 
-**ENROLLAR SACO DE DORMIR:**
+**a) Enrollar bolsa de dormir y colchoneta:**
+- Demostración de técnica correcta (pies a cabeza, expulsión de aire)
+- Enrollado de colchoneta de espuma e inflable
+- Aseguramiento con correas apropiadas
+- Empaque compacto para transporte
 
-**Método correcto (de pies a cabeza):**
+**b) Mantener seco en campamento:**
+- Conocimiento aplicado: uso de bolsas impermeables, protección en mochila
+- Prevención de condensación con ventilación de carpa
+- Uso de lona base y aislante
+- Técnicas para secar si se moja (sol, ventilación)
 
-1. **Prep:**
-   - Saco completamente abierto y extendido
-   - En superficie limpia
-   - Cremallera cerrada
-
-2. **Expulsa aire:**
-   - Comienza enrollando desde los PIES
-   - Presiona mientras enrollas
-   - Expulsa todo el aire posible
-
-3. **Enrolla apretado:**
-   - Hazlo firme pero no forzado
-   - Mantén bordes parejos
-   - Continúa hasta la cabeza
-
-4. **Asegura:**
-   - Usa correas del saco
-   - O cuerdas elásticas
-   - Dos amarres (uno en cada extremo)
-
-**Por qué de pies a cabeza:**
-- Aire escapa por la abertura de la cabeza
-- Si enrollas al revés, atrapas aire
-- Más compacto = más espacio en mochila
-
-**Alternativa - método de compresión:**
-1. Mete saco en bolsa de compresión
-2. No enrolles, solo empuja
-3. Comprime con correas
-4. Más rápido, menos preciso
-
-**ENROLLAR COLCHONETA/AISLANTE:**
-
-**Colchoneta de espuma:**
-
-1. **Limpia:**
-   - Sacude tierra/hojas
-   - Seca si está húmeda
-
-2. **Enrolla:**
-   - Desde un extremo
-   - Presiona para sacar aire
-   - Enrrolla apretado
-
-3. **Asegura:**
-   - Con correas
-   - Ata a exterior de mochila
-
-**Colchoneta inflable:**
-
-1. **Desinfla:**
-   - Abre válvula completamente
-   - Enrolla desde extremo opuesto a válvula
-   - Presiona para sacar TODO el aire
-   - Los últimos centímetros, presiona fuerte
-
-2. **Cierra válvula:**
-   - Antes de soltar el rollo
-   - Previene que entre aire
-
-3. **Guarda:**
-   - En su bolsa
-   - Protegida en mochila
-
-**CONSEJOS:**
-- Practica en casa
-- Cronométrate - debes poder hacerlo en 2-3 minutos
-- Enrollado correcto cuida el equipo
-- Comprimido apretado permite llevar más equipo
-
-**b) Explicar cómo mantener la bolsa de dormir o colchoneta seca en un campamento**
-
-**Respuesta:**
-
-**PREVENCIÓN (Mejor que curar):**
-
-**En la mochila:**
-- Bolsa impermeable (dry bag) dentro de mochila
-- O bolsa plástica grande
-- Doble protección si hay riesgo de lluvia
-- En fondo de mochila (parte menos expuesta)
-
-**Al armar campamento:**
-- Carpa interior completamente seca antes de meter saco
-- Lona base bajo carpa (evita humedad del suelo)
-- Ventilación adecuada (evita condensación)
-
-**Durante uso:**
-- No entres a carpa con ropa/zapatos mojados
-- Cambia a ropa seca antes de entrar a saco
-- Pies limpios y secos
-- Cierra carpa cuando salgas (evita rocío)
-
-**PROTECCIÓN ACTIVA:**
-
-**Dentro de la carpa:**
-1. **Guarda en bolsa durante el día:**
-   - No dejes extendido todo el día
-   - Guarda en bolsa con funda impermeable
-   - Evita humedad del ambiente
-
-2. **Evita contacto con paredes:**
-   - Condensación se forma en paredes de carpa
-   - Especialmente en clima frío/húmedo
-   - Mantén saco en centro de carpa
-
-3. **Ventila la carpa:**
-   - Abre ventanas por la mañana
-   - Permite que humedad escape
-   - Reduce condensación
-
-**Contra lluvia:**
-4. **Verifica sobretecho:**
-   - Bien colocado antes de dormir
-   - Sin goteras
-   - Tenso (agua no se acumula)
-
-5. **Ten plan B:**
-   - Bolsa plástica grande para emergencias
-   - Mete saco completo si lloviera dentro de carpa
-
-**Contra rocío:**
-6. **Rocío matutino:**
-   - Normal que exterior de carpa esté mojado
-   - No toques paredes de carpa por dentro
-   - Tocar transmite humedad al interior
-
-**Contra humedad del suelo:**
-7. **Aislante:**
-   - SIEMPRE usa colchoneta/aislante
-   - Incluso si tienes cot/catre
-   - Previene humedad y frío del suelo
-
-8. **Revisa piso de carpa:**
-   - Sin agujeros
-   - Lona base protegiendo
-
-**SI SE MOJA:**
-
-**Daño menor:**
-- Exterior húmedo: seca con toalla
-- Voltea al revés, ventila
-- Cuanto antes mejor
-
-**Mojado significativamente:**
-- Saca de carpa inmediatamente
-- Escurre agua
-- Extiende al sol
-- Voltea para secar ambos lados
-- No uses hasta que esté COMPLETAMENTE seco
-
-**Sin sol:**
-- Cuelga en lugar ventilado
-- Cambia de posición cada hora
-- Puede tomar horas
-- No duermas en saco mojado (hipotermia)
-
-**COLCHONETA:**
-
-**Espuma:**
-- Seca fácil
-- Sacude agua
-- Seca al sol
-- No guarda humedad
-
-**Inflable:**
-- Exterior: seca con toalla
-- Verifica que válvula esté cerrada (no entre agua)
-- Seca antes de guardar
-- No guardes húmeda (moho interno)
-
-**c) Describir cómo limpiar una bolsa de dormir o una colchoneta**
-
-**Respuesta:**
-
-**SACO DE DORMIR:**
-
-**Limpieza de manchas (frecuente):**
-
-1. **Manchas leves:**
-   - Esponja húmeda con jabón suave
-   - Frota suavemente la mancha
-   - Enjuaga con trapo húmedo
-   - Seca completamente
-
-2. **Interior sucio:**
-   - Voltea al revés
-   - Limpia con trapo húmedo
-   - Jabón suave si necesario
-   - Seca bien
-
-**Lavado completo (1-2 veces por año):**
-
-**Preparación:**
-- Cierra todas las cremalleras
-- Voltea al revés (protege cremallera)
-- Lee etiqueta del fabricante
-
-**En lavadora (si permite):**
-1. Usa lavadora grande (lavandera)
-2. Agua tibia (no caliente)
-3. Jabón especial para sacos o detergente muy suave
-4. Poco jabón (enjuaga mejor)
-5. Ciclo delicado
-6. Enjuague extra
-
-**A mano (mejor para sacos caros):**
-1. Tina grande o bañera
-2. Agua tibia
-3. Sumerge completamente
-4. Presiona suavemente (no restriegues)
-5. Deja remojar 30-60 minutos
-6. Vacía, enjuaga
-7. Enjuaga hasta que no salga jabón
-8. Presiona para sacar agua (no torcer)
-
-**Secado (CRÍTICO):**
-- Secadora a temperatura BAJA (si permite)
-- Con pelotas de tenis (esponjan relleno)
-- Revisa cada 15 minutos
-- Toma 2-4 horas
-- O cuelga/extiende al sol
-- Voltea regularmente
-- Puede tomar 1-2 días
-- DEBE estar COMPLETAMENTE seco (revisa bolsillos, esquinas)
-
-**NUNCA:**
-- Detergente fuerte o blanqueador
-- Lavado en seco
-- Plancha
-- Agua caliente (daña aislante)
-- Guardar húmedo
-
-**COLCHONETA/AISLANTE:**
-
-**Colchoneta de espuma:**
-
-1. **Limpieza regular:**
-   - Sacude tierra/hojas
-   - Trapo húmedo con jabón suave
-   - Frota ambos lados
-   - Enjuaga
-   - Seca al sol
-
-2. **Manchas:**
-   - Frota con cepillo suave
-   - Jabón suave
-   - Enjuaga bien
-
-3. **Secado:**
-   - Rápido al sol
-   - Ambos lados
-
-**Colchoneta inflable:**
-
-1. **Exterior:**
-   - Trapo húmedo
-   - Jabón suave
-   - Enjuaga
-   - Seca con toalla
-
-2. **Válvula:**
-   - Limpia con Q-tip
-   - Asegura que cierre bien
-   - Sin arena/suciedad
-
-3. **Interior (si hay olor):**
-   - Infla
-   - Rocía con mezcla agua-vinagre
-   - Gira para distribuir
-   - Desinfla con válvula abierta
-   - Seca completamente abierta
-
-**ALMACENAMIENTO DESPUÉS DE LIMPIAR:**
-- Completamente seco
-- Saco: extendido o en bolsa grande (no comprimido)
-- Colchoneta: enrollada suelta o extendida
-- Lugar fresco, seco, oscuro
+**c) Limpieza de bolsa de dormir y colchoneta:**
+- Técnicas de limpieza de manchas conocidas
+- Procedimiento de lavado (manual/máquina según tipo)
+- Importancia de secado completo antes de guardar
+- Almacenamiento: saco extendido (no comprimido), colchoneta enrollada suelta, lugar seco

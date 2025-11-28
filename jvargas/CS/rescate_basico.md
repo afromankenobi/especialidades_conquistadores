@@ -70,6 +70,10 @@ Siempre que sea posible:
 
 ### 2. Demostrar cómo rescatar, con seguridad, a una persona en las siguientes situaciones
 
+✅ **Completado en 10 horas de liderazgo AMCH, 22-23 de noviembre 2025**
+
+**Demostraciones prácticas realizadas:**
+
 **a) En contacto con un cable eléctrico:**
 
 **PELIGRO:** La electricidad puede matarte si tocas a la víctima directamente.
@@ -563,7 +567,9 @@ Cualquier combinación de:
 
 ### 6. Conocer las maneras apropiadas de ayudar a una víctima en peligro, en las siguientes situaciones
 
-Practica realizada en Convención Recreativa AMCH de parque Chuchunco.
+✅ **Completado en 10 horas de liderazgo AMCH, 22-23 de noviembre 2025**
+
+**Demostraciones prácticas realizadas:**
 
 **a) Tirar a la víctima:**
 
@@ -666,7 +672,7 @@ Practica realizada en Convención Recreativa AMCH de parque Chuchunco.
 
 ### 7. Conocer la forma adecuada de ayudar a una víctima, con la ayuda de otros, en las siguientes situaciones
 
-**Respuesta:**
+✅ **Completado en 10 horas de liderazgo AMCH, 22-23 de noviembre 2025**
 
 **TÉCNICAS DE RESCATE CON AYUDANTES:**
 
@@ -762,3 +768,247 @@ Practica realizada en Convención Recreativa AMCH de parque Chuchunco.
 - Cabeza y cuello protegidos
 - Movimiento suave
 - Comunicar a víctima qué harán
+
+---
+
+### 8. Hacer una camilla improvisada y cargar a una persona en ella.
+
+Cumplido el 23 de Noviembre en 10 horas de liderazgo AMCH
+
+### 9. Cumplir los siguientes requisitos:
+
+Cumplido el 23 de Noviembre en 10 horas de liderazgo AMCH
+
+- a) Atar por lo menos tres nudos para unir cuerdas
+- b) Atar un nudo para disminuir o acortar una cuerda
+- c) Atar un nudo para colocar alrededor de una persona en un rescate
+- d) Enrollar y arrojar con precisión una cuerda liviana y una pesada, de 15 metros cada una.
+
+### 10. ¿Qué pasos deben seguirse antes de informar que una persona está desaparecida? ¿Qué información se necesita dar cuando se informa sobre la desaparición de una persona ante la policía? ¿Cómo deben ser conducidas las búsquedas de alguien perdido en un área boscosa o desértica?
+
+Perfecto, vamos a completar el punto 10 en el mismo estilo que el resto del informe. Puede copiar/pegar tal cual debajo del 9 👇
+
+---
+
+### 10. ¿Qué pasos deben seguirse antes de informar que una persona está desaparecida? ¿Qué información se necesita dar cuando se informa sobre la desaparición de una persona ante la policía? ¿Cómo deben ser conducidas las búsquedas de alguien perdido en un área boscosa o desértica?
+
+#### A) Pasos antes de informar que una persona está desaparecida
+
+**IMPORTANTE:** Un Conquistador **nunca maneja esto solo**.
+Siempre informa primero a un **líder adulto del Club** (director, consejero, pastor, anciano).
+
+**1. Confirmar que realmente está ausente**
+
+Antes de decir “desaparecido”, se debe:
+
+1. Verificar el **lugar donde debería estar**
+
+   * Cama / carpa / asiento en bus
+   * Servicios higiénicos / ducha
+   * Cocina / comedor / salón
+
+2. Preguntar a **amigos y compañeros de unidad**:
+
+   * ¿Alguien lo vio hace poco?
+   * ¿Con quién estaba?
+   * ¿Dijo a dónde iba?
+
+3. Revisar **actividades programadas**:
+
+   * ¿Tenía asignada alguna tarea? (letrina, leña, agua, limpieza)
+   * ¿Fue enviado por un líder a algún lugar?
+
+4. Revisar **medios de transporte**:
+
+   * Buses, autos del grupo, estacionamiento
+   * Asegurarse de que no haya vuelto al vehículo sin avisar
+
+**2. Evaluar el tiempo y el riesgo**
+
+El líder debe considerar:
+
+* ¿Hace cuánto no se le ve?
+* ¿La zona es peligrosa?
+
+  * Río, lago, mar
+  * Barrancos, montañas, carreteras
+  * Bosque cerrado, desierto
+* ¿Es de día o de noche?
+* ¿El clima está complicado? (frío, lluvia, calor extremo)
+* ¿Tiene alguna **enfermedad** o condición especial?
+
+  * Diabetes, epilepsia, problemas de conducta, medicación
+
+Si hay **alto riesgo** (niño pequeño, noche, clima adverso, zona peligrosa) se **acorta** el tiempo de espera y se avisa antes a las autoridades.
+
+**3. Informar a la cadena de mando**
+
+Antes de llamar a la policía, se debe:
+
+1. Avisar al **director del Club**
+2. Director avisa a:
+
+   * Pastor / anciano
+   * Coordinador / líder de zona (si corresponde)
+   * Dueños del lugar (campamento, escuela, etc.)
+
+Luego, el adulto responsable se coordina para **llamar a la policía o servicios de emergencia** según lo que se requiera en el país.
+
+---
+
+#### B) Información que se debe dar a la policía
+
+Cuando se llama a la policía para informar que una persona está desaparecida, mientras más **clara y completa** sea la información, mejor.
+
+**1. Datos de la persona desaparecida**
+
+* Nombre completo
+* Edad y sexo
+* Altura aproximada
+* Contextura (delgado, mediano, robusto)
+* Color de piel, cabello y ojos
+* Señas particulares:
+
+  * Lentes, lunares visibles, cicatrices, tatuajes, malformaciones
+* Enfermedades o condiciones médicas importantes
+
+  * Diabetes, epilepsia, alergias graves, medicación diaria
+
+**2. Ropa y equipo que llevaba puesto**
+
+* Color y tipo de:
+
+  * Polera / camisa
+  * Pantalón / falda
+  * Abrigo / chaqueta / polar
+  * Gorra, sombrero, pañuelo
+  * Zapatos / zapatillas / botas
+* ¿Llevaba mochila? ¿De qué color?
+* ¿Tenía: linterna, cantimplora, comida, teléfono, silbato, navaja, etc.?
+
+**3. Lugar y momento en que fue visto por última vez**
+
+* Fecha y hora aproximada
+* Lugar exacto o aproximado:
+
+  * “Salida del sendero X”
+  * “Última carpa del sector varones”
+  * “Cerca del comedor”
+* ¿Con quién estaba? (solo, con amigos, con un líder)
+* ¿Hacia dónde se dirigía? (si se sabe)
+
+**4. Contexto y posibles motivos**
+
+* ¿Había tenido alguna discusión fuerte poco antes?
+* ¿Estaba triste, enojado, asustado, confundido?
+* ¿Es la primera vez que pasa algo así?
+* ¿Tiene antecedentes de escaparse o esconderse?
+
+**5. Datos de contacto del responsable**
+
+* Nombre completo del director o adulto a cargo
+* Número de teléfono disponible
+* Lugar donde está reunido el grupo (campamento, iglesia, escuela, etc.)
+* Número aproximado de personas en el grupo
+
+---
+
+#### C) ¿Cómo deben conducirse las búsquedas de alguien perdido en un área boscosa o desértica?
+
+**PRINCIPIO CLAVE:**
+Las búsquedas **las dirigen las autoridades competentes** (policía, bomberos, grupos de rescate).
+El Club de Conquistadores **colabora**, pero **no improvisa** ni se lanza a buscar sin coordinación.
+
+**1. Organización básica de una búsqueda**
+
+* Establecer un **Punto de Comando** o centro de operaciones:
+
+  * Lugar fijo donde se reúnen los líderes y autoridades
+  * Aquí se registra quién entra y quién sale a buscar
+
+* Mantener un **registro** de los buscadores:
+
+  * Nombre
+  * Equipo con el que sale
+  * Sector asignado
+  * Hora de salida y hora prevista de regreso
+
+* Formar **equipos de búsqueda**:
+
+  * Mínimo 3 personas por grupo
+  * Siempre **un adulto responsable por equipo**
+  * Llevar: agua, abrigo, linterna (si corresponde), silbato, botiquín pequeño, comunicación (radio o celular si hay señal)
+
+**2. Búsqueda en área boscosa**
+
+* Seguir senderos, huellas, caminos naturales **primero**
+* Mantener siempre **contacto visual o auditivo** entre los del grupo
+* Avanzar en “línea” o “abanico” según ordene el coordinador:
+
+  * Todos paralelos, a pocos metros de distancia
+  * Se revisa entre árboles, troncos caídos, rocas, quebradas
+* Marcar el camino:
+
+  * Con cintas de colores, tiza, montoncitos de piedras o indicaciones que luego puedan retirarse
+* Prestar atención a:
+
+  * Huellas, ramas quebradas, ropa en el suelo, basura reciente
+  * Lugares donde un niño podría buscar refugio (cuevas pequeñas, bajo árboles grandes, troncos huecos)
+
+**3. Búsqueda en área desértica o muy abierta**
+
+* Principal peligro: **deshidratación y golpe de calor**
+* Todos los equipos deben llevar:
+
+  * Agua suficiente
+  * Gorra o sombrero
+  * Protector solar
+* Mantener un **punto de referencia claro** (vehículo, carpa, edificio) para no desorientarse
+* Usar brújula o GPS si se dispone
+* Avanzar por sectores definidos (por ejemplo, “zona norte”, “zona sur”)
+* Fijar tiempos de búsqueda:
+
+  * Buscar cierto tiempo
+  * Volver al Punto de Comando a reportar
+  * Reorganizar la búsqueda según la información nueva
+
+**4. ¿Qué hacer si el equipo encuentra a la persona?**
+
+1. **No regañar ni gritarle**
+
+   * Primero tranquilizar: “Ya te encontramos, estás a salvo”
+
+2. Evaluar rápido:
+
+   * ¿Está consciente?
+   * ¿Respira bien?
+   * ¿Camina o no puede moverse?
+   * ¿Tiene heridas visibles o sangrado?
+
+3. Si puede caminar y no hay lesiones graves:
+
+   * Llevarla lentamente al Punto de Comando
+   * Dar agua **de a poco** si está muy deshidratada
+
+4. Si no puede caminar o parece lesionada:
+
+   * No moverla bruscamente
+   * Informar por radio o teléfono al Punto de Comando
+   * Esperar instrucciones de las autoridades o personal médico
+
+5. No tocar ni recoger objetos que puedan ser **evidencia**
+
+   * Solo **marcar el lugar** y avisar a la autoridad
+
+**5. Reglas para Conquistadores en una búsqueda**
+
+* Nunca salir a buscar **solo**
+* Obedecer siempre al **líder del equipo**
+* No separarse del grupo
+* No inventar caminos nuevos sin autorización
+* Detenerse y avisar si:
+
+  * El clima empeora
+  * Alguien del equipo se siente mal
+  * Se hace de noche y no hay equipos adecuados
+
