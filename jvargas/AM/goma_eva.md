@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Goma EVA (Foami)
 area: Artes y Actividades Manuales
 area_codigo: AM

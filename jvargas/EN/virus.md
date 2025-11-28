@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Virus
 area: Estudio de la Naturaleza
 area_codigo: EN

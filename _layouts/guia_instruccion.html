@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+    <!-- Mermaid.js para renderizar diagramas -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11.12.1/dist/mermaid.min.js" integrity="sha256-GYsZRC+G8LRqF+VtOr90TDooo0J+ZvqNraO1iad7q8w=" crossorigin="anonymous"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        if (typeof mermaid !== 'undefined') {
+          mermaid.initialize({
+            startOnLoad: false,
+            theme: 'default',
+            securityLevel: 'loose'
+          });
+          
+          // Convertir bloques de código con clase 'language-mermaid' a divs con clase 'mermaid'
+          document.querySelectorAll('pre code.language-mermaid').forEach(function(codeBlock) {
+            const pre = codeBlock.parentElement;
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = codeBlock.textContent;
+            pre.parentElement.replaceChild(mermaidDiv, pre);
+          });
+          
+          // También manejar bloques <pre class="mermaid">
+          document.querySelectorAll('pre.mermaid').forEach(function(preBlock) {
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = preBlock.textContent;
+            preBlock.parentElement.replaceChild(mermaidDiv, preBlock);
+          });
+          
+          // Renderizar todos los diagramas
+          mermaid.run();
+        }
+      });
+    </script>
+
+    <style>
+      /* Estilos base para pantalla */
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      .mermaid {
+        text-align: center;
+        margin: 20px 0;
+      }
+
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 20px 0;
+      }
+
+      table, th, td {
+        border: 1px solid #ddd;
+      }
+
+      th, td {
+        padding: 12px;
+        text-align: left;
+      }
+
+      th {
+        background-color: #f2f2f2;
+      }
+
+      code {
+        background-color: #f4f4f4;
+        padding: 2px 6px;
+        border-radius: 3px;
+        font-family: 'Courier New', monospace;
+      }
+
+      pre {
+        background-color: #f4f4f4;
+        padding: 16px;
+        border-radius: 6px;
+        overflow-x: auto;
+      }
+
+      pre code {
+        background-color: transparent;
+        padding: 0;
+      }
+
+      h2 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+        color: #2c3e50;
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 8px;
+      }
+
+      h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        color: #34495e;
+      }
+
+      /* Estilos de impresión optimizados para INSTRUCCIÓN */
+      @media print {
+        body {
+          max-width: 100%;
+          padding: 0;
+          font-size: 12pt;
+          line-height: 1.5;
+        }
+
+        /* Ocultar elementos de navegación en impresión */
+        nav, .navigation, a[href*="index"] {
+          display: none !important;
+        }
+
+        /* Estilo de página para instrucción */
+        @page {
+          margin: 2cm;
+          size: A4;
+          
+          @top-left {
+            content: "Guía de Instrucción";
+            font-size: 9pt;
+            color: #666;
+          }
+          
+          @top-right {
+            content: "Club de Conquistadores";
+            font-size: 9pt;
+            color: #666;
+          }
+          
+          @bottom-center {
+            content: "Página " counter(page) " de " counter(pages);
+            font-size: 9pt;
+            color: #666;
+          }
+        }
+
+        /* Títulos optimizados para material didáctico */
+        h1 {
+          font-size: 20pt;
+          color: #2c3e50;
+          border-bottom: 3pt solid #3498db;
+          padding-bottom: 10pt;
+          margin-bottom: 15pt;
+          page-break-after: avoid;
+        }
+
+        h2 {
+          font-size: 16pt;
+          color: #2c3e50;
+          border-bottom: 2pt solid #3498db;
+          padding-bottom: 5pt;
+          margin-top: 20pt;
+          margin-bottom: 10pt;
+          page-break-after: avoid;
+        }
+
+        h3 {
+          font-size: 14pt;
+          color: #34495e;
+          margin-top: 15pt;
+          margin-bottom: 8pt;
+          page-break-after: avoid;
+        }
+
+        h4 {
+          font-size: 12pt;
+          font-weight: bold;
+          margin-top: 10pt;
+          margin-bottom: 6pt;
+          page-break-after: avoid;
+        }
+
+        /* Énfasis en secciones de enseñanza */
+        strong {
+          font-weight: bold;
+          color: #000;
+        }
+
+        /* Listas con mejor espaciado para tomar notas */
+        ul, ol {
+          margin-bottom: 10pt;
+          padding-left: 20pt;
+        }
+
+        li {
+          margin-bottom: 5pt;
+          line-height: 1.6;
+        }
+
+        /* Espacios para notas del instructor */
+        .notes-space {
+          border: 1pt dashed #ccc;
+          padding: 30pt;
+          margin: 15pt 0;
+          min-height: 100pt;
+        }
+
+        .notes-space::before {
+          content: "Notas del instructor:";
+          display: block;
+          font-weight: bold;
+          margin-bottom: 10pt;
+          color: #666;
+        }
+
+        /* Tablas optimizadas */
+        table {
+          border-collapse: collapse;
+          width: 100%;
+          margin: 10pt 0;
+          page-break-inside: avoid;
+        }
+
+        th {
+          background-color: #e8e8e8 !important;
+          font-weight: bold;
+          padding: 8pt;
+          border: 1pt solid #000;
+        }
+
+        td {
+          padding: 6pt;
+          border: 1pt solid #000;
+        }
+
+        /* Imágenes */
+        img {
+          max-width: 100%;
+          page-break-inside: avoid;
+          margin: 10pt 0;
+        }
+
+        /* Código y pre */
+        pre, code {
+          background-color: #f5f5f5 !important;
+          border: 1pt solid #ccc;
+          page-break-inside: avoid;
+        }
+
+        pre {
+          padding: 10pt;
+          font-size: 10pt;
+        }
+
+        /* Evitar quiebres de página en elementos importantes */
+        blockquote, .important {
+          page-break-inside: avoid;
+          border-left: 3pt solid #3498db;
+          padding-left: 15pt;
+          margin: 10pt 0;
+        }
+
+        /* Links - mostrar URL para referencia */
+        a[href]::after {
+          content: " (" attr(href) ")";
+          font-size: 9pt;
+          color: #666;
+        }
+
+        /* Ocultar badges y elementos decorativos */
+        img[src*="shields.io"], 
+        img[src*="badge"] {
+          display: none !important;
+        }
+
+        /* Optimizar saltos de página */
+        h1, h2, h3, h4, h5, h6 {
+          page-break-after: avoid;
+        }
+
+        ul, ol, table, pre {
+          page-break-inside: avoid;
+        }
+
+        /* Marca de agua sutil para material de instrucción */
+        body::before {
+          content: "Material de Instrucción";
+          position: fixed;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%) rotate(-45deg);
+          font-size: 72pt;
+          color: rgba(52, 152, 219, 0.05);
+          z-index: -1;
+          pointer-events: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>

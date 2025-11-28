@@ -1,13 +1,14 @@
 ---
-layout: default
-title: Respuestas de Especialidades - Líder
+layout: respuesta_evaluacion
+title: Respuestas de Especialidades - Evaluación
 ---
 
 <div align="center">
 
 <img src="../assets/images/logo.svg" width="150" alt="Logo Conquistadores">
 
-# Respuestas de Especialidades
+# Respuestas para Evaluación
+## Especialidades del Club de Conquistadores
 
 **Jorge Vargas - Club K2, Zona poniente, AMCH**
 
@@ -20,9 +21,28 @@ title: Respuestas de Especialidades - Líder
 
 ## 📋 Sobre esta colección
 
-Esta carpeta contiene las respuestas completas de las especialidades del Club de Conquistadores, recopiladas por Jorge Vargas Silva desde 2023.
+Esta sección contiene **respuestas completas** de las especialidades del Club de Conquistadores, preparadas para ser **leídas y revisadas por Regionales e Instructores**.
 
-El contenido está diseñado con un enfoque práctico y accesible, como lo haría un joven de 16 años. Si encuentras algo que podría mejorar, escríbeme a **[jorge.vargas@hey.com](mailto:jorge.vargas@hey.com)**.
+### 🎯 Diseñado para:
+- ✅ **Evaluación** de Guías Mayores y Conquistadores
+- ✅ **Revisión** por parte de Regionales e Instructores
+- ✅ **Verificación** de requisitos completados
+- ✅ **Referencia** durante el proceso de aprobación
+
+### Vista de impresión optimizada para:
+📋 Evaluación y chequeo  
+📝 Revisión de requisitos  
+✓ Verificación de cumplimiento  
+📊 Documentación de logros  
+
+---
+
+> **💡 ¿Eres instructor nuevo y necesitas aprender a enseñar?**  
+> Revisa la sección [**Guías de Instrucción**](../especialidades/) con material pedagógico para instructores.
+
+---
+
+El contenido está diseñado con un enfoque práctico y accesible, como lo haría un joven de 16 años presentando su trabajo. Si encuentras algo que podría mejorar, escríbeme a **[jorge.vargas@hey.com](mailto:jorge.vargas@hey.com)**.
 
 ---
 
@@ -79,4 +99,13 @@ El contenido está diseñado con un enfoque práctico y accesible, como lo harí
 - [MundoJA](https://mundoja.org/)
 - [Conquismania](https://www.conquismania.cl/)
 
-Todas las respuestas están adaptadas para conquistadores de 10-16 años.
+---
+
+<div align="center">
+
+*Respuestas para Evaluación - Club de Conquistadores*  
+*División Sudamericana*
+
+[← Volver al inicio](../) | [Ver Guías de Instrucción →](../especialidades/)
+
+</div>

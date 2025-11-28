@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Rocas y Minerales
 area: Estudio de la Naturaleza
 area_codigo: EN

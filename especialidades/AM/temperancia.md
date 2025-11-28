@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Temperancia
+---
+
 # Temperancia
 
 <div align="center">

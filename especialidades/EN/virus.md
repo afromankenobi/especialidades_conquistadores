@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Virus
+---
+
 # Virus
 
 <div align="center">

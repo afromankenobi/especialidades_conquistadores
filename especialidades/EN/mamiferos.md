@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Mamíferos
+---
+
 # Mamíferos
 
 <div align="center">

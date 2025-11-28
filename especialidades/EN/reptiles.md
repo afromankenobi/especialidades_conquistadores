@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Reptiles
+---
+
 # Reptiles
 
 <div align="center">

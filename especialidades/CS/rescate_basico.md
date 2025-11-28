@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Rescate Básico
+---
+
 # Rescate Básico
 
 <div align="center">

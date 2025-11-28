@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Escatología
 area: Actividades Misioneras y Comunitarias
 area_codigo: MC

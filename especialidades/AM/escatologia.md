@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Escatología
+---
+
 # Escatología
 
 <div align="center">

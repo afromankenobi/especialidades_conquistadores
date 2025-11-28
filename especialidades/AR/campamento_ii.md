@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Campamento II
+---
+
 # Campamento II
 
 <div align="center">

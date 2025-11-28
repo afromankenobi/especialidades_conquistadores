@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Arte de Acampar
+---
+
 # Arte de Acampar
 
 <div align="center">

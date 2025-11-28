@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Origami
+---
+
 # Origami
 
 <div align="center">

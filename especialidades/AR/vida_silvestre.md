@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Vida silvestre
+---
+
 # Vida silvestre
 
 <div align="center">

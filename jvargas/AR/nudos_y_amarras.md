@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Nudos y amarras
 area: Actividades Recreativas
 area_codigo: AR

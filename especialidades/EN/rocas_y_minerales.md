@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Rocas y Minerales
+---
+
 # Rocas y Minerales
 
 <div align="center">

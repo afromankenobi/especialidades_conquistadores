@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Goma EVA (Foami)
+---
+
 # Goma EVA (Foami)
 
 <div align="center">

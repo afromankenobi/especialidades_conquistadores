@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Fútbol
+---
+
 # Fútbol
 
 <div align="center">

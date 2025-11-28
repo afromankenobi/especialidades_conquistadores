@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Resolución de Conflictos
+---
+
 # Resolución de Conflictos
 
 <div align="center">

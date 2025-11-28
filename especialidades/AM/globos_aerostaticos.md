@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Globos Aerostáticos
+---
+
 # Globos Aerostáticos
 
 <div align="center">

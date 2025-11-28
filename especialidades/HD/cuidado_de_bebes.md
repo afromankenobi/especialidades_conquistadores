@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Cuidado de Bebés
+---
+
 # Cuidado de Bebés
 
 <div align="center">
