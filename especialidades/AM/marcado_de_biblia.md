@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Marcado de Biblia
+---
+
 # Marcado de Biblia
 
 <div align="center">

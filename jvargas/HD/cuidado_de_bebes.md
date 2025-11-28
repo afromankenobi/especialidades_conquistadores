@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Cuidado de Bebés
 area: Habilidades Domésticas
 area_codigo: HD

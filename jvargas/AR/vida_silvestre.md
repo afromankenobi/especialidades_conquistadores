@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Vida silvestre
 area: Actividades Recreativas
 area_codigo: AR

@@ -15,7 +15,13 @@
 
 ## 📋 Sobre este proyecto
 
-Este repositorio contiene las especialidades del Club de Conquistadores (División Sudamericana) en formato Markdown, organizadas por área, con requisitos extraídos de los manuales oficiales y respuestas recolectadas desde que comencé a trabajar en Conquistadores el año 2023.
+Este repositorio contiene **dos componentes principales** para las especialidades del Club de Conquistadores (División Sudamericana):
+
+### 📚 [Guías para Instructores](./especialidades/) (`./especialidades`)
+Guías de aprendizaje diseñadas para **instructores nuevos** que necesitan aprender cómo impartir las especialidades. Enfocadas en la enseñanza, metodología e instrucción.
+
+### ✅ [Respuestas para Evaluación](./jvargas/) (`./jvargas`)
+Respuestas completas de las especialidades preparadas por Jorge Vargas, diseñadas para ser **leídas y revisadas por Regionales e Instructores** al evaluar a los Guías Mayores y Conquistadores.
 
 ---
 
@@ -34,6 +40,10 @@ Este repositorio contiene las especialidades del Club de Conquistadores (Divisi�
 ---
 
 ## 📚 Especialidades por Área
+
+> 💡 **Dos formas de acceder a las especialidades:**
+> - **[📖 Guías de Instrucción](./especialidades/)** - Para instructores que quieren aprender a enseñar
+> - **[✅ Respuestas para Evaluación](./jvargas/)** - Para Regionales e Instructores que necesitan revisar
 
 ### 🏕️ Actividades Recreativas (AR)
 - [Arte de acampar](./especialidades/AR/arte_de_acampar.md) (AR-001)

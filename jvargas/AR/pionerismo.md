@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Pionerismo
 area: Actividades Recreativas
 area_codigo: AR

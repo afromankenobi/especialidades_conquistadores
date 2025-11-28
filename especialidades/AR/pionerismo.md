@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Pionerismo
+---
+
 # Pionerismo
 
 <div align="center">

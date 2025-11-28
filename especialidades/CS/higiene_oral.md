@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Higiene Oral
+---
+
 # Higiene Oral
 
 <div align="center">

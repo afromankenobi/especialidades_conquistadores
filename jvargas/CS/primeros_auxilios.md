@@ -1,5 +1,5 @@
 ---
-layout: especialidad
+layout: respuesta_evaluacion
 title: Primeros Auxilios
 area: Ciencia y Salud
 area_codigo: CS

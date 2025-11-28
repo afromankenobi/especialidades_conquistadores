@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Primeros Auxilios
+---
+
 # Primeros Auxilios
 
 <div align="center">

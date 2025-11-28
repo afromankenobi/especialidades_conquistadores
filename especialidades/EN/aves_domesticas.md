@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Aves domésticas
+---
+
 # Aves domésticas
 
 <div align="center">

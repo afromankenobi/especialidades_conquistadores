@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Energía Renovable
+---
+
 # Energía Renovable
 
 <div align="center">

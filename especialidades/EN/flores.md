@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Flores
+---
+
 # Flores
 
 <div align="center">

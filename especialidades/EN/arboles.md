@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Árboles
+---
+
 # Árboles
 
 <div align="center">
