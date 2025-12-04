@@ -13,6 +13,8 @@ institucion_origen: Asociación General
 
 <div align="center">
 
+![Insignia Nudos y Amarras](../../assets/especialidades/nudos_y_amarras/insignia.png)
+
 ![Logo Conquistadores](../../assets/images/logo.svg)
 
 **Área:** Actividades Recreativas
@@ -443,6 +445,27 @@ Una **variación reforzada** del nudo simple. Ideal cuando necesitas más volume
 
 ![Nudo Simple Triple](../../assets/especialidades/nudos_y_amarras/nudo-simple-triple.webp)
 
+#### Nudo Fraile (Franciscan Knot)
+
+Un nudo **decorativo y funcional** que crea un bulto característico en forma de barril.
+
+**¿Para qué sirve?**
+- Crear un tope decorativo al final de una cuerda
+- Añadir peso a una cuerda lanzada
+- Base para nudos ornamentales más complejos
+
+**Características:**
+- Forma una bola o bulto distintivo
+- Más voluminoso que el nudo simple
+- Mantiene su forma bajo tensión
+
+**Cómo hacerlo:**
+1. Forma tres lazos superpuestos
+2. Pasa el chicote a través de cada lazo
+3. Aprieta gradualmente hasta formar el barril
+
+![Nudo Fraile](../../assets/especialidades/nudos_y_amarras/nudo-fraile.webp)
+
 ### NUDOS DE UNIÓN - Conectando cuerdas
 
 #### Nudo Llano o Rizo (Square Knot)
@@ -460,6 +483,15 @@ El **clásico** para unir dos cuerdas **del mismo grosor**.
 
 **Cómo recordarlo:** "Derecha sobre izquierda, izquierda sobre derecha"
 
+**Cómo hacerlo:**
+1. Primer medio nudo: punta derecha sobre izquierda, pasa por abajo
+2. Segundo medio nudo: punta izquierda sobre derecha, pasa por abajo
+3. Debe quedar simétrico (chicotes paralelos al firme de cada lado)
+
+**Verificación:** Si los chicotes salen por el mismo lado, es un nudo falso (peligroso). Deshaz y vuelve a intentar.
+
+![Nudo Llano](../../assets/especialidades/nudos_y_amarras/nudo-de-rizo.webp)
+
 #### Nudo de Pescador (Fisherman's Knot)
 
 Un nudo **seguro y confiable** para unir cuerdas, especialmente mojadas.
@@ -472,6 +504,146 @@ Un nudo **seguro y confiable** para unir cuerdas, especialmente mojadas.
 #### Nudo de Escota (Sheet Bend)
 
 El nudo ideal cuando necesitas unir **cuerdas de diferente grosor**.
+
+**¿Para qué sirve?**
+- Unir cuerda gruesa con cuerda delgada
+- Unir cuerda con un lazo o anilla
+- Marinería (sujetar velas)
+
+**Cómo hacerlo:**
+1. Forma un seno con la cuerda **más gruesa**
+2. Pasa la cuerda delgada POR el seno
+3. Rodea AMBAS partes del seno
+4. Pasa por debajo de sí misma
+5. Aprieta
+
+**Nudo de Escota Doble:** Para mayor seguridad, da una vuelta extra.
+
+![Vuelta de Escota](../../assets/especialidades/nudos_y_amarras/vuelta-de-escota-nudo.webp)
+
+#### Nudo de Pescador Doble (Double Fisherman's)
+
+La versión **reforzada** del nudo de pescador. Es el estándar para unir cuerdas de escalada.
+
+**¿Para qué sirve?**
+- Unir cuerdas de escalada (el más seguro)
+- Hacer lazos cerrados permanentes
+- Uniones que no se pueden revisar constantemente
+
+**Ventajas:**
+- Extremadamente seguro (casi imposible que se deslice)
+- Funciona con cuerdas modernas resbaladizas
+- Usado por escaladores profesionales
+
+**Limitaciones:**
+- Muy difícil de deshacer después de carga
+- Más voluminoso que el pescador simple
+
+**Cómo hacerlo:**
+1. Haz DOS nudos simples con la primera cuerda alrededor de la segunda
+2. Haz DOS nudos simples con la segunda cuerda alrededor de la primera
+3. Aprieta cada par de nudos
+4. Junta ambos lados tirando de los firmes
+
+![Nudo Pescador Doble](../../assets/especialidades/nudos_y_amarras/nudo-pescador-doble.webp)
+
+#### Nudo de Cazador (Hunter's Bend)
+
+Un nudo **elegante y seguro** para unir cuerdas del mismo grosor.
+
+**¿Para qué sirve?**
+- Unir dos cuerdas de forma segura
+- Alternativa al nudo llano (más confiable)
+- Situaciones donde necesitas deshacer después
+
+**Ventajas:**
+- Más seguro que el nudo llano
+- Simétrico y equilibrado
+- Relativamente fácil de deshacer
+
+**Historia curiosa:** Inventado en 1978 por el Dr. Edward Hunter. ¡Es un nudo relativamente moderno!
+
+**Cómo hacerlo:**
+1. Forma dos lazos superpuestos (en direcciones opuestas)
+2. Pasa ambos chicotes por ambos lazos
+3. Aprieta gradualmente
+
+![Nudo Cazador](../../assets/especialidades/nudos_y_amarras/nudo-hunter.webp)
+
+#### Nudo Cirujano (Surgeon's Knot)
+
+Similar al nudo llano pero con **vueltas extras** en el primer medio nudo para mayor seguridad.
+
+**¿Para qué sirve?**
+- Unir cuerdas bajo tensión constante
+- Materiales resbaladizos (nylon, sedal de pesca)
+- Suturas quirúrgicas (de ahí su nombre)
+
+**Ventajas:**
+- Las vueltas extras evitan que se afloje mientras haces el segundo medio nudo
+- Más seguro que el nudo llano en materiales resbaladizos
+- Aguanta tensión durante el atado
+
+**Cómo hacerlo:**
+1. Primer medio nudo: da DOS o TRES vueltas (en lugar de una)
+2. Segundo medio nudo: una vuelta normal
+3. Aprieta firmemente
+
+**Usos médicos:** Los cirujanos lo usan para suturar porque se mantiene apretado mientras trabajan.
+
+![Nudo Cirujano](../../assets/especialidades/nudos_y_amarras/nudo-cirujano.webp)
+
+#### Nudo Falso (Granny Knot)
+
+El nudo que **parece** un nudo llano pero **NO lo es**. Es importante conocerlo para NO hacerlo accidentalmente.
+
+**¿Para qué sirve?**
+- ❌ **Para NADA** - Es un nudo defectuoso
+- Solo se enseña para que aprendas a **evitarlo**
+
+**¿Por qué es peligroso?**
+- Se desliza bajo carga
+- Se aprieta desordenadamente
+- Se deshace fácilmente
+- Puede fallar en situaciones críticas
+
+**¿Cómo se hace por error?**
+Cuando intentas hacer un nudo llano pero:
+- Haces "derecha sobre izquierda" DOS veces (en lugar de alternar)
+- Los chicotes salen por el mismo lado (en lugar de opuestos)
+
+**Cómo identificarlo:**
+- Nudo llano: chicotes salen por lados opuestos y paralelos ✅
+- Nudo falso: chicotes salen por el mismo lado ❌
+
+**Lección importante:** Este nudo te enseña que los detalles importan en nudos. Un pequeño error puede ser la diferencia entre seguro y peligroso.
+
+![Nudo Falso](../../assets/especialidades/nudos_y_amarras/nudo-de-la-abuela.webp)
+
+#### Nudo de Grupo de Calabrote (Carrick Bend)
+
+Un nudo **clásico y decorativo** para unir cuerdas gruesas.
+
+**¿Para qué sirve?**
+- Unir cabos gruesos o cables
+- Trabajo náutico profesional
+- Cuando necesitas un nudo que quede plano
+
+**Ventajas:**
+- Muy fuerte con cuerdas gruesas
+- Se puede deshacer relativamente fácil
+- Queda plano (no hace bulto)
+- Hermoso y simétrico
+
+**Limitaciones:**
+- Puede deslizarse con cuerdas muy resbaladizas
+- Requiere práctica para hacerlo correctamente
+
+**Historia:** Usado tradicionalmente en barcos para unir cables de ancla y cabos gruesos.
+
+![Nudo Carrick](../../assets/especialidades/nudos_y_amarras/nudo-carrick.webp)
+
+**Nudo de Grupo de Calabrote Doble:** Versión reforzada con lazos dobles. Aún más seguro para cargas pesadas.
 
 ### NUDOS DE ANCLAJE - Asegurando tu posición
 
@@ -495,6 +667,8 @@ El **rey de los nudos**. Muchos lo consideran el nudo perfecto.
 2. "Da la vuelta al árbol"
 3. "Regresa a su madriguera"
 
+![As de Guía](../../assets/especialidades/nudos_y_amarras/as-de-guia-nudo.webp)
+
 #### Ballestrinque (Clove Hitch)
 
 Nudo **rápido y práctico** para sujetar a postes redondos.
@@ -508,11 +682,141 @@ Nudo **rápido y práctico** para sujetar a postes redondos.
 - Se afloja si no hay tensión constante
 - Puede deslizarse en postes lisos
 
+![Ballestrinque](../../assets/especialidades/nudos_y_amarras/ballestrinque-nudo.webp)
+
 #### Cote o Vuelta de Braza (Half Hitch)
 
 El nudo más simple para asegurar.
 
 **Dos Cotes (Two Half Hitches):** Mucho más seguro. Es el estándar para sujetar cuerdas a anillas o postes.
+
+![Cote Doble](../../assets/especialidades/nudos_y_amarras/nudo-de-cote-doble.webp)
+
+#### Nudo Ancla (Anchor Hitch/Bend)
+
+Un nudo **específicamente diseñado** para sujetar cuerdas a anillas de anclas de barcos.
+
+**¿Para qué sirve?**
+- Sujetar cabo a anilla de ancla
+- Amarrar a argollas bajo tensión constante
+- Situaciones donde hay movimiento y vibración
+
+**Ventajas:**
+- Muy seguro bajo vibración constante
+- No se afloja con movimiento
+- Resistente a la abrasión
+- Tradicional en marinería
+
+**Cómo hacerlo:**
+1. Pasa el cabo por la anilla
+2. Da dos vueltas redondas alrededor de la anilla
+3. Pasa el chicote por dentro de ambas vueltas
+4. Completa con dos cotes alrededor del firme
+
+**Tip náutico:** Los marineros a veces aseguran el chicote al firme con una banda para máxima seguridad.
+
+![Nudo Ancla](../../assets/especialidades/nudos_y_amarras/nudo-ancla.webp)
+*Imagen: Descargar de https://knots3d.com/es/vuelta-de-ancla-nudo*
+
+#### Nudo Constrictor (Constrictor Knot)
+
+El nudo que **aprieta como una serpiente** y NO se suelta.
+
+**¿Para qué sirve?**
+- Cerrar bolsas de forma permanente
+- Sujetar mangos a herramientas
+- Hacer vendajes temporales de emergencia
+- Sellar extremos de cuerdas (alternativa a sellar con fuego)
+
+**Características especiales:**
+- Se aprieta más y más bajo tensión
+- **Casi imposible de deshacer** sin cortar (es permanente)
+- Muy fino y compacto
+- Increíblemente seguro
+
+**Cómo hacerlo:**
+1. Da una vuelta alrededor del objeto
+2. Cruza por encima formando una "X"
+3. Pasa el chicote POR DEBAJO de la primera vuelta
+4. Mete el chicote por la "X"
+5. Aprieta fuerte
+
+**IMPORTANTE:** Solo úsalo cuando quieras algo PERMANENTE. Para deshacerlo, generalmente hay que cortarlo.
+
+![Nudo Constrictor](../../assets/especialidades/nudos_y_amarras/nudo-constrictor.webp)
+
+#### Nudo Corredizo (Slip Knot)
+
+Un nudo ajustable que puede apretarse o aflojarse tirando de un extremo.
+
+**¿Para qué sirve?**
+- Lazos ajustables
+- Atrapar animales (lazo vaquero básico)
+- Inicio de proyectos de tejido/crochet
+- Sujeciones temporales que necesitas aflojar rápido
+
+**Ventajas:**
+- Se ajusta fácilmente
+- Se suelta tirando del chicote
+- Rápido de hacer
+
+**Limitaciones:**
+- ❌ NUNCA para seguridad personal (se puede soltar)
+- ❌ No para cargas críticas
+- Puede apretarse demasiado y bloquear
+
+**Cómo hacerlo:**
+1. Forma un seno
+2. Haz un nudo simple ALREDEDOR del firme (no en el chicote)
+3. El lazo resultante es corredizo
+
+![Nudo Corredizo](../../assets/especialidades/nudos_y_amarras/nudo-corredizo.webp)
+*Imagen: Descargar de https://knots3d.com/es/nudo-corredizo*
+
+#### Vuelta Redonda (Round Turn)
+
+Una técnica más que un nudo: dar **dos vueltas completas** alrededor de un objeto antes de hacer el nudo.
+
+**¿Para qué sirve?**
+- Reducir la tensión en el nudo final
+- Aumentar la fricción (más agarre)
+- Base para "Vuelta redonda con dos cotes" (nudo muy seguro)
+
+**Ventajas:**
+- Distribuye la carga (menos estrés en un punto)
+- Aumenta la fricción dramáticamente
+- Más seguro para cargas pesadas
+
+**Aplicación común:** "Round Turn and Two Half Hitches" es uno de los nudos de anclaje más seguros que existen.
+
+**Cómo hacerlo:**
+1. Da UNA vuelta completa alrededor del poste/anilla
+2. Da OTRA vuelta completa en la misma dirección
+3. Continúa con tu nudo elegido (usualmente dos cotes)
+
+![Tipos de Vueltas](../../assets/especialidades/nudos_y_amarras/tipos-vueltas.jpg)
+*Izquierda: Vuelta simple | Centro: Vuelta redonda | Derecha: Dos vueltas redondas*
+
+#### As de Guía Corredizo (Running Bowline)
+
+Un as de guía que puede **ajustarse** como un lazo.
+
+**¿Para qué sirve?**
+- Lazos ajustables seguros
+- Rescate donde necesitas ajustar el lazo a distancia
+- Sujeción de objetos de tamaño variable
+
+**Ventajas:**
+- Combina seguridad del as de guía con ajustabilidad
+- No se aprieta excesivamente
+- Se puede deshacer después de carga
+
+**Cómo hacerlo:**
+1. Haz un as de guía normal
+2. Pasa TODO el firme por el lazo del as de guía
+3. El resultado es un lazo corredizo seguro
+
+![As de Guía Corredizo](../../assets/especialidades/nudos_y_amarras/as-de-guia-corredizo-nudo.webp)
 
 ### NUDOS DE SALVAMENTO - Para emergencias
 
@@ -525,16 +829,101 @@ Crea un arnés de emergencia **sin necesidad de los extremos de la cuerda**.
 - Crear dos lazos seguros
 - Bajar personas de edificios
 
+**Cómo hacerlo:**
+1. Dobla la cuerda formando un seno largo
+2. Haz un as de guía usando el seno doblado (como si fuera un chicote)
+3. El resultado son dos lazos paralelos
+
+**Uso en rescate:**
+- Lazo 1: Bajo los brazos de la persona
+- Lazo 2: Bajo las piernas (como asiento)
+
 **IMPORTANTE:** Este es un arnés de **emergencia**, no reemplaza un arnés profesional.
+
+![Silla de Bombero](../../assets/especialidades/nudos_y_amarras/silla-de-bombero-nudo.webp)
 
 #### Nudo Prusik
 
 Un nudo **autobloqueante** revolucionario.
 
-**Características:**
-- Se desliza cuando NO hay carga
-- Se BLOQUEA automáticamente bajo carga
+**¿Para qué sirve?**
+- Ascender por una cuerda fija
+- Sistema de seguridad de respaldo en escalada
+- Rescates técnicos verticales
+
+**Características especiales:**
+- Se desliza cuando NO hay carga (puedes moverlo)
+- Se BLOQUEA automáticamente bajo carga (seguridad)
 - Puede ser liberado y reposicionado fácilmente
+
+**Cómo funciona:**
+La fricción de las vueltas alrededor de la cuerda principal crea el bloqueo automático. Es física pura.
+
+**Cómo hacerlo:**
+1. Usa un lazo cerrado de cuerda auxiliar (más delgada)
+2. Enrolla el lazo alrededor de la cuerda principal 3-4 veces
+3. Pasa el lazo por sí mismo
+4. Aprieta las vueltas
+
+**IMPORTANTE:** La cuerda del prusik debe ser más delgada y flexible que la cuerda principal (diferencia mínima 2mm).
+
+![Nudo Prusik](../../assets/especialidades/nudos_y_amarras/nudo-prusik.webp)
+
+#### As de Guía Doble (Double Bowline / Bowline on a Bight)
+
+Crea **dos lazos seguros** en el medio de una cuerda sin usar los extremos.
+
+**¿Para qué sirve?**
+- Rescate de personas (un lazo bajo brazos, otro bajo piernas)
+- Crear dos puntos de anclaje
+- Silla improvisada de emergencia
+
+**Ventajas:**
+- No necesitas los extremos de la cuerda
+- Crea dos lazos que NO se corren
+- Muy seguro bajo carga
+- Se puede deshacer después de uso
+
+**Cómo hacerlo:**
+1. Dobla la cuerda formando un seno largo
+2. Haz un as de guía usando el seno doblado (como si fuera un chicote)
+3. El resultado son dos lazos paralelos
+
+**Uso en rescate:**
+- Lazo 1: Bajo los brazos de la persona
+- Lazo 2: Bajo las piernas (como asiento)
+- La persona queda en posición sentada segura
+
+![As de Guía Doble](../../assets/especialidades/nudos_y_amarras/as-de-guia-por-seno-nudo.webp)
+
+#### Nudo Mariposa (Alpine Butterfly Loop)
+
+Un nudo **perfecto para el centro de una cuerda** que crea un lazo fijo sin usar los extremos.
+
+**¿Para qué sirve?**
+- Crear punto de anclaje en medio de una cuerda
+- Aislar una sección dañada de la cuerda
+- Enganchar mosquetón en centro de línea de vida
+- Rescates donde múltiples personas se atan a la misma cuerda
+
+**Ventajas:**
+- Se puede cargar en TRES direcciones (único que lo hace)
+- No rota ni deforma la cuerda
+- Mantiene 100% resistencia en las direcciones correctas
+- El favorito de alpinistas para cuerdas tensadas
+
+**Por qué se llama "Mariposa":**
+Cuando lo haces correctamente, la forma se parece a una mariposa con alas extendidas.
+
+**Cómo hacerlo (método rápido):**
+1. Enrolla la cuerda alrededor de tu mano 2 veces
+2. Pasa el lazo de afuera sobre los otros dos
+3. Pasa ese lazo por detrás de los otros
+4. Sácalo por el centro y aprieta
+
+**Aplicación crítica:** En cuerdas de seguridad para glaciares, se hacen mariposas cada ciertos metros para que los escaladores se enganchen.
+
+![Nudo Mariposa](../../assets/especialidades/nudos_y_amarras/nudo-mariposa-alpino.webp)
 
 ### NUDOS DE IZAMIENTO - Levantando cargas
 
@@ -553,20 +942,191 @@ Un nudo ingenioso que sirve para **acortar una cuerda sin cortarla**.
 
 Combinación ideal para izamiento de materiales.
 
+**¿Para qué sirve?**
+- Izar mochilas o equipo al campamento
+- Levantar materiales de construcción
+- Rescate de objetos (no personas)
+
+**Ventajas:**
+- Rápido de hacer
+- Fácil de ajustar
+- El mosquetón facilita desconexión rápida
+
+#### Nudo Dogal de Verdugo (Hangman's Noose)
+
+Un nudo **histórico y controvertido** con forma de lazo corredizo grande.
+
+**¿Para qué sirve?**
+- Izar objetos pesados de forma segura
+- Lazo que se ajusta alrededor de objetos irregulares
+- Historicamente usado en navegación para izar cargas
+
+**Características:**
+- Lazo corredizo con múltiples vueltas (5-13 vueltas típicas)
+- Las vueltas múltiples distribuyen la carga
+- Muy resistente para cargas verticales
+- El lazo se ajusta a la carga
+
+**Nota histórica:** Conocido por su uso histórico en ejecuciones, pero tiene aplicaciones legítimas en marinería e izamiento de cargas. Hoy se usa principalmente en trabajo pesado y construcción.
+
+**Cómo hacerlo:**
+1. Forma un lazo largo
+2. Enrolla el chicote alrededor del firme formando espiral (5-13 vueltas)
+3. Pasa el chicote por el lazo original
+4. Aprieta las vueltas hacia el lazo
+
+**Aplicación moderna:** Izar troncos, sacos de materiales, equipo pesado en construcción.
+
+![Nudo Dogal de Verdugo](../../assets/especialidades/nudos_y_amarras/nudo-dogal-verdugo.png)
+*Imagen: Descargar de https://www.animatedknots.com/hangmans-noose-knot (imagen estática, no GIF)*
+
+#### Nudo Dinámico / UIAA / Munter Hitch (HMS)
+
+El nudo de **aseguramiento dinámico** usado en escalada y rescate.
+
+**¿Para qué sirve?**
+- Asegurar a un escalador (dar seguro)
+- Rapel de emergencia sin dispositivo especial
+- Descenso controlado de cargas
+- Rescates técnicos
+
+**Características especiales:**
+- Crea FRICCIÓN controlada (permite frenar y soltar)
+- Reversible (funciona en ambas direcciones)
+- Solo requiere mosquetón HMS (forma de pera)
+- Disipa calor del descenso
+
+**Ventajas:**
+- No necesitas dispositivo especial de aseguramiento
+- Funciona con cualquier mosquetón HMS
+- Permite subir y bajar al escalador
+- Estándar en rescate profesional
+
+**Limitaciones:**
+- Tuerce la cuerda (crea cocas)
+- Genera más calor que dispositivos especializados
+- Requiere técnica correcta de frenado
+
+**Cómo hacerlo:**
+1. Pasa la cuerda por el mosquetón formando una "S"
+2. Gira una de las vueltas 180°
+3. Engancha ambas vueltas al mosquetón
+4. El mosquetón debe tener forma HMS (pera) para que funcione bien
+
+**Técnica de uso:**
+- Mano de freno: siempre en el lado del chicote
+- Para frenar: agarra fuerte el lado del chicote
+- Para soltar: afloja gradualmente
+
+**Por qué se llama "Munter":** Por Werner Munter, rescatista suizo que lo popularizó en los años 70.
+
+![Nudo Dinámico/UIAA](../../assets/especialidades/nudos_y_amarras/nudo-de-munter.webp)
+
+#### Vuelta de Gato / Zarpa de Gato (Cat's Paw)
+
+Un nudo **ingenioso** para enganchar un lazo cerrado a un gancho.
+
+**¿Para qué sirve?**
+- Conectar eslinga a gancho de grúa
+- Izar cargas con un lazo cerrado
+- Trabajo industrial y construcción
+
+**Ventajas:**
+- Muy fuerte (distribuye carga en 4 puntos)
+- Se auto-ajusta bajo carga
+- Simple pero efectivo
+
+**Cómo hacerlo:**
+1. Dobla un lazo cerrado formando dos lazos paralelos
+2. Tuerce cada lazo varias vueltas en direcciones opuestas
+3. Pasa el gancho por ambos lazos
+4. Al cargar, los lazos se ajustan al gancho
+
+![Zarpa de Gato](../../assets/especialidades/nudos_y_amarras/zarpa-de-gato-nudo.webp)
+
 ### NUDOS ORNAMENTALES - Arte con cuerdas
 
-#### Nudo Franciscano
+Los nudos no son solo utilitarios, ¡también pueden ser obras de arte!
 
-Un nudo decorativo clásico.
+#### Nudo Franciscano / Corona (Crown Knot)
 
-**Usos:**
-- Decoración de cabos
-- Terminales de cortinas
-- Trabajo artesanal
+Un nudo **decorativo clásico** también conocido como "Corona".
 
-#### Piña Americana
+**¿Para qué sirve?**
+- Decoración de extremos de cuerda
+- Terminales de cortinas o cordones
+- Base para trenzados más complejos
+- Trabajo artesanal con cuerdas
 
-Una terminación elaborada y elegante para cabos.
+**Características:**
+- Forma una "corona" con las hebras
+- Requiere mínimo 3 hebras
+- Puede combinarse con otros nudos decorativos
+- Base del nudo fraile
+
+**Técnica:**
+Las hebras se entrelazan formando un patrón circular que se ve como una corona desde arriba.
+
+![Nudo de Corona](../../assets/especialidades/nudos_y_amarras/nudo-de-corona.webp)
+
+#### Piña Americana (Pineapple Knot)
+
+Una terminación **elaborada y elegante** que parece una piña.
+
+**¿Para qué sirve?**
+- Decoración de cabos náuticos
+- Remate de látigos o fouets
+- Arte decorativo con cuerdas
+- Peso decorativo en extremos
+
+**Características:**
+- Muy vistoso y profesional
+- Requiere práctica considerable
+- Múltiples patrones posibles
+
+#### Nudo Cuadrado Decorativo (Chinese Button)
+
+Un nudo **ornamental tridimensional** hermoso y simétrico.
+
+**¿Para qué sirve?**
+- Botones decorativos en ropa tradicional
+- Joyería con cordón
+- Arte decorativo
+- Centro de pulseras y collares
+
+**Características:**
+- Forma cuadrada o circular simétrica
+- Se ve igual desde múltiples ángulos
+- Tradicional en cultura china
+- También conocido como "botón chino"
+
+**Historia:** Usado durante siglos en Asia para crear botones funcionales y decorativos en vestimenta tradicional.
+
+**Cómo hacerlo:**
+Es un nudo complejo que requiere paciencia:
+1. Forma dos lazos superpuestos
+2. Entreteje los extremos siguiendo un patrón simétrico
+3. Ajusta gradualmente hasta formar el cuadrado
+4. Los extremos salen por lados opuestos
+
+![Nudo Cuadrado Decorativo](../../assets/especialidades/nudos_y_amarras/nudo-cuadrado-decorativo.jpg)
+*Imagen: Descargar de https://upload.wikimedia.org/wikipedia/commons/3/3b/Chinese_button_knot.jpg*
+
+#### Encapilladura (Crown and Wall / Pata de Conejo)
+
+Un nudo **terminal decorativo** para extremos de cuerda de tres hebras.
+
+**¿Para qué sirve?**
+- Remate profesional de cabos náuticos
+- Evitar deshilachado de forma elegante
+- Trabajo marinero tradicional
+
+**Características:**
+- Combina nudo de corona con nudo de pared
+- Muy firme y profesional
+- Requiere cuerda de múltiples hebras
+
+**Aplicación:** Ver en barandas de barcos, terminales de cabos decorativos.
 
 ### NUDOS DE SUJETAR - Fijando objetos
 
@@ -582,11 +1142,31 @@ Crea un sistema de **polea simple** que multiplica tu fuerza.
 - Tensar cuerdas de carpas
 - Atar objetos que necesitan MUCHA tensión
 
-#### Boca de Lobo (Timber Hitch)
+#### Boca de Lobo / Nudo de Leñador (Timber Hitch)
 
 Perfecto para **arrastrar troncos** o postes largos.
 
-**Ventaja:** Se aprieta más cuanto más tiras. Se suelta fácilmente cuando no hay carga.
+**¿Para qué sirve?**
+- Arrastrar troncos o postes
+- Remolcar objetos cilíndricos
+- Inicio de amarras diagonales
+- Mover material de construcción
+
+**Características especiales:**
+- Se aprieta automáticamente bajo carga (más tiras, más agarra)
+- Se suelta fácilmente cuando no hay tensión
+- Muy rápido de hacer
+- Funciona mejor con superficies rugosas
+
+**Cómo hacerlo:**
+1. Rodea el objeto con la cuerda
+2. Pasa el chicote alrededor del firme
+3. Enrolla el chicote sobre sí mismo 3-4 vueltas
+4. Aprieta tirando del firme
+
+**Tip de leñador:** Para troncos muy largos, combina con media vuelta al otro extremo para mejor control de dirección.
+
+![Boca de Lobo](../../assets/especialidades/nudos_y_amarras/nudo-de-leñador.webp)
 
 ### NUDOS DE ACORTAMIENTO - Ajustando longitud
 
@@ -608,6 +1188,9 @@ Un **empalme** no es simplemente un nudo: es una técnica donde las **hebras de 
 - Más resistente (conserva ~95% de la fuerza)
 - Más delgado (pasa mejor por poleas)
 - Permanente (no se deshace)
+
+![Ejemplo de Empalme](../../assets/especialidades/nudos_y_amarras/empalme-ejemplo.jpg)
+*Ejemplo visual de empalme corto mostrando el entretejido de hebras*
 
 ### Empalmes que debes dominar:
 
@@ -748,24 +1331,150 @@ Una técnica más **avanzada y fuerte**.
 
 ---
 
+## 📋 LISTA COMPLETA DE NUDOS DOCUMENTADOS
+Elige tus 20 favoritos
+
+Este manual documenta **34 nudos y técnicas** diferentes. El requisito es dominar **mínimo 20** de ellos, distribuyendo tu elección entre las categorías.
+
+### ✅ NUDOS ELEMENTALES (4 disponibles - elige 3)
+
+1. **Nudo Simple** (Overhand Knot) - El más básico
+2. **Nudo de Ocho** (Figure Eight) - Tope seguro
+3. **Nudo Simple Triple** (Triple Overhand) - Tope reforzado
+4. **Nudo Fraile** (Franciscan Knot) - Decorativo y funcional
+
+### ✅ NUDOS DE UNIÓN (9 disponibles - elige 3+)
+
+5. **Nudo Llano/Rizo** (Square Knot) - Clásico básico
+6. **Nudo de Pescador** (Fisherman's Knot) - Seguro y confiable
+7. **Nudo de Pescador Doble** (Double Fisherman's) - Extra seguro
+8. **Nudo de Escota** (Sheet Bend) - Para diferentes grosores
+9. **Nudo de Cazador** (Hunter's Bend) - Elegante y moderno
+10. **Nudo Cirujano** (Surgeon's Knot) - Con vueltas extras
+11. **Nudo Falso** (Granny Knot) - Aprende a evitarlo ❌
+12. **Nudo Carrick** (Carrick Bend) - Para cabos gruesos
+13. **Nudo Carrick Doble** - Versión reforzada
+
+### ✅ NUDOS DE ANCLAJE (9 disponibles - elige 3+)
+
+14. **As de Guía** (Bowline) - El rey de los nudos
+15. **Ballestrinque** (Clove Hitch) - Rápido y práctico
+16. **Cote/Vuelta de Braza** (Half Hitch) - El más simple
+17. **Dos Cotes** (Two Half Hitches) - Estándar seguro
+18. **Nudo Ancla** (Anchor Hitch) - Para anillas
+19. **Nudo Constrictor** (Constrictor Knot) - Permanente
+20. **Nudo Corredizo** (Slip Knot) - Ajustable
+21. **Vuelta Redonda** (Round Turn) - Técnica de fricción
+22. **As de Guía Corredizo** (Running Bowline) - Lazo ajustable
+
+### ✅ NUDOS DE SALVAMENTO (5 disponibles - elige 3+)
+
+23. **Silla de Bombero** (Bowline on a Bight) - Arnés de emergencia
+24. **Nudo Prusik** - Autobloqueante
+25. **As de Guía Doble** (Double Bowline) - Dos lazos seguros
+26. **Nudo Mariposa** (Alpine Butterfly) - Para centro de cuerda
+27. **As de Guía** (también cuenta aquí)
+
+### ✅ NUDOS DE IZAMIENTO (5 disponibles - elige 2+)
+
+28. **Margarita** (Sheepshank) - Acortar cuerda
+29. **Vuelta de Ballestrinque con Mosquetón** - Izar equipo
+30. **Nudo Dogal de Verdugo** (Hangman's Noose) - Cargas pesadas
+31. **Nudo Dinámico/UIAA** (Munter Hitch) - Aseguramiento
+32. **Zarpa de Gato** (Cat's Paw) - Para ganchos
+
+### ✅ NUDOS ORNAMENTALES (5 disponibles - elige 2+)
+
+33. **Nudo Franciscano/Corona** (Crown Knot) - Decorativo clásico
+34. **Piña Americana** (Pineapple Knot) - Remate elegante
+35. **Nudo Cuadrado Decorativo** (Chinese Button) - Ornamental 3D
+36. **Encapilladura** (Crown and Wall) - Terminal náutico
+37. **Pata de Conejo** - Decorativo marinero
+
+### ✅ NUDOS DE SUJETAR (3 disponibles - elige 2+)
+
+38. **Tensor/Truckers Hitch** - Sistema de polea
+39. **Boca de Lobo** (Timber Hitch) - Arrastrar troncos
+40. **Nudo Único** - *Consultar con instructor*
+
+### ✅ NUDOS DE ACORTAMIENTO (2 disponibles - elige 2)
+
+41. **Margarita** (Sheepshank) - Acortar temporalmente
+42. **Nudo Cirujano** (también en unión) - Con vueltas extras
+
+---
+
+## 📊 TU SELECCIÓN PERSONAL
+
+**Requisito:** Domina mínimo 20 nudos, distribuyendo entre categorías.
+
+**Distribución recomendada:**
+- 3 Elementales
+- 4 Unión (hay muchos importantes)
+- 4 Anclaje (fundamentales)
+- 3 Salvamento (pueden salvar vidas)
+- 2 Izamiento
+- 2 Ornamentales
+- 2 Sujetar
+- 2 Acortamiento (puede haber overlap)
+
+**Total recomendado:** 22-25 nudos (más que el mínimo)
+
+**Tip:** Aprende primero los marcados como "fundamentales" o "el más usado", luego expande según tus intereses.
+
+---
+
 ## PRÁCTICA - ¡Hazlo!
 
 ### ✅ Ejercicio 1: Domina 20 nudos esenciales
 
-Aprende de memoria 20 nudos diferentes:
-- 3 Nudos elementales
-- 3 Nudos de unión
-- 3 Nudos de anclaje
-- 3 Nudos de salvamento
-- 2 Nudos de izamiento
-- 2 Nudos ornamentales
-- 2 Nudos de sujetar
-- 2 Nudos de acortamiento
+**Objetivo:** Elegir y dominar **mínimo 20 nudos** de la lista completa arriba.
 
-**Cómo practicar:**
-- Práctica deliberada: 10 repeticiones por nudo, cada día
-- Con los ojos cerrados: el test definitivo
-- Enseña a otros: si puedes enseñarlo, lo dominas
+**Tu lista personal de nudos:**
+Usa la sección "📋 LISTA COMPLETA" arriba para elegir tus 20+ nudos. Marca los que vas dominando:
+
+**Nudos que he dominado:**
+- [ ] 1. _______________
+- [ ] 2. _______________
+- [ ] 3. _______________
+- [ ] 4. _______________
+- [ ] 5. _______________
+- [ ] 6. _______________
+- [ ] 7. _______________
+- [ ] 8. _______________
+- [ ] 9. _______________
+- [ ] 10. ______________
+- [ ] 11. ______________
+- [ ] 12. ______________
+- [ ] 13. ______________
+- [ ] 14. ______________
+- [ ] 15. ______________
+- [ ] 16. ______________
+- [ ] 17. ______________
+- [ ] 18. ______________
+- [ ] 19. ______________
+- [ ] 20. ______________
+- [ ] 21. ______________ (bonus)
+- [ ] 22. ______________ (bonus)
+- [ ] 23. ______________ (bonus)
+- [ ] 24. ______________ (bonus)
+- [ ] 25. ______________ (bonus)
+
+**Cómo practicar cada nudo:**
+1. **Aprende mirando:** Estudia la imagen y descripción
+2. **Practica con instrucciones:** Haz el nudo 5-10 veces siguiendo los pasos
+3. **Practica de memoria:** Hazlo sin mirar instrucciones (10 veces)
+4. **Test de ojos cerrados:** El verdadero test de dominio
+5. **Explica a otros:** Si puedes enseñarlo, verdaderamente lo dominas
+
+**Registro de progreso:**
+Para cada nudo, verifica:
+- [ ] Puedo hacerlo mirando instrucciones
+- [ ] Puedo hacerlo de memoria
+- [ ] Puedo hacerlo con ojos cerrados
+- [ ] Sé para qué sirve
+- [ ] Sé cuándo NO usarlo
+- [ ] Puedo enseñarlo a otros
 
 ### ✅ Ejercicio 2: Maestro de empalmes
 
