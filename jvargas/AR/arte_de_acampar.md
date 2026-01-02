@@ -708,52 +708,14 @@ Necesitas tres tamaños de madera:
 
 ### 9. Acampar durante tres días y dos noches seguidas, dormir al aire libre o dentro de una carpa. Participar activamente en la preparación de, por lo menos, dos comidas
 
-Realizado la última vez en el campamento de Conquistadores de la Zona Poniente de AMCH el 9 de Octubre de 2025.
+✅ **Realizado en Campamento Zonal Poniente AMCh, octubre 3-5, 2025**
 
-**PLANIFICACIÓN DEL CAMPAMENTO:**
-
-**Antes del campamento:**
-- Verifica que tienes todo el equipo necesario (requisito 5)
-- Revisa el pronóstico del tiempo
-- Planifica el menú (requisito 6)
-- Asigna responsabilidades: quién cocina qué comida
-- Estudia el mapa del área donde acamparán
-- Avisa a tus padres/tutores del itinerario completo
-
-**Durante el campamento debes:**
-
-1. **Día 1 - Llegada y establecimiento:**
-   - Armar tu carpa correctamente (requisito 7b)
-   - Preparar el terreno para dormir (requisito 7a)
-   - Organizar área de fogata (requisito 7c)
-   - Guardar comida de manera segura (requisito 7d)
-   - Participar en preparación de cena
-
-2. **Día 2 - Día completo en campamento:**
-   - Desayuno en campamento
-   - Actividades grupales (caminatas, juegos, devoción)
-   - Almuerzo
-   - Más actividades o tiempo libre
-   - Cena
-   - Fogata por la noche
-
-3. **Día 3 - Desarme y salida:**
-   - Desayuno
-   - Desarmar campamento
-   - Limpiar área completamente (requisito 7e)
-   - Inspección final del área
-   - Regreso a casa
-
-**PARTICIPACIÓN EN COMIDAS:**
-
-He participado colaborando en:
-
-- Preparar y encender la fogata
-- Cortar vegetales o ingredientes
-- Cocinar en fogata o cocinilla
-- Servir la comida
-- Lavar platos y utensilios después
-- Guardar alimentos sobrantes apropiadamente
+**Detalles del campamento:**
+- Duración: 3 días / 2 noches
+- Ubicación: Parque Municipal de Maipú
+- Alojamiento: Carpa armada correctamente
+- Comidas preparadas: Cena día 1 (arroz con carne de soya) y desayuno día 2 (huevos revueltos)
+- Participación: Encendido de fogata, preparación de ingredientes, cocción, servicio, limpieza
 
 ---
 

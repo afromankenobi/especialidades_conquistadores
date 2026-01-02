@@ -94,9 +94,9 @@ Los diagramas son instrucciones visuales paso a paso que muestran cómo doblar e
 
 ### 4. Ser capaz de identificar los siguientes símbolos y ejecutar el movimiento correspondiente
 
-**[PRÁCTICA REQUERIDA]**
+✅ **Completado en Campamento Zonal de Conquistadores, octubre 3-5, 2025**
 
-Debes demostrar físicamente que conoces y puedes ejecutar cada uno de estos movimientos básicos del origami:
+**Movimientos básicos del origami demostrados:**
 
 a) **Doblar en esta dirección:** Seguir la flecha recta para doblar el papel en la dirección indicada
 
@@ -130,8 +130,6 @@ n) **Girar:** Rotar el modelo completo en la dirección indicada
 
 ### 5. Explicar la importancia y utilidad de las bases o formas básicas. Demostrar las siguientes
 
-**Respuesta:**
-
 **Importancia de las bases:**
 
 Las bases son puntos de partida comunes para crear múltiples modelos diferentes. Son como los "cimientos" del origami.
@@ -143,9 +141,9 @@ Las bases son puntos de partida comunes para crear múltiples modelos diferentes
 - Facilitan seguir instrucciones avanzadas
 - Son el vocabulario fundamental del origami
 
-**[PRÁCTICA REQUERIDA]**
+✅ **Completado en Campamento Zonal de Conquistadores, octubre 3-5, 2025**
 
-Debes demostrar físicamente cómo hacer estas bases:
+**Bases demostradas físicamente:**
 
 **a) Base cuadrada:**
 - También llamada "base preliminar"
@@ -176,9 +174,9 @@ Debes demostrar físicamente cómo hacer estas bases:
 
 ### 6. Doblar los siguientes modelos a partir del diagrama, o escoger modelos semejantes
 
-**[PRÁCTICA REQUERIDA]**
+✅ **Completado en Campamento Zonal de Conquistadores, octubre 3-5, 2025**
 
-Debes doblar al menos 12 modelos siguiendo diagramas. Puedes elegir los de la lista o sustituir por modelos similares:
+**12 modelos doblados siguiendo diagramas:**
 
 a) **Cisne** - Ave elegante de cuello largo
 b) **Perro** - Animal doméstico con cabeza y orejas
@@ -204,72 +202,25 @@ l) **Persona** - Figura humana simple
 
 ### 7. Doblar dos modelos de su elección, de memoria
 
-**[PRÁCTICA REQUERIDA]**
+✅ **Completado en Campamento Zonal de Conquistadores, octubre 3-5, 2025**
 
-Debes memorizar completamente cómo hacer dos modelos de origami y doblarlos sin consultar diagramas ni instrucciones.
-
-**Sugerencias de modelos fáciles para memorizar:**
-
-- **Pajarita/avión de papel:** Modelo clásico y simple
-- **Barco tradicional:** Pocos pasos, fácil de recordar
-- **Vaso/copa:** Útil y sencillo
-- **Sombrero de samurái:** Divertido y práctico
-- **Corazón:** Simple y bonito para regalar
-
-**Consejos para memorizar:**
-
-1. Practica el modelo al menos 10 veces seguidas
-2. Hazlo sin mirar las instrucciones después de la 5ta vez
-3. Explícale a alguien más cómo hacerlo (enseñar ayuda a memorizar)
-4. Hazlo con los ojos cerrados para entrenar la memoria muscular
+**Dos modelos memorizados y doblados sin instrucciones:**
+- Barco tradicional
+- Avión de papel
 
 ---
 
 ### 8. Ilustrar una historia de la Biblia usando varios modelos de origami
 
-**[PRÁCTICA REQUERIDA]**
+✅ **Completado en Campamento Zonal de Conquistadores, octubre 3-5, 2025**
 
-Debes preparar y presentar una historia bíblica usando figuras de origami como personajes o elementos de la narración.
+**Historia bíblica presentada:** El Arca de Noé (Génesis 6-9)
 
-**Ideas de historias y modelos sugeridos:**
-
-**1. El Arca de Noé (Génesis 6-9):**
+**Modelos utilizados:**
 - Barco (el arca)
 - Paloma (la que trajo el ramo de olivo)
-- Diferentes animales (perro, gato, pájaro, pez)
-- Arcoíris (opcional, con papel de colores)
-
-**2. Daniel en el foso de los leones (Daniel 6):**
-- Persona (Daniel)
-- Varios leones o gatos grandes
-- Corona (para el rey Darío)
-
-**3. Jonás y el gran pez (Jonás 1-4):**
-- Persona (Jonás)
-- Pez o ballena grande
-- Barco
-- Planta (la calabacera que creció)
-
-**4. La multiplicación de los panes y peces (Juan 6:1-14):**
-- Muchos peces pequeños
-- Panes (formas rectangulares simples)
-- Persona (Jesús)
-- Multitud de personas pequeñas
-
-**5. La creación (Génesis 1-2):**
-- Sol y luna
-- Pájaros
-- Peces
-- Animales terrestres
-- Personas (Adán y Eva)
-- Árboles y flores
-
-**Presentación:**
-
-- Prepara los modelos con anticipación
-- Practica contar la historia usando las figuras
-- Puedes crear un escenario simple con cartón
-- Duración sugerida: 5-10 minutos
+- Varios animales (perro, gato, pájaros)
+- Duración de presentación: 8 minutos
 
 ---
 

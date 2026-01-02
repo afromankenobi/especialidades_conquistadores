@@ -371,18 +371,278 @@
 
       /* Print styles */
       @media print {
+        /* Configuración de página - CARTA */
+        @page {
+          size: letter;
+          margin: 1.5cm 1.5cm;
+        }
+
+        /* Reset para impresión */
+        body {
+          background: white;
+          font-size: 10pt;
+          line-height: 1.3;
+        }
+
         .container {
           box-shadow: none;
           max-width: 100%;
+          padding: 0;
+          margin: 0;
         }
 
+        /* Header COMPACTO para impresión */
         .especialidad-header {
-          break-inside: avoid;
+          page-break-inside: avoid;
+          page-break-after: avoid;
+          background: white !important;
+          color: #000 !important;
+          border-bottom: 2px solid #000;
+          margin: 0 0 15px 0 !important;
+          padding: 10px 0 8px 0 !important;
+          text-align: left !important;
         }
 
+        /* Ocultar logo en impresión */
+        .especialidad-logo {
+          display: none;
+        }
+
+        .especialidad-header h1 {
+          color: #000 !important;
+          font-size: 16pt !important;
+          margin-bottom: 4px !important;
+          font-weight: bold;
+        }
+
+        .especialidad-subtitle {
+          color: #000 !important;
+          font-size: 10pt !important;
+          margin-bottom: 4px;
+        }
+
+        .codigo-badge {
+          background: white !important;
+          color: #000 !important;
+          border: 1px solid #000 !important;
+          padding: 2px 8px !important;
+          font-size: 9pt !important;
+          margin-top: 4px;
+        }
+
+        /* Metadata en línea compacto */
+        .especialidad-meta {
+          display: inline-block;
+          width: 100%;
+          margin-bottom: 15px !important;
+          page-break-inside: avoid;
+          font-size: 8pt;
+        }
+
+        .meta-card {
+          background: white !important;
+          border: none !important;
+          border-left: 2px solid #000 !important;
+          padding: 4px 8px !important;
+          display: inline-block;
+          margin-right: 15px;
+        }
+
+        .meta-card:hover {
+          transform: none;
+          box-shadow: none;
+        }
+
+        .meta-label {
+          color: #666 !important;
+          font-size: 7pt !important;
+          font-weight: bold;
+          display: inline;
+        }
+
+        .meta-label:after {
+          content: ": ";
+        }
+
+        .meta-value {
+          color: #000 !important;
+          font-size: 8pt !important;
+          display: inline;
+        }
+
+        .nivel-star {
+          font-size: 10pt;
+        }
+
+        /* Headings */
+        h2 {
+          font-size: 16pt;
+          margin-top: 20px;
+          margin-bottom: 10px;
+          page-break-after: avoid;
+          border-bottom: 2px solid #000;
+          padding-bottom: 5px;
+        }
+
+        h3 {
+          font-size: 13pt;
+          margin-top: 15px;
+          margin-bottom: 8px;
+          page-break-after: avoid;
+        }
+
+        h4 {
+          font-size: 11pt;
+          margin-top: 12px;
+          margin-bottom: 6px;
+          page-break-after: avoid;
+        }
+
+        /* Párrafos optimizados */
+        p {
+          orphans: 3;
+          widows: 3;
+          margin-bottom: 8px;
+        }
+
+        /* Listas más compactas */
+        ul, ol {
+          margin-left: 20px;
+          margin-bottom: 10px;
+        }
+
+        li {
+          margin-bottom: 4px;
+        }
+
+        /* Tablas */
+        table {
+          page-break-inside: avoid;
+          font-size: 9pt;
+          border: 1px solid #000;
+        }
+
+        th {
+          background-color: #e0e0e0 !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+          color: #000;
+          border: 1px solid #000;
+        }
+
+        td {
+          border: 1px solid #000;
+        }
+
+        tbody tr:hover {
+          background-color: transparent;
+        }
+
+        /* Code blocks */
+        pre {
+          page-break-inside: avoid;
+          border: 1px solid #000;
+          background-color: #f5f5f5 !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+          font-size: 8pt;
+          padding: 10px;
+        }
+
+        code {
+          font-size: 9pt;
+          background-color: #f0f0f0 !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+
+        /* Diagramas Mermaid */
+        .mermaid {
+          page-break-inside: avoid;
+          border: 1px solid #000 !important;
+          background: white !important;
+          padding: 10px;
+          margin: 15px 0;
+        }
+
+        /* Imágenes */
+        img {
+          page-break-inside: avoid;
+          max-width: 60%;
+          margin: 8px auto;
+        }
+
+        /* Ocultar obleas/parches de especialidad en impresión */
+        img[src*="pathfindersonline.org/images"],
+        img[src*="Honor.png"],
+        img[alt*="AR-"],
+        img[alt*="EN-"],
+        img[alt*="CS-"],
+        img[alt*="AM-"],
+        img[alt*="HD-"],
+        img[alt*="MC-"] {
+          display: none !important;
+        }
+
+        /* SVG de fogatas - hacerlos más pequeños */
+        img[src*="Camp_"][src$=".svg"] {
+          max-width: 200px;
+          filter: grayscale(100%);
+        }
+
+        /* Enlaces - mostrar URL en impresión */
         a {
-          color: #333;
+          color: #000;
           text-decoration: underline;
+        }
+
+        a[href^="http"]:after {
+          content: " (" attr(href) ")";
+          font-size: 8pt;
+          color: #666;
+          word-break: break-all;
+        }
+
+        /* No mostrar URL para imágenes */
+        a[href] img {
+          display: block;
+        }
+
+        a:has(img):after {
+          content: "";
+        }
+
+        /* Blockquotes */
+        blockquote {
+          page-break-inside: avoid;
+          border-left-color: #000;
+          color: #000;
+        }
+
+        /* Footer */
+        .especialidad-footer {
+          page-break-inside: avoid;
+          border-top: 2px solid #000;
+          margin-top: 30px;
+          padding-top: 15px;
+          font-size: 9pt;
+          color: #000;
+        }
+
+        /* Evitar saltos de página problemáticos */
+        h2, h3, h4, h5, h6 {
+          page-break-after: avoid;
+          page-break-inside: avoid;
+        }
+
+        /* Mantener juntos elementos relacionados */
+        table, figure, .mermaid, pre, blockquote {
+          page-break-inside: avoid;
+        }
+
+        /* Ocultar elementos decorativos no necesarios */
+        .no-print {
+          display: none !important;
         }
       }
     </style>

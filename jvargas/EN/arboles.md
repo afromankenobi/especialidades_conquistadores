@@ -13,8 +13,6 @@ institucion_origen: Asociación General
 
 ### 1. Describir las diferencias entre árboles y arbustos
 
-**Respuesta:**
-
 Aunque ambos son plantas leñosas perennes, existen diferencias clave que los distinguen:
 
 | Característica | Árbol | Arbusto |
@@ -42,8 +40,6 @@ Los árboles son plantas perennes de tallo leñoso que se ramifican a cierta alt
 ---
 
 ### 2. Describir la función de las hojas en la vida de un árbol
-
-**Respuesta:**
 
 Las hojas son los "pulmones y cocinas" del árbol. Sus funciones principales son:
 
@@ -120,26 +116,28 @@ Los árboles también desempeñan un papel importante produciendo oxígeno y red
 
 ### 3. Esquematizar las partes de una hoja completa. Identificar las hojas recolectadas y sus clases
 
-**Respuesta:**
-
 #### **Partes de una hoja completa:**
 
 ```mermaid
 graph TB
-    subgraph LIMBO["<b>LIMBO (Lámina foliar)</b><br/>Parte plana y ancha<br/>Donde ocurre la fotosíntesis"]
-        Apice["<b>Ápice</b><br/>Punta de la hoja"]
+    subgraph LIMBO["`**LIMBO** (Lámina foliar)`"]
+        direction TB
+        desc@{shape: braces, label: "Parte plana y ancha donde ocurre la fotosíntesis conocida como hoja."}
+        
+        Apice["`<b>Ápice</b><br/>Punta de la hoja`"]
         NervCentral["<b>Nervadura Central</b><br/>Venas que transportan<br/>agua y nutrientes"]
         NervSec["<b>Nervaduras Secundarias</b><br/>Ramificaciones laterales"]
 
-        Apice --- NervCentral
+        desc ~~~ Apice
+        Apice---NervCentral
         NervCentral --- NervSec
     end
 
-    LIMBO ---|conecta| Peciolo["<b>PECÍOLO</b><br/>Tallo que une la hoja al tallo<br/>Permite orientación hacia la luz"]
+    LIMBO ---|conecta| Peciolo["<b>PECÍOLO</b><br/>Conector que une la hoja al tallo.<br/>Permite orientación hacia la luz"]
 
-    Peciolo --- Estipulas["<b>ESTÍPULAS</b><br/>Apéndices pequeños en la base<br/>(no todas las hojas los tienen)"]
+    Peciolo --- Estipulas["<b>ESTÍPULAS</b><br/>Apéndices pequeños en la base (no todas las hojas los tienen)"]
 
-    Estipulas --- Axila["<b>AXILA FOLIAR</b><br/>Ángulo entre pecíolo y tallo<br/>Donde pueden crecer yemas"]
+    Estipulas --- Axila["<b>AXILA FOLIAR</b><br/>Ángulo entre pecíolo y tallo donde pueden crecer yemas"]
 
     Axila --- Tallo["<b>TALLO PRINCIPAL</b>"]
 
@@ -474,8 +472,6 @@ El manual GO! enfatiza conocer los especímenes de memoria y a pedido ser capaz 
 
 ### 6. Citar dos ejemplos de árboles que reciben su nombre por:
 
-**Respuesta:**
-
 Los árboles reciben sus nombres comunes de muchas formas interesantes. Aquí hay ejemplos de cada categoría:
 
 #### **a) Su uso común**
@@ -560,8 +556,6 @@ Los árboles reciben sus nombres comunes de muchas formas interesantes. Aquí ha
 ---
 
 ### 7. Conocer el nombre científico de dos grandes árboles y saber las diferencias entre ellos
-
-**Respuesta:**
 
 Los árboles más grandes del mundo pertenecen a diferentes especies con características muy distintas:
 
@@ -838,8 +832,6 @@ La vegetación arbórea de nuestra región sustenta una rica biodiversidad. Los 
 
 ### 10. Contar cinco historias bíblicas de árboles que tuvieron un papel importante
 
-**Respuesta:**
-
 Los árboles aparecen en momentos cruciales de la historia bíblica, a menudo con significado espiritual profundo:
 
 #### **1. El Árbol del Conocimiento del Bien y del Mal (Génesis 2-3)**
@@ -1014,3 +1006,4 @@ El manual GO! Árboles I proporciona:
 - Información sobre diferencias entre árboles y arbustos
 - Explicación sobre el origen de nombres de árboles
 - Plantillas para completar el herbario
+
