@@ -6,7 +6,9 @@ Esta guía práctica ha sido diseñada para los instructores del Club de Conquis
 
 ## **1\. ¿Qué es un Cactus?**
 
-Un cactus es una planta de la familia **Cactaceae**, nativa de las Américas. Se caracterizan por ser plantas capaces de almacenar grandes cantidades de agua en sus tallos para sobrevivir en entornos áridos. Existen cerca de 1.750 especies conocidas.
+> **🎯 Actividad inicial:** Muestra una foto de un cactus y una de otra planta suculenta (como un Aloe Vera). Pregunta al grupo: *"¿Qué hace que un cactus sea un cactus? ¿Cómo lo diferenciarían de otras plantas?"*. Anota las ideas en la pizarra y luego compáralas con las características reales.
+
+Un cactus es una planta de la familia **Cactaceae**, nativa de las Américas. Existen cerca de 1.750 especies conocidas. Pero lo que los hace especiales no es solo su apariencia — pregunta a los conquistadores: *¿qué tienen los cactus que ninguna otra planta del mundo tiene?* (Respuesta: las areolas).
 
 **Características principales:**
 
@@ -31,6 +33,8 @@ Un cactus es una planta de la familia **Cactaceae**, nativa de las Américas. Se
 
 ## **2\. Las Espinas: ¿Qué son y por qué existen?**
 
+> **🎯 Desafío grupal:** Antes de explicar nada, muestra la imagen de abajo y pregunta: *"Las espinas del cactus en realidad son otra cosa transformada. ¿Qué creen que eran antes?"*. Luego pregunta: *"Si ustedes fueran una planta en el desierto, ¿para qué les servirían las espinas? Piensen en al menos 3 razones."* Deja que discutan y anota las ideas. Después compara con la referencia.
+
 Las espinas de los cactus son **hojas modificadas**. A lo largo de millones de años, las hojas normales se transformaron en espinas como adaptación a ambientes secos.
 
 <div align="center">
@@ -38,11 +42,10 @@ Las espinas de los cactus son **hojas modificadas**. A lo largo de millones de a
   <p><em>Espinas naciendo desde las areolas en Ferocactus latispinus. (CC BY-SA 4.0, Juan Carlos Fonseca Mata)</em></p>
 </div>
 
-**¿Por qué los cactus tienen espinas en vez de hojas?**
+**Pista para guiar la discusión:** Las hojas normales pierden mucha agua por evaporación. En el desierto, eso sería fatal. ¿Qué ventaja tiene entonces no tener hojas planas?
 
-Las hojas normales pierden mucha agua por evaporación (transpiración). En el desierto, eso sería fatal. Al convertir sus hojas en espinas, los cactus redujeron drásticamente la pérdida de agua.
-
-**Funciones de las espinas:**
+<details markdown="1">
+<summary markdown="0">📋 Referencia para el instructor: las 4 funciones de las espinas</summary>
 
 | Función | Explicación |
 | :---- | :---- |
@@ -51,7 +54,9 @@ Las hojas normales pierden mucha agua por evaporación (transpiración). En el d
 | **Recolección de agua** | En zonas con neblina costera, las espinas condensan gotitas de rocío que escurren hasta las raíces. |
 | **Regulación de temperatura** | La capa de espinas funciona como un "paraguas" que protege el tallo del sol directo. |
 
-> **Dato curioso:** No todos los cactus tienen espinas. El Peyote (*Lophophora williamsii*) y algunos cactus epífitos como el Cactus de Navidad carecen de ellas.
+</details>
+
+> **Dato curioso:** No todos los cactus tienen espinas. El Peyote (*Lophophora williamsii*) y algunos cactus epífitos como el Cactus de Navidad carecen de ellas. Pregunta: *si el cactus de Navidad no tiene espinas, ¿cómo sabemos que es un cactus?* (Pista: busca las areolas).
 
 ## **3\. Partes del Cactus**
 
@@ -97,7 +102,17 @@ graph TD
 
 ## **4\. Cactus vs. Suculentas**
 
-Es común confundirlos, pero existe una regla de oro: **todos los cactus son suculentas, pero no todas las suculentas son cactus.**
+> **🎯 Observa y decide:** Muestra la imagen de abajo SIN explicar cuál es cuál. Pregunta: *"Estas dos plantas se ven casi idénticas. Una es cactus, la otra no. ¿Cuál es cuál? ¿Cómo lo sabrían?"*
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Euphorbia_obesa_and_Astrophytum_asterias_convergence_example.jpg" alt="Comparación entre Euphorbia obesa (suculenta) y Astrophytum asterias (cactus)" width="450">
+  <p><em>Una de estas plantas es un cactus y la otra no. ¿Cuál es cuál? (CC BY-SA 4.0, JonTheSucculentDude)</em></p>
+</div>
+
+La regla de oro: **todos los cactus son suculentas, pero no todas las suculentas son cactus.** Pide al grupo que proponga al menos 3 diferencias entre un cactus y otra suculenta. Luego revisen juntos:
+
+<details markdown="1">
+<summary markdown="0">📋 Tabla comparativa (referencia para el instructor)</summary>
 
 | Característica | Cactus | Otras Suculentas |
 | :---- | :---- | :---- |
@@ -107,18 +122,18 @@ Es común confundirlos, pero existe una regla de oro: **todos los cactus son suc
 | **Familia** | Solo Cactaceae. | Muchas familias distintas (Crassulaceae, Asphodelaceae, Euphorbiaceae, etc.). |
 | **Origen** | Exclusivamente de las Américas (excepto *Rhipsalis*). | Todo el mundo. |
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Euphorbia_obesa_and_Astrophytum_asterias_convergence_example.jpg" alt="Comparación entre Euphorbia obesa (suculenta) y Astrophytum asterias (cactus)" width="450">
-  <p><em>Izquierda: Euphorbia obesa (suculenta, NO es cactus). Derecha: Astrophytum asterias (cactus verdadero). Se ven casi iguales, pero solo el cactus tiene areolas. (CC BY-SA 4.0, JonTheSucculentDude)</em></p>
-</div>
+</details>
 
-> **Truco para identificar:** Si ves una planta gordita y con espinas, busca las areolas. Si las tiene, es cactus. Si no las tiene, es otra suculenta.
+> **Respuesta a la foto:** Izquierda: *Euphorbia obesa* (suculenta, NO es cactus). Derecha: *Astrophytum asterias* (cactus verdadero). Se ven casi iguales, pero solo el cactus tiene areolas. El truco: si ves una planta gordita y con espinas, busca las areolas.
 
 ## **5\. ¿Dónde hay más cactus? ¿Por qué?**
 
-Los cactus son **nativos exclusivos de las Américas**, desde Canadá hasta la Patagonia. Se concentran especialmente en zonas áridas y semiáridas.
+> **🎯 Piensa antes de leer:** Pregunta al grupo: *"Si tuvieran que buscar cactus en el mundo, ¿a qué tipo de lugares irían? ¿Por qué?"*. Luego: *"¿Creen que hay cactus silvestres en Europa, África o Asia?"*. (La respuesta los va a sorprender).
 
-**Regiones con mayor diversidad de cactus:**
+Los cactus son **nativos exclusivos de las Américas**, desde Canadá hasta la Patagonia. Se concentran especialmente en zonas áridas y semiáridas. Pide que el grupo piense: *¿qué tienen en común los desiertos de México, Arizona y Atacama que favorece a los cactus?*
+
+<details markdown="1">
+<summary markdown="0">📋 Regiones con mayor diversidad (referencia para el instructor)</summary>
 
 | Región | Ejemplos | Especies destacadas |
 | :---- | :---- | :---- |
@@ -127,13 +142,13 @@ Los cactus son **nativos exclusivos de las Américas**, desde Canadá hasta la P
 | **Sudamérica** | Atacama (Chile), Patagonia, Nordeste de Brasil | Quisco, quisquito, mandacaru, xique-xique. |
 | **Islas del Caribe** | Cuba, Jamaica, Hispaniola | Cactus columnares endémicos. |
 
-**¿Por qué hay más cactus en estos lugares?**
+</details>
 
-Los cactus evolucionaron para sobrevivir donde otras plantas no pueden: suelos pobres, lluvias escasas y temperaturas extremas. Sus adaptaciones (tallo suculento, espinas en vez de hojas, raíces extendidas) les dan ventaja en desiertos y zonas rocosas.
+**La razón:** Los cactus evolucionaron para sobrevivir donde otras plantas no pueden. Sus adaptaciones (tallo suculento, espinas, raíces extendidas) les dan ventaja en desiertos y zonas rocosas. Pregunta al grupo: *¿qué pasaría si pusiéramos un cactus en un bosque lluvioso? ¿Le iría bien o mal? ¿Por qué?*
 
-**En Chile**, los cactus se encuentran desde el desierto de Atacama hasta la zona central. Las especies más comunes son el **Quisco** (*Echinopsis chiloensis*) en cerros y quebradas, y el **Quisquito** (*Eriosyce subgibbosa*) en la costa. Chile alberga unas 160 especies, muchas de ellas endémicas (no existen en ningún otro lugar del mundo).
+**En Chile**, los cactus se encuentran desde el desierto de Atacama hasta la zona central. Las especies más comunes son el **Quisco** (*Echinopsis chiloensis*) en cerros y quebradas, y el **Quisquito** (*Eriosyce subgibbosa*) en la costa. Chile alberga unas 160 especies, muchas endémicas.
 
-> **Excepción:** El género *Rhipsalis* es el único cactus que crece naturalmente fuera de América (en África, Madagascar y Sri Lanka). Se cree que sus semillas fueron transportadas por aves migratorias.
+> **Dato sorprendente:** El género *Rhipsalis* es el único cactus que crece naturalmente fuera de América (en África, Madagascar y Sri Lanka). Pregunta al grupo: *¿cómo creen que llegó hasta allá si los cactus son americanos?* (Pista: piensen en animales que viajan entre continentes).
 
 ## **6\. 15 Especies de Cactus**
 
@@ -246,7 +261,12 @@ A continuación se detallan 15 especímenes para identificación, priorizando es
 
 ## **7\. Utilidad y Conservación**
 
-### Tres usos de los cactus para el hombre y el medio ambiente
+> **🎯 Lluvia de ideas:** Dividan el grupo en 3 equipos. Cada equipo tiene 3 minutos para hacer una lista de todos los usos que se les ocurran para los cactus: un equipo piensa en **alimentación**, otro en **usos para el ser humano**, y el tercero en **beneficios para el medio ambiente**. Gana el equipo con más ideas correctas. Después comparen sus listas con la referencia.
+
+Pista para motivar: uno de los usos más sorprendentes del cactus involucra un insecto que produce el colorante rojo de muchos alimentos y cosméticos...
+
+<details markdown="1">
+<summary markdown="0">📋 Referencia completa: usos de los cactus (para el instructor)</summary>
 
 **1\. Alimentación**
 
@@ -263,18 +283,23 @@ A continuación se detallan 15 especímenes para identificación, priorizando es
 
 **3\. Medio ambiente**
 
-* **Control de erosión:** Sus raíces estabilizan suelos en zonas desérticas donde otras plantas no sobreviven.
+* **Control de erosión:** Sus raíces estabilizan suelos en zonas desérticos donde otras plantas no sobreviven.
 * **Refugio y alimento para fauna:** Aves anidan en cactus columnares (como el saguaro), y murciélagos, abejas e insectos se alimentan de sus flores y frutos.
 * **Captura de agua:** En zonas de niebla costera, los cactus contribuyen a captar humedad del aire.
 
+</details>
+
 ### Conservación
 
-Muchas especies de cactus están **amenazadas** por:
+> **🎯 Pregunta para reflexionar:** *"¿Por qué creen que hay personas que sacan cactus del campo para venderlos? ¿Qué problema puede causar eso? ¿Qué podríamos hacer nosotros?"*
+
+Muchas especies de cactus están **amenazadas**. Pide al grupo que piense en al menos 2 razones por las que una especie de cactus podría estar en peligro. Luego comparen:
+
 * Recolección ilegal para venta como plantas ornamentales.
 * Destrucción de hábitat por agricultura y urbanización.
 * Cambio climático que altera los patrones de lluvia.
 
-En Chile, numerosas especies de *Eriosyce* y *Copiapoa* son endémicas y están en categoría de conservación. La recolección de cactus silvestres está prohibida por ley.
+En Chile, numerosas especies de *Eriosyce* y *Copiapoa* son endémicas y están en categoría de conservación. **La recolección de cactus silvestres está prohibida por ley.**
 
 ## **8\. Parte Práctica**
 
