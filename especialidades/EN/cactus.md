@@ -33,10 +33,10 @@ Un cactus es una planta de la familia **Cactaceae**, nativa de las Américas. Se
 
 Las espinas de los cactus son **hojas modificadas**. A lo largo de millones de años, las hojas normales se transformaron en espinas como adaptación a ambientes secos.
 
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ferocactus_latispinus_-_areoles_and_spines.jpg" alt="Espinas de cactus Ferocactus latispinus" width="350">
-    <p><em>Espinas naciendo desde las areolas en Ferocactus latispinus. (CC BY-SA 4.0, Juan Carlos Fonseca Mata)</em></p>
-  </div>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ferocactus_latispinus_-_areoles_and_spines.jpg" alt="Espinas de cactus Ferocactus latispinus" width="350">
+  <p><em>Espinas naciendo desde las areolas en Ferocactus latispinus. (CC BY-SA 4.0, Juan Carlos Fonseca Mata)</em></p>
+</div>
 
 **¿Por qué los cactus tienen espinas en vez de hojas?**
 
@@ -74,13 +74,13 @@ graph TD
     CO --> TA
     TA --> RA
 
-    style FL fill:#ffcccc,stroke:#cc0000
-    style FR fill:#ffcc99,stroke:#cc6600
-    style ES fill:#dddddd,stroke:#666666
-    style AR fill:#ffffcc,stroke:#cccc00
-    style CO fill:#ccffcc,stroke:#009900
-    style TA fill:#99cc99,stroke:#006600
-    style RA fill:#cc9966,stroke:#663300
+    style FL fill:#4a1c1c,stroke:#f87171,color:#fca5a5
+    style FR fill:#4a2c1a,stroke:#fb923c,color:#fdba74
+    style ES fill:#2a2a2a,stroke:#9ca3af,color:#d1d5db
+    style AR fill:#3a3a1a,stroke:#fbbf24,color:#fde68a
+    style CO fill:#1a3a2a,stroke:#4ade80,color:#86efac
+    style TA fill:#1a3322,stroke:#22c55e,color:#86efac
+    style RA fill:#3a2a1a,stroke:#d97706,color:#fbbf24
 ```
 
 | Parte | Descripción | Función principal |

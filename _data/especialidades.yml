@@ -1,0 +1,127 @@
+# Datos de especialidades para el homepage
+# Se usa en _layouts/home.html via site.data.especialidades
+
+total_objetivo: 30  # Construcciones rústicas pendiente
+
+areas:
+  - codigo: AR
+    nombre: Actividades Recreativas
+    icono: "&#9978;"
+    color: "#f97316"
+    especialidades:
+      - nombre: Arte de acampar
+        codigo: AR-001
+        archivo: arte_de_acampar
+      - nombre: Campamento I
+        codigo: AR-049
+        archivo: campamento_i
+      - nombre: Campamento II
+        codigo: AR-050
+        archivo: campamento_ii
+      - nombre: Campamento III
+        codigo: AR-051
+        archivo: campamento_iii
+      - nombre: Fútbol
+        codigo: AR-064
+        archivo: futbol
+      - nombre: Nudos y amarras
+        codigo: AR-040
+        archivo: nudos_y_amarras
+      - nombre: Pionerismo
+        codigo: AR-021
+        archivo: pionerismo
+      - nombre: Vida silvestre
+        codigo: AR-024
+        archivo: vida_silvestre
+
+  - codigo: EN
+    nombre: Estudio de la Naturaleza
+    icono: "&#127807;"
+    color: "#22c55e"
+    especialidades:
+      - nombre: Árboles
+        codigo: EN-006
+        archivo: arboles
+      - nombre: Arbustos
+        codigo: EN-019
+        archivo: arbustos
+      - nombre: Aves domésticas
+        codigo: EN-004
+        archivo: aves_domesticas
+      - nombre: Cactus
+        codigo: EN-015
+        archivo: cactus
+      - nombre: Energía renovable
+        codigo: EN-081
+        archivo: energia_renovable
+      - nombre: Flores
+        codigo: EN-005
+        archivo: flores
+      - nombre: Mamíferos
+        codigo: EN-010
+        archivo: mamiferos
+      - nombre: Reptiles
+        codigo: EN-011
+        archivo: reptiles
+      - nombre: Rocas y minerales
+        codigo: EN-012
+        archivo: rocas_y_minerales
+      - nombre: Virus
+        codigo: EN-095
+        archivo: virus
+
+  - codigo: CS
+    nombre: Ciencia y Salud
+    icono: "&#128300;"
+    color: "#ef4444"
+    especialidades:
+      - nombre: Higiene oral
+        codigo: CS-021
+        archivo: higiene_oral
+      - nombre: Primeros auxilios
+        codigo: CS-001
+        archivo: primeros_auxilios
+      - nombre: Rescate básico
+        codigo: CS-010
+        archivo: rescate_basico
+
+  - codigo: AM
+    nombre: Artes y Actividades Manuales
+    icono: "&#127912;"
+    color: "#a855f7"
+    especialidades:
+      - nombre: Escatología
+        codigo: AM-037
+        archivo: escatologia
+      - nombre: Globos aerostáticos
+        codigo: AM-074
+        archivo: globos_aerostaticos
+      - nombre: Goma Eva
+        codigo: AM-078
+        archivo: goma_eva
+      - nombre: Marcado de biblia
+        codigo: AM-018
+        archivo: marcado_de_biblia
+      - nombre: Origami
+        codigo: AM-059
+        archivo: origami
+      - nombre: Resolución de conflictos
+        codigo: AM-007
+        archivo: resolucion_de_conflictos
+      - nombre: Temperancia
+        codigo: AM-012
+        archivo: temperancia
+
+  - codigo: HD
+    nombre: Habilidades Domésticas
+    icono: "&#127968;"
+    color: "#eab308"
+    especialidades:
+      - nombre: Cuidado de bebés
+        codigo: HD-002
+        archivo: cuidado_de_bebes
+
+pendientes:
+  - nombre: Construcciones rústicas
+    codigo: AR-028
+    area: AR

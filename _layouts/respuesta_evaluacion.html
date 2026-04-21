@@ -4,383 +4,243 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <!-- Mermaid.js para renderizar diagramas -->
+    {% case page.area_codigo %}
+      {% when 'AR' %}{% assign area_color = '#f97316' %}{% assign area_color_dim = 'rgba(249,115,22,0.12)' %}
+      {% when 'EN' %}{% assign area_color = '#22c55e' %}{% assign area_color_dim = 'rgba(34,197,94,0.12)' %}
+      {% when 'CS' %}{% assign area_color = '#ef4444' %}{% assign area_color_dim = 'rgba(239,68,68,0.12)' %}
+      {% when 'AM' %}{% assign area_color = '#a855f7' %}{% assign area_color_dim = 'rgba(168,85,247,0.12)' %}
+      {% when 'HD' %}{% assign area_color = '#eab308' %}{% assign area_color_dim = 'rgba(234,179,8,0.12)' %}
+      {% else %}{% assign area_color = '#3fb950' %}{% assign area_color_dim = 'rgba(63,185,80,0.12)' %}
+    {% endcase %}
+
+    <!-- Mermaid.js -->
     <script src="https://cdn.jsdelivr.net/npm/mermaid@11.12.1/dist/mermaid.min.js" integrity="sha256-GYsZRC+G8LRqF+VtOr90TDooo0J+ZvqNraO1iad7q8w=" crossorigin="anonymous"></script>
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         if (typeof mermaid !== 'undefined') {
-          mermaid.initialize({
-            startOnLoad: false,
-            theme: 'default',
-            securityLevel: 'loose'
+          mermaid.initialize({ startOnLoad: false, theme: 'dark', securityLevel: 'loose' });
+          document.querySelectorAll('pre code.language-mermaid').forEach(function(cb) {
+            var pre = cb.parentElement, div = document.createElement('div');
+            div.className = 'mermaid'; div.textContent = cb.textContent;
+            pre.parentElement.replaceChild(div, pre);
           });
-          
-          // Convertir bloques de código con clase 'language-mermaid' a divs con clase 'mermaid'
-          document.querySelectorAll('pre code.language-mermaid').forEach(function(codeBlock) {
-            const pre = codeBlock.parentElement;
-            const mermaidDiv = document.createElement('div');
-            mermaidDiv.className = 'mermaid';
-            mermaidDiv.textContent = codeBlock.textContent;
-            pre.parentElement.replaceChild(mermaidDiv, pre);
+          document.querySelectorAll('pre.mermaid').forEach(function(pb) {
+            var div = document.createElement('div');
+            div.className = 'mermaid'; div.textContent = pb.textContent;
+            pb.parentElement.replaceChild(div, pb);
           });
-          
-          // También manejar bloques <pre class="mermaid">
-          document.querySelectorAll('pre.mermaid').forEach(function(preBlock) {
-            const mermaidDiv = document.createElement('div');
-            mermaidDiv.className = 'mermaid';
-            mermaidDiv.textContent = preBlock.textContent;
-            preBlock.parentElement.replaceChild(mermaidDiv, preBlock);
-          });
-          
-          // Renderizar todos los diagramas
           mermaid.run();
         }
       });
     </script>
 
     <style>
-      /* Estilos base para pantalla */
+      :root {
+        --primary-color: {{ area_color }};
+        --primary-dim: {{ area_color_dim }};
+        --green: #3fb950;
+        --blue: #58a6ff;
+        --amber: #d29922;
+        --text-color: #e6edf3;
+        --text-dim: #8b949e;
+        --text-muted: #484f58;
+        --bg-color: #0d1117;
+        --bg-secondary: #161b22;
+        --bg-tertiary: #21262d;
+        --border-color: #30363d;
+        --code-bg: #161b22;
+      }
+
+      *, *::before, *::after { box-sizing: border-box; }
+
       body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        line-height: 1.6;
-        color: #333;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.7;
+        color: var(--text-color);
+        background: var(--bg-color);
         max-width: 900px;
         margin: 0 auto;
         padding: 20px;
       }
 
-      img {
-        max-width: 100%;
-        height: auto;
+      /* ── Navigation ────────────────────────── */
+      .page-nav {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        padding: 12px 0;
+        margin-bottom: 20px;
+        border-bottom: 1px dashed var(--border-color);
       }
+      .page-nav a { color: var(--text-dim); text-decoration: none; }
+      .page-nav a:hover { color: var(--green); }
+      .page-nav .sep { margin: 0 6px; }
+      .page-nav .area-label { color: var(--primary-color); }
 
-      .mermaid {
-        text-align: center;
-        margin: 20px 0;
-      }
+      /* ── Typography ────────────────────────── */
+      h1, h2, h3, h4, h5, h6 { font-family: 'JetBrains Mono', monospace; }
 
-      table {
-        border-collapse: collapse;
-        width: 100%;
-        margin: 20px 0;
-      }
-
-      table, th, td {
-        border: 1px solid #ddd;
-      }
-
-      th, td {
-        padding: 12px;
-        text-align: left;
-      }
-
-      th {
-        background-color: #f2f2f2;
-      }
-
-      code {
-        background-color: #f4f4f4;
-        padding: 2px 6px;
-        border-radius: 3px;
-        font-family: 'Courier New', monospace;
-      }
-
-      pre {
-        background-color: #f4f4f4;
-        padding: 16px;
-        border-radius: 6px;
-        overflow-x: auto;
-      }
-
-      pre code {
-        background-color: transparent;
-        padding: 0;
-      }
-
-      h2 {
-        margin-top: 30px;
-        margin-bottom: 15px;
-        color: #2c3e50;
-        border-bottom: 2px solid #27ae60;
+      h1 {
+        font-size: 1.6rem;
+        color: var(--primary-color);
+        border-bottom: 2px solid var(--primary-color);
         padding-bottom: 8px;
       }
-
+      h2 {
+        font-size: 1.3rem;
+        margin-top: 2rem;
+        color: var(--primary-color);
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 6px;
+      }
       h3 {
-        margin-top: 20px;
-        margin-bottom: 10px;
-        color: #34495e;
+        font-size: 1.1rem;
+        margin-top: 1.5rem;
+        color: var(--text-color);
+      }
+      h4 { font-size: 1rem; color: var(--text-dim); }
+
+      a { color: var(--blue); text-decoration: none; transition: color 0.2s; }
+      a:hover { color: var(--green); }
+
+      /* ── Images ────────────────────────────── */
+      img {
+        max-width: 100%; height: auto;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+        display: block; margin: 1.5rem auto;
+      }
+      div[align="center"] {
+        background: var(--bg-secondary);
+        padding: 16px; border-radius: 10px;
+        border: 1px solid var(--border-color);
+        margin: 20px 0;
+      }
+      div[align="center"] img { margin: 8px auto; border: none; }
+      div[align="center"] p { margin: 8px 0 0; text-align: center; }
+      div[align="center"] em { color: var(--text-dim); font-size: 0.85rem; }
+
+      .mermaid { text-align: center; margin: 20px 0; }
+
+      /* ── Tables ────────────────────────────── */
+      table {
+        border-collapse: collapse; width: 100%;
+        margin: 16px 0; background: var(--bg-secondary);
+      }
+      table, th, td { border: 1px solid var(--border-color); }
+      th, td { padding: 10px 12px; text-align: left; font-size: 0.92rem; }
+      th {
+        background: var(--bg-tertiary); color: var(--primary-color);
+        font-weight: 600; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem;
+      }
+      tr:nth-child(even) { background: rgba(22,27,34,0.5); }
+
+      /* ── Code ──────────────────────────────── */
+      code {
+        background: var(--code-bg); padding: 2px 6px; border-radius: 4px;
+        font-family: 'JetBrains Mono', monospace; font-size: 0.88em;
+        border: 1px solid var(--border-color);
+      }
+      pre {
+        background: var(--code-bg); padding: 16px; border-radius: 8px;
+        overflow-x: auto; border: 1px solid var(--border-color);
+      }
+      pre code { background: transparent; padding: 0; border: none; }
+
+      /* ── Blockquotes ────────────────────────── */
+      blockquote {
+        margin: 1.5rem 0; padding: 1rem 1rem 1rem 1.5rem;
+        border-left: 3px solid var(--primary-color);
+        background: var(--primary-dim);
+        border-radius: 0 8px 8px 0; color: var(--text-dim);
       }
 
-      /* Estilos de impresión optimizados para EVALUACIÓN */
+      /* ── Details ────────────────────────────── */
+      details {
+        margin: 1rem 0; border: 1px solid var(--border-color);
+        border-radius: 8px; background: var(--bg-secondary);
+      }
+      summary {
+        padding: 1rem; background: var(--bg-tertiary); cursor: pointer;
+        font-weight: 600; color: var(--primary-color);
+        font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+        list-style: none;
+      }
+      summary::-webkit-details-marker { display: none; }
+
+      hr { border: none; border-top: 1px solid var(--border-color); margin: 24px 0; }
+      ul, ol { padding-left: 1.5rem; }
+      li { margin-bottom: 0.4rem; }
+
+      ::selection { background: var(--primary-color); color: var(--bg-color); }
+
+      /* ── Print: Evaluation ──────────────────── */
       @media print {
-        body {
-          max-width: 100%;
-          padding: 0;
-          font-size: 11pt;
-          line-height: 1.4;
-        }
+        body { background: white; color: #333; font-size: 11pt; line-height: 1.4; padding: 0; max-width: 100%; }
+        .page-nav { display: none !important; }
 
-        /* Ocultar elementos de navegación en impresión */
-        nav, .navigation, a[href*="index"] {
-          display: none !important;
-        }
-
-        /* Estilo de página para evaluación */
         @page {
-          margin: 1.5cm;
-          size: A4;
-          
-          @top-left {
-            content: "Respuestas para Evaluación";
-            font-size: 9pt;
-            color: #666;
-          }
-          
-          @top-right {
-            content: "J. Vargas - Club K2";
-            font-size: 9pt;
-            color: #666;
-          }
-          
-          @bottom-left {
-            content: "☐ Aprobado  ☐ Pendiente  ☐ Requiere revisión";
-            font-size: 8pt;
-            color: #666;
-          }
-          
-          @bottom-center {
-            content: "Pág. " counter(page);
-            font-size: 9pt;
-            color: #666;
-          }
-          
-          @bottom-right {
-            content: "Firma evaluador: __________";
-            font-size: 8pt;
-            color: #666;
-          }
+          margin: 1.5cm; size: A4;
+          @top-left { content: "Respuestas para Evaluacion"; font-size: 9pt; color: #666; }
+          @top-right { content: "J. Vargas - Club K2"; font-size: 9pt; color: #666; }
+          @bottom-left { content: "\2610  Aprobado  \2610  Pendiente  \2610  Requiere revision"; font-size: 8pt; color: #666; }
+          @bottom-center { content: "Pag. " counter(page); font-size: 9pt; color: #666; }
+          @bottom-right { content: "Firma evaluador: __________"; font-size: 8pt; color: #666; }
         }
 
-        /* Títulos optimizados para evaluación */
-        h1 {
-          font-size: 18pt;
-          color: #27ae60;
-          border-bottom: 3pt solid #27ae60;
-          padding-bottom: 8pt;
-          margin-bottom: 12pt;
-          page-break-after: avoid;
-        }
-
-        h2 {
-          font-size: 14pt;
-          color: #2c3e50;
-          border-bottom: 2pt solid #27ae60;
-          padding-bottom: 4pt;
-          margin-top: 15pt;
-          margin-bottom: 8pt;
-          page-break-after: avoid;
-        }
-
-        /* Checkbox para cada requisito */
-        h3::before {
-          content: "☐ ";
-          font-size: 16pt;
-          color: #27ae60;
-          margin-right: 5pt;
-        }
-
+        h1 { font-size: 18pt; color: #27ae60; border-bottom: 3pt solid #27ae60; page-break-after: avoid; }
+        h2 { font-size: 14pt; color: #2c3e50; border-bottom: 2pt solid #27ae60; page-break-after: avoid; }
+        h3::before { content: "\2610  "; font-size: 16pt; color: #27ae60; margin-right: 5pt; }
         h3 {
-          font-size: 13pt;
-          color: #34495e;
-          margin-top: 12pt;
-          margin-bottom: 6pt;
-          page-break-after: avoid;
-          background-color: #f8f8f8;
-          padding: 6pt 8pt;
-          border-left: 3pt solid #27ae60;
+          font-size: 13pt; color: #34495e;
+          background: #f8f8f8; padding: 6pt 8pt;
+          border-left: 3pt solid #27ae60; page-break-after: avoid;
         }
 
-        h4 {
-          font-size: 11pt;
-          font-weight: bold;
-          margin-top: 8pt;
-          margin-bottom: 5pt;
-          page-break-after: avoid;
-        }
+        a { color: #333; }
+        a[href^="http"]::after { content: " [" attr(href) "]"; font-size: 8pt; color: #666; word-break: break-all; }
 
-        /* Énfasis en respuestas */
-        strong {
-          font-weight: bold;
-          color: #000;
-        }
+        table { border-collapse: collapse; width: 100%; page-break-inside: avoid; font-size: 10pt; background: white; }
+        th { background: #e8e8e8 !important; color: #333; border: 1pt solid #000; padding: 6pt; }
+        td { border: 1pt solid #000; padding: 5pt; }
+        tr:nth-child(even) { background: transparent; }
 
-        /* Listas compactas para revisión rápida */
-        ul, ol {
-          margin-bottom: 8pt;
-          padding-left: 18pt;
-        }
+        img { max-width: 90%; page-break-inside: avoid; border: none; }
+        div[align="center"] { background: transparent; border: none; }
+        pre, code { background: #f5f5f5 !important; border: 1pt solid #ddd; page-break-inside: avoid; font-size: 9pt; }
+        blockquote { border-left: 3pt solid #27ae60; background: #f8f8f8; color: #555; }
 
-        li {
-          margin-bottom: 3pt;
-          line-height: 1.4;
-        }
+        img[src*="shields.io"], img[src*="badge"], img[src*="logo.svg"] { display: none !important; }
+        h1, h2, h3, h4 { page-break-after: avoid; }
+        ul, ol, table, pre { page-break-inside: avoid; }
 
-        /* Espacio para comentarios del evaluador */
-        .evaluator-notes {
-          border: 1pt solid #ccc;
-          padding: 15pt;
-          margin: 12pt 0;
-          min-height: 60pt;
-          background-color: #f9f9f9;
-        }
-
-        .evaluator-notes::before {
-          content: "Comentarios del evaluador:";
-          display: block;
-          font-weight: bold;
-          margin-bottom: 8pt;
-          color: #666;
-        }
-
-        /* Tablas optimizadas para chequeo */
-        table {
-          border-collapse: collapse;
-          width: 100%;
-          margin: 8pt 0;
-          page-break-inside: avoid;
-          font-size: 10pt;
-        }
-
-        th {
-          background-color: #e8e8e8 !important;
-          font-weight: bold;
-          padding: 6pt;
-          border: 1pt solid #000;
-        }
-
-        td {
-          padding: 5pt;
-          border: 1pt solid #000;
-        }
-
-
-
-        /* Imágenes */
-        img {
-          max-width: 90%;
-          page-break-inside: avoid;
-          margin: 8pt 0;
-        }
-
-        /* Código y pre - compacto */
-        pre, code {
-          background-color: #f5f5f5 !important;
-          border: 1pt solid #ddd;
-          page-break-inside: avoid;
-          font-size: 9pt;
-        }
-
-        pre {
-          padding: 8pt;
-        }
-
-        /* Evitar quiebres de página en elementos importantes */
-        blockquote, .important {
-          page-break-inside: avoid;
-          border-left: 3pt solid #27ae60;
-          padding-left: 12pt;
-          margin: 8pt 0;
-          background-color: #f8f8f8;
-        }
-
-        /* Links - mostrar URL solo si es relevante */
-        a[href^="http"]::after {
-          content: " [" attr(href) "]";
-          font-size: 8pt;
-          color: #666;
-          word-break: break-all;
-        }
-
-        /* Ocultar badges y elementos decorativos */
-        img[src*="shields.io"], 
-        img[src*="badge"],
-        img[src*="logo.svg"] {
-          display: none !important;
-        }
-
-        /* Optimizar saltos de página */
-        h1, h2, h3, h4, h5, h6 {
-          page-break-after: avoid;
-        }
-
-        ul, ol, table, pre {
-          page-break-inside: avoid;
-        }
-
-        /* Resumen de evaluación */
-        .evaluation-summary {
-          border: 2pt solid #27ae60;
-          padding: 15pt;
-          margin: 20pt 0;
-          background-color: #f0f8f0;
-          page-break-inside: avoid;
-        }
-
-        .evaluation-summary::before {
-          content: "Resumen de Evaluación";
-          display: block;
-          font-weight: bold;
-          font-size: 14pt;
-          color: #27ae60;
-          margin-bottom: 10pt;
-          border-bottom: 1pt solid #27ae60;
-          padding-bottom: 5pt;
-        }
-
-        /* Checkbox items más grandes para facilitar marcado */
-        input[type="checkbox"] {
-          width: 15pt;
-          height: 15pt;
-          margin-right: 5pt;
-        }
-
-        /* Marca de agua sutil para material de evaluación */
         body::before {
-          content: "Para Evaluación";
-          position: fixed;
-          top: 50%;
-          left: 50%;
+          content: "Para Evaluacion";
+          position: fixed; top: 50%; left: 50%;
           transform: translate(-50%, -50%) rotate(-45deg);
-          font-size: 72pt;
-          color: rgba(39, 174, 96, 0.05);
-          z-index: -1;
-          pointer-events: none;
-        }
-
-        /* Espacio para firmas al final */
-        .signatures {
-          margin-top: 30pt;
-          padding-top: 20pt;
-          border-top: 2pt solid #ccc;
-          page-break-inside: avoid;
-        }
-
-        .signature-line {
-          margin: 15pt 0;
-          border-bottom: 1pt solid #000;
-          width: 60%;
-          display: inline-block;
+          font-size: 72pt; color: rgba(39,174,96,0.05);
+          z-index: -1; pointer-events: none;
         }
       }
     </style>
   </head>
   <body>
+    <nav class="page-nav">
+      <a href="{{ site.baseurl }}/">~ inicio</a>
+      <span class="sep">/</span>
+      <a href="{{ site.baseurl }}/jvargas/">respuestas</a>
+      {% if page.area %}
+      <span class="sep">/</span>
+      <span class="area-label">{{ page.area }}</span>
+      {% endif %}
+    </nav>
     {{ content }}
   </body>
 </html>

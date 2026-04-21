@@ -6,8 +6,7 @@ description: Especialidades del Club de Conquistadores (División Sudamericana)
 baseurl: "" # Para desarrollo local
 url: "" # Tu URL de GitHub Pages cuando lo publiques
 
-# Tema
-theme: minima
+# Tema (sin tema externo — estilos propios en _layouts/)
 
 # Markdown
 markdown: kramdown
