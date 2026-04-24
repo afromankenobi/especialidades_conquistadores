@@ -35,7 +35,7 @@ Un cactus es una planta de la familia **Cactaceae**, nativa de las Américas. Ex
 
 > **🎯 Desafío grupal:** Antes de explicar nada, muestra la imagen de abajo y pregunta: *"Las espinas del cactus en realidad son otra cosa transformada. ¿Qué creen que eran antes?"*. Luego pregunta: *"Si ustedes fueran una planta en el desierto, ¿para qué les servirían las espinas? Piensen en al menos 3 razones."* Deja que discutan y anota las ideas. Después compara con la referencia.
 
-Las espinas de los cactus son **hojas modificadas**. A lo largo de millones de años, las hojas normales se transformaron en espinas como adaptación a ambientes secos.
+Las espinas de los cactus son **hojas modificadas**. A lo largo de los años, las hojas normales se transformaron en espinas como adaptación a ambientes secos, gracias a esto, el desperdicio de agua es menor. Normalmente no almacenan agua en las espinas, solo en el tallo, exceptuando la Pitajaya. Además, las espinas son el sistema de protección de los cactus contra posibles depredadores y cuidan el Cactus de sobrecalentarse.
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ferocactus_latispinus_-_areoles_and_spines.jpg" alt="Espinas de cactus Ferocactus latispinus" width="350">
@@ -108,6 +108,9 @@ graph TD
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Euphorbia_obesa_and_Astrophytum_asterias_convergence_example.jpg" alt="Comparación entre Euphorbia obesa (suculenta) y Astrophytum asterias (cactus)" width="450">
   <p><em>Una de estas plantas es un cactus y la otra no. ¿Cuál es cuál? (CC BY-SA 4.0, JonTheSucculentDude)</em></p>
 </div>
+
+Primero que todo: ¿Qué es una suculenta?
+Las suculentas son todas las plantas capaces de almacenar agua en su **tallo**. Por lo tanto, los cactus son parte de la categoría de plantas suculentas.
 
 La regla de oro: **todos los cactus son suculentas, pero no todas las suculentas son cactus.** Pide al grupo que proponga al menos 3 diferencias entre un cactus y otra suculenta. Luego revisen juntos:
 
