@@ -1,1567 +1,625 @@
 ---
 layout: guia_instruccion
-title: Nudos y Amarras
-codigo: AR-040
-area: Actividades Recreativas
-area_codigo: AR
+title: "Nudos y Amarras"
+codigo: "AR-040"
+area: "Actividades Recreativas"
+area_codigo: "AR"
 nivel: 1
-ano_creacion: 1997
-institucion_origen: Asociación General
+ano_creacion: 1975
+institucion_origen: "Asociación General"
 ---
 
-# Nudos y Amarras
+*Es viernes por la tarde en la sede del club. Tu consejero llega con una mochila que suena distinto hoy - no son ollas ni estacas. La abre sobre la mesa y caen rollos de cuerdas de todos los colores y grosores. "Hoy empieza algo nuevo", dice. "Antes de construir algo en el próximo campamento, necesitan dominar esto." Toma una cuerda, la pasa entre sus manos, y en tres segundos tiene un nudo que nunca habías visto. "Al final de esta especialidad, van a poder hacer esto con los ojos cerrados."*
+
+Esta guía es el primer tomo de la **Serie Campismo**: Nudos y Amarras -> [Pionerismo](pionerismo.md) -> Construcciones Rústicas. Aquí aprendes la base - vocabulario, materiales, técnicas, catálogo de nudos. En Pionerismo usarás estos nudos para construir. En Construcciones Rústicas, escalarás a proyectos mayores.
+
+Si ya completaste la serie Campamento (especialmente [Campamento III](campamento_iii.md)), ya conoces 4 amarras y algunos nudos básicos. Esta especialidad profundiza: vas a dominar 20+ nudos, fabricar tus propias cuerdas, y entender por qué cada material y cada nudo tiene su lugar.
+
+---
+
+## Fase 1: Tu primera cuerda
+
+*Tu consejero extiende sobre la mesa seis cuerdas distintas. Una gruesa de sisal, una delgada amarilla que parece plástico, una azul de escalada, una blanca rígida, una verde de nylon y una de algodón trenzado. "Antes de hacer un solo nudo", dice, "tienen que conocer su herramienta. Un carpintero conoce sus maderas. Un nudista conoce sus cuerdas."*
+
+### (Requisito 1) Vocabulario de las cuerdas
+
+Cada parte de la cuerda tiene nombre. Cuando tu consejero diga "pasa el chicote por el seno", necesitas entender al instante.
+
+**Chicote** - Los extremos de la cuerda. La punta de trabajo, lo que mueves para hacer el nudo. En cuerdas sintéticas, sella el chicote con calor (un encendedor, girando mientras derrites) para que no se deshilache.
+
+**Firme o fijo** - El resto de la cuerda, la parte larga que no estás manipulando. Si el chicote es tu mano activa, el firme es el brazo que sostiene.
+
+**Seno** - Curva en forma de U que se forma al doblar la cuerda sobre sí misma, sin que los cabos se crucen. Si se cruzan, ya es un lazo.
+
+**Punta corrediza** - Parte suelta de la cuerda, de utilidad secundaria. No es la parte principal con la que trabajas.
+
+**Vuelta** - Giro que la cuerda da sobre sí misma. Base de muchos nudos de anclaje.
+
+**Curva** - Forma que toma la cuerda al unirse consigo misma o con otra cuerda.
+
+**Nudo superior** - Primer nudo en una estructura de nudo compuesto. Queda arriba.
+
+**Nudo con lazo corredizo** - Nudo ajustable. El lazo crece o se achica deslizando la cuerda.
+
+**Amarra** - Unión de objetos (palos, troncos) mediante cuerdas. Para construir estructuras.
+
+**Unión de cuerdas (empalme)** - Unión de dos cuerdas entretejiendo sus hebras. Más fuerte y delgado que un nudo.
+
+> **Tip de oro:** Practica el vocabulario en voz alta mientras manipulas la cuerda. "Paso el chicote por el seno del firme." Suena raro al principio, pero en un rescate o construcción, la comunicación precisa puede evitar accidentes.
+
+### (Requisito 3) Estática vs dinámica
+
+Tu consejero cuelga una piedra de dos cuerdas distintas. Una se estira visiblemente. La otra apenas se mueve. "Esta diferencia puede salvar o costar una vida."
+
+**Cuerda dinámica** - Se estira bajo carga (como un amortiguador). Absorbe el impacto de una caída. Sus fibras van trenzadas en espiral.
+- Usos: escalada deportiva, montañismo, rescate donde puede haber caídas
+- NO usar para: puentes de cuerda, tirolinas, trabajos verticales estáticos (se estira demasiado)
+
+**Cuerda estática** - No se estira (máximo 2%). Fibras paralelas en el núcleo con manga tejida protectora.
 
 <div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Kernmantle_climbing_rope_dynamic_Sterling_10.7mm_cut_end.jpg" alt="Interior de cuerda dinámica" width="350">
+<p><em>Corte de una cuerda dinámica - se ve el núcleo (kern) de fibras trenzadas rodeado por la manga protectora (mantle). (CC BY-SA 3.0, David J. Fred)</em></p>
+</div>
+- Usos: puentes, tirolinas, rapel, ascenso, tendederos, amarras de campamento
+- NO usar para: escalada con posibles caídas (no absorbe impacto - el golpe va directo al cuerpo)
 
-![Insignia Nudos y Amarras](../../assets/especialidades/nudos_y_amarras/insignia.png)
+> **Tip de oro:** Regla simple - estática para construir, dinámica para caer. Si la confundes, el resultado puede ser grave.
 
-![Logo Conquistadores](../../assets/images/logo.svg)
+### (Requisito 4) Tipos de cuerdas por material
 
-**Área:** Actividades Recreativas
-**Código:** AR-040
-**Nivel:** 1
-**Año de creación:** 1997
-**Institución de origen:** Asociación General
+*"Ahora toquen cada una", dice tu consejero. "Huélanla. Dóblenla. Estírenla. Cada material se siente distinto y sirve para cosas distintas."*
+
+**Nylon (poliamida)** - La pionera de las fibras sintéticas. Suave, sedosa al tacto.
+- A favor: muy resistente, elástica, durable
+- En contra: pierde 5-25% de fuerza mojada, no flota, se enrosca
+- Usar en: escalada, montañismo, situaciones donde la elasticidad ayuda
+
+**Poliéster** - Material base de cuerdas estáticas. Mantiene su fuerza mojada.
+- A favor: resistente, compatible con otras fibras, no requiere cuidados especiales, agradable para trabajar
+- En contra: no flota
+- Usar en: cuerdas estáticas, amarras permanentes, trabajos generales
+
+**Sisal** - Fibra natural, amarillenta, lisa. La reconoces por su olor vegetal.
+- A favor: buena resistencia, económica, acepta colorantes, resistente en agua salada
+- En contra: se pudre con humedad prolongada, menor resistencia que sintéticas, puede irritar la piel
+- Usar en: amarras de campamento, práctica de nudos, decoración, cuerdas de tendedero
+
+**Polipropileno** - Generalmente amarilla. Liviana y económica.
+- A favor: flota en agua, económica, ligera
+- En contra: rígida, difícil de atar bien, poca resistencia a abrasión
+- Usar en: rescate acuático, marcaje flotante, usos marinos
+
+> **Tip de oro:** Para saber si una cuerda es polipropileno, échala al agua. Si flota, es polipropileno. Ninguna otra sintética común flota.
+
+[PRÁCTICA REQUERIDA] Trae muestras de cada material a la reunión de club. Cada conquistador identifica por tacto y apariencia.
+
+### (Requisito 5) Cuerdas sintéticas vs naturales
+
+Las sintéticas dominan hoy por razones objetivas:
+
+| Característica | Sintéticas | Naturales |
+|---|---|---|
+| Resistencia | Superior | Menor |
+| Durabilidad | Alta | Se biodegradan |
+| Humedad | Resisten (excepto nylon) | Moho y pudrición |
+| Peso | Ligeras | Más pesadas |
+| Costo | Medio-alto | Económicas |
+| Medio ambiente | No biodegradables | Biodegradables |
+| Abrasión | Resistentes | Vulnerables |
+
+Las naturales (sisal, cáñamo, algodón) siguen siendo útiles para práctica, decoración, y situaciones donde la biodegradabilidad importa. Pero para seguridad personal, usa sintéticas.
+
+### (Requisito 2) Cuidados de la cuerda
+
+"Una cuerda descuidada es una cuerda peligrosa", dice tu consejero mientras inspecciona una cuerda vieja del club. Señala una zona donde la manga está pelada. "Esta ya no sirve para nada donde haya peso humano."
+
+**Almacenamiento:**
+- Seca, en lugar ventilado, sin sol directo
+- Enrollada en madeja suelta, nunca apretada
+- Lejos de químicos, solventes, ácidos
+- Separada del suelo (cuelga de gancho)
+
+**Limpieza:**
+- Sintéticas: agua tibia con jabón neutro en balde. Enjuaga. Nunca lavadora.
+- Naturales: cepillo suave para quitar tierra. Evitar mojar si no es necesario.
+- Secar siempre en sombra. Nunca al sol directo (degrada fibras sintéticas).
+
+**Inspección:**
+- Antes de cada uso: recorre toda la cuerda entre tus manos, buscando zonas blandas, desgaste, cortes
+- Si encuentras daño en la manga de una cuerda de escalada: retírala de servicio
+- Cuerdas pisadas: la arena entra entre las fibras y las corta desde dentro
+
+**Regla de oro:**
+
+> **Tip de oro:** Ante la más mínima duda sobre el estado de una cuerda, córtala por el lugar dañado o sustitúyela. Nunca arriesgues tu seguridad por ahorrarte una cuerda.
 
 ---
 
+## Fase 2: La fuerza del cordón triple
+
+*Es sábado de mañana en el campamento. Tu unidad está sentada en círculo para el devocional. El consejero trae tres hilos de diferente color.*
+
+### (Requisito 6) La cuerda más fuerte de la Biblia
+
+Tu consejero lee Eclesiastés 4:9-12:
+
+*"Mejores son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; pero ay del solo que cuando cayere, no habrá segundo que lo levante. También si dos durmieren juntos, se calentarán mutuamente; mas ¿cómo se calentará uno solo? Y si alguno prevaleciere contra uno, dos le resistirán; y cordón de tres dobleces no se rompe pronto."*
+
+"La cuerda más fuerte no es la más gruesa ni la más cara", dice. "Es la que tiene tres hebras trenzadas juntas." Toma los tres hilos. Tuerce uno solo y tira - se corta fácil. Tuerce dos - resiste más. Trenza tres - no se rompe.
+
+La aplicación espiritual es directa: solos somos frágiles. Con un compañero, resistimos más. Con Dios como tercer cordón, la unión no se rompe.
+
+Y la aplicación práctica también es literal. En unos minutos vas a comprobarlo haciendo tu propia cuerda.
+
+### (Requisito 8) Fabricar tu propia cuerda [PRÁCTICA REQUERIDA]
+
+*Después del devocional, tu consejero reparte pabilo y fibras naturales. "Ahora van a probar que Salomón tenía razón. Van a fabricar dos cuerdas de dos metros cada una."*
+
+El secreto de una cuerda resistente está en la **torsión inversa**: cada hebra se tuerce en una dirección, y luego se combinan en la dirección opuesta. Esa tensión contraria es lo que mantiene todo unido. En términos técnicos, se habla de torsión "S" (izquierda) y torsión "Z" (derecha):
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Yarn_twist_S-Left_Z-Right.svg" alt="Torsión S y Z en cuerdas" width="350">
+<p><em>Torsión S (izquierda) y torsión Z (derecha). Una cuerda combina ambas direcciones para mantenerse unida. (Dominio público, Gregors/PKM/Dfred)</em></p>
 </div>
 
-## ¿CONOCES? El mundo de los nudos y amarras
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chambers_1908_Rope.png" alt="Estructura de cuerda de 3 hebras" width="300">
+<p><em>Estructura de una cuerda de tres hebras torcidas. Cada hebra se tuerce individualmente, luego se combinan en dirección opuesta. (Dominio público, Chambers 1908)</em></p>
+</div>
 
-Los nudos han acompañado a la humanidad desde tiempos inmemoriales. Desde los marineros que surcan los océanos hasta los escaladores que desafían montañas, pasando por los pioneros que construyen refugios en el bosque, todos dependen de saber hacer buenos nudos.
+**a) Cuerda de tres hilos (torsión inversa)**
 
-**Un nudo** es mucho más que simplemente atar una cuerda. Es una habilidad que puede salvar vidas, construir estructuras, asegurar cargas y resolver innumerables situaciones prácticas. En el escutismo y en las actividades al aire libre, dominar los nudos y amarras no es opcional: ¡es esencial!
+Materiales: pabilo o fibras naturales (sisal, totora, corteza de sauce)
 
-### ¿Por qué aprender nudos?
+1. Corta tres hebras de 3 metros cada una (se acortan al torcer)
+2. Ata las tres juntas en un extremo. Fija ese extremo a un clavo o rama
+3. Toma dos hebras. Tuerce cada una en sentido horario (hacia la derecha)
+4. Ahora envuelve una sobre otra en sentido antihorario (hacia la izquierda)
+5. La tensión opuesta mantiene la cuerda unida - no se destorce sola
+6. Integra la tercera hebra cuando las dos primeras estén estables
+7. Continúa hasta completar 2 metros. Ata el extremo final.
 
-- **Seguridad:** Un buen nudo puede ser la diferencia entre un rescate exitoso y un accidente
-- **Autonomía:** Resolver problemas prácticos sin depender de otros
-- **Versatilidad:** Cada nudo tiene un propósito específico
-- **Tradición:** Conectar con generaciones de exploradores y aventureros
+**b) Cuerda con trenzado triple**
 
----
+Materiales: los mismos, o cuerda fina ya fabricada
 
-## TIPOS DE CUERDAS - Elige la adecuada
+1. Tres hebras de 3 metros, atadas en un extremo
+2. Fija el extremo a un punto fijo
+3. Cruza la hebra derecha sobre la del medio
+4. Cruza la hebra izquierda sobre la nueva del medio
+5. Repite alternando: derecha sobre medio, izquierda sobre medio
+6. Mantén tensión uniforme - si una queda floja, la trenza queda dispareja
+7. Al completar 2 metros, ata el extremo final
 
-No todas las cuerdas son iguales. Elegir la cuerda correcta para cada situación puede marcar la diferencia entre el éxito y el fracaso de tu proyecto.
+> **Tip de oro:** Moja las fibras antes de torcer. Quedan más flexibles y la cuerda queda más apretada al secar.
 
-### Cuerdas Dinámicas 🏔️
+> **Tip de oro:** Si la cuerda se destorce sola al soltarla, le faltan vueltas. Tuerce más cada hebra individual antes de combinarlas.
 
-Las cuerdas dinámicas son como los amortiguadores de un auto: están diseñadas para **absorber impactos**. Sus fibras están trenzadas de manera helicoidal, lo que les da una elasticidad sorprendente.
+### (Requisito 9) Plantas para fabricar cuerdas
 
-**Características:**
-- Se elastecen considerablemente bajo carga
-- Alta capacidad de absorción de impactos
-- Excelente maniobrabilidad y bajo peso
-- Diámetro típico: 7.9mm - 11mm
+Tu consejero muestra fotos y muestras de plantas que sirven para hacer cuerdas. En Chile, las más accesibles son:
 
-**¿Cuándo usarlas?**
-- ✅ Escalada deportiva (simples)
-- ✅ Montañismo (dobles o gemelas)
-- ✅ Rescates donde puede haber caídas
+**Totora** (*Schoenoplectus californicus*) - Crece en humedales y bordes de lagos. Los pueblos originarios la usaban para balsas, techos y cuerdas. Las fibras largas del tallo se secan, se tuercen y se trenzan. Encuentras totora en lagunas del centro y sur de Chile.
 
-**¿Cuándo NO usarlas?**
-- ❌ Puentes de cuerda (se elastecen demasiado)
-- ❌ Tirolinas (peligroso por la elasticidad)
-- ❌ Trabajos verticales sin caídas
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Barco_de_totora_titicaca.jpg" alt="Bote de totora en el Titicaca" width="350">
+<p><em>Bote construido con totora en el lago Titicaca. Las mismas fibras sirven para fabricar cuerdas. (Dominio público, Sylx100)</em></p>
+</div>
 
-**Tipos de cuerdas dinámicas:**
-- **Simples:** Para uso individual, un solo cabo
-- **Dobles:** Se usan dos cabos en paralelo
-- **Gemelas:** Corren en dos vías separadas pero paralelas
+**Sisal** (*Agave sisalana*) - Planta de hojas gruesas y carnosas tipo agave. De las hojas se extraen fibras larguísimas machacando la pulpa y secando al sol. Una de las fibras naturales más resistentes del mundo.
 
-### Cuerdas Estáticas 🎯
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Agave_sisalana_W_IMG_2378.jpg" alt="Planta de sisal (Agave sisalana)" width="350">
+<p><em>Agave sisalana - la planta del sisal. De cada hoja se extraen fibras largas y resistentes. (CC BY 3.0, J.M.Garg)</em></p>
+</div>
 
-Las cuerdas estáticas son todo lo contrario: **no se elastecen** (máximo 2% bajo carga normal). Son como una barra rígida que mantiene su forma.
+**Corteza de sauce** (*Salix*) - Crece junto a ríos y esteros en todo Chile. La corteza interior (la parte flexible entre la corteza dura y la madera) se despega en tiras y se trenza. Los mapuche la usaban para amarrar.
 
-**Características:**
-- Casi no se elastecen bajo tensión
-- Fibras paralelas en el núcleo + manga tejida protectora
-- No producen torsión
-- Diámetro típico: 9mm - 12mm
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/-_Willow%27s_Bark_01_-.jpg" alt="Corteza de sauce" width="300">
+<p><em>Corteza de sauce. La capa interior, flexible y fibrosa, se despega en tiras para trenzar. (CC BY-SA 3.0, Nino Barbieri)</em></p>
+</div>
 
-**¿Cuándo usarlas?**
-- ✅ Puentes de cuerda
-- ✅ Tirolinas
-- ✅ Trabajos verticales (rapel, ascenso)
-
-**¿Cuándo NO usarlas?**
-- ❌ Escalada con posibles caídas (no absorben impacto)
-- ❌ Como cuerda de seguridad en escalada
-
-### Cuerdas Semi-estáticas
-
-Un punto intermedio: fabricadas en **poliamida**, diseñadas especialmente para resistir el desgaste de bloqueadores y rapeladores. Son las más usadas en trabajos verticales profesionales.
+Otras opciones: cáñamo (fibra histórica de cuerdas náuticas - el 90% de las cuerdas de barcos hasta el siglo XIX eran de cáñamo), esparto, fibra de coco, corteza de quilineja (enredadera nativa del sur de Chile, muy resistente).
 
 ---
 
-## MATERIALES - ¿De qué está hecha tu cuerda?
+## Fase 3: Manos a la obra
 
-### Fibras Sintéticas 🧪
+*Es sábado por la tarde. Tu consejero ha montado siete estaciones en el patio del campamento, cada una con un cartel y cuerdas cortadas a medida. "El requisito 10 pide que dominen al menos 20 nudos de memoria", dice. "Hoy van a rotar por todas las estaciones. Cada estación es una categoría. Al final del día quiero que cada uno pueda hacer al menos tres nudos de cada categoría sin mirar instrucciones."*
 
-Las cuerdas modernas se fabrican principalmente con materiales sintéticos porque ofrecen un rendimiento muy superior a las naturales en resistencia y durabilidad.
+### (Requisito 10) Veinte nudos de memoria [PRÁCTICA REQUERIDA]
 
-#### Nylon (Poliamida)
+Debes dominar al menos 20 de los nudos listados abajo, describiendo nombre, uso y limitaciones. Están organizados por función - así los recuerdas mejor. Cada nudo tiene un link "Ver en 3D" donde puedes ver la animación paso a paso - úsalo.
 
-El **pionero de las fibras sintéticas** para cuerdas. Fue el primer material sintético utilizado y sigue siendo uno de los más resistentes.
+> **Tip de oro:** Instala la app [Knots 3D](https://knots3d.com) en tu celular. Puedes rotar cada nudo en 3D y ver la animación paso a paso. En campamento, sin internet, la app funciona offline.
 
-**Ventajas:**
-- ✅ Muy alta resistencia
-- ✅ Muy elástico (ideal para escalada)
-- ✅ Duradero
-- ✅ Suave al tacto, sedoso
+#### Nudos elementales - Los topes y bases
 
-**Desventajas:**
-- ❌ Pierde 5-25% de resistencia cuando está mojado
-- ❌ No flota en agua
-- ❌ Se enrosca fácilmente
+Sirven como tope al final de la cuerda o como base para nudos más complejos.
 
-**Usos comunes:** Escalada, montañismo, aplicaciones donde la elasticidad es deseable.
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-simple.webp" alt="Nudo simple" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo simple</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Tope básico. Se aprieta mucho bajo carga - difícil de deshacer. Debilita la cuerda ~50%. <a href="https://knots3d.com/es/nudo-simple">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-ocho.webp" alt="Nudo ocho" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo ocho</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Mejor tope. Más voluminoso, se deshace más fácil, debilita menos (~25%). Estándar en escalada. <a href="https://knots3d.com/es/nudo-en-ocho">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-fraile.svg" alt="Nudo fraile" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo fraile</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Variante del simple con vueltas extra. Tope grande y decorativo. <a href="https://knots3d.com/es/nudo-fraile">Ver en 3D</a></span>
+</div>
+</div>
 
-#### Poliéster
+> **Tip de oro:** Si solo puedes aprender un nudo de tope, que sea el ocho. Es el estándar en escalada por algo.
 
-Material **importantísimo** en la composición de cuerdas estáticas y en la capa protectora de cuerdas dinámicas.
+#### Nudos de unión - Unir dos cuerdas
 
-**Ventajas:**
-- ✅ Gran resistencia
-- ✅ Excelente compatibilidad con otras fibras
-- ✅ Mantiene resistencia cuando está mojado
-- ✅ No requiere cuidados especiales
-- ✅ Agradable para trabajar
+Para cuando una cuerda no alcanza, o necesitas unir dos cabos.
 
-**Desventajas:**
-- ❌ No flota
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-rizo.webp" alt="Nudo llano" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo llano (rizo)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Une cuerdas del mismo grosor. Truco: "derecho sobre izquierdo, luego izquierdo sobre derecho". Si los dos van igual, queda un nudo falso. <a href="https://knots3d.com/es/nudo-llano">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-la-abuela.webp" alt="Nudo falso" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo falso (abuela)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">El ERROR del nudo llano. Se desliza bajo carga. Los chicotes salen cruzados en vez de paralelos. Aprende a reconocerlo.</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-carrick.webp" alt="Nudo carrick" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Carrick (calabrote)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Simétrico y fuerte. Ideal para cuerdas gruesas o mojadas donde el llano no agarra. <a href="https://knots3d.com/es/nudo-carrick">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-pescador-doble.webp" alt="Nudo pescador doble" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Pescador y pescador doble</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Une cuerdas finas. Cada extremo lleva un nudo simple (o doble) alrededor de la otra. Semi-permanente. <a href="https://knots3d.com/es/nudo-de-pescador-doble">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-hunter.webp" alt="Nudo hunter" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Cazador (hunter)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Descubierto en 1978. Simétrico, fuerte, se deshace más fácil que el pescador. Funciona con cuerdas de distinto grosor. <a href="https://knots3d.com/es/vuelta-del-cazador-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-cirujano.webp" alt="Nudo cirujano" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Cirujano</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Como el llano pero con vuelta extra en el primer paso. No se afloja mientras haces el segundo - puedes soltar una mano. <a href="https://knots3d.com/es/nudo-de-cirujano">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/vuelta-de-escota-nudo.webp" alt="Vuelta de escota" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Vuelta de escota</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Une cuerdas de diferente grosor. El lazo lo hace la gruesa, la delgada pasa por dentro. Más seguro que el llano cuando los diámetros no coinciden. <a href="https://knots3d.com/es/vuelta-de-escota-nudo">Ver en 3D</a></span>
+</div>
+</div>
 
-**Usos comunes:** Cuerdas estáticas, capa protectora de dinámicas, trabajos generales.
+> **Tip de oro:** Para saber si tu nudo llano está bien hecho, mira los chicotes: deben salir paralelos al firme, del mismo lado. Si salen cruzados, es un nudo falso.
 
-#### Polipropileno
+#### Nudos de anclaje - Fijar la cuerda a un poste, anillo o palo
 
-Fácilmente reconocible por su **color amarillo** característico, aunque puede venir en otros colores.
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-ancla.svg" alt="Nudo ancla" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo ancla</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Vuelta completa + dos medios cotes. Para fijar cuerda a argolla, árbol o poste. Seguro bajo carga variable. <a href="https://knots3d.com/es/vuelta-de-ancla-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-constrictor.webp" alt="Nudo constrictor" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Constrictor</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Aprieta como abrazadera. Para cerrar bolsas, sujetar mangos. Casi imposible de deshacer - hay que cortarlo. <a href="https://knots3d.com/es/nudo-constrictor">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/ballestrinque-nudo.webp" alt="Ballestrinque" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Ballestrinque</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Dos vueltas cruzadas sobre un palo. Inicio de TODAS las amarras. Puede deslizarse sin carga - agrega medio cote extra. <a href="https://knots3d.com/es/nudo-ballestrinque">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/as-de-guia-corredizo-nudo.webp" alt="As de guía corredizo" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">As de guía corredizo</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Lazo ajustable que se aprieta al tirar. Para sujetar a un poste cuando necesitas ajustar tensión después. <a href="https://knots3d.com/es/as-de-guía-corredizo-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-corredizo.png" alt="Nudo corredizo" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo corredizo</strong>
+<span style="font-size:0.85rem; line-height:1.4;">El lazo más simple. Aprieta al tirar del firme. Útil para cargas adaptables. PELIGROSO: nunca cerca del cuello. <a href="https://knots3d.com/knots/es_es/34/corredizo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-le%C3%B1ador.webp" alt="Vuelta de braza" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Vuelta de braza</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Para arrastrar troncos - cuanta más carga, más aprieta. Se deshace fácil al soltar. No sirve para cargas perpendiculares. <a href="https://knots3d.com/es/nudo-de-leñador">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-cote-doble.webp" alt="Vuelta redonda con dos cotes" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Vuelta redonda (dos cotes)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Vuelta completa + dos medios cotes. Más segura que el ballestrinque en palos lisos. Buen nudo general de amarre.</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/tensor-de-carpa.jpg" alt="Tensor de carpa" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Tensor de carpa (bonus)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">El nudo más usado en campamento. Tensa y afloja vientos de carpa sin desatar. Se desliza cuando empujas, se traba cuando tira. <a href="https://knots3d.com/es/nudo-tensor">Ver en 3D</a></span>
+</div>
+</div>
 
-**Ventajas:**
-- ✅ Flota en agua (ideal para aplicaciones marinas)
-- ✅ Económico
-- ✅ Ligero
+> **Tip de oro:** El ballestrinque es el nudo de arranque de toda amarra, pero solo funciona bien si después viene carga. En un palo liso sin tensión, agrega un medio cote de seguridad.
 
-**Desventajas:**
-- ❌ Algo rígido y quebradizo
-- ❌ Difícil de atar bien
-- ❌ Poco resistente a abrasión
+#### Nudos de salvamento - Pueden salvar una vida
 
-**Usos comunes:** Aplicaciones marinas, rescate acuático, cuerdas de seguridad flotantes.
+Truco para recordar el as de guía: "La serpiente sale del pozo, rodea el árbol, y vuelve al pozo." El pozo es el seno, el árbol es el firme, la serpiente es el chicote.
 
-#### Polietileno
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/as-de-guia-nudo.webp" alt="As de guía" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">As de guía (bolina)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">"El rey de los nudos." Lazo que no se aprieta bajo carga. Para rescatar personas sin asfixiarlas. El nudo que todo conquistador debe saber. <a href="https://knots3d.com/es/as-de-guía-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/as-de-guia-por-seno-nudo.webp" alt="As de guía doble" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">As de guía doble</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Dos lazos: uno por cada pierna. Arnés improvisado para rescate y descenso de emergencia. <a href="https://knots3d.com/es/as-de-guia-por-seno-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-mariposa-alpino.webp" alt="Mariposa alpino" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Mariposa alpino</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Lazo en el medio de la cuerda sin usar los chicotes. Puntos de anclaje intermedios. Montañismo para encordarse varios. <a href="https://knots3d.com/es/nudo-mariposa">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-prusik.webp" alt="Nudo Prusik" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Prusik</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Cordín delgado sobre cuerda gruesa. Sube libre sin peso, se bloquea al tirar. Esencial para ascenso y autorescate. <a href="https://knots3d.com/es/nudo-prusik">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/silla-de-bombero-nudo.webp" alt="Silla de bombero" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Silla de bombero</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Arnés improvisado con la cuerda misma. Para bajar o izar una persona. Requiere práctica supervisada. <a href="https://knots3d.com/es/silla-de-bombero-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-munter.webp" alt="Nudo dinámico UIAA" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Dinámico (UIAA/HMS)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Sobre mosquetón. Da cuerda controlada a un escalador o desciende a alguien. Clave en aseguramiento vertical. <a href="https://knots3d.com/es/nudo-de-munter">Ver en 3D</a></span>
+</div>
+</div>
 
-**Ventajas:**
-- ✅ Económico
-- ✅ Uso múltiple
-- ✅ Ligero
-- ✅ Flota bien (rescate acuático)
+> **Tip de oro:** El as de guía debe ser automático - practica hasta hacerlo con una sola mano, detrás de la espalda, con los ojos cerrados. En un rescate real, las condiciones nunca son cómodas.
 
-**Desventajas:**
-- ❌ Poco resistente al desgaste sobre superficies abrasivas
-- ❌ Menor resistencia que nylon o poliéster
+#### Nudos de izamiento, ornamentales y otros
 
-### Fibras Naturales 🌿
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-dogal-verdugo.jpg" alt="Nudo dogal" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Dogal (de verdugo)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Múltiples vueltas alrededor del firme. Iza objetos cilíndricos (troncos, tubos). Aprieta proporcional a la carga. Nunca cerca de personas. <a href="https://knots3d.com/es/nudo-dogal">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/zarpa-de-gato-nudo.webp" alt="Zarpa de gato" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Zarpa de gato</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Para colgar carga de un gancho. Se equilibra solo. Usado por marineros y estibadores. <a href="https://knots3d.com/es/zarpa-de-gato-nudo">Ver en 3D</a></span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-cuadrado-decorativo.jpg" alt="Nudo cuadrado decorativo" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Cuadrado decorativo</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Plano, simétrico. Para macramé y cuadros de nudos. Requisito del cuadro final (req. 12).</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-corona.webp" alt="Nudo encapilladura" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Encapilladura (corona)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Remate decorativo en el extremo de una cuerda. Evita que se deshilache y se ve bien.</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-antideslizante.webp" alt="Nudo único" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Nudo único (sujetar)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Lazo simple que no se aprieta. Para colgar objetos livianos o marcar un punto en la cuerda.</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/nudo-margarita.webp" alt="Nudo margarita" style="display:block; max-width:160px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Margarita (acortamiento)</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Acorta una cuerda sin cortarla. También aísla secciones dañadas. Solo funciona bajo tensión constante. <a href="https://knots3d.com/es/nudo-margarita">Ver en 3D</a></span>
+</div>
+</div>
 
-Aunque las fibras sintéticas dominan el mercado moderno, las naturales tienen **valor histórico y aplicaciones específicas**. Sin embargo, **no se recomiendan para aplicaciones críticas** que pongan en riesgo la vida del usuario.
-
-**¿Por qué evitar fibras naturales en situaciones críticas?**
-- Se deterioran por descomposición biológica
-- Susceptibles al moho si se guardan húmedas
-- Menor resistencia que las sintéticas
-- Durabilidad reducida
-
-#### Sisal
-
-Fibra valorada especialmente para cordeles. Sus fibras son **lisas, rectas y de color amarillo**.
-
-**Características:**
-- Buena resistencia y durabilidad
-- Capacidad de estiramiento moderada
-- Resistente al deterioro en agua salada
-- Acepta bien ciertos colorantes
-
-**Usos tradicionales:**
-- Marina (cuerdas de barcos)
-- Agricultura (guita, rescate)
-- Uso industrial general
+> **Tip de oro:** La margarita parece fácil pero es traicionera. Si la carga se relaja, se suelta. Nunca la uses como solución permanente - es un parche temporal.
 
 ---
 
-## MATERIALES NATURALES - De la naturaleza a tu mano
+## Fase 4: Unir y construir
 
-Si te encuentras en una situación de supervivencia o simplemente quieres experimentar con técnicas tradicionales, estas plantas pueden salvarte:
+*Domingo de mañana. Tu consejero señala los palos apilados junto al fogón apagado. "Ya saben hacer nudos. Ahora van a aprender dos cosas más: empalmes - para unir cuerdas de forma permanente - y amarras - para unir palos y construir cosas. Si hicieron Campamento III, ya conocen las amarras básicas. Hoy van a perfeccionarlas y agregar dos nuevas."*
 
-### Bambú 🎋
+### (Requisito 7) Empalmes y remates [PRÁCTICA REQUERIDA]
 
-Una fibra natural **ecológica y sorprendentemente versátil**.
+Un empalme no es un nudo. Es una técnica donde las hebras de dos cuerdas se entretejen, creando una unión casi tan fuerte como la cuerda original (~95% de la fuerza). Más delgado que un nudo (pasa por poleas) y más permanente.
 
-**Propiedades especiales:**
-- Suave pero resistente
-- Antibacteriana (¡natural!)
-- Repelente de rayos ultravioletas
-- Muy absorbente
-- Confortable al tacto
+Para practicar empalmes necesitas cuerda de tres o más hebras torcidas (no trenzada). El sisal es ideal para aprender.
 
-**Proceso:**
-Las fibras de bambú se extraen de la vara mediante tratamiento con vapor (bambú natural) o procesamiento químico controlado. Las fibras naturales son más puras y no contienen aditivos químicos. Pueden hilarse solas o mezclarse con algodón u otras fibras.
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:16px; margin:1.5rem 0;">
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/empalme-corto.png" alt="Empalme corto" style="display:block; max-width:200px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Empalme corto</strong>
+<span style="font-size:0.85rem; line-height:1.4;">La técnica base. Separas hebras de dos chicotes, las entrecruzas y tejes. Tres pasadas por lado. Unión permanente, delgada, fuerte (~95% de la fuerza original).</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/ojo-de-aguila.png" alt="Ojo de águila (eye splice)" style="display:block; max-width:200px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Ojo de águila</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Lazo permanente al final de la cuerda. Doblas el chicote hacia atrás y empalmás las hebras sobre el firme. Para colgar cosas, anclar.</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/matthew-walker.jpg" alt="Nudo de Matthew Walker" style="display:block; max-width:200px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Matthew Walker / Piña de rosa</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Los remates más elegantes del arte de las cuerdas. Cada hebra se anuda de forma específica y todas se aprietan juntas. Requiere paciencia. (CC BY-SA 4.0, Der Barbar)</span>
+</div>
+<div style="background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px;">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/empalme-ejemplo.jpg" alt="Piña y cola de puerco" style="display:block; max-width:200px; height:auto; margin:0 auto 10px;">
+<strong style="display:block; color:var(--primary-color); margin-bottom:4px;">Piña simple / Cola de puerco</strong>
+<span style="font-size:0.85rem; line-height:1.4;">Remates rápidos que evitan que la cuerda se deshilache. La piña forma un engrosamiento, la cola de puerco es el remate más sencillo.</span>
+</div>
+</div>
 
-### Cáñamo 🌿
+> **Tip de oro:** Antes de empezar un empalme, marca con cinta adhesiva dónde vas a separar las hebras. Así no te pierdes.
 
-La **reina histórica** de las cuerdas náuticas.
+> **Tip de oro:** Usa un fid (aguja para empalmes) o un destornillador plano para abrir las hebras. Forzar con los dedos estropea la cuerda.
 
-**Historia impresionante:**
-Desde el **siglo V a.C. hasta finales del siglo XIX**, el **90% de las cuerdas y velas para navegación** se hicieron con cáñamo. También era el material favorito para redes de pesca.
+### (Requisito 11) Las cinco amarras [PRÁCTICA REQUERIDA]
 
-**¿Por qué era (y sigue siendo) tan valorado?**
-- Resistencia excepcional a la humedad
-- No se pudre fácilmente
-- Muy duradero en ambientes marinos
+Si ya completaste [Campamento III](campamento_iii.md), conoces la amarra cuadrada, diagonal, redonda y trípode. Aquí perfeccionas esas tres primeras y agregas dos nuevas: la continua simple y la continua doble.
 
-Hoy en día se continúa usando en ciertas embarcaciones tradicionales que valoran estas propiedades únicas.
+Todas las amarras siguen el mismo principio:
+1. Inicia con **ballestrinque** en uno de los palos
+2. Da las **vueltas principales** según el tipo de amarra
+3. Haz **vueltas de ajuste** entre los palos (perpendiculares a las principales, aprietan todo)
+4. Termina con **ballestrinque** en el otro palo
 
-### Esparto 🌾
+**Amarra cuadrada** - Une palos que se cruzan a 90 grados. Las vueltas pasan sobre un palo y bajo el otro, formando un cuadrado visto desde arriba. 3-4 vueltas principales + 2-3 vueltas de ajuste. Para: mesas, marcos, torres. [Ver en 3D](https://knots3d.com/en/square-lashing-knot)
 
-Una **hierba perenne** que alcanza hasta 1 metro de altura. Sus formaciones se llaman espartales o atochares.
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Square_lashing.jpg" alt="Amarra cuadrada" width="280">
+<p><em>Amarra cuadrada terminada. Las vueltas forman un cuadrado alrededor de la unión. (CC BY-SA 4.0, Gaby680)</em></p>
+</div>
 
-**Productos tradicionales:**
-- Sogas y cuerdas
-- Alpargatas (calzado tradicional)
-- Cestos artesanales
-- Estropajos para limpieza
+**Amarra diagonal** - Une palos que se cruzan en cualquier ángulo. Las vueltas van en diagonal formando una X. 3 vueltas en una diagonal, 3 en la otra, luego vueltas de ajuste. Para: refuerzos diagonales, trípodes, caballetes. [Ver en 3D](https://knots3d.com/en/diagonal-lashing-knot)
 
----
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Lashing_diagonal.jpg" alt="Amarra diagonal" width="280">
+<p><em>Amarra diagonal. Las vueltas forman una X. (CC BY-SA 3.0, Duk)</em></p>
+</div>
 
-## VOCABULARIO ESENCIAL
-¡Apréndelo!
+**Amarra paralela (redonda)** - Une palos que van lado a lado. Envuelve ambos palos juntos en forma de 8. 6-8 vueltas + vueltas de ajuste. Para: extender un palo, reparar uno roto, hacer un asta. [Ver en 3D](https://knots3d.com/en/round-lashing-knot)
 
-Para hablar como un verdadero experto en nudos, necesitas conocer estos términos. Son el "idioma" de los nudos y amarras.
+<div align="center">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/amarra-paralela.jpg" alt="Amarra paralela" width="280">
+<p><em>Amarra paralela (redonda). Envuelve ambos palos juntos. (CC BY 3.0, Juan Diego Ardila)</em></p>
+</div>
 
-### Partes de la Cuerda
+**Amarra continua simple** - Une varios palos en fila formando una plataforma. La cuerda va de palo en palo haciendo un cote en cada uno. Para: superficie de mesa, piso de refugio, camilla.
 
-**Chicote** 🔚
-Los **extremos de la cuerda**. En cuerdas sintéticas, es importante sellarlos térmicamente (con fuego) para evitar que se deshilachen. En cuerdas naturales, se puede hacer un nudo terminal.
+**Amarra continua doble** - Versión reforzada: en cada palo haces un cote doble en vez de simple. Más firme, soporta más peso. Para: mesas de cocina, plataformas que van a cargar peso.
 
-**Firme o Parte Fija** 📏
-El **resto de la cuerda** (la parte larga) con respecto a uno de sus chicotes. Es la sección principal que no estás manipulando activamente.
+<div align="center">
+<img src="../../assets/images/especialidades/AR/nudos_y_amarras/amarra-continua.jpg" alt="Amarra continua" style="width:100%; max-width:450px; height:auto;">
+<p><em>Amarra continua paso a paso - la cuerda va de palo en palo con cotes en cada unión. (CC BY-SA 3.0, Lwan98)</em></p>
+</div>
 
-**Seno** ➰
-Un **lazo o curva** que resulta al dar vuelta la soga sobre sí misma sin cruzar los cabos. Parece una "U" invertida.
+> **Tip de oro:** Cuerdas mojadas amarran mejor. La fibra se hincha y aprieta más al secar. Antes de amarrar, moja la cuerda 5 minutos.
 
-```mermaid
-graph LR
-    A["Chicote"] -->|parte corta| B["Seno"]
-    B -->|forma de U| C["Firme"]
-    C -->|parte larga| D["Otro Chicote"]
+> **Tip de oro:** Remueve la corteza de los palos donde va la amarra. La corteza resbala. Madera desnuda da más agarre.
 
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#95E1D3
-    style D fill:#FF6B6B
-```
+### Amarras y empalmes en video
 
-**Punta Corrediza** 🏃
-La **parte suelta de la soga** de utilidad secundaria. No es la parte principal con la que trabajas.
+**Amarras (animación 3D paso a paso):**
+- [Amarra cuadrada](https://knots3d.com/en/square-lashing-knot) - [Amarra diagonal](https://knots3d.com/en/diagonal-lashing-knot) - [Amarra redonda](https://knots3d.com/en/round-lashing-knot) - [Amarra trípode](https://knots3d.com/en/tripod-lashing-knot) - [Amarra japonesa](https://knots3d.com/en/japanese-square-lashing-mkii-knot)
 
-### Tipos de Configuraciones
-
-**Curva** 〰️
-La **forma que se le da a la cuerda** al unirla consigo misma o con otra cuerda.
-
-**Giro o Vuelta** 🔄
-Una vuelta que la cuerda da sobre sí misma y que **se ajusta consigo misma**.
-
-**Nudo Superior** ⬆️
-El **primer nudo** que se realiza y que queda en la **parte superior** de la estructura final del nudo compuesto.
-
-**Nudo con Lazo Corredizo** 🎚️
-Un tipo de nudo especial que puede ser **ajustado** deslizando una parte de la cuerda. El lazo se hace más grande o pequeño según necesites.
-
-### Técnicas de Unión
-
-**Amarra** 🔗
-La **unión de objetos** (generalmente palos o troncos) mediante la atadura de cuerdas. Se usa para construir estructuras como mesas, puentes, torres.
-
-**Unión de Cuerdas (Empalme)** 🤝
-La **unión de dos cuerdas** a través de la combinación de sus hebras. No es un simple nudo, sino una conexión más permanente y resistente.
+**Empalmes:**
+- [Back splice (cola de puerco)](https://knots3d.com/en/back-splice-knot) - el único empalme disponible en Knots 3D
+- [Empalme corto - tutorial](https://www.youtube.com/results?search_query=short+splice+rope+tutorial) - [Ojo de águila (eye splice)](https://www.youtube.com/results?search_query=eye+splice+rope+tutorial) - [Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker+knot+tutorial)
 
 ---
 
-## CUIDANDO TU CUERDA
-Como un escalador profesional
+## Fase 5: Tu cuadro de nudos
 
-Tu cuerda puede salvarte la vida. Por eso, cuidarla no es opcional: **es obligatorio**. Nuestra seguridad depende del buen estado de nuestras cuerdas.
+*Es la última tarde del campamento. Tu consejero reparte tablas de madera, tachuelas y cuerdas de colores. "Todo lo que aprendieron esta semana va a quedar en un solo lugar. Van a armar un cuadro con al menos 25 nudos. Es su diploma visual - y va a quedar colgado en la sede del club para que lo vea cada generación que viene después."*
 
-### Regla de Oro ⚠️
+### (Requisito 12) El cuadro de nudos [PRÁCTICA REQUERIDA]
 
-> **Ante la más mínima duda sobre el estado de una cuerda, CÓRTALA por el lugar dañado o SUSTITÚYELA por completo.**
-
-**¡Nunca te arriesgues!** Es mejor "desperdiciar" un metro de cuerda que arriesgar tu vida o la de otros.
-
-### Cuidados Esenciales 🧼
-
-#### NO Pisarlas 👟❌
-
-Puede parecer inofensivo, pero pisar una cuerda:
-- Introduce partículas de tierra y arena
-- Daña las fibras internas (aunque no se vea por fuera)
-- Reduce drásticamente su vida útil
-
-**Especialmente crítico** en ambientes con arena o grava, que actúa como papel de lija microscópico.
-
-#### Limpieza Correcta 💧
-
-**Proceso paso a paso:**
-1. **Elimina barro y suciedad** cuidadosamente
-2. **Lava a mano** (nunca en lavadora)
-3. Usa agua tibia (no caliente)
-4. **NO uses productos químicos agresivos** (jabones suaves están OK)
-5. Enjuaga completamente
-
-**Secado:**
-- Cuélgala en lugar **bien aireado**
-- **Protegida del sol directo** (los rayos UV degradan las fibras)
-- Nunca uses secadora ni fuentes directas de calor
-
-#### Almacenamiento 📦
-
-**Lugar ideal:**
-- Seco y aireado
-- Protegido de luz solar directa
-- **Lejos de agentes químicos** (gasolina, solventes, ácidos, etc.)
-- Alejado de fuentes de calor (estufas, radiadores)
-- Sin objetos cortantes cerca
-
-**Cómo guardarla:**
-- Enrollada ordenadamente o en espiral (aduja)
-- Nunca anudada permanentemente (debilita las fibras)
-- En bolsa de malla (para que respire) o caja limpia
-
-#### Cuidado de los Chicotes 🔥
-
-**Cuerdas sintéticas:**
-- Después de cortar, **sella térmicamente los extremos** con fuego
-- Acerca brevemente la punta a una llama hasta que se derrita ligeramente
-- Deja enfriar (¡cuidado, está caliente!)
-- Esto evita que se deshilache
-
-**Cuerdas naturales:**
-- Haz un nudo terminal o remate
-- Otra opción: envuelve con cinta adhesiva o hilo
-
-### Inspección Regular 🔍
-
-**Antes de cada uso, revisa:**
-- ✅ ¿Hay cortes o abrasiones visibles?
-- ✅ ¿Partes deshilachadas o aplastadas?
-- ✅ ¿Zonas rígidas o muy blandas?
-- ✅ ¿Cambios de color (posible daño químico)?
-- ✅ ¿Olor extraño (posible contaminación química)?
-
-**Si encuentras CUALQUIERA de estos problemas:** corta esa sección o retira la cuerda de servicio.
-
----
-
-## ¿SABÍAS QUE? La sabiduría de las cuerdas
-
-La Biblia, en su infinita sabiduría, también habla sobre cuerdas y su importancia. En **Eclesiastés 4:12** encontramos un versículo que todo conquistador debería memorizar:
-
-> *"Y si alguno prevaleciere contra uno, dos le resistirán; y cordón de tres dobleces no se rompe pronto."*
-> — Eclesiastés 4:12
-
-### ¿Qué nos enseña esto? 🤔
-
-Este versículo no solo habla de cuerdas físicas, sino de principios profundos:
-
-**1. La unidad es fuerza** 💪
-Una cuerda de tres hebras es **significativamente más fuerte** que tres cuerdas individuales. Del mismo modo, cuando trabajamos unidos (familia, equipo, iglesia), somos más fuertes.
-
-**2. El trabajo en equipo** 🤝
-En los Conquistadores aprendemos que "juntos logramos más". Este versículo lo confirma: **dos resisten más que uno**, y tres aún más.
-
-**3. Diseño inteligente** 🧠
-Las cuerdas trenzadas (de tres o más hebras) no solo son más fuertes: también son más **flexibles y resistentes al desgaste**. Es física y sabiduría antigua combinadas.
-
-**4. Aplicación espiritual** ✝️
-Cuando Dios está en el centro de nuestras relaciones (como la tercera hebra), esas relaciones son **prácticamente inquebrantables**.
-
-### Comprobación Práctica
-
-La próxima vez que veas una cuerda trenzada de tres hebras, haz esta prueba:
-1. Intenta romper una hebra individual → relativamente fácil
-2. Intenta romper las tres hebras trenzadas → ¡casi imposible!
-
-**La diferencia es asombrosa.** No es 3 veces más fuerte, ¡es mucho más!
-
----
-
-## NUDOS - La práctica hace al maestro
-
-En las siguientes secciones aprenderás los nudos más importantes clasificados por su uso. Para cada nudo encontrarás:
-- **¿Para qué sirve?** - Usos prácticos
-- **Limitaciones** - Cuándo NO usarlo
-- **Cómo hacerlo** - Instrucciones paso a paso
-
-**IMPORTANTE:** Esta especialidad requiere que domines **al menos 20 nudos diferentes** de las siguientes categorías. Practica cada uno hasta que puedas hacerlo de memoria, ¡incluso con los ojos cerrados!
-
-### NUDOS ELEMENTALES - Los básicos que DEBES dominar
-
-#### Nudo Simple (Overhand Knot)
-
-El **nudo más básico** de todos.
-
-**¿Para qué sirve?**
-- Evitar que una cuerda se deslice por un agujero
-- Base para otros nudos más complejos
-- Hacer un tope al final de una cuerda
-
-**Limitaciones:**
-- Se aprieta mucho bajo carga (difícil de deshacer)
-- Debilita la cuerda aproximadamente 50%
-
-![Nudo Simple](../../assets/especialidades/nudos_y_amarras/nudo-simple.webp)
-
-#### Nudo de Ocho (Figure Eight)
-
-El **hermano mayor del nudo simple**. Mucho más útil y seguro.
-
-**¿Para qué sirve?**
-- Tope de seguridad que NO se desliza
-- Base para el As de Guía
-- Inicio de muchos nudos de rescate
-
-**Ventajas:**
-- Más fácil de deshacer después de carga
-- Más voluminoso (mejor tope)
-- Debilita menos la cuerda (~25%)
-
-![Nudo de Ocho](../../assets/especialidades/nudos_y_amarras/nudo-ocho.webp)
-
-#### Nudo Simple Triple
-
-Una **variación reforzada** del nudo simple. Ideal cuando necesitas más volumen.
-
-![Nudo Simple Triple](../../assets/especialidades/nudos_y_amarras/nudo-simple-triple.webp)
-
-#### Nudo Fraile (Franciscan Knot)
-
-Un nudo **decorativo y funcional** que crea un bulto característico en forma de barril.
-
-**¿Para qué sirve?**
-- Crear un tope decorativo al final de una cuerda
-- Añadir peso a una cuerda lanzada
-- Base para nudos ornamentales más complejos
-
-**Características:**
-- Forma una bola o bulto distintivo
-- Más voluminoso que el nudo simple
-- Mantiene su forma bajo tensión
-
-**Cómo hacerlo:**
-1. Forma tres lazos superpuestos
-2. Pasa el chicote a través de cada lazo
-3. Aprieta gradualmente hasta formar el barril
-
-![Nudo Fraile](../../assets/especialidades/nudos_y_amarras/nudo-fraile.webp)
-
-### NUDOS DE UNIÓN - Conectando cuerdas
-
-#### Nudo Llano o Rizo (Square Knot)
-
-El **clásico** para unir dos cuerdas **del mismo grosor**.
-
-**¿Para qué sirve?**
-- Unir dos cuerdas temporalmente
-- Atar paquetes o vendajes
-- Cerrar bolsas
-
-**IMPORTANTE - Limitaciones:**
-- ❌ **NUNCA para escalada o rescate**
-- ❌ No usar con cuerdas de diferente grosor
-
-**Cómo recordarlo:** "Derecha sobre izquierda, izquierda sobre derecha"
-
-**Cómo hacerlo:**
-1. Primer medio nudo: punta derecha sobre izquierda, pasa por abajo
-2. Segundo medio nudo: punta izquierda sobre derecha, pasa por abajo
-3. Debe quedar simétrico (chicotes paralelos al firme de cada lado)
-
-**Verificación:** Si los chicotes salen por el mismo lado, es un nudo falso (peligroso). Deshaz y vuelve a intentar.
-
-![Nudo Llano](../../assets/especialidades/nudos_y_amarras/nudo-de-rizo.webp)
-
-#### Nudo de Pescador (Fisherman's Knot)
-
-Un nudo **seguro y confiable** para unir cuerdas, especialmente mojadas.
-
-**Ventajas:**
-- Más seguro que el nudo llano
-- Funciona bien con cuerdas mojadas
-- No se afloja fácilmente
-
-#### Nudo de Escota (Sheet Bend)
-
-El nudo ideal cuando necesitas unir **cuerdas de diferente grosor**.
-
-**¿Para qué sirve?**
-- Unir cuerda gruesa con cuerda delgada
-- Unir cuerda con un lazo o anilla
-- Marinería (sujetar velas)
-
-**Cómo hacerlo:**
-1. Forma un seno con la cuerda **más gruesa**
-2. Pasa la cuerda delgada POR el seno
-3. Rodea AMBAS partes del seno
-4. Pasa por debajo de sí misma
-5. Aprieta
-
-**Nudo de Escota Doble:** Para mayor seguridad, da una vuelta extra.
-
-![Vuelta de Escota](../../assets/especialidades/nudos_y_amarras/vuelta-de-escota-nudo.webp)
-
-#### Nudo de Pescador Doble (Double Fisherman's)
-
-La versión **reforzada** del nudo de pescador. Es el estándar para unir cuerdas de escalada.
-
-**¿Para qué sirve?**
-- Unir cuerdas de escalada (el más seguro)
-- Hacer lazos cerrados permanentes
-- Uniones que no se pueden revisar constantemente
-
-**Ventajas:**
-- Extremadamente seguro (casi imposible que se deslice)
-- Funciona con cuerdas modernas resbaladizas
-- Usado por escaladores profesionales
-
-**Limitaciones:**
-- Muy difícil de deshacer después de carga
-- Más voluminoso que el pescador simple
-
-**Cómo hacerlo:**
-1. Haz DOS nudos simples con la primera cuerda alrededor de la segunda
-2. Haz DOS nudos simples con la segunda cuerda alrededor de la primera
-3. Aprieta cada par de nudos
-4. Junta ambos lados tirando de los firmes
-
-![Nudo Pescador Doble](../../assets/especialidades/nudos_y_amarras/nudo-pescador-doble.webp)
-
-#### Nudo de Cazador (Hunter's Bend)
-
-Un nudo **elegante y seguro** para unir cuerdas del mismo grosor.
-
-**¿Para qué sirve?**
-- Unir dos cuerdas de forma segura
-- Alternativa al nudo llano (más confiable)
-- Situaciones donde necesitas deshacer después
-
-**Ventajas:**
-- Más seguro que el nudo llano
-- Simétrico y equilibrado
-- Relativamente fácil de deshacer
-
-**Historia curiosa:** Inventado en 1978 por el Dr. Edward Hunter. ¡Es un nudo relativamente moderno!
-
-**Cómo hacerlo:**
-1. Forma dos lazos superpuestos (en direcciones opuestas)
-2. Pasa ambos chicotes por ambos lazos
-3. Aprieta gradualmente
-
-![Nudo Cazador](../../assets/especialidades/nudos_y_amarras/nudo-hunter.webp)
-
-#### Nudo Cirujano (Surgeon's Knot)
-
-Similar al nudo llano pero con **vueltas extras** en el primer medio nudo para mayor seguridad.
-
-**¿Para qué sirve?**
-- Unir cuerdas bajo tensión constante
-- Materiales resbaladizos (nylon, sedal de pesca)
-- Suturas quirúrgicas (de ahí su nombre)
-
-**Ventajas:**
-- Las vueltas extras evitan que se afloje mientras haces el segundo medio nudo
-- Más seguro que el nudo llano en materiales resbaladizos
-- Aguanta tensión durante el atado
-
-**Cómo hacerlo:**
-1. Primer medio nudo: da DOS o TRES vueltas (en lugar de una)
-2. Segundo medio nudo: una vuelta normal
-3. Aprieta firmemente
-
-**Usos médicos:** Los cirujanos lo usan para suturar porque se mantiene apretado mientras trabajan.
-
-![Nudo Cirujano](../../assets/especialidades/nudos_y_amarras/nudo-cirujano.webp)
-
-#### Nudo Falso (Granny Knot)
-
-El nudo que **parece** un nudo llano pero **NO lo es**. Es importante conocerlo para NO hacerlo accidentalmente.
-
-**¿Para qué sirve?**
-- ❌ **Para NADA** - Es un nudo defectuoso
-- Solo se enseña para que aprendas a **evitarlo**
-
-**¿Por qué es peligroso?**
-- Se desliza bajo carga
-- Se aprieta desordenadamente
-- Se deshace fácilmente
-- Puede fallar en situaciones críticas
-
-**¿Cómo se hace por error?**
-Cuando intentas hacer un nudo llano pero:
-- Haces "derecha sobre izquierda" DOS veces (en lugar de alternar)
-- Los chicotes salen por el mismo lado (en lugar de opuestos)
-
-**Cómo identificarlo:**
-- Nudo llano: chicotes salen por lados opuestos y paralelos ✅
-- Nudo falso: chicotes salen por el mismo lado ❌
-
-**Lección importante:** Este nudo te enseña que los detalles importan en nudos. Un pequeño error puede ser la diferencia entre seguro y peligroso.
-
-![Nudo Falso](../../assets/especialidades/nudos_y_amarras/nudo-de-la-abuela.webp)
-
-#### Nudo de Grupo de Calabrote (Carrick Bend)
-
-Un nudo **clásico y decorativo** para unir cuerdas gruesas.
-
-**¿Para qué sirve?**
-- Unir cabos gruesos o cables
-- Trabajo náutico profesional
-- Cuando necesitas un nudo que quede plano
-
-**Ventajas:**
-- Muy fuerte con cuerdas gruesas
-- Se puede deshacer relativamente fácil
-- Queda plano (no hace bulto)
-- Hermoso y simétrico
-
-**Limitaciones:**
-- Puede deslizarse con cuerdas muy resbaladizas
-- Requiere práctica para hacerlo correctamente
-
-**Historia:** Usado tradicionalmente en barcos para unir cables de ancla y cabos gruesos.
-
-![Nudo Carrick](../../assets/especialidades/nudos_y_amarras/nudo-carrick.webp)
-
-**Nudo de Grupo de Calabrote Doble:** Versión reforzada con lazos dobles. Aún más seguro para cargas pesadas.
-
-### NUDOS DE ANCLAJE - Asegurando tu posición
-
-#### As de Guía (Bowline)
-
-El **rey de los nudos**. Muchos lo consideran el nudo perfecto.
-
-**¿Por qué es tan especial?**
-- Forma un lazo que **NO se corre**
-- Fácil de deshacer incluso después de mucha tensión
-- Seguro bajo carga
-
-**¿Para qué sirve?**
-- Rescate (hacer arnés de emergencia)
-- Anclar cuerda a árbol o poste
-- Escalada
-- Marinería
-
-**Cómo recordarlo - Método del conejo:**
-1. "El conejo sale de su madriguera"
-2. "Da la vuelta al árbol"
-3. "Regresa a su madriguera"
-
-![As de Guía](../../assets/especialidades/nudos_y_amarras/as-de-guia-nudo.webp)
-
-#### Ballestrinque (Clove Hitch)
-
-Nudo **rápido y práctico** para sujetar a postes redondos.
-
-**¿Para qué sirve?**
-- Inicio y final de amarras
-- Sujetar temporalmente a un poste
-- Ajustar rápidamente la tensión
-
-**Limitaciones:**
-- Se afloja si no hay tensión constante
-- Puede deslizarse en postes lisos
-
-![Ballestrinque](../../assets/especialidades/nudos_y_amarras/ballestrinque-nudo.webp)
-
-#### Cote o Vuelta de Braza (Half Hitch)
-
-El nudo más simple para asegurar.
-
-**Dos Cotes (Two Half Hitches):** Mucho más seguro. Es el estándar para sujetar cuerdas a anillas o postes.
-
-![Cote Doble](../../assets/especialidades/nudos_y_amarras/nudo-de-cote-doble.webp)
-
-#### Nudo Ancla (Anchor Hitch/Bend)
-
-Un nudo **específicamente diseñado** para sujetar cuerdas a anillas de anclas de barcos.
-
-**¿Para qué sirve?**
-- Sujetar cabo a anilla de ancla
-- Amarrar a argollas bajo tensión constante
-- Situaciones donde hay movimiento y vibración
-
-**Ventajas:**
-- Muy seguro bajo vibración constante
-- No se afloja con movimiento
-- Resistente a la abrasión
-- Tradicional en marinería
-
-**Cómo hacerlo:**
-1. Pasa el cabo por la anilla
-2. Da dos vueltas redondas alrededor de la anilla
-3. Pasa el chicote por dentro de ambas vueltas
-4. Completa con dos cotes alrededor del firme
-
-**Tip náutico:** Los marineros a veces aseguran el chicote al firme con una banda para máxima seguridad.
-
-![Nudo Ancla](../../assets/especialidades/nudos_y_amarras/nudo-ancla.webp)
-*Imagen: Descargar de https://knots3d.com/es/vuelta-de-ancla-nudo*
-
-#### Nudo Constrictor (Constrictor Knot)
-
-El nudo que **aprieta como una serpiente** y NO se suelta.
-
-**¿Para qué sirve?**
-- Cerrar bolsas de forma permanente
-- Sujetar mangos a herramientas
-- Hacer vendajes temporales de emergencia
-- Sellar extremos de cuerdas (alternativa a sellar con fuego)
-
-**Características especiales:**
-- Se aprieta más y más bajo tensión
-- **Casi imposible de deshacer** sin cortar (es permanente)
-- Muy fino y compacto
-- Increíblemente seguro
-
-**Cómo hacerlo:**
-1. Da una vuelta alrededor del objeto
-2. Cruza por encima formando una "X"
-3. Pasa el chicote POR DEBAJO de la primera vuelta
-4. Mete el chicote por la "X"
-5. Aprieta fuerte
-
-**IMPORTANTE:** Solo úsalo cuando quieras algo PERMANENTE. Para deshacerlo, generalmente hay que cortarlo.
-
-![Nudo Constrictor](../../assets/especialidades/nudos_y_amarras/nudo-constrictor.webp)
-
-#### Nudo Corredizo (Slip Knot)
-
-Un nudo ajustable que puede apretarse o aflojarse tirando de un extremo.
-
-**¿Para qué sirve?**
-- Lazos ajustables
-- Atrapar animales (lazo vaquero básico)
-- Inicio de proyectos de tejido/crochet
-- Sujeciones temporales que necesitas aflojar rápido
-
-**Ventajas:**
-- Se ajusta fácilmente
-- Se suelta tirando del chicote
-- Rápido de hacer
-
-**Limitaciones:**
-- ❌ NUNCA para seguridad personal (se puede soltar)
-- ❌ No para cargas críticas
-- Puede apretarse demasiado y bloquear
-
-**Cómo hacerlo:**
-1. Forma un seno
-2. Haz un nudo simple ALREDEDOR del firme (no en el chicote)
-3. El lazo resultante es corredizo
-
-![Nudo Corredizo](../../assets/especialidades/nudos_y_amarras/nudo-corredizo.webp)
-*Imagen: Descargar de https://knots3d.com/es/nudo-corredizo*
-
-#### Vuelta Redonda (Round Turn)
-
-Una técnica más que un nudo: dar **dos vueltas completas** alrededor de un objeto antes de hacer el nudo.
-
-**¿Para qué sirve?**
-- Reducir la tensión en el nudo final
-- Aumentar la fricción (más agarre)
-- Base para "Vuelta redonda con dos cotes" (nudo muy seguro)
-
-**Ventajas:**
-- Distribuye la carga (menos estrés en un punto)
-- Aumenta la fricción dramáticamente
-- Más seguro para cargas pesadas
-
-**Aplicación común:** "Round Turn and Two Half Hitches" es uno de los nudos de anclaje más seguros que existen.
-
-**Cómo hacerlo:**
-1. Da UNA vuelta completa alrededor del poste/anilla
-2. Da OTRA vuelta completa en la misma dirección
-3. Continúa con tu nudo elegido (usualmente dos cotes)
-
-![Tipos de Vueltas](../../assets/especialidades/nudos_y_amarras/tipos-vueltas.jpg)
-*Izquierda: Vuelta simple | Centro: Vuelta redonda | Derecha: Dos vueltas redondas*
-
-#### As de Guía Corredizo (Running Bowline)
-
-Un as de guía que puede **ajustarse** como un lazo.
-
-**¿Para qué sirve?**
-- Lazos ajustables seguros
-- Rescate donde necesitas ajustar el lazo a distancia
-- Sujeción de objetos de tamaño variable
-
-**Ventajas:**
-- Combina seguridad del as de guía con ajustabilidad
-- No se aprieta excesivamente
-- Se puede deshacer después de carga
-
-**Cómo hacerlo:**
-1. Haz un as de guía normal
-2. Pasa TODO el firme por el lazo del as de guía
-3. El resultado es un lazo corredizo seguro
-
-![As de Guía Corredizo](../../assets/especialidades/nudos_y_amarras/as-de-guia-corredizo-nudo.webp)
-
-### NUDOS DE SALVAMENTO - Para emergencias
-
-#### Nudo de Silla de Bombero (Bowline on a Bight)
-
-Crea un arnés de emergencia **sin necesidad de los extremos de la cuerda**.
-
-**¿Para qué sirve?**
-- Rescate de personas (emergencias)
-- Crear dos lazos seguros
-- Bajar personas de edificios
-
-**Cómo hacerlo:**
-1. Dobla la cuerda formando un seno largo
-2. Haz un as de guía usando el seno doblado (como si fuera un chicote)
-3. El resultado son dos lazos paralelos
-
-**Uso en rescate:**
-- Lazo 1: Bajo los brazos de la persona
-- Lazo 2: Bajo las piernas (como asiento)
-
-**IMPORTANTE:** Este es un arnés de **emergencia**, no reemplaza un arnés profesional.
-
-![Silla de Bombero](../../assets/especialidades/nudos_y_amarras/silla-de-bombero-nudo.webp)
-
-#### Nudo Prusik
-
-Un nudo **autobloqueante** revolucionario.
-
-**¿Para qué sirve?**
-- Ascender por una cuerda fija
-- Sistema de seguridad de respaldo en escalada
-- Rescates técnicos verticales
-
-**Características especiales:**
-- Se desliza cuando NO hay carga (puedes moverlo)
-- Se BLOQUEA automáticamente bajo carga (seguridad)
-- Puede ser liberado y reposicionado fácilmente
-
-**Cómo funciona:**
-La fricción de las vueltas alrededor de la cuerda principal crea el bloqueo automático. Es física pura.
-
-**Cómo hacerlo:**
-1. Usa un lazo cerrado de cuerda auxiliar (más delgada)
-2. Enrolla el lazo alrededor de la cuerda principal 3-4 veces
-3. Pasa el lazo por sí mismo
-4. Aprieta las vueltas
-
-**IMPORTANTE:** La cuerda del prusik debe ser más delgada y flexible que la cuerda principal (diferencia mínima 2mm).
-
-![Nudo Prusik](../../assets/especialidades/nudos_y_amarras/nudo-prusik.webp)
-
-#### As de Guía Doble (Double Bowline / Bowline on a Bight)
-
-Crea **dos lazos seguros** en el medio de una cuerda sin usar los extremos.
-
-**¿Para qué sirve?**
-- Rescate de personas (un lazo bajo brazos, otro bajo piernas)
-- Crear dos puntos de anclaje
-- Silla improvisada de emergencia
-
-**Ventajas:**
-- No necesitas los extremos de la cuerda
-- Crea dos lazos que NO se corren
-- Muy seguro bajo carga
-- Se puede deshacer después de uso
-
-**Cómo hacerlo:**
-1. Dobla la cuerda formando un seno largo
-2. Haz un as de guía usando el seno doblado (como si fuera un chicote)
-3. El resultado son dos lazos paralelos
-
-**Uso en rescate:**
-- Lazo 1: Bajo los brazos de la persona
-- Lazo 2: Bajo las piernas (como asiento)
-- La persona queda en posición sentada segura
-
-![As de Guía Doble](../../assets/especialidades/nudos_y_amarras/as-de-guia-por-seno-nudo.webp)
-
-#### Nudo Mariposa (Alpine Butterfly Loop)
-
-Un nudo **perfecto para el centro de una cuerda** que crea un lazo fijo sin usar los extremos.
-
-**¿Para qué sirve?**
-- Crear punto de anclaje en medio de una cuerda
-- Aislar una sección dañada de la cuerda
-- Enganchar mosquetón en centro de línea de vida
-- Rescates donde múltiples personas se atan a la misma cuerda
-
-**Ventajas:**
-- Se puede cargar en TRES direcciones (único que lo hace)
-- No rota ni deforma la cuerda
-- Mantiene 100% resistencia en las direcciones correctas
-- El favorito de alpinistas para cuerdas tensadas
-
-**Por qué se llama "Mariposa":**
-Cuando lo haces correctamente, la forma se parece a una mariposa con alas extendidas.
-
-**Cómo hacerlo (método rápido):**
-1. Enrolla la cuerda alrededor de tu mano 2 veces
-2. Pasa el lazo de afuera sobre los otros dos
-3. Pasa ese lazo por detrás de los otros
-4. Sácalo por el centro y aprieta
-
-**Aplicación crítica:** En cuerdas de seguridad para glaciares, se hacen mariposas cada ciertos metros para que los escaladores se enganchen.
-
-![Nudo Mariposa](../../assets/especialidades/nudos_y_amarras/nudo-mariposa-alpino.webp)
-
-### NUDOS DE IZAMIENTO - Levantando cargas
-
-#### Margarita (Sheepshank)
-
-Un nudo ingenioso que sirve para **acortar una cuerda sin cortarla**.
-
-**¿Para qué sirve?**
-- Acortar temporalmente una cuerda larga
-- Aislar una sección dañada de la cuerda
-
-**Limitación:**
-- Se deshace si no hay tensión constante
-
-#### Vuelta de Ballestrinque con Mosquetón
-
-Combinación ideal para izamiento de materiales.
-
-**¿Para qué sirve?**
-- Izar mochilas o equipo al campamento
-- Levantar materiales de construcción
-- Rescate de objetos (no personas)
-
-**Ventajas:**
-- Rápido de hacer
-- Fácil de ajustar
-- El mosquetón facilita desconexión rápida
-
-#### Nudo Dogal de Verdugo (Hangman's Noose)
-
-Un nudo **histórico y controvertido** con forma de lazo corredizo grande.
-
-**¿Para qué sirve?**
-- Izar objetos pesados de forma segura
-- Lazo que se ajusta alrededor de objetos irregulares
-- Historicamente usado en navegación para izar cargas
-
-**Características:**
-- Lazo corredizo con múltiples vueltas (5-13 vueltas típicas)
-- Las vueltas múltiples distribuyen la carga
-- Muy resistente para cargas verticales
-- El lazo se ajusta a la carga
-
-**Nota histórica:** Conocido por su uso histórico en ejecuciones, pero tiene aplicaciones legítimas en marinería e izamiento de cargas. Hoy se usa principalmente en trabajo pesado y construcción.
-
-**Cómo hacerlo:**
-1. Forma un lazo largo
-2. Enrolla el chicote alrededor del firme formando espiral (5-13 vueltas)
-3. Pasa el chicote por el lazo original
-4. Aprieta las vueltas hacia el lazo
-
-**Aplicación moderna:** Izar troncos, sacos de materiales, equipo pesado en construcción.
-
-![Nudo Dogal de Verdugo](../../assets/especialidades/nudos_y_amarras/nudo-dogal-verdugo.png)
-*Imagen: Descargar de https://www.animatedknots.com/hangmans-noose-knot (imagen estática, no GIF)*
-
-#### Nudo Dinámico / UIAA / Munter Hitch (HMS)
-
-El nudo de **aseguramiento dinámico** usado en escalada y rescate.
-
-**¿Para qué sirve?**
-- Asegurar a un escalador (dar seguro)
-- Rapel de emergencia sin dispositivo especial
-- Descenso controlado de cargas
-- Rescates técnicos
-
-**Características especiales:**
-- Crea FRICCIÓN controlada (permite frenar y soltar)
-- Reversible (funciona en ambas direcciones)
-- Solo requiere mosquetón HMS (forma de pera)
-- Disipa calor del descenso
-
-**Ventajas:**
-- No necesitas dispositivo especial de aseguramiento
-- Funciona con cualquier mosquetón HMS
-- Permite subir y bajar al escalador
-- Estándar en rescate profesional
-
-**Limitaciones:**
-- Tuerce la cuerda (crea cocas)
-- Genera más calor que dispositivos especializados
-- Requiere técnica correcta de frenado
-
-**Cómo hacerlo:**
-1. Pasa la cuerda por el mosquetón formando una "S"
-2. Gira una de las vueltas 180°
-3. Engancha ambas vueltas al mosquetón
-4. El mosquetón debe tener forma HMS (pera) para que funcione bien
-
-**Técnica de uso:**
-- Mano de freno: siempre en el lado del chicote
-- Para frenar: agarra fuerte el lado del chicote
-- Para soltar: afloja gradualmente
-
-**Por qué se llama "Munter":** Por Werner Munter, rescatista suizo que lo popularizó en los años 70.
-
-![Nudo Dinámico/UIAA](../../assets/especialidades/nudos_y_amarras/nudo-de-munter.webp)
-
-#### Vuelta de Gato / Zarpa de Gato (Cat's Paw)
-
-Un nudo **ingenioso** para enganchar un lazo cerrado a un gancho.
-
-**¿Para qué sirve?**
-- Conectar eslinga a gancho de grúa
-- Izar cargas con un lazo cerrado
-- Trabajo industrial y construcción
-
-**Ventajas:**
-- Muy fuerte (distribuye carga en 4 puntos)
-- Se auto-ajusta bajo carga
-- Simple pero efectivo
-
-**Cómo hacerlo:**
-1. Dobla un lazo cerrado formando dos lazos paralelos
-2. Tuerce cada lazo varias vueltas en direcciones opuestas
-3. Pasa el gancho por ambos lazos
-4. Al cargar, los lazos se ajustan al gancho
-
-![Zarpa de Gato](../../assets/especialidades/nudos_y_amarras/zarpa-de-gato-nudo.webp)
-
-### NUDOS ORNAMENTALES - Arte con cuerdas
-
-Los nudos no son solo utilitarios, ¡también pueden ser obras de arte!
-
-#### Nudo Franciscano / Corona (Crown Knot)
-
-Un nudo **decorativo clásico** también conocido como "Corona".
-
-**¿Para qué sirve?**
-- Decoración de extremos de cuerda
-- Terminales de cortinas o cordones
-- Base para trenzados más complejos
-- Trabajo artesanal con cuerdas
-
-**Características:**
-- Forma una "corona" con las hebras
-- Requiere mínimo 3 hebras
-- Puede combinarse con otros nudos decorativos
-- Base del nudo fraile
-
-**Técnica:**
-Las hebras se entrelazan formando un patrón circular que se ve como una corona desde arriba.
-
-![Nudo de Corona](../../assets/especialidades/nudos_y_amarras/nudo-de-corona.webp)
-
-#### Piña Americana (Pineapple Knot)
-
-Una terminación **elaborada y elegante** que parece una piña.
-
-**¿Para qué sirve?**
-- Decoración de cabos náuticos
-- Remate de látigos o fouets
-- Arte decorativo con cuerdas
-- Peso decorativo en extremos
-
-**Características:**
-- Muy vistoso y profesional
-- Requiere práctica considerable
-- Múltiples patrones posibles
-
-#### Nudo Cuadrado Decorativo (Chinese Button)
-
-Un nudo **ornamental tridimensional** hermoso y simétrico.
-
-**¿Para qué sirve?**
-- Botones decorativos en ropa tradicional
-- Joyería con cordón
-- Arte decorativo
-- Centro de pulseras y collares
-
-**Características:**
-- Forma cuadrada o circular simétrica
-- Se ve igual desde múltiples ángulos
-- Tradicional en cultura china
-- También conocido como "botón chino"
-
-**Historia:** Usado durante siglos en Asia para crear botones funcionales y decorativos en vestimenta tradicional.
-
-**Cómo hacerlo:**
-Es un nudo complejo que requiere paciencia:
-1. Forma dos lazos superpuestos
-2. Entreteje los extremos siguiendo un patrón simétrico
-3. Ajusta gradualmente hasta formar el cuadrado
-4. Los extremos salen por lados opuestos
-
-![Nudo Cuadrado Decorativo](../../assets/especialidades/nudos_y_amarras/nudo-cuadrado-decorativo.jpg)
-*Imagen: Descargar de https://upload.wikimedia.org/wikipedia/commons/3/3b/Chinese_button_knot.jpg*
-
-#### Encapilladura (Crown and Wall / Pata de Conejo)
-
-Un nudo **terminal decorativo** para extremos de cuerda de tres hebras.
-
-**¿Para qué sirve?**
-- Remate profesional de cabos náuticos
-- Evitar deshilachado de forma elegante
-- Trabajo marinero tradicional
-
-**Características:**
-- Combina nudo de corona con nudo de pared
-- Muy firme y profesional
-- Requiere cuerda de múltiples hebras
-
-**Aplicación:** Ver en barandas de barcos, terminales de cabos decorativos.
-
-### NUDOS DE SUJETAR - Fijando objetos
-
-#### Tensor o Truckers Hitch
-
-El nudo que te da **superpoderes de fuerza**.
-
-**Magia del nudo:**
-Crea un sistema de **polea simple** que multiplica tu fuerza.
-
-**¿Para qué sirve?**
-- Asegurar cargas en camionetas
-- Tensar cuerdas de carpas
-- Atar objetos que necesitan MUCHA tensión
-
-#### Boca de Lobo / Nudo de Leñador (Timber Hitch)
-
-Perfecto para **arrastrar troncos** o postes largos.
-
-**¿Para qué sirve?**
-- Arrastrar troncos o postes
-- Remolcar objetos cilíndricos
-- Inicio de amarras diagonales
-- Mover material de construcción
-
-**Características especiales:**
-- Se aprieta automáticamente bajo carga (más tiras, más agarra)
-- Se suelta fácilmente cuando no hay tensión
-- Muy rápido de hacer
-- Funciona mejor con superficies rugosas
-
-**Cómo hacerlo:**
-1. Rodea el objeto con la cuerda
-2. Pasa el chicote alrededor del firme
-3. Enrolla el chicote sobre sí mismo 3-4 vueltas
-4. Aprieta tirando del firme
-
-**Tip de leñador:** Para troncos muy largos, combina con media vuelta al otro extremo para mejor control de dirección.
-
-![Boca de Lobo](../../assets/especialidades/nudos_y_amarras/nudo-de-leñador.webp)
-
-### NUDOS DE ACORTAMIENTO - Ajustando longitud
-
-#### Margarita (ya descrito arriba)
-
-#### Nudo de Cirujano
-
-Similar al nudo llano pero con **vueltas extras** para mayor seguridad.
-
----
-
-## EMPALMES Y REMATES - Trabajo avanzado
-
-### ¿Qué es un Empalme?
-
-Un **empalme** no es simplemente un nudo: es una técnica donde las **hebras de dos cuerdas se entretejen** para crear una unión casi tan fuerte como la cuerda original.
-
-**Ventajas sobre nudos:**
-- Más resistente (conserva ~95% de la fuerza)
-- Más delgado (pasa mejor por poleas)
-- Permanente (no se deshace)
-
-![Ejemplo de Empalme](../../assets/especialidades/nudos_y_amarras/empalme-ejemplo.jpg)
-*Ejemplo visual de empalme corto mostrando el entretejido de hebras*
-
-### Empalmes que debes dominar:
-
-1. **Empalme Corto** - La técnica básica
-2. **Empalme "Ojo de Águila"** - Crea un lazo permanente
-3. **Empalme Piña Acollador** - Remate decorativo
-4. **Remate Piña de Rosa Doble / Matthew Walker** - Técnicas elaboradas
-5. **Piña Simple** - Remate básico decorativo
-6. **Cola de Puerco** - Remate rápido y efectivo
-
----
-
-## AMARRAS - Construyendo estructuras
-
-Las amarras son la base de la construcción pionera. Con ellas puedes construir desde mesas simples hasta puentes completos.
-
-### ¿Qué es una Amarra?
-
-Una **amarra** es la unión de dos o más palos/troncos mediante cuerdas, creando estructuras resistentes sin necesidad de clavos o tornillos.
-
-### Principios Básicos
-
-1. **Siempre iniciar con Ballestrinque** (anclaje inicial)
-2. **Apretar cada vuelta** (firmeza es clave)
-3. **"Ahorcar" el amarre** (vueltas perpendiculares que aprietan)
-4. **Terminar con Ballestrinque o Llano** (asegurar el final)
-
-### Amarra Cuadrada
-
-Para unir dos palos que se cruzan a **90 grados** (ángulo recto).
-
-**¿Cuándo usarla?**
-- Mesas de campamento
-- Marcos rectangulares
-- Torres y estructuras
-
-**Proceso:**
-1. Ballestrinque en uno de los palos
-2. Da 3-4 vueltas SOBRE uno, BAJO el otro
-3. Da 3-4 vueltas ENTRE los palos (esto "ahorca")
-4. Termina con Ballestrinque
-
-```mermaid
-graph TB
-    A["1. Ballestrinque inicial"] --> B["2. Vueltas cuadradas 3-4x"]
-    B --> C["3. Ahorcado entre palos 3-4x"]
-    C --> D["4. Ballestrinque final"]
-
-    style A fill:#FFE66D
-    style B fill:#FF6B6B
-    style C fill:#4ECDC4
-    style D fill:#95E1D3
-```
-
-### Amarra Diagonal
-
-Para unir palos que se cruzan en **cualquier ángulo**.
-
-**¿Cuándo usarla?**
-- Refuerzos diagonales
-- Estructuras tipo "X"
-- Trípodes y caballetes
-
-### Amarra Paralela o Redonda
-
-Para unir palos **paralelos**, como extender un palo largo.
-
-**¿Cuándo usarla?**
-- Hacer asta bandera larga
-- Extender vigas
-- Reparar un palo roto
-
-### Amarra Continua Simple
-
-Para unir **varios palos en fila** formando una plataforma.
-
-**¿Cuándo usarla?**
-- Hacer mesa larga
-- Plataforma elevada
-- Piso de refugio
-
-### Amarra Continua Doble
-
-Versión **reforzada** de la continua simple. En cada unión, agregas un **cote** extra.
-
-**¿Cuándo usarla?**
-- Mesas que soportarán mucho peso
-- Estructuras más permanentes
-
----
-
-## FABRICANDO TU PROPIA CUERDA
-De la naturaleza a tu mano
-
-Una habilidad ancestral que puede salvarte en situaciones de supervivencia.
-
-### ¿Por qué Aprender Esto?
-
-- **Autonomía:** En supervivencia, fabricar cuerda puede ser crucial
-- **Conexión histórica:** Así lo hacían nuestros ancestros
-- **Comprensión:** Entender cómo funciona una cuerda
-
-**Recuerda Eclesiastés 4:12:** *"Cordón de tres dobleces no se rompe pronto"* — ¡esto es literal!
-
-### Cuerda de Tres Hebras
-
-La técnica más común y efectiva.
-
-**Proceso:**
-1. Preparar tres manojos de fibras del mismo grosor
-2. Atar los extremos juntos temporalmente
-3. Fijar el extremo atado a un punto fijo
-4. Torcer cada hebra individualmente en sentido horario
-5. Trenzar pasando la hebra derecha sobre la central
-6. Agregar fibras cuando las hebras se acortan
-
-**Longitud del proyecto:** 2 metros (requisito de la especialidad)
-
-```mermaid
-graph LR
-    A["Fibras sueltas"] -->|1. Torcer| B["Hebras torcidas"]
-    B -->|2. Trenzar| C["Cuerda de 3 hebras"]
-
-    style A fill:#F4A460
-    style B fill:#DEB887
-    style C fill:#D2691E
-```
-
-### Cuerda con Trenzado Triple
-
-Una técnica más **avanzada y fuerte**.
-
-**Diferencia:** En lugar de tres hebras simples, usas tres **cuerdas de tres hebras** (3 × 3 = 9 fibras totales).
-
-**Resultado:**
-- Mucho más gruesa y resistente
-- Ideal para cargas pesadas
-
----
-
-## 📋 LISTA COMPLETA DE NUDOS DOCUMENTADOS
-Elige tus 20 favoritos
-
-Este manual documenta **34 nudos y técnicas** diferentes. El requisito es dominar **mínimo 20** de ellos, distribuyendo tu elección entre las categorías.
-
-### ✅ NUDOS ELEMENTALES (4 disponibles - elige 3)
-
-1. **Nudo Simple** (Overhand Knot) - El más básico
-2. **Nudo de Ocho** (Figure Eight) - Tope seguro
-3. **Nudo Simple Triple** (Triple Overhand) - Tope reforzado
-4. **Nudo Fraile** (Franciscan Knot) - Decorativo y funcional
-
-### ✅ NUDOS DE UNIÓN (9 disponibles - elige 3+)
-
-5. **Nudo Llano/Rizo** (Square Knot) - Clásico básico
-6. **Nudo de Pescador** (Fisherman's Knot) - Seguro y confiable
-7. **Nudo de Pescador Doble** (Double Fisherman's) - Extra seguro
-8. **Nudo de Escota** (Sheet Bend) - Para diferentes grosores
-9. **Nudo de Cazador** (Hunter's Bend) - Elegante y moderno
-10. **Nudo Cirujano** (Surgeon's Knot) - Con vueltas extras
-11. **Nudo Falso** (Granny Knot) - Aprende a evitarlo ❌
-12. **Nudo Carrick** (Carrick Bend) - Para cabos gruesos
-13. **Nudo Carrick Doble** - Versión reforzada
-
-### ✅ NUDOS DE ANCLAJE (9 disponibles - elige 3+)
-
-14. **As de Guía** (Bowline) - El rey de los nudos
-15. **Ballestrinque** (Clove Hitch) - Rápido y práctico
-16. **Cote/Vuelta de Braza** (Half Hitch) - El más simple
-17. **Dos Cotes** (Two Half Hitches) - Estándar seguro
-18. **Nudo Ancla** (Anchor Hitch) - Para anillas
-19. **Nudo Constrictor** (Constrictor Knot) - Permanente
-20. **Nudo Corredizo** (Slip Knot) - Ajustable
-21. **Vuelta Redonda** (Round Turn) - Técnica de fricción
-22. **As de Guía Corredizo** (Running Bowline) - Lazo ajustable
-
-### ✅ NUDOS DE SALVAMENTO (5 disponibles - elige 3+)
-
-23. **Silla de Bombero** (Bowline on a Bight) - Arnés de emergencia
-24. **Nudo Prusik** - Autobloqueante
-25. **As de Guía Doble** (Double Bowline) - Dos lazos seguros
-26. **Nudo Mariposa** (Alpine Butterfly) - Para centro de cuerda
-27. **As de Guía** (también cuenta aquí)
-
-### ✅ NUDOS DE IZAMIENTO (5 disponibles - elige 2+)
-
-28. **Margarita** (Sheepshank) - Acortar cuerda
-29. **Vuelta de Ballestrinque con Mosquetón** - Izar equipo
-30. **Nudo Dogal de Verdugo** (Hangman's Noose) - Cargas pesadas
-31. **Nudo Dinámico/UIAA** (Munter Hitch) - Aseguramiento
-32. **Zarpa de Gato** (Cat's Paw) - Para ganchos
-
-### ✅ NUDOS ORNAMENTALES (5 disponibles - elige 2+)
-
-33. **Nudo Franciscano/Corona** (Crown Knot) - Decorativo clásico
-34. **Piña Americana** (Pineapple Knot) - Remate elegante
-35. **Nudo Cuadrado Decorativo** (Chinese Button) - Ornamental 3D
-36. **Encapilladura** (Crown and Wall) - Terminal náutico
-37. **Pata de Conejo** - Decorativo marinero
-
-### ✅ NUDOS DE SUJETAR (3 disponibles - elige 2+)
-
-38. **Tensor/Truckers Hitch** - Sistema de polea
-39. **Boca de Lobo** (Timber Hitch) - Arrastrar troncos
-40. **Nudo Único** - *Consultar con instructor*
-
-### ✅ NUDOS DE ACORTAMIENTO (2 disponibles - elige 2)
-
-41. **Margarita** (Sheepshank) - Acortar temporalmente
-42. **Nudo Cirujano** (también en unión) - Con vueltas extras
-
----
-
-## 📊 TU SELECCIÓN PERSONAL
-
-**Requisito:** Domina mínimo 20 nudos, distribuyendo entre categorías.
-
-**Distribución recomendada:**
-- 3 Elementales
-- 4 Unión (hay muchos importantes)
-- 4 Anclaje (fundamentales)
-- 3 Salvamento (pueden salvar vidas)
-- 2 Izamiento
-- 2 Ornamentales
-- 2 Sujetar
-- 2 Acortamiento (puede haber overlap)
-
-**Total recomendado:** 22-25 nudos (más que el mínimo)
-
-**Tip:** Aprende primero los marcados como "fundamentales" o "el más usado", luego expande según tus intereses.
-
----
-
-## PRÁCTICA - ¡Hazlo!
-
-### ✅ Ejercicio 1: Domina 20 nudos esenciales
-
-**Objetivo:** Elegir y dominar **mínimo 20 nudos** de la lista completa arriba.
-
-**Tu lista personal de nudos:**
-Usa la sección "📋 LISTA COMPLETA" arriba para elegir tus 20+ nudos. Marca los que vas dominando:
-
-**Nudos que he dominado:**
-- [ ] 1. _______________
-- [ ] 2. _______________
-- [ ] 3. _______________
-- [ ] 4. _______________
-- [ ] 5. _______________
-- [ ] 6. _______________
-- [ ] 7. _______________
-- [ ] 8. _______________
-- [ ] 9. _______________
-- [ ] 10. ______________
-- [ ] 11. ______________
-- [ ] 12. ______________
-- [ ] 13. ______________
-- [ ] 14. ______________
-- [ ] 15. ______________
-- [ ] 16. ______________
-- [ ] 17. ______________
-- [ ] 18. ______________
-- [ ] 19. ______________
-- [ ] 20. ______________
-- [ ] 21. ______________ (bonus)
-- [ ] 22. ______________ (bonus)
-- [ ] 23. ______________ (bonus)
-- [ ] 24. ______________ (bonus)
-- [ ] 25. ______________ (bonus)
-
-**Cómo practicar cada nudo:**
-1. **Aprende mirando:** Estudia la imagen y descripción
-2. **Practica con instrucciones:** Haz el nudo 5-10 veces siguiendo los pasos
-3. **Practica de memoria:** Hazlo sin mirar instrucciones (10 veces)
-4. **Test de ojos cerrados:** El verdadero test de dominio
-5. **Explica a otros:** Si puedes enseñarlo, verdaderamente lo dominas
-
-**Registro de progreso:**
-Para cada nudo, verifica:
-- [ ] Puedo hacerlo mirando instrucciones
-- [ ] Puedo hacerlo de memoria
-- [ ] Puedo hacerlo con ojos cerrados
-- [ ] Sé para qué sirve
-- [ ] Sé cuándo NO usarlo
-- [ ] Puedo enseñarlo a otros
-
-### ✅ Ejercicio 2: Maestro de empalmes
-
-Realiza los 6 empalmes y remates:
-1. Empalme corto
-2. Empalme "ojo de águila"
-3. Empalme piña acollador
-4. Remate piña de rosa doble
-5. Piña simple
-6. Cola de puerco
-
-### ✅ Ejercicio 3: Construye con amarras
-
-**Proyecto:** Mesa de Campamento
-- Usa amarras cuadradas (patas + tablero)
-- Usa amarras continuas (tablones del tablero)
-- Tamaño sugerido: 1m × 0.5m
-
-**Evaluación:**
-- La estructura es estable
-- Las amarras están apretadas
-- Los nudos están bien hechos
-
-### ✅ Ejercicio 4: Fabricante de cuerdas
-
-Crea dos cuerdas de 2 metros con materiales naturales:
-1. **Cuerda de tres hebras** (trenzado simple)
-2. **Cuerda con trenzado triple**
-
-**Documentación:** Lleva un registro fotográfico del proceso.
-
-### ✅ Ejercicio 5: Cuadro de nudos
-
-Crea un tablero educativo con al menos 25 nudos diferentes.
+Un cuadro de nudos es una tabla donde montas nudos organizados, etiquetados con su nombre y uso. Es proyecto integrador y objeto de exhibición.
 
 **Materiales:**
-- Tabla de madera (60cm × 80cm mínimo)
-- Cuerdas de colores
-- Etiquetas para cada nudo
-- Ganchos o tornillos
+- Tabla de madera, cartón grueso o corcho (60x80 cm mínimo)
+- Cuerdas de 3-5 mm de distintos colores (facilita distinguir cada nudo)
+- Tachuelas, clavos pequeños o pegamento caliente
+- Etiquetas de cartulina o papel
+- Marcador permanente
 
-**Organización:**
-- Por categorías
-- Con etiquetas: nombre, uso, dificultad
+**Organización sugerida:**
 
-### ✅ Ejercicio 6: Desafío de plantas
+```mermaid
+graph TD
+    A["CUADRO DE NUDOS"] --> B["Elementales<br/>Simple, Ocho, Fraile"]
+    A --> C["Unión<br/>Llano, Carrick, Pescador,<br/>Hunter, Cirujano, Escota"]
+    A --> D["Anclaje<br/>Ballestrinque, Ancla,<br/>Constrictor, Braza"]
+    A --> E["Salvamento<br/>As de guía, Doble,<br/>Mariposa, Prusik"]
+    A --> F["Izamiento<br/>Dogal, Zarpa de gato"]
+    A --> G["Ornamentales<br/>Cuadrado, Encapilladura"]
+    A --> H["Otros<br/>Margarita, Único,<br/>Corredizo"]
+```
 
-Identifica y documenta 3 plantas para fabricar cuerdas. Para cada una:
-- Nombre común y científico
-- Dónde crece
-- Características de sus fibras
-- Usos tradicionales
-- Práctica de extracción
+**Proceso:**
+1. Planifica la distribución antes de pegar. Dibuja el layout en papel
+2. Haz cada nudo con unos 20-25 cm de cuerda
+3. Fija con tachuelas por los extremos y pegamento por detrás
+4. Etiqueta cada nudo: nombre, categoría y uso principal
+5. Título arriba: "Nudos y Amarras - [Tu nombre] - [Año]"
 
----
+> **Tip de oro:** Usa cuerdas de colores distintos para cada categoría. Elementales en rojo, unión en azul, anclaje en verde, salvamento en naranja. Se ve bien y ayuda a recordar.
 
-## 📚 Referencias y Recursos
-
-### Sitios Web Recomendados
-
-- **Knots3D** (https://knots3d.com) - Tutoriales interactivos en 3D
-- **Pathfinders Online Wiki** - Recursos para Conquistadores
-
-### Libros Clásicos
-
-- **"The Ashley Book of Knots"** - Clifford Ashley (más de 3,800 nudos)
-- **"Manual de Nudos"** - Noticonquis
-- **"Enciclopedia Ilustrada de los Nudos"** - Geoffrey Budworth
+> **Tip de oro:** Los nudos de 3-5 mm de diámetro quedan bien en un cuadro. Más gruesos ocupan demasiado espacio. Más delgados no se ven bien.
 
 ---
 
-<div align="center">
+## Tabla de mapeo: Requisitos - Secciones
 
-**🎉 ¡FELICITACIONES! 🎉**
-
-Al completar esta especialidad, has dominado una **habilidad ancestral**
-que conecta a la humanidad desde los primeros marineros
-hasta los exploradores modernos.
-
-Estos conocimientos pueden **salvar vidas**, construir refugios,
-y resolver innumerables problemas prácticos.
-
-**¡Usa tus habilidades sabiamente y compártelas con otros!**
+| Requisito DSA | Fase | Sección |
+|---|---|---|
+| 1. Definir términos de cuerdas | Fase 1 | Vocabulario de las cuerdas |
+| 2. Cuidados de la cuerda | Fase 1 | Cuidados de la cuerda |
+| 3. Estática vs dinámica | Fase 1 | Estática vs dinámica |
+| 4. Tipos de cuerdas por material | Fase 1 | Tipos de cuerdas por material |
+| 5. Sintéticas vs naturales | Fase 1 | Cuerdas sintéticas vs naturales |
+| 6. Cuerda más fuerte de la Biblia | Fase 2 | La cuerda más fuerte de la Biblia |
+| 7. Empalmes y remates | Fase 4 | Empalmes y remates |
+| 8. Fabricar dos cuerdas | Fase 2 | Fabricar tu propia cuerda |
+| 9. Plantas para cuerdas | Fase 2 | Plantas para fabricar cuerdas |
+| 10. 20 nudos de memoria | Fase 3 | Veinte nudos de memoria |
+| 11. Cinco amarras | Fase 4 | Las cinco amarras |
+| 12. Cuadro de 25 nudos | Fase 5 | El cuadro de nudos |
 
 ---
 
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
+## Referencias
 
-</div>
+- [Knots 3D](https://knots3d.com/es/nudos-de-amarre) - Animaciones 3D interactivas de nudos y amarras
+- *The Ashley Book of Knots* - Clifford Ashley (referencia con más de 3800 nudos)
+- *Enciclopedia Ilustrada de los Nudos* - Geoffrey Budworth
+- [Campamento III](campamento_iii.md) - Amarras básicas en contexto de campamento
+- [Pionerismo](pionerismo.md) - Uso de nudos y cuerdas en construcción pionera
+
+---
+
+## Notas para el instructor
+
+**Materiales para el curso completo:**
+- 10-15 trozos de cuerda de práctica (1.5 m cada uno, 6-8 mm)
+- Muestras de nylon, poliéster, sisal, polipropileno (30 cm cada una)
+- Cuerda de sisal para empalmes (3 hebras torcidas)
+- Pabilo o fibras naturales para fabricar cuerdas
+- Palos de 1.5-2 m para amarras (pueden ser de escoba)
+- Tablas para cuadros de nudos
+- Cuerdas de colores (3-5 mm) para los cuadros
+
+**Distribución sugerida:**
+- Reunión 1 (club): Fase 1 - vocabulario, materiales, cuidados
+- Reunión 2 (club): Fase 3 parte 1 - nudos elementales, unión, anclaje
+- Reunión 3 (club): Fase 3 parte 2 - nudos salvamento, izamiento, ornamentales
+- Campamento: Fase 2 (devocional + fabricación cuerdas) + Fase 4 (empalmes + amarras)
+- Reunión 4 (club): Fase 5 - cuadro de nudos
+- Evaluación: cada conquistador demuestra 20 nudos de memoria + cuadro terminado
+
+**Seguridad:**
+- Nudos de salvamento: practicar siempre supervisados, nunca al borde de precipicios reales
+- Empalmes: cuidado con herramientas punzantes (fid, destornillador)
+- Amarras: verificar estabilidad de estructuras antes de cargar peso humano
+- Nunca practicar nudos corredizos cerca del cuello
+
+**Serie Campismo:**
+Esta guía es el Tomo 1. Prepara para [Pionerismo](pionerismo.md) (construcción con cuerdas y palos) y eventualmente Construcciones Rústicas (estructuras mayores). El consejero guía paso a paso - es la primera exposición sistemática a cuerdas y nudos.
+
+---
+
+*Tu consejero mira los cuadros de nudos terminados, colgados en la pared de la sede. Cada uno distinto, cada uno con 25 nudos prolijos. "La próxima vez que vayamos al campo", dice, "ya no voy a tener que enseñarles a amarrar una carpa o construir una mesa. Ustedes van a saber." Sonríe. "Y en Pionerismo, van a usar todo esto para construir cosas que nunca imaginaron."*
+
+[Siguiente en Serie Campismo: Pionerismo ->](pionerismo.md)
