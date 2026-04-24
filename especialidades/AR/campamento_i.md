@@ -1,1455 +1,616 @@
 ---
 layout: guia_instruccion
-title: Campamento I
+title: "Campamento I"
+codigo: "AR-049"
+area: "Actividades Recreativas"
+area_codigo: "AR"
+nivel: 1
+ano_creacion: 1986
+institucion_origen: "Asociación General"
 ---
 
-# Campamento I
+## Tu primer campamento de verdad
 
-<div align="center">
+> **Esta guía es el Tomo I de la serie Campamento.** Si no has hecho la especialidad [Arte de Acampar](arte_de_acampar.md), te recomendamos leerla primero - es el prólogo de esta historia.
 
-![Logo Conquistadores](../../assets/images/logo.svg)
+Ya sabes lo básico. Ya fuiste a un campamento con tu unidad, aprendiste a elegir un lugar, armar una carpa, hacer una fogata y cuidar la naturaleza. Ahora viene lo siguiente: un campamento de fin de semana completo, de viernes a domingo, donde vas a dormir dos noches en el campo, cocinar tus propias comidas, y descubrir que acampar es mucho más que sobrevivir al aire libre.
 
-**Área:** Actividades Recreativas
-**Código:** AR-049
-**Nivel:** 1
-**Año de creación:** 1986
-**Institución de origen:** Asociación General
-
----
-
-</div>
-
-## 📋 Requisitos
-
-### 1. Entender y practicar las guías éticas de campamento en relación a la conservación de la naturaleza
-
-**Respuesta:**
-
-Las guías éticas de campamento se resumen en el principio de **"No Dejar Rastro"** (Leave No Trace), que nos enseña a disfrutar la naturaleza sin dañarla.
-
-**PRINCIPIOS BÁSICOS:**
-
-1. **Planifica y prepárate:**
-   - Conoce el área donde acamparás
-   - Lleva todo el equipo necesario
-   - Empaca para llevar tu basura de regreso
-
-2. **Viaja y acampa en superficies durables:**
-   - Usa senderos establecidos
-   - Acampa en lugares ya usados cuando existan
-   - No crees nuevos caminos
-
-3. **Dispón adecuadamente los desechos:**
-   - Lleva toda tu basura contigo
-   - No entierres basura (los animales la desentierran)
-   - Desechos humanos: entiérralos a 15-20 cm de profundidad, 60 metros lejos del agua
-
-4. **Deja lo que encuentres:**
-   - No arranques plantas ni flores
-   - No lleves rocas, conchas, o artefactos
-   - Toma solo fotos
-
-5. **Minimiza el impacto de fogatas:**
-   - Usa estufa cuando sea posible
-   - Si haces fogata, usa círculo existente
-   - Quema toda la leña hasta cenizas
-   - Apaga completamente con agua
-
-6. **Respeta la vida silvestre:**
-   - Observa desde lejos
-   - No alimentes animales
-   - Protege tu comida de los animales
-
-7. **Sé considerado con otros visitantes:**
-   - Respeta otros campistas
-   - Mantén ruido bajo
-   - Deja los mejores lugares para quienes lleguen después
-
-**PRÁCTICA DIARIA:**
-- Recoge basura, incluso la que no es tuya
-- Camina siempre por senderos
-- Usa jabón biodegradable lejos del agua
-- Deja el campamento más limpio que como lo encontraste
+Tu consejero reúne a la unidad: "Este campamento va a ser distinto. Van a tener más responsabilidad. Van a aprender a usar el hacha, a encender fuego con un solo fósforo, a cocinar pan en un palo. Y el sábado, vamos a tener culto al aire libre."
 
 ---
 
-### 2. Saber ocho cosas que se debe hacer cuando se está perdido
+## Fase 1 - Prepararse de verdad
 
-**Respuesta:**
-
-**PROTOCOLO S.T.O.P. CUANDO ESTÁS PERDIDO:**
-
-1. **S - SIT (SIÉNTATE):**
-   - En cuanto notes que estás perdido, para de moverte
-   - Siéntate y descansa
-   - Caminar más solo te aleja del grupo
-
-2. **T - THINK (PIENSA):**
-   - Mantén la calma, respira profundo
-   - ¿Cuándo te diste cuenta que estabas perdido?
-   - ¿Qué puntos de referencia recuerdas?
-   - ¿El grupo sabe que te perdiste?
-
-3. **O - OBSERVE (OBSERVA):**
-   - Mira alrededor buscando algo familiar
-   - Escucha atentamente (voces, silbatos, agua)
-   - Busca señales de civilización (humo, caminos, construcciones)
-
-4. **P - PLAN (PLANEA):**
-   - Decide quedarte donde estás (mejor opción)
-   - Prepara señales de tu ubicación
-
-5. **SEÑALIZA TU POSICIÓN:**
-   - Usa tu silbato: 3 silbidos cortos = emergencia
-   - Coloca ropa brillante en lugar visible
-   - Haz señales con rocas o ramas (SOS en área abierta)
-   - Responde inmediatamente si escuchas búsqueda
-
-6. **BUSCA O CONSTRUYE REFUGIO:**
-   - Protégete del sol, viento, frío
-   - Mantente seco
-   - Usa refugio natural: árbol caído, cueva pequeña, rocas
-
-7. **MANTÉN TEMPERATURA CORPORAL:**
-   - Abrígate con toda la ropa que tengas
-   - Busca lugar protegido del viento
-   - La hipotermia es peligro principal
-
-8. **CONSERVA ENERGÍA Y RECURSOS:**
-   - No corras sin sentido
-   - Raciona el agua
-   - Descansa y mantén la calma
-   - No comas plantas desconocidas
-
-**PREVENCIÓN:**
-- SIEMPRE usa sistema de compañeros
-- Avisa al grupo si te alejas
-- Lleva silbato, agua, y algo de abrigo
-- Conoce las señales de emergencia del grupo
+*Una semana antes del campamento. Tu consejero convoca una reunión especial: "Esta vez no basta con meter cosas en la mochila. Vamos a prepararnos bien."*
 
 ---
 
-### 3. Estar familiarizado con varios tipos de equipos para dormir, adecuados para diversos climas y estaciones
+### Elegir tu equipo para dormir
 
-**Respuesta:**
+*(Requisito 3)*
 
-**SACOS DE DORMIR (Sleeping bags):**
+"¿Qué saco de dormir tienen?", pregunta tu consejero. Algunos muestran el suyo. "No todos los sacos sirven para todo. Depende de dónde vamos y cuánto frío va a hacer."
 
-**Por temperatura:**
-- **Saco de verano:** +5°C o más, liviano, relleno delgado
-- **Saco de 3 estaciones:** -5°C a +10°C, uso más versátil
-- **Saco de invierno:** -10°C o menos, grueso, muy aislante
+**Sacos de dormir por temperatura:**
+
+| Tipo | Rango | Cuándo usarlo |
+|------|-------|---------------|
+| Verano | +5°C o más | Noches cálidas, campamentos de temporada |
+| 3 estaciones | -5°C a +10°C | El más versátil, sirve casi siempre |
+| Invierno | -10°C o menos | Montaña, nieve, frío extremo |
 
 **Por forma:**
-- **Rectangular:** Más espacio, menos eficiente térmicamente, se puede abrir como cobija
-- **Momia:** Ajustado al cuerpo, más caliente, más liviano para mochileros
-- **Semi-rectangular:** Intermedio entre ambos
+
+<div align="center">
+<img src="../../assets/images/especialidades/AR/campamento/tipos_de_sacos_de_dormir.png" alt="Tipos de sacos de dormir: rectangular, semi-rectangular, momia completa y momia ancha" width="600">
+</div>
 
 **Por relleno:**
-- **Sintético:** Más económico, funciona húmedo, más pesado, se seca rápido
-- **Plumas/plumón:** Más caliente, más liviano, más compacto, pero no funciona mojado, más caro
+- **Sintético:** Más barato, funciona aunque se moje, se seca rápido. Más pesado.
+- **Plumas/plumón:** Más caliente y liviano, pero NO funciona mojado y cuesta más.
 
-**AISLANTES (Colchonetas):**
+**El aislante (colchoneta):**
 
-**Necesarios porque:**
-- El frío del suelo enfría más que el aire
-- Aíslan del piso frío y húmedo
-- Dan comodidad
+"El frío del suelo te enfría más que el aire", explica tu consejero. "Sin aislante, tu saco de dormir no sirve de nada."
 
-**Tipos:**
-- **Espuma (foam):** Económicos, livianos, no se pinchan, menos cómodos
-- **Inflables:** Muy cómodos, compactos, pueden pincharse, más caros
-- **Auto-inflables:** Combinación de ambos, buen balance
+| Tipo | Ventaja | Desventaja |
+|------|---------|------------|
+| Espuma (foam) | Barata, no se pincha, liviana | Menos cómoda |
+| Inflable | Muy cómoda, compacta | Puede pincharse, más cara |
+| Auto-inflable | Buen balance | Precio intermedio |
 
-**OTROS EQUIPOS:**
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:1.5rem 0;">
+<div style="flex:1 1 200px; max-width:250px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Isomatten_klassisch.jpg" alt="Colchoneta de espuma" style="width:200px; height:auto; margin:0 auto 8px; border:none; border-radius:6px;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Espuma (foam)</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Económica y confiable. No se pincha.</span>
+</div>
+<div style="flex:1 1 200px; max-width:250px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Isomatten_selbstaufblasend.jpg" alt="Colchoneta auto-inflable" style="width:200px; height:auto; margin:0 auto 8px; border:none; border-radius:6px;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Auto-inflable</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Balance entre comodidad y precio.</span>
+</div>
+</div>
+<p style="text-align:center; font-size:0.8rem; color:var(--text-muted); margin-top:-8px;"><em>CC BY-SA 4.0, Superbass</em></p>
 
-- **Hamacas de camping:** Para zonas boscosas, con mosquitero y techo
-- **Cots (catres):** Elevados del suelo, buenos para campamentos base
-- **Bivvy bag:** Funda impermeable para dormir sin carpa (emergencias)
-
-**ACCESORIOS:**
-- Liner (sábana interna): suma 5-10°C de calor, mantiene limpio el saco
-- Almohada inflable o de camping
-- Sábana térmica de emergencia
-
-**CÓMO ELEGIR:**
-
-1. **Conoce el clima:** Revisa temperatura mínima esperada
-2. **Agrega margen:** Si dice -5°C, planea para -10°C
-3. **Considera humedad:** Sintético es mejor si hay lluvia
-4. **Peso vs comodidad:** ¿Lo llevas en mochila o en auto?
-5. **Presupuesto:** Sintético es más económico para empezar
+**Cómo elegir:** Revisa la temperatura mínima esperada y agrega margen. Si el pronóstico dice 0°C, lleva equipo para -5°C. Si va a llover, sintético es mejor opción.
 
 ---
 
-### 4. Mencionar los objetos personales necesarios para un campamento de fin de semana
+### Tu lista de equipo
 
-**Respuesta:**
+*(Requisito 4)*
 
-**LISTA DE OBJETOS PERSONALES (2 noches):**
+> Ya armaste una lista básica en [Arte de Acampar](arte_de_acampar.md#armar-las-listas-de-equipo). Ahora la refinamos para un fin de semana completo.
 
-**PARA DORMIR:**
-- Saco de dormir apropiado
-- Aislante o colchoneta
-- Almohada (o usa ropa enrollada)
-- Carpa personal (si no hay compartida)
+Tu consejero reparte una hoja con la lista organizada:
 
-**ROPA:**
-- 2-3 mudas completas
-- Ropa extra de abrigo (sudadera/chaqueta)
-- Ropa de lluvia (impermeable)
-- Calcetines extras (2-3 pares)
-- Ropa interior
-- Gorro y guantes (si hace frío)
-- Calzado cerrado + sandalias para campamento
-- Pijama o ropa para dormir
+**Para dormir:**
 
-**HIGIENE:**
-- Cepillo y pasta de dientes
-- Jabón biodegradable
-- Toalla de secado rápido
-- Papel higiénico (en bolsa plástica)
-- Desodorante
-- Peine/cepillo
-- Protector solar
-- Repelente de insectos
+| Artículo | Por qué |
+|----------|---------|
+| Saco de dormir apropiado | Según temperatura esperada |
+| Aislante/colchoneta | Aísla del frío del suelo |
+| Almohada pequeña (o ropa enrollada) | Comodidad |
 
-**UTENSILIOS:**
-- Plato irrompible
-- Taza o vaso
-- Cubiertos
-- Cantimplora o botella de agua
+**Ropa (para 2 noches):**
 
-**HERRAMIENTAS:**
-- Linterna o lámpara frontal con pilas extra
-- Navaja o cuchillo en funda
-- Silbato
-- Fósforos o encendedor (en bolsa impermeable)
+| Artículo | Cantidad |
+|----------|----------|
+| Mudas completas | 2-3 |
+| Abrigo extra (sudadera/chaqueta) | 1 |
+| Impermeable | 1 |
+| Calcetines extras | 2-3 pares |
+| Ropa para dormir (limpia, seca) | 1 muda |
+| Calzado cerrado + sandalias | 1+1 |
+| Gorro y guantes (si hace frío) | 1 |
 
-**DOCUMENTOS:**
-- Identificación
-- Tarjeta de seguro médico
-- Información de contactos de emergencia
-- Dinero en efectivo (pequeña cantidad)
+**Higiene, herramientas, documentos y devocional:** misma lista que en Arte de Acampar, más jabón biodegradable extra, gel antibacterial y bolsas plásticas de sobra.
 
-**DEVOCIONAL:**
-- Biblia
-- Libreta de Escuela Sabática
-- Lápiz y libreta pequeña
-
-**OTROS:**
-- Bolsas plásticas (para basura, ropa mojada, etc.)
-- Mochila pequeña para excursiones
-- Medicamentos personales (si los necesitas)
-
-**OPCIONAL PERO ÚTIL:**
-- Cuerda pequeña (tender ropa)
-- Silla de camping plegable
-- Almohada
-- Libro para tiempo libre
-- Binoculares
-- Cámara
+"Revisen todo el jueves antes de salir. Si falta algo, todavía hay tiempo", dice tu consejero.
 
 ---
 
-### 5. Planificar y participar de un campamento de fin de semana, de por lo menos dos noches
+### Ropa para dormir y mantenerse caliente
 
-**Respuesta:**
+*(Requisito 12)*
 
-**[PRÁCTICA REQUERIDA]**
-Debes participar en un campamento real de viernes a domingo (2 noches).
+"Una cosa que nadie les dice hasta que la sufren", dice tu consejero: "la ropa que usaste en el día NO es la ropa para dormir. La ropa del día está sudada, y la humedad te enfría."
 
-**PLANIFICACIÓN PREVIA:**
+**Qué usar para dormir:**
 
-**1-2 semanas antes:**
-- Confirma fecha y lugar
-- Revisa pronóstico del tiempo
-- Prepara lista de equipo (requisito 4)
-- Consigue o verifica tu equipo
-- Informa a tus padres del itinerario
+| Clima | Ropa |
+|-------|------|
+| Templado/cálido | Camiseta de algodón, pantalón liviano, calcetines limpios |
+| Frío | Capa base térmica completa, manga larga, calcetines de lana, gorro |
 
-**1 semana antes:**
-- Planifica menú de comidas
-- Compra alimentos no perecederos
-- Revisa que tu carpa esté completa
-- Prueba tu equipo (arma la carpa en casa)
+**Qué NO usar:** ropa del día (sudada), ropa muy apretada (corta circulación), ropa mojada, zapatos dentro del saco.
 
-**Día antes:**
-- Empaca todo según lista
-- Compra alimentos frescos
-- Prepara mochila
-- Carga linterna/celular
+**Cómo mantenerse caliente por la noche:**
 
-**ESTRUCTURA DEL CAMPAMENTO:**
-
-**Viernes (llegada):**
-- Tarde: Llegada al campamento
-- Armar campamento grupal
-- Armar tu carpa personal
-- Organizar área de fogata
-- Cena
-- Fogata y devocional
-- Dormir
-
-**Sábado (día completo):**
-- Desayuno
-- Devocional matutino
-- Escuela Sabática al aire libre
-- Culto divino
-- Almuerzo
-- Caminata o actividades en naturaleza
-- Tiempo personal
-- Cena
-- Fogata sabática
-- Dormir
-
-**Domingo (salida):**
-- Desayuno
-- Devoción matutina
-- Desarmar campamento
-- Limpieza del área
-- Inspección final (No Dejar Rastro)
-- Regreso a casa
-
-**RESPONSABILIDADES DURANTE:**
-- Mantén tu área ordenada
-- Participa en preparación de comidas
-- Ayuda con tareas grupales
-- Practica habilidades de campamento
-- Respeta horarios del grupo
-- Cuida la naturaleza
-
-**AL REGRESAR:**
-- Limpia y seca tu equipo
-- Guarda todo correctamente
-- Escribe reflexión de lo aprendido
-- Comparte fotos con el club
+1. **Come bien antes de dormir** - una cena caliente genera calor corporal. Los carbohidratos ayudan.
+2. **Ve al baño** - mantener la vejiga llena gasta energía en calentarla.
+3. **Haz ejercicio ligero** - 20 sentadillas antes de meterte al saco. Genera calor sin sudar.
+4. **Afloja tu saco 30 minutos antes** - se esponja y aísla mejor.
+5. **Cierra bien el saco** - ajusta el cordón de la cabeza. Sin corrientes de aire.
+6. **Botella de agua caliente** - envuélvela en un calcetín y ponla a tus pies.
+7. **No respires dentro del saco** - tu aliento crea humedad, y la humedad enfría.
+8. **Si tienes frío en la noche** - come un snack calórico (chocolate, frutos secos). Tu cuerpo genera calor al digerir.
 
 ---
 
-### 6. Saber armar una carpa. Prestar atención a las normas de prevención de incendios después de armar la carpa
+## Fase 2 - Habilidades que necesitas
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar que puedes armar una carpa correctamente.
-
-**PASOS PARA ARMAR UNA CARPA:**
-
-1. **Elige el lugar:**
-   - Terreno plano y seco
-   - Sin piedras, palos, o raíces
-   - Ligeramente elevado (drena agua)
-   - Lejos de árboles con ramas muertas
-
-2. **Prepara el terreno:**
-   - Quita piedras pequeñas y objetos punzantes
-   - Limpia el área del tamaño de la carpa
-
-3. **Extiende la lona base (footprint):**
-   - Del tamaño de la carpa o menor
-   - Protege el piso de humedad
-
-4. **Extiende la carpa:**
-   - Saca todo de la bolsa
-   - Identifica partes: carpa, varillas, estacas, techo
-   - Coloca carpa sobre la lona
-
-5. **Arma las varillas:**
-   - Ensambla los postes/varillas
-   - Insértalas en fundas o clips
-   - Levanta arqueando las varillas
-
-6. **Estaquea:**
-   - Comienza con esquinas opuestas
-   - Estacas a 45° alejándose de la carpa
-   - Tensa uniformemente (ni flojo ni muy apretado)
-
-7. **Coloca el sobretecho (rainfly):**
-   - Cubre la carpa completamente
-   - Debe quedar separado (ventilación)
-   - Asegura con clips
-   - Tensa los vientos
-
-8. **Ajustes finales:**
-   - Verifica tensión uniforme
-   - Ajusta estacas si es necesario
-   - Prueba abrir/cerrar puerta
-   - Verifica ventilación
-
-**NORMAS DE PREVENCIÓN DE INCENDIOS:**
-
-**AL ARMAR LA CARPA:**
-
-1. **Distancia de fogatas:**
-   - Mínimo 5 metros de donde harás fogata
-   - Nunca a favor del viento de la fogata
-   - Si cambia el viento, mueve la carpa o la fogata
-
-2. **Distancia de cocina:**
-   - Cocina fuera de la carpa, NUNCA adentro
-   - Mínimo 2-3 metros de la entrada
-   - Área de cocina en zona sin techo
-
-3. **Vegetación:**
-   - Lejos de arbustos secos o pasto alto
-   - No bajo árboles con hojas/ramas secas
-   - Área alrededor despejada de material inflamable
-
-4. **Dentro de la carpa:**
-   - NUNCA velas, linternas de gas o fuego
-   - Solo linternas LED o a pilas
-   - No cocines dentro (riesgo de fuego y monóxido de carbono)
-   - No guardes combustibles dentro
-
-5. **Ventilación:**
-   - Mantén ventanas/puertas abiertas si usas estufa cerca
-   - Nunca selles completamente la carpa con estufa funcionando
-
-6. **Salidas de emergencia:**
-   - Conoce dónde está cada salida
-   - No bloquees puertas con equipo
-   - Ten linterna accesible de noche
-
-7. **Materiales inflamables:**
-   - Guarda fósforos y encendedores en recipiente metálico
-   - Combustibles lejos de carpas
-   - Aerosoles lejos de calor
-
-**EN CASO DE EMERGENCIA:**
-- Sal inmediatamente
-- Alertaalgupo
-- No intentes salvar equipos, salva vidas
+*El consejero dedica dos reuniones a practicar habilidades. "En el campo no hay segunda oportunidad. Lo que aprendan ahora les va a servir de verdad."*
 
 ---
 
-### 7. Conocer y practicar los principios de higiene en un campamento, ya sea en un campamento estable o en un campamento rústico
+### Los 7 principios de No Dejar Rastro
 
-**Respuesta:**
+*(Requisito 1)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
+> Ya conoces la idea general de [No Dejar Rastro](arte_de_acampar.md#no-dejar-rastro). Ahora aprenderás los 7 principios formales del programa, creado por NOLS y el Servicio Forestal de Estados Unidos.
 
-**HIGIENE PERSONAL:**
+Tu consejero escribe los 7 principios en una pizarra:
 
-1. **Lavado de manos:**
-   - Antes de cocinar o comer
-   - Después de ir al baño
-   - Después de tocar basura
-   - Usa jabón biodegradable y agua
-   - Si no hay agua: gel antibacterial
+1. **Planifica y prepárate** - Conoce el área, lleva lo necesario, empaca para llevarte tu basura.
+2. **Viaja y acampa en superficies durables** - Senderos establecidos, sitios ya usados. No crees caminos nuevos.
+3. **Dispón adecuadamente los desechos** - "Lo que llevas, lo regresas." Desechos humanos: hoyo de 15-20 cm, a 60m del agua.
+4. **Deja lo que encuentres** - No arranques plantas, no lleves piedras ni conchas. Toma solo fotos.
+5. **Minimiza el impacto de fogatas** - Usa estufa cuando puedas. Si haces fogata, quema todo hasta cenizas y apaga completamente.
+6. **Respeta la vida silvestre** - Observa desde lejos, no alimentes animales, protege tu comida.
+7. **Sé considerado con otros visitantes** - Ruido bajo, respeta otros campistas, deja los mejores lugares para quienes vienen después.
 
-2. **Baño diario:**
-   - Usa lago/río si está permitido (lejos de donde se saca agua)
-   - O usa balde con agua y jabón biodegradable
-   - Báñate lejos de fuentes de agua (60 metros mínimo)
-   - Agua jabonosa: entiérrala o échalatejo de corrientes de agua
+"Estos principios no son reglas que alguien inventó porque sí", explica tu consejero. "Nacieron porque áreas naturales se estaban destruyendo por visitantes descuidados."
 
-3. **Cuidado dental:**
-   - Cepilla dientes después de comidas
-   - Escupe pasta lejos de fuentes de agua
-   - Mantén cepillo limpio en bolsa
-
-4. **Ropa:**
-   - Cambia ropa interior diariamente
-   - Cambia calcetines (previene hongos y ampollas)
-   - Ropa sudada: lava o al menos seca al sol
-   - Usa ropa limpia para dormir
-
-5. **Pies:**
-   - Lava y seca bien entre los dedos
-   - Cambia calcetines si se mojan
-   - Ventila zapatos por la noche
-   - Revisa ampollas diariamente
-
-**HIGIENE DEL CAMPAMENTO:**
-
-1. **Área de cocina:**
-   - Lejos de zona de dormir (50 metros)
-   - Lava platos inmediatamente después de comer
-   - Agua de lavar platos: filtra restos, deséchala lejos
-   - Superficie de cocina limpia antes y después
-
-2. **Manejo de alimentos:**
-   - Alimentos crudos separados de cocidos
-   - Refrigera alimentos perecederos
-   - No dejes comida expuesta (atrae insectos y animales)
-   - Desecha comida descompuesta inmediatamente
-
-3. **Manejo de basura:**
-   - Separa en bolsas: orgánica, reciclable, no reciclable
-   - Cierra bien las bolsas
-   - Cuelga basura si hay animales grandes
-   - Lleva TODA la basura contigo al salir
-
-4. **Agua potable:**
-   - Identifica fuente de agua potable
-   - Si no es segura: hierve 3 minutos, o usa filtro/pastillas
-   - Toma agua de corriente arriba, lava corriente abajo
-   - Nunca contamines fuentes de agua
-
-**SANITARIOS:**
-
-**Si hay baños:**
-- Usa los baños designados
-- Mantén limpio
-- Reporta si necesita mantenimiento
-
-**Sin baños (campamento rústico):**
-
-1. **Para orinar:**
-   - Lejos de fuentes de agua (60 metros)
-   - Dispersa en diferentes lugares
-   - Orina en rocas o tierra (se descompone rápido)
-
-2. **Para defecar:**
-   - Cava hueco de 15-20 cm de profundidad
-   - A 60 metros de agua, senderos, campamento
-   - Después: entierra todo y papel (o lleva papel en bolsa)
-   - Marca el lugar para no reutilizar
-   - Lava manos con jabón
-
-**PREVENCIÓN DE ENFERMEDADES:**
-
-- Protege comida de moscas e insectos
-- No compartas utensilios personales
-- Mantén heridas limpias y vendadas
-- Si alguien enferma: aíslalo un poco (evitar contagio)
-- Botiquín de primeros auxilios accesible
+> **Para profundizar:** El [Manual No Deje Rastro](https://drive.google.com/file/d/1g8IEtGrYmk0_mk2vqykZfZ24QE7lniC_/view) de Sendero de Chile (NOLS/CONAMA) desarrolla cada principio en detalle.
 
 ---
 
-### 8. Demostrar la capacidad de utilizar correctamente el cuchillo y el hacha. Conocer diez reglas de seguridad para el uso de estas herramientas
+### Qué hacer si te pierdes
 
-**Respuesta:**
+*(Requisito 2)*
 
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar físicamente el uso correcto de estas herramientas.
+> Ya aprendiste el protocolo de 8 pasos en [Arte de Acampar](arte_de_acampar.md#qué-hacer-si-te-pierdes). Acá lo repasamos con el acrónimo S.T.O.P. que es más fácil de recordar bajo presión.
 
-**DIEZ REGLAS DE SEGURIDAD:**
+Tu consejero pregunta: "¿Se acuerdan qué hacer si se pierden?" Varios levantan la mano. "Bien. Ahora se los voy a enseñar de una forma que nunca van a olvidar."
 
-**1. CÍRCULO DE SEGURIDAD:**
-- Extiende brazo con herramienta
-- Gira 360° - nadie debe estar dentro
-- Si alguien se acerca, detén el trabajo
+**S.T.O.P.**
 
-**2. CONDICIÓN DE LA HERRAMIENTA:**
-- Herramienta afilada es más segura (no resbala)
-- Sin astillas en mango
-- Cabeza bien asegurada al mango
-- Sin óxido excesivo
+| Letra | Significado | Acción |
+|-------|-------------|--------|
+| **S** | Sit (Siéntate) | Para de moverte. Siéntate. Caminar más solo te aleja. |
+| **T** | Think (Piensa) | Calma. Respira. ¿Cuándo te perdiste? ¿Qué recuerdas? |
+| **O** | Observe (Observa) | Mira alrededor. Escucha. Busca algo familiar. |
+| **P** | Plan (Planea) | Quédate donde estás. Señaliza. Busca refugio. |
 
-**3. DIRECCIÓN DE CORTE:**
-- SIEMPRE corta alejándote de tu cuerpo
-- Nunca hacia piernas, pies, o manos
-- Pies separados y firmes (nunca juntos)
+Después de STOP: **señala tu posición** (3 silbidos = emergencia), **busca refugio**, **conserva energía**, y **hazte escuchar y ver** si escuchas búsqueda.
 
-**4. SUPERFICIE DE TRABAJO:**
-- Superficie estable y firme
-- A nivel apropiado (no en el aire)
-- Área despejada de obstáculos
-
-**5. TRANSPORTE:**
-- Cuchillo: en funda, al costado del cuerpo
-- Hacha: cabeza abajo, mano en cuello (cerca de la cabeza), hoja alejada del cuerpo
-- Al entregar: por el mango, nunca lanzar
-
-**6. ATENCIÓN COMPLETA:**
-- No uses herramientas si estás cansado
-- No converses mientras cortas
-- Concentración total en la tarea
-- No apures el trabajo
-
-**7. ALMACENAMIENTO:**
-- Cuchillo: siempre en funda cuando no se usa
-- Hacha: clavar en tronco O guardar en funda
-- NUNCA dejar tiradas en el suelo
-- Lugar seco para prevenir óxido
-
-**8. POSICIÓN DEL CUERPO:**
-- Rodillas dobladas, espalda recta
-- Balance estable
-- Cuchillo: mano libre detrás de la hoja
-- Hacha: agarre firme con ambas manos
-
-**9. ZONA PROTEGIDA:**
-- Usa zapatos cerrados (nunca sandalias)
-- Pantalones largos
-- Sin personas caminando por tu área de trabajo
-
-**10. RESPETO POR LA HERRAMIENTA:**
-- No es juguete
-- Úsala solo para su propósito
-- Límpiala después de usar
-- Repórtala si se daña
-
-**USO CORRECTO DEL CUCHILLO:**
-
-**Agarrar:**
-- Mano completa en el mango
-- Pulgar de un lado, cuatro dedos del otro
-- Agarre firme pero no tenso
-
-**Cortar madera:**
-- Apoya rama en superficie firme
-- Corta en ángulo, no directo
-- Usa peso del cuchillo, no fuerza bruta
-- Cortes pequeños controlados
-
-**Hacer virutas:**
-- Sujeta palo firme con una mano
-- Corta de arriba hacia abajo, alejándote
-- Virutas delgadas para yesca
-
-**USO CORRECTO DEL HACHA:**
-
-**Agarrar:**
-- Mano dominante al final del mango
-- Mano no dominante cerca de la cabeza
-- Al bajar, mano no dominante resbala hacia abajo
-
-**Cortar leña:**
-- Leña sobre tronco base estable
-- Pies firmes, separados
-- Balanceo controlado
-- Deja que el peso del hacha haga el trabajo
-- No cortes hacia tus piernas
-
-**Partir leña:**
-- Golpe vertical en centro del leño
-- Si se atora: levanta hacha y leño juntos, golpea de nuevo
-- Nunca uses otra hacha para golpear el hacha atascada
+**Prevención:** sistema de compañeros SIEMPRE, silbato en el cuello, avisa si te alejas.
 
 ---
 
-### 9. Fogatas
+### El cuchillo y el hacha
 
-**a) Demostrar la habilidad para escoger el lugar y preparar una fogata**
+*(Requisito 8)* **[PRÁCTICA REQUERIDA]**
 
-**Respuesta:**
+> Ya aprendiste a usar el cuchillo en [Arte de Acampar](arte_de_acampar.md#el-cuchillo-y-la-leña). Ahora sumamos el hacha y aprendemos las 10 reglas de seguridad formales.
 
-**[PRÁCTICA REQUERIDA]**
+"Hoy vamos a practicar con el hacha", dice tu consejero. "Es una herramienta seria. Merece respeto."
 
-**ESCOGER EL LUGAR:**
+**Las 10 reglas de seguridad:**
 
-**Ubicación segura:**
-- Superficie no inflamable (tierra, arena, roca)
-- Sin pasto seco o vegetación cerca
-- Protegida del viento
-- Lejos de carpas (mínimo 5 metros)
-- Lejos de árboles y ramas bajas
-- Con buena ventilación (no en cueva cerrada)
+1. **Círculo de seguridad** - Extiende brazo con herramienta, gira 360°. Nadie adentro.
+2. **Condición de la herramienta** - Afilada (no resbala), mango sin astillas, cabeza firme.
+3. **Dirección de corte** - SIEMPRE alejándote del cuerpo. Nunca hacia piernas o pies.
+4. **Superficie de trabajo** - Estable, firme, despejada. Nunca en el aire.
+5. **Transporte** - Cuchillo en funda. Hacha: cabeza abajo, mano cerca de la cabeza, filo alejado.
+6. **Atención completa** - No converses mientras cortas. No trabajes cansado.
+7. **Almacenamiento** - Cuchillo en funda. Hacha clavada en tronco o en funda. NUNCA en el suelo.
+8. **Posición del cuerpo** - Pies separados, rodillas flexionadas, balance estable.
+9. **Zona protegida** - Zapatos cerrados, pantalones largos, nadie caminando por tu área.
+10. **Respeto por la herramienta** - No es juguete. Úsala solo para su propósito. Limpia después de usar.
 
-**Área designada:**
-- Usa círculo de fuego existente si hay
-- Si no hay, crea nueva fogata solo si está permitido
-- En parques nacionales: solo en áreas autorizadas
+**Usar el hacha:**
 
-**PREPARAR LA FOGATA:**
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Splitting_wood_in_Tenna.jpg" alt="Persona partiendo leña con hacha" width="450">
+<p><em>Postura correcta: pies separados, espalda recta, leña sobre tronco base. (CC BY-SA 4.0, Jay.Jarosz)</em></p>
+</div>
 
-**1. Limpiar área:**
-- Radio de 2-3 metros alrededor
-- Raspa hasta tierra mineral
-- Quita hojas secas, ramas, pasto
-- Ten agua o arena cerca para emergencias
+Tu consejero demuestra:
+- **Agarre:** Mano dominante al final del mango, la otra cerca de la cabeza. Al bajar, la mano de arriba resbala hacia abajo.
+- **Cortar leña:** Siempre sobre tronco base estable. Pies separados. Deja que el peso del hacha haga el trabajo.
+- **Partir leña:** Golpe vertical en el centro. Si se atora, levanta hacha y leña juntos, golpea de nuevo. NUNCA uses otra hacha para golpear la que está atascada.
 
-**2. Crear círculo:**
-- Círculo de piedras 30-40 cm de diámetro
-- NO uses piedras de río (explotan con calor)
-- Piedras del tamaño de tu puño
-- Deja espacio entre piedras (flujo de aire)
+---
 
-**3. Reunir leña:**
-- **Yesca:** Material finísimo (corteza, hojas secas, virutas)
-- **Combustible:** Ramitas gruesas como lápiz
-- **Leña:** Ramas gruesas como tu muñeca
-- Todo SECO - nunca cortes árboles vivos
+### Cómo usar los fósforos
 
-**4. Organizar leña:**
-- Ordena por tamaño
-- Mantenla seca bajo techo si amenaza lluvia
-- Ten más de lo que crees necesitar
+*(Requisito 9c)*
 
-**5. Construir estructura:**
-Hay varios tipos (ver requisito 9c y 9d)
+"Parece obvio, pero la mayoría de los incendios accidentales en campamento empiezan por mal uso de fósforos", dice tu consejero.
 
-**b) Conocer las reglas de seguridad al manipular el fuego**
+**Almacenamiento:** recipiente impermeable, lejos de calor, separados de combustibles.
 
-**Respuesta:**
-
-**REGLAS DE SEGURIDAD:**
-
-**ANTES DE ENCENDER:**
-1. Verifica que esté permitido hacer fogatas
-2. Revisa dirección del viento
-3. Ten agua o arena para apagar
-4. Asegura que todos conozcan las reglas
-5. Adulto presente siempre
-
-**AL ENCENDER:**
-6. Usa solo un fósforo (demuestra preparación)
-7. Protege la llama inicial del viento
-8. Agrega combustible gradualmente
-9. Mantén fogata pequeña y controlada
-
-**MIENTRAS ESTÁ ENCENDIDA:**
-10. NUNCA dejes fuego sin supervisión
-11. No agregues plástico, latas, o basura
-12. No rocíes líquidos inflamables
-13. Mantén agua cerca siempre
-14. Controla chispas volando
-15. No uses fogata como basureo
-16. Mantén niños a distancia segura
-17. No atravieses ni saltes sobre el fuego
-
-**AL APAGAR:**
-18. Apaga completamente antes de dormir o salir
-19. Rocía con agua, revuelve, más agua
-20. Cenizas deben estar frías al tacto
-21. Si no puedes poner las manos en las cenizas, no está apagado
-22. Esparce cenizas frías lejos del campamento
-
-**EMERGENCIAS:**
-23. Si ropa prende fuego: PARA, TÍRATE, RUEDA
-24. Si fogata se sale de control: agua inmediatamente
-25. Si no puedes controlarlo: evacúa y pide ayuda
-
-**c) Saber cómo usar los fósforos**
-
-**Respuesta:**
-
-**USO CORRECTO DE FÓSFOROS:**
-
-**Almacenamiento:**
-- En recipiente impermeable
-- Lejos de calor y humedad
-- Separados de combustibles
-- Lugar accesible pero seguro
-
-**Tipos de fósforos:**
-- **Normales:** Prenden en su caja
-- **De cualquier superficie:** Prenden en cualquier lugar áspero
-- **A prueba de agua:** Funcionan mojados
-- **A prueba de viento:** Llama más fuerte
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Strike_match_%284791778263%29.jpg" alt="Fósforo encendido" width="350">
+<p><em>Raspa siempre alejándote del cuerpo. (CC BY 2.0, Emilian Robert Vicol)</em></p>
+</div>
 
 **Técnica correcta:**
 
-1. **Preparación:**
-   - Ten yesca lista ANTES de sacar fósforo
-   - Protege del viento con tu cuerpo
-   - Arrodíllate cerca de la fogata
+1. Ten la yesca lista ANTES de sacar el fósforo
+2. Protege del viento con tu cuerpo
+3. Cierra la caja antes de raspar
+4. Raspa ALEJÁNDOTE de tu cuerpo
+5. Inclina el fósforo para que la llama suba por la madera
+6. Acerca rápido a la yesca, protege la llama con la mano en copa
+7. Para apagarlo: sacude, toca para verificar que esté frío, descarta en agua o área segura
 
-2. **Sacar el fósforo:**
-   - Cierra la caja antes de raspar
-   - Toma UN fósforo firmemente
-
-3. **Encender:**
-   - Raspa ALEJÁNDOTE de tu cuerpo
-   - Mantén mano firme
-   - Inclina para que llama suba por la madera
-
-4. **Aplicar a yesca:**
-   - Acerca rápido pero con cuidado a yesca
-   - Protege llama con mano en copa
-   - Espera que yesca prenda bien
-
-5. **Desechar:**
-   - Sacude el fósforo para apagarlo
-   - Tócalo para verificar que está frío
-   - Descártalo en área segura o agua
-
-**Consejos:**
-- Practica antes del campamento
-- Ten varios fósforos disponibles
-- Si hay mucho viento: usa más yesca
-- Fósforos mojados: seca la cabeza en tu cabello (aceite natural repele agua)
-
-**d) Hacer una fogata y encenderla usando solo un fósforo y materiales naturales**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar que puedes encender fogata con un solo fósforo.
-
-**PREPARACIÓN ES CLAVE:**
-
-**1. Recolecta materiales (TODOS secos):**
-
-**Yesca (iniciador) - puño completo:**
-- Corteza de árbol seca (cedro, abedul)
-- Agujas de pino secas
-- Pasto seco
-- Hojas muertas (crujientes, no mohosas)
-- Virutas de madera
-- Pelusa de bolsillos/ropa
-
-**Combustible (del grosor de fósforo a dedo) - dos puños:**
-- Ramitas pequeñas secas
-- Palos delgados
-
-**Leña (del grosor de muñeca) - 10-15 piezas:**
-- Ramas caídas secas
-- Corta a 30-40 cm de largo
-
-**2. Prueba que todo esté seco:**
-- Si se rompe con "crack", está seco
-- Si se dobla, está húmedo (no sirve)
-
-**3. Elige tipo de fogata:**
-
-**FOGATA TIPI (Mejor para un fósforo):**
-
-a) Coloca puño de yesca en centro
-b) Arma tipi pequeño con combustible alrededor
-   - Deja puerta para meter fósforo
-   - Palos inclinados hacia centro
-c) Arma tipi más grande con leña alrededor
-   - Mantén espacios para flujo de aire
-   - Reserva 2-3 piezas para agregar después
-
-**4. Enciende:**
-- Protege del viento
-- Enciende fósforo correctamente
-- Mete por "puerta" del tipi
-- Aplica a yesca en la base
-- Mantén hasta que yesca prenda bien
-- Retira mano lentamente
-
-**5. Alimenta:**
-- Cuando combustible arda bien, agrega leña gradualmente
-- No agregues mucho de golpe (apaga el fuego)
-- Sopla suavemente si es necesario (aumenta oxígeno)
-
-**CONSEJOS PARA ÉXITO:**
-- Más yesca es mejor (abundancia)
-- Todo MUY seco
-- No apures - prepara todo primero
-- Protege del viento
-- Si falla: analiza qué salió mal, mejora técnica
-
-**e) Mostrar cómo proteger la leña que será usada en las fogatas; en caso de lluvia o mal tiempo**
-
-**Respuesta:**
-
-**MÉTODOS PARA PROTEGER LEÑA:**
-
-**1. BAJO LONA O TECHO:**
-- Extiende lona sobre ramas o entre árboles
-- Crea techo inclinado (escurre agua)
-- Leña apilada debajo
-- Elevada del suelo (sobre ramas o piedras)
-
-**2. CUBRIR PILA:**
-- Apila leña
-- Cubre con lona impermeable
-- Asegura lona con piedras o estacas
-- Deja espacio abajo para ventilación
-
-**3. REFUGIO NATURAL:**
-- Bajo árbol con follaje denso (protección parcial)
-- Bajo saliente de roca
-- Cueva pequeña
-- Lado protegido de roca grande
-
-**4. DENTRO DE CARPA DE EQUIPO:**
-- Si tienes carpa extra o vestíbulo
-- Leña en bolsas para mantener limpio
-- Ventila bien
-
-**5. CONSTRUCCIÓN DE REFUGIO:**
-- Apila leña formando casita
-- Leña grande afuera, pequeña adentro
-- Cubre techo con ramas con hojas
-- Centro permanece seco
-
-**6. APILADO INTELIGENTE:**
-- Leña más grande abajo (sacrificable)
-- Leña seca pequeña arriba y centro
-- Extremos de leña apuntando hacia adentro
-- Corteza arriba (repele agua)
-
-**SI LA LEÑA YA ESTÁ MOJADA:**
-
-- Corta la capa externa mojada
-- Centro generalmente está seco
-- Haz virutas de madera seca interna
-- Usa más yesca
-- Prepara abundante combustible pequeño
-- Ten paciencia - tomará más tiempo
-
-**PREVENCIÓN:**
-- Siempre cubre leña antes de lluvia
-- Recolecta cuando está seco
-- Mantén leña pequeña extra en bolsa plástica
-- Ten yesca en recipiente impermeable
+"Vamos a practicar ahora. Quiero que cada uno encienda una llama con un solo fósforo. Esto es preparación para lo que viene en el campamento."
 
 ---
 
-### 10. Preparar y comer el "pan al palo" en una de las comidas del campamento
+## Fase 3 - Viernes a domingo
 
-**Respuesta:**
+*Viernes por la tarde. Llegan al lugar. Las mochilas pesan más que la otra vez porque llevan más equipo. Pero también saben más. Tu consejero mira al grupo: "Esto es un campamento de verdad. Vamos."*
 
-**[PRÁCTICA REQUERIDA]**
-Debes preparar y comer pan al palo durante el campamento.
+---
 
-**PAN AL PALO (Stick bread / Bannock):**
+### Armar campamento
 
-**INGREDIENTES (porción individual):**
+*(Requisitos 5, 6)* **[PRÁCTICA REQUERIDA]**
+
+> Ya sabes [preparar terreno y armar carpa](arte_de_acampar.md#preparar-el-terreno). Ahora sumamos las normas de prevención de incendios después de armar.
+
+Arman las carpas. Tu consejero revisa cada una y luego señala algo que no cubrieron la vez pasada:
+
+**Prevención de incendios después de armar:**
+
+- **Distancia de fogata:** mínimo 5 metros. Nunca a favor del viento.
+- **Distancia de cocina:** cocina FUERA de la carpa, NUNCA adentro. Mínimo 2-3 metros.
+- **Dentro de la carpa:** NUNCA velas ni linternas de gas. Solo LED o pilas. No guardes combustibles.
+- **Salidas de emergencia:** no bloquees puertas con equipo. Linterna accesible de noche.
+
+"Si tu carpa prende fuego, SAL. No intentes salvar equipo. Sal y avisa al grupo."
+
+---
+
+### La fogata: un solo fósforo
+
+*(Requisitos 9a, 9b, 9d)* **[PRÁCTICA REQUERIDA]**
+
+> La preparación de lugar y leña la aprendiste en [Arte de Acampar](arte_de_acampar.md#la-fogata). Hoy viene el desafío: encender con un solo fósforo.
+
+Tu consejero se para frente al círculo de piedras limpio y dice: "Hoy cada uno va a encender una fogata. Con un solo fósforo. Si falla, analizan qué salió mal y vuelven a intentar."
+
+**Preparación (la clave del éxito):**
+
+1. Recolecta materiales SECOS. Prueba: si se rompe con "crack", está seco. Si se dobla, está húmedo.
+2. Organiza por tamaño: un puño de yesca, dos puños de combustible (grosor de fósforo a dedo), 10-15 piezas de leña (grosor de muñeca).
+
+**Materiales que sirven de yesca:**
+
+| Material | Dónde encontrarlo | Efectividad |
+|----------|-------------------|-------------|
+| Corteza seca (cedro, abedul) | Se pela de troncos caídos | Excelente |
+| Agujas de pino secas | Suelo del bosque | Buena |
+| Pasto seco | Campos, bordes de sendero | Buena |
+| Hojas secas crujientes | Suelo (no las mohosas) | Regular |
+| Virutas de madera | Las haces con cuchillo | Excelente |
+| Algodón (bolitas) | Llevar de casa | Excelente |
+| Papel seco (servilletas) | Llevar de casa | Buena |
+| Pelusa de bolsillos/secadora | Llevar de casa en bolsa | Excelente |
+| Algodón con vaselina | Preparar en casa | La mejor - arde 3-5 minutos |
+
+"El truco del algodón con vaselina es imbatible", dice tu consejero. "Prepárenlo en casa: bolitas de algodón embebidas en vaselina, guardadas en bolsa plástica. Arden aunque esté húmedo afuera."
+
+**Tipos de fogata:**
+
+El tipi es la que mejor funciona con un fósforo, pero hay otros tipos para distintos usos:
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:1.5rem 0;">
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Camp_Teepee_Fire.svg" alt="Fogata tipo tipi" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Tipi</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">La mejor para un fósforo. Calienta e ilumina.</span>
+</div>
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Camp_Log_Cabin_Fire.svg" alt="Fogata tipo cabaña" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Cabaña</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Brasas parejas. Ideal para cocinar.</span>
+</div>
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Camp_Star_Fire.svg" alt="Fogata tipo estrella" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Estrella</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Larga duración, poco mantenimiento.</span>
+</div>
+</div>
+<p style="text-align:center; font-size:0.8rem; color:var(--text-muted); margin-top:-8px;"><em>Dominio público, Jazzmanian. Más detalle en <a href="arte_de_acampar.md#la-fogata">Arte de Acampar</a>.</em></p>
+
+**Construir fogata tipo tipi (la que mejor funciona con un fósforo):**
+
+1. Puño de yesca en el centro
+2. Tipi pequeño de combustible alrededor - deja una "puerta" para meter el fósforo
+3. Tipi más grande de leña alrededor - deja espacios para flujo de aire
+
+**Encender:**
+
+1. Protege del viento
+2. Enciende el fósforo correctamente
+3. Mete por la "puerta" del tipi
+4. Aplica a la yesca en la base
+5. Mantén hasta que prenda bien
+6. Cuando el combustible arda, agrega leña gradualmente - no mucho de golpe
+
+"Más yesca es siempre mejor. Si en duda, agrega más yesca", dice tu consejero.
+
+**Reglas de seguridad del fuego:**
+- NUNCA sin supervisión
+- No agregues plástico ni basura
+- No rocíes líquidos inflamables
+- Ten agua cerca siempre
+- Para apagar: agua, revuelve, más agua. Si no puedes poner la mano en las cenizas, NO está apagado.
+
+---
+
+### Proteger la leña
+
+*(Requisito 9e)*
+
+Esa noche empieza a llover. Tu consejero señala la leña que quedó afuera: "¿Ven? Por eso siempre protegemos la leña ANTES de que llueva."
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Firewood_shed_in_winter_%28Unsplash%29.jpg" alt="Leña protegida bajo techo" width="450">
+<p><em>Leña apilada y protegida bajo techo - siempre seca y lista. (CC0, Ryan Graybill)</em></p>
+</div>
+
+**Métodos:**
+- **Lona inclinada** sobre ramas o entre árboles. Leña apilada debajo, elevada del suelo.
+- **Cubrir la pila** con lona impermeable, asegurada con piedras. Dejar ventilación abajo.
+- **Refugio natural** - bajo árbol con follaje denso, saliente de roca.
+- **Apilado inteligente** - leña grande abajo (sacrificable), seca arriba y al centro, corteza arriba (repele agua).
+
+**Si la leña ya está mojada:** corta la capa externa. El centro generalmente está seco. Haz virutas de la madera interna. Usa más yesca y ten paciencia.
+
+---
+
+### Higiene en campamento
+
+*(Requisito 7)* **[PRÁCTICA REQUERIDA]**
+
+A la mañana siguiente, tu consejero reúne al grupo antes del desayuno: "Estamos en el campo, no en la selva. La higiene no es opcional."
+
+**Higiene personal:**
+- **Manos:** lava antes de cocinar/comer, después del baño. Jabón biodegradable o gel antibacterial.
+- **Baño:** balde con agua y jabón, 60 metros de cualquier fuente de agua. Nunca directamente en río o lago.
+- **Dientes:** cepilla después de comidas. Escupe lejos de fuentes de agua.
+- **Pies:** lava y seca bien entre dedos. Cambia calcetines si se mojan. Ventila zapatos por la noche.
+- **Ropa:** cambia interior y calcetines diario. Ropa limpia para dormir.
+
+**Higiene del campamento:**
+- Cocina lejos de zona de dormir (50 metros)
+- Lava platos inmediatamente
+- No dejes comida expuesta
+- Agua potable: si no es segura, hierve 3 minutos o usa filtro/pastillas
+
+**Sanitarios en campamento rústico:**
+- Para orinar: lejos del agua (60m), dispersa en diferentes lugares
+- Para defecar: hoyo de 15-20 cm, a 60m de agua y campamento. Entierra todo. Lava manos.
+
+---
+
+### Pan al palo
+
+*(Requisito 10)* **[PRÁCTICA REQUERIDA]**
+
+La tarde del sábado. La fogata tiene buenas brasas. Tu consejero saca una bolsa de harina y sonríe: "Ahora viene lo mejor del campamento."
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:1.5rem 0;">
+<div style="flex:1 1 220px; max-width:280px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Stockbrot_Zubereitung.jpg" alt="Preparación de pan al palo" style="width:240px; height:auto; margin:0 auto 8px; border:none; border-radius:6px;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Preparación</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Masa enrollada en espiral alrededor del palo.</span>
+</div>
+<div style="flex:1 1 220px; max-width:280px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Twist_bread_made_during_a_Scouts_Camp.jpg" alt="Pan al palo en campamento scout" style="width:240px; height:auto; margin:0 auto 8px; border:none; border-radius:6px;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Cocción</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Sobre brasas, girando constantemente hasta dorar.</span>
+</div>
+</div>
+<p style="text-align:center; font-size:0.8rem; color:var(--text-muted); margin-top:-8px;"><em>CC BY-SA 4.0, Britta Beck / CC BY-SA 3.0, Nilox7</em></p>
+
+**Ingredientes (por persona):**
 - 1 taza de harina
 - 1 cucharadita de polvo para hornear
-- Pizca de sal
-- 1 cucharada de azúcar (opcional)
+- Pizca de sal, 1 cucharada de azúcar (opcional)
 - 2 cucharadas de aceite o mantequilla
 - ¼ taza de agua (aproximadamente)
 
-**PREPARACIÓN DE LA MASA:**
+**Preparar la masa:**
+1. Mezcla los secos en bolsa plástica con cierre
+2. Agrega aceite
+3. Agrega agua poco a poco hasta tener masa manejable - ni aguada ni seca
+4. Amasa en la bolsa 2-3 minutos
 
-1. Mezcla secos en bolsa plástica con cierre:
-   - Harina, polvo para hornear, sal, azúcar
+**Preparar el palo:**
+1. Corta rama VERDE (no seca) del grosor de tu pulgar, 60-90 cm
+2. Pela corteza de un extremo (30 cm) con cuchillo
+3. Deja madera lisa
 
-2. Agrega aceite o mantequilla
+**Cocinar:**
+1. Necesitas brasas rojas/naranjas, NO llamas altas
+2. Haz una serpiente de masa de 2-3 cm de grosor
+3. Envuelve en espiral alrededor del palo
+4. Mantén 20-30 cm sobre las brasas
+5. GIRA constantemente - se quema fácil
+6. 10-20 minutos hasta dorado
+7. Suena hueco al golpearlo = listo
 
-3. Agrega agua poco a poco mientras mezclas
-   - Hasta tener masa manejable
-   - No muy aguada, no muy seca
-   - Debe formar bola
+**Servir:** solo, con miel, con mermelada, con chocolate derretido dentro, o con mantequilla de maní.
 
-4. Amasa en la bolsa unos 2-3 minutos
-
-**PREPARAR EL PALO:**
-
-1. Corta rama verde (no seca) del grosor de tu pulgar
-   - 60-90 cm de largo
-   - Madera no tóxica (evita: adelfa, tejo)
-   - Buenos: sauce, abedul, arce
-
-2. Quita corteza de un extremo (30 cm)
-   - Pela con cuchillo
-   - Deja madera lisa
-
-3. Opcional: Talla punta para ensartar
-   - Facilita envolver masa
-
-**COCINAR:**
-
-1. Prepara fogata con buenas brasas
-   - No llamas altas
-   - Brasas rojas/naranjas
-
-2. Enrolla masa en palo:
-   - Serpiente de masa de 2-3 cm de grosor
-   - Envuelve en espiral alrededor del palo
-   - Aprieta para que adhiera
-   - Cubre 20-30 cm del palo
-
-3. Cocina sobre brasas (no sobre llamas):
-   - Mantén 20-30 cm sobre brasas
-   - Gira constantemente
-   - 10-20 minutos hasta dorado
-   - Suena hueco al golpearlo = listo
-
-4. Deja enfriar 2-3 minutos
-
-5. Gira y desliza para quitar del palo
-
-**SERVIR:**
-- Solo
-- Con miel, mermelada, o mantequilla
-- Con chocolate derretido dentro
-- Relleno con salchicha antes de envolver
-
-**VARIACIONES:**
-- Agregar canela y pasas a la masa
-- Queso rallado en la masa (versión salada)
-- Hierbas (romero, orégano)
-
-**CONSEJOS:**
-- Masa muy húmeda se cae
-- Masa muy seca se agrieta
-- Gira constantemente (se quema fácil)
-- Paciencia - no apresures
-- Exterior dorado, interior cocido
+"La primera vez siempre sale un poco quemada por fuera y cruda por dentro", dice tu consejero. "Paciencia. La segunda sale mejor."
 
 ---
 
-### 11. Describir el procedimiento adecuado para manejar y mantener los utensilios de cocina limpios
+### Lavar los utensilios
 
-**Respuesta:**
+*(Requisito 11)*
 
-**SISTEMA DE TRES BALDES:**
+Después de cada comida, tu consejero insiste: "Platos ahora. No después. Ahora."
 
-**1. BALDE DE LAVADO (agua caliente con jabón):**
-- Raspa restos de comida primero
-- Lava con estropajo/esponja
-- Remueve grasa y suciedad
+**El sistema de tres baldes:**
 
-**2. BALDE DE ENJUAGUE (agua limpia):**
-- Quita el jabón
-- Cambia agua frecuentemente
+| Balde | Contenido | Función |
+|-------|-----------|---------|
+| **1 - Lavado** | Agua caliente con jabón biodegradable | Raspa restos primero, luego frota con esponja |
+| **2 - Enjuague** | Agua limpia | Quita todo el jabón |
+| **3 - Desinfección** | Agua caliente (o con gotas de cloro) | Mata bacterias, sumerge 1-2 minutos |
 
-**3. BALDE DE DESINFECCIÓN (agua caliente):**
-- Mata bacterias
-- O agua con gotas de cloro
-- Deja sumergido 1-2 minutos
+**Orden de lavado:** vasos y tazas primero, platos, cubiertos, ollas al final.
 
-**4. SECADO:**
-- Escurre en rejilla o toalla limpia
-- Deja secar al aire y sol
-- O seca con toalla limpia
+**Agua residual:** filtra los restos sólidos (a la basura), lleva el agua 60 metros de cualquier fuente, esparce en área amplia.
 
-**PROCEDIMIENTO PASO A PASO:**
-
-**ANTES DE COCINAR:**
-- Verifica que ollas/sartenes estén limpios
-- Organiza estación de lavado
-- Ten agua caliente lista
-- Prepara jabón biodegradable
-
-**DURANTE LA COCINA:**
-- Lava utensilios mientras cocinas
-- No dejes acumular platos sucios
-- Tapa ollas para mantener limpias
-
-**DESPUÉS DE COMER:**
-
-1. **Inmediatamente** (no dejes secar la comida):
-   - Raspa restos a bolsa de basura
-   - O reserva para compostaje
-
-2. Calienta agua para lavar
-
-3. Lava en orden:
-   - Vasos y tazas primero
-   - Platos
-   - Cubiertos
-   - Ollas y sartenes al final
-
-4. Enjuaga completamente
-   - Sin residuo de jabón
-
-5. Desinfecta en agua caliente
-
-6. Escurre y seca
-
-7. Guarda en lugar limpio y seco
-   - Protegido de insectos
-   - En bolsa de malla o recipiente
-
-**AGUA RESIDUAL:**
-- Filtra restos sólidos
-- Desecha agua a 60 metros de fuentes
-- Esparce (no viertas en un solo lugar)
-- O cava hueco, vierte, tapa
-
-**CUIDADO ESPECIAL:**
-
-**Ollas negras (hollín):**
-- Normal que estén negras por fuera
-- Limpia bien por dentro
-- Jabón en exterior antes de usar (facilita limpieza después)
-
-**Tablas de cortar:**
-- Lava inmediatamente después de carnes crudas
-- Desinfecta bien
-- Seca completamente
-
-**Utensilios de madera:**
-- Lava con agua caliente
-- No remojes largotiempo
-- Seca bien (evita moho)
-
-**ALMACENAMIENTO EN CAMPAMENTO:**
-- Cuelga en bolsa de malla (ventila, se seca)
-- O en caja plástica con tapa
-- Lejos de la tierra
-- Protegido de animales
-
-**PREVENCIÓN:**
-- Lava inmediatamente (más fácil)
-- Agua caliente corta grasa
-- Jabón biodegradable (protege ambiente)
-- Enjuaga completamente (evita malestar estomacal)
+**Tip del consejero:** "Pon jabón en el exterior de las ollas ANTES de cocinar sobre fuego. Después el hollín sale con facilidad."
 
 ---
 
-### 12. Describir la ropa adecuada para dormir y cómo mantenerse caliente durante la noche
+### Lección espiritual de la naturaleza
 
-**Respuesta:**
+*(Requisito 13)* **[PRÁCTICA REQUERIDA]**
 
-**ROPA ADECUADA PARA DORMIR:**
+El sábado por la noche, alrededor de la fogata, tu consejero pide: "Cada uno va a compartir algo que aprendió de Dios observando la naturaleza durante estos días."
 
-**QUÉ USAR:**
+**Cómo preparar tu lección:**
 
-**Clima templado/cálido:**
-- Camiseta de algodón
-- Pantalón liviano o shorts
-- Calcetines limpios (opcionales)
+1. **Observa** - mira la naturaleza con atención durante el campamento
+2. **Medita** - ¿qué te enseña esto sobre Dios?
+3. **Encuentra texto bíblico** - ¿qué verso se relaciona?
+4. **Aplica** - ¿cómo esto afecta tu vida?
+5. **Comparte** - cuéntalo al grupo
 
-**Clima frío:**
-- Ropa térmica (capa base) completa
-- Camiseta de manga larga
-- Pantalón de pijama o térmico
-- Calcetines de lana o térmicos
-- Gorro de lana (mucho calor se pierde por la cabeza)
-- Cuello o buff
+**Ejemplos:**
 
-**QUÉ NO USAR:**
-- Ropa del día (sudada, sucia)
-- Ropa muy apretada (corta circulación = más frío)
-- Ropa húmeda o mojada
-- Zapatos dentro del saco de dormir
+- **Las estrellas:** En la ciudad no se ven. Acá hay miles. Cuando quitamos las distracciones del mundo, vemos mejor la gloria de Dios.
+- **La fogata:** Una brasa sola se apaga. Muchas brasas juntas mantienen el fuego. La comunidad cristiana funciona igual.
+- **El sendero:** Nos mantiene seguros en el bosque. La Palabra de Dios es lámpara a nuestros pies (Salmo 119:105).
+- **La preparación:** Si olvidaste algo importante, el campamento sufre. La oración y lectura bíblica son nuestro "equipo esencial" diario.
 
-**MATERIAL IDEAL:**
-- Fibras naturales (algodón, lana) o sintéticas térmicas
-- Que respiren (evitan transpirar excesivamente)
-- Limpias y secas
-
-**CÓMO MANTENERSE CALIENTE:**
-
-**ANTES DE DORMIR:**
-
-1. **Come bien:**
-   - Cena caliente y abundante
-   - Los carbohidratos generan calor
-   - Bebida caliente antes de dormir
-
-2. **Ve al baño:**
-   - Mantener orina en vejiga gasta energía en calentarla
-   - Te despertarás menos
-
-3. **Haz ejercicio ligero:**
-   - 20 sentadillas o saltos
-   - Genera calor corporal
-   - No sudes (humedad = frío)
-
-4. **Seca toda la ropa:**
-   - Viste ropa completamente seca
-   - Humedad te enfría
-
-**PREPARAR SACO DE DORMIR:**
-
-5. **Afloja el saco antes:**
-   - Sácalo 30 minutos antes
-   - Se esponja y aísla mejor
-
-6. **Usa aislante bueno:**
-   - Colchoneta inflable o de espuma
-   - Más frío viene del suelo que del aire
-
-7. **Cierra bien el saco:**
-   - Sin corrientes de aire
-   - Ajusta cordón de cabeza
-
-8. **Duerme con ropa:**
-   - Capas apropiadas según clima
-   - Gorro si hace mucho frío
-
-**DURANTE LA NOCHE:**
-
-9. **Botella de agua caliente:**
-   - Llena botella con agua caliente (no hirviendo)
-   - Envuelve en calcetín o toalla
-   - Coloca en saco 10 min antes o a tus pies
-
-10. **No respires dentro del saco:**
-    - Tu aliento crea humedad
-    - Humedad = frío
-    - Saca nariz y boca
-
-11. **No abras el saco:**
-    - Si tienes calor, abre ventilación
-    - No dejes entrar aire frío
-
-12. **Llena espacios vacíos:**
-    - Ropa extra alrededor de ti
-    - Menos espacio = más calor
-
-**SI TIENES FRÍO:**
-
-13. **Come algo:**
-    - Snack calórico (chocolate, frutos secos)
-    - Tu cuerpo genera calor al digerir
-
-14. **Haz ejercicio en el saco:**
-    - Tensa y relaja músculos
-    - Genera calor sin salir
-
-15. **Comparte carpa:**
-    - Más personas = más calor
-    - Acampa con compañero
-
-**CONSEJOS ADICIONALES:**
-- Liner (sábana interna) agrega 5-10°C
-- Manta de emergencia bajo aislante refleja calor
-- Cierra ventanas de carpa pero deja ventilación
-- Si sudas de noche, quita una capa
-- Ropa limpia aísla mejor (suciedad reduce eficiencia)
+**Textos bíblicos sobre naturaleza:** Salmo 19:1, Romanos 1:20, Mateo 6:26-30, Job 12:7-8.
 
 ---
 
-### 13. Durante el campamento, pensar en una lección espiritual práctica que se relacione con la naturaleza
+## Fase 4 - Lo que te llevas
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Durante tu campamento, observa la naturaleza y encuentra una lección espiritual.
-
-**EJEMPLOS DE LECCIONES ESPIRITUALES:**
-
-**1. EL ÁRBOL JUNTO A LAS AGUAS (Salmo 1:3)**
-- Observa árboles cerca del río vs árboles lejos del agua
-- Los cerca del agua son verdes, frondosos, con fruto
-- Los lejos están secos, débiles
-- **Lección:** Como cristianos, debemos estar cerca de Dios (fuente de vida)
-- Si nos alejamos, nos secamos espiritualmente
-
-**2. LAS ESTRELLAS EN LA NOCHE**
-- En la ciudad hay mucha luz, pocas estrellas visibles
-- En el campamento (oscuridad), vemos miles de estrellas
-- **Lección:** Cuando quitamos las "luces" del mundo (distracciones, ruido, tecnología), podemos ver mejor la gloria de Dios
-
-**3. LA FOGATA**
-- Una brasa sola se apaga rápido
-- Muchas brasas juntas mantienen el fuego
-- **Lección:** La importancia de la comunidad cristiana. Solos nos enfriamos espiritualmente, juntos mantenemos la fe ardiendo
-
-**4. EL CAMINO MARCADO**
-- Los senderos nos mantienen seguros en el bosque
-- Salir del sendero = riesgo de perderse
-- **Lección:** La Palabra de Dios es la lámpara a nuestros pies (Salmo 119:105). Seguir sus mandamientos nos mantiene seguros.
-
-**5. PREPARACIÓN PARA EL CAMPAMENTO**
-- Empacaste cuidadosamente todo lo necesario
-- Olvidar algo importante causa problemas
-- **Lección:** Debemos prepararnos espiritualmente cada día para la vida. La oración y lectura bíblica son nuestro "equipo esencial".
-
-**6. NO DEJAR RASTRO**
-- Limpiamos el campamento como si nadie hubiera estado
-- **Lección:** Como cristianos debemos dejar impacto positivo, no negativo. Ser luz, no contaminar con mal testimonio.
-
-**7. EL SOL DESPUÉS DE LA LLUVIA**
-- Tormenta en la noche, sol hermoso en la mañana
-- **Lección:** Las pruebas son temporales. Dios envía bendiciones después de las dificultades.
-
-**CÓMO DESARROLLAR TU LECCIÓN:**
-
-1. **Observa:** Mira detenidamente la naturaleza
-2. **Medita:** ¿Qué te enseña esto sobre Dios?
-3. **Encuentra texto bíblico:** ¿Qué verso se relaciona?
-4. **Aplica:** ¿Cómo esto afecta tu vida diaria?
-5. **Comparte:** Cuenta tu lección al grupo en devoción
-
-**TEXTOS BÍBLICOS SOBRE NATURALEZA:**
-- Salmo 19:1 - Los cielos cuentan la gloria de Dios
-- Romanos 1:20 - Atributos de Dios son visibles en la creación
-- Mateo 6:26-30 - Dios cuida las aves y flores, cuánto más a nosotros
-- Job 12:7-8 - Pregunta a los animales, ellos te enseñarán
+*Domingo. Desarman el campamento. Inspeccionan el área en cuadrícula. Recogen cada pedacito de basura, cuerda, estaca olvidada. El lugar queda como si nadie hubiera estado.*
 
 ---
 
-### 14. Explicar y practicar el lema: "No llevar nada más que fotografías, no dejar nada más que huellas y no matar nada más que el tiempo"
+### El lema del campista
 
-**Respuesta:**
+*(Requisito 14)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes practicar este lema durante todo el campamento.
+De vuelta en el vehículo, tu consejero repite el lema:
 
-**EL LEMA "NO DEJAR RASTRO":**
+> *"No llevar nada más que fotografías, no dejar nada más que huellas, no matar nada más que el tiempo."*
 
-Este lema resume la filosofía de respeto y conservación de la naturaleza.
+Después de dos días viviéndolo, el lema tiene otro peso.
 
-**"NO LLEVAR NADA MÁS QUE FOTOGRAFÍAS"**
+**"No llevar nada más que fotografías"** - No te llevaste flores, piedras ni conchas. Fotografiaste en vez de coleccionar. La naturaleza queda completa para quien venga después.
 
-**Significado:**
-- No remuevas nada de la naturaleza
-- No te lleves flores, piedras, conchas, plumas
-- No cortes plantas vivas
-- No saques artefactos históricos
+**"No dejar nada más que huellas"** - Toda la basura vuelve contigo. El círculo de piedras desarmado. Las cenizas esparcidas. El lugar restaurado.
 
-**Por qué:**
-- Si cada visitante se lleva algo, pronto no quedará nada
-- Plantas y animales necesitan esos recursos
-- Otros visitantes quieren disfrutar la naturaleza completa
-- Es ilegal en muchas áreas protegidas
+**"No matar nada más que el tiempo"** - Observaste animales desde lejos. No cortaste árboles vivos. Usaste solo madera caída. Respetaste cada forma de vida.
 
-**Cómo practicar:**
-- Toma fotos de flores (no las arranques)
-- Observa animales con binoculares (no los captures)
-- Dibuja o fotografía en vez de coleccionar
-- Deja la naturaleza para que otros la disfruten
+"Somos mayordomos, no dueños", dice tu consejero. "Génesis 2:15 - Dios puso al ser humano en el jardín para cuidarlo. Eso hacemos cada vez que acampamos."
 
-**Excepción:** Basura no-natural, siempre recógela
+> **En el Tomo II ([Campamento II](campamento_ii.md))** vas a desarrollar tu propia filosofía de campamento, aprender a usar estufa y lámpara, elegir terrenos más difíciles, y cocinar con tres técnicas distintas. El consejero ya no te va a decir todo - va a esperar que tomes la iniciativa.
 
 ---
 
-**"NO DEJAR NADA MÁS QUE HUELLAS"**
+## Referencia
 
-**Significado:**
-- No dejes basura de ningún tipo
-- No dejes señales de tu presencia
-- Restaura el área a su estado natural
+### Mapa de requisitos
 
-**Por qué:**
-- Basura contamina y daña ecosistemas
-- Animales pueden comer basura y enfermarse
-- Arruina experiencia de otros visitantes
-- Preserva belleza natural para futuras generaciones
-
-**Cómo practicar:**
-
-**Basura:**
-- Empaca TODA la basura que produjiste
-- Recoge basura que otros dejaron
-- "Si lo trajiste, te lo llevas"
-- Incluso cáscaras de frutas y orgánicos (no son naturales del lugar)
-
-**Rastros del campamento:**
-- Desmonta círculo de piedras de fogata si lo creaste
-- Esparce cenizas frías lejos
-- Dispersa agujas/hojas sobre área compactada
-- Ramas usadas: dispérsalas naturalmente
-- Deja el lugar como lo encontraste (o mejor)
-
-**Instalaciones:**
-- No claves cosas en árboles
-- No construyas estructuras permanentes
-- Desmantela todo lo que construiste
-
-**Sanitario:**
-- Entierra desechos humanos (60m de agua)
-- Tapa completamente huecos
-
----
-
-**"NO MATAR NADA MÁS QUE EL TIEMPO"**
-
-**Significado:**
-- No lastimes ni mates animales o plantas innecesariamente
-- Respeta toda forma de vida
-- El tiempo es lo único que "consumimos"
-
-**Por qué:**
-- Toda criatura tiene propósito en el ecosistema
-- Somos visitantes, no dueños
-- Dios nos hizo mayordomos, no destructores
-- Incluso insectos "molestos" son importantes
-
-**Cómo practicar:**
-
-**Animales:**
-- No caces ni captures animales
-- No molestes nidos, madrigueras, panales
-- Observa desde distancia respetuosa
-- No alimentes animales silvestres (les hace daño)
-- Si hay mosquitos o insectos: usa repelente, no los mates masivamente
-
-**Plantas:**
-- Usa solo madera muerta caída para fogatas
-- No cortes árboles vivos
-- No arranques plantas solo por curiosidad
-- Camina en senderos para no pisar vegetación
-
-**Excepciones razonables:**
-- Defenderte de animal peligroso
-- Obtener comida silvestre comestible (con conocimiento y permiso)
-- Control de plaga si es problema de salud
-
-**"Matar el tiempo":**
-- Significa: disfrutar, relajarse, pasar tiempo de calidad
-- Desconectar de prisa del mundo
-- Conectar con Dios a través de Su creación
-
----
-
-**PRACTICANDO EL LEMA COMPLETO:**
-
-**Antes del campamento:**
-- Aprende sobre el ecosistema local
-- Planifica para no dejar rastro
-- Empaca bolsas para basura
-
-**Durante:**
-- Observa sin tocar
-- Fotografía en lugar de coleccionar
-- Limpia constantemente
-- Respeta animales y plantas
-
-**Al salir:**
-- Inspecciona el área caminando en cuadrícula
-- Recoge cada pedazo de basura
-- Restaura el área
-- Deja todo como si nadie hubiera estado
-
-**REFLEXIÓN ESPIRITUAL:**
-- Dios nos dio la creación para disfrutar y cuidar
-- Somos mayordomos, no dueños
-- Génesis 2:15 - Dios puso al hombre en el jardín para cuidarlo
-- Respet la creación = respeto al Creador
+| Requisito | Tema | Fase | Sección |
+|-----------|------|------|---------|
+| 1 | Guías éticas / No Dejar Rastro | Fase 2 | Los 7 principios de No Dejar Rastro |
+| 2 | Qué hacer si te pierdes | Fase 2 | Qué hacer si te pierdes |
+| 3 | Equipo para dormir | Fase 1 | Elegir tu equipo para dormir |
+| 4 | Objetos personales | Fase 1 | Tu lista de equipo |
+| 5 | Campamento de fin de semana | Fase 3 | Armar campamento |
+| 6 | Armar carpa + prevención incendios | Fase 3 | Armar campamento |
+| 7 | Higiene en campamento | Fase 3 | Higiene en campamento |
+| 8 | Cuchillo y hacha - 10 reglas | Fase 2 | El cuchillo y el hacha |
+| 9a | Escoger lugar y preparar fogata | Fase 3 | La fogata: un solo fósforo |
+| 9b | Reglas de seguridad del fuego | Fase 3 | La fogata: un solo fósforo |
+| 9c | Uso de fósforos | Fase 2 | Cómo usar los fósforos |
+| 9d | Fogata con un fósforo | Fase 3 | La fogata: un solo fósforo |
+| 9e | Proteger leña de lluvia | Fase 3 | Proteger la leña |
+| 10 | Pan al palo | Fase 3 | Pan al palo |
+| 11 | Utensilios de cocina limpios | Fase 3 | Lavar los utensilios |
+| 12 | Ropa para dormir / mantenerse caliente | Fase 1 | Ropa para dormir y mantenerse caliente |
+| 13 | Lección espiritual de la naturaleza | Fase 3 | Lección espiritual de la naturaleza |
+| 14 | Lema del campista | Fase 4 | El lema del campista |
 
 ---
 
 ## 📚 Referencias y recursos adicionales
 
-- **Libros:**
-  - Manual de Campamento - Club de Conquistadores
-  - "Leave No Trace" - Centro de Ética al Aire Libre
-  - "Guía de Campamento para Principiantes"
+- [**Manual No Deje Rastro**](https://drive.google.com/file/d/1g8IEtGrYmk0_mk2vqykZfZ24QE7lniC_/view) - Sendero de Chile / NOLS / CONAMA
+- [**Leave No Trace**](https://lnt.org/why/7-principles/) - Los 7 principios originales en inglés
+- [**Arte de Acampar**](arte_de_acampar.md) - Prólogo de esta serie, cubre los fundamentos
 
-- **Videos:**
-  - Serie de Campamento (Canal Conquistadores YouTube)
-  - Técnicas de fogata
-  - Cómo armar diferentes carpas
-
-- **Sitios web:**
-  - lnt.org - Leave No Trace Center
-  - Conquistadores DSA
-  - Pronóstico del tiempo local
+**Aplicaciones útiles:**
+- [Maps.me](https://maps.me/) - Mapas offline
+- [PlantNet](https://plantnet.org/) - Identificación de plantas
+- [Cruz Roja - Primeros Auxilios](https://play.google.com/store/apps/details?id=com.cube.arc.fa) - App de primeros auxilios
 
 ---
 
 ## ✅ Notas para el instructor
 
-**Edad mínima:** 10 años
+**Prerrequisitos:** Arte de Acampar recomendado pero no obligatorio.
 
-**Prerrequisitos:** Ninguno (especialidad inicial)
+**Requisitos prácticos obligatorios:**
+- Req 5: Campamento de 2 noches (viernes a domingo)
+- Req 6: Armar carpa correctamente
+- Req 7: Demostrar higiene personal y de campamento
+- Req 8: Demostrar uso seguro de cuchillo Y hacha
+- Req 9d: Encender fogata con un solo fósforo
+- Req 10: Preparar y comer pan al palo
+- Req 13: Compartir lección espiritual
+- Req 14: Practicar el lema durante todo el campamento
 
-**Evaluación:**
-- Observación durante campamento completo de 2 noches
-- Verificar conocimiento de seguridad
-- Confirmar preparación adecuada
-- Evaluar actitud de respeto a naturaleza
+**Cómo evaluar:**
+- Observación continua durante el campamento completo
+- Verificar conocimiento de seguridad (preguntar las 10 reglas)
+- Confirmar participación activa en comidas y tareas
+- Evaluar actitud de servicio y cuidado del ambiente
+- Escuchar la lección espiritual personal
 
-**Campamento requerido:**
-- Mínimo 2 noches (viernes a domingo)
-- Preferible área con algo de naturaleza
-- Verificar permisos y regulaciones del área
-- Planificar actividades apropiadas edad
-
-**Seguridad:**
-- Supervisión constante de adultos
-- Verificar botiquín completo
-- Sistema de compañeros obligatorio
-- Conocer ubicación centro médico cercano
-- Tener plan de emergencias
-
-**Consejos pedagógicos:**
-- Esta es generalmente la PRIMERA especialidad de campamento
-- Construye confianza antes de campamentos más avanzados
-- Enfatiza seguridad repetidamente
-- Hace práctica de habilidades en reuniones antes del campamento
-- Involucra familia si es posible
+**Sugerencias pedagógicas:**
+- Practicar cuchillo, hacha y fósforos en reuniones ANTES del campamento
+- El pan al palo es un punto alto - úsalo como motivación
+- La lección espiritual funciona mejor alrededor de la fogata
+- Dejar que fallen con el fósforo y analicen por qué - el aprendizaje está en el intento
 
 **Integración espiritual:**
+- Escuela Sabática al aire libre el sábado
 - Devocionales matutinos y nocturnos
-- Escuela Sabática al aire libre
-- Culto divino en naturaleza
-- Momentos de reflexión personal
-- Lecciones espirituales de la naturaleza
+- Lecciones espirituales compartidas (requisito 13)
+- Reflexión final con el lema del campista
+
+**Seguridad:**
+- Supervisar SIEMPRE el uso de hacha
+- Sistema de compañeros obligatorio
+- Botiquín accesible
+- Conocer ubicación de centro médico cercano
+- Establecer señales de emergencia (3 silbidos)
 
 ---
 
-<div align="center">
+*Manual de Especialidades - Club de Conquistadores - División Sudamericana*
 
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
+> **Siguiente:** [Campamento II](campamento_ii.md) - Tu campamento, tu responsabilidad

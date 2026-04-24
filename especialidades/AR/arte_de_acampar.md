@@ -1,890 +1,619 @@
 ---
 layout: guia_instruccion
-title: Arte de Acampar
+title: "Arte de Acampar"
+codigo: "AR-001"
+area: "Actividades Recreativas"
+area_codigo: "AR"
+nivel: 1
+ano_creacion: 1929
+institucion_origen: "Asociación General"
 ---
 
-# Arte de Acampar
+## Tu primer campamento
+
+Esta guía te lleva paso a paso por un campamento de tres días. No es una lista de datos para memorizar - es una experiencia para vivir. Cada sección sigue el orden natural de un campamento real: primero planificas, luego aprendes lo que necesitas saber, después lo vives en el campo, y al final reflexionas.
+
+Si eres instructor, usa esta guía como hilo conductor para enseñar. Si eres conquistador, léela como si estuvieras preparándote para tu próximo campamento - porque lo estás.
+
+> **Sobre los requisitos:** Esta guía cubre los 10 requisitos de la especialidad Arte de Acampar (AR-001). Al final encontrarás una tabla que mapea cada requisito a la sección donde se desarrolla.
+
+---
+
+## Fase 1 - La reunión del sábado
+
+*Tu consejero reúne a la unidad después del culto joven para planificar el campamento.*
+
+---
+
+### Elegir el lugar
+
+*(Requisito 1)*
+
+"Antes de empacar cualquier cosa, necesitamos saber adónde vamos", dice tu consejero mientras despliega un mapa sobre la mesa. "Y para elegir bien, hay tres cosas que siempre debemos considerar."
+
+**El clima y el tiempo**
+
+No es lo mismo acampar con sol que bajo lluvia. Tu consejero explica:
+
+- Busca un lugar protegido del viento fuerte - detrás de rocas, árboles o colinas
+- Evita zonas bajas donde se acumula el aire frío por la noche
+- No acampes bajo árboles muertos o ramas que puedan caer
+- Piensa en la dirección del sol: ¿quieres que te despierte temprano o prefieres sombra?
+
+**La estación del año**
+
+"¿En qué época vamos?", pregunta alguien. Importa:
+
+| Estación | Qué buscar | Qué evitar |
+|----------|-----------|------------|
+| Verano | Sombra, brisa, agua cerca | Exposición directa al sol todo el día |
+| Invierno | Protección del viento, orientación al sol | Zonas húmedas o expuestas |
+| Primavera/Otoño | Versatilidad, refugio accesible | Confiar en un solo pronóstico - el clima cambia |
+
+**Las fuentes de agua**
+
+El agua es vida en un campamento, pero también puede ser un riesgo:
+
+- Acampa **cerca** de agua potable (río, arroyo, lago) pero **no al lado** - mínimo 60 metros de distancia
+- Esa distancia protege el ecosistema y te protege de crecidas nocturnas
+- Verifica si el agua es segura o lleva método de purificación
+- Si no hay fuente natural: mínimo 3 litros por persona por día
+
+"Si no hay agua cerca y no podemos cargar suficiente, ese lugar no sirve. Busquemos otro", concluye tu consejero.
 
 <div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Recreativas
-**Código:** AR-001
-**Nivel:** 1
-**Año de creación:** 1929
-**Institución de origen:** Asociación General
-
----
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Vivac_de_grupo_scout_acampando.jpg" alt="Grupo scout acampando en terreno abierto" width="500">
+  <p><em>Campamento scout en terreno plano y abierto - el tipo de lugar que buscas. (CC BY-SA 3.0, Fernando Lopez Anido)</em></p>
 </div>
 
-## 📋 Requisitos
+---
 
-### 1. Explicar cómo y por qué las condiciones climáticas, las estaciones del año y las fuentes de agua deben ser consideradas al momento de elegir un lugar para acampar
+### Qué llevar puesto
 
-**Respuesta:**
+*(Requisito 2)* **[PRÁCTICA REQUERIDA]**
 
-Al elegir un lugar para acampar, estos tres factores son fundamentales para tu seguridad y comodidad:
+"Ahora que sabemos adónde vamos, hablemos de ropa", dice tu consejero. "Vamos a armar dos listas: una para clima caliente y otra para frío. Dependiendo de adónde vayamos, usamos la que corresponda."
 
-**Condiciones climáticas:**
-- Busca un lugar protegido del viento fuerte (detrás de rocas, árboles o colinas)
-- Evita zonas bajas donde se acumula el aire frío
-- No acampes bajo árboles muertos o ramas que puedan caer con viento
-- Considera la dirección del sol: levantarse con sol temprano da energía
+**Clima caliente**
 
-**Estaciones del año:**
-- **Verano:** Busca sombra y brisa para mantenerte fresco
-- **Invierno:** Busca protección del viento y orientación al sol
-- **Primavera/Otoño:** Prepárate para cambios de temperatura día/noche
-- Investiga el clima local típico de la época
+| Prenda | Cantidad | Por qué |
+|--------|----------|---------|
+| Camisetas manga corta | 2-3 | Tela que respire, se secan rápido |
+| Pantalón largo liviano | 1 | Protege de sol e insectos |
+| Shorts | 1-2 | Para actividades en el campamento |
+| Gorra o sombrero con ala | 1 | Protección solar |
+| Ropa interior y calcetines | Cambio diario | Algodón, mantener higiene |
+| Calzado cerrado + sandalias | 1+1 | Cerrado para caminar, sandalias para descanso |
+| Sudadera liviana | 1 | Las noches refrescan |
+| Lentes de sol | 1 | Protección UV |
 
-**Fuentes de agua:**
-- Acampa cerca de agua potable (río, arroyo, lago) pero NO al lado inmediato
-- Mantén al menos 60 metros (200 pies) de distancia del agua
-- Esto protege el ecosistema y te protege de crecidas nocturnas
-- Verifica que el agua sea segura para beber (o lleva método de purificación)
-- Si no hay fuente natural, debes llevar suficiente agua (mínimo 3 litros/persona/día)
+**Clima frío**
+
+| Prenda | Cantidad | Por qué |
+|--------|----------|---------|
+| Capa base térmica | 1 juego | Superior e inferior, mantiene calor |
+| Camisetas manga larga | 2 | Capas intermedias |
+| Pantalón grueso o trekking | 1 | Abrigo y resistencia |
+| Chaqueta aislante | 1 | Plumas o sintética |
+| Chaqueta impermeable | 1 | Capa externa contra viento y lluvia |
+| Calcetines de lana | 2-3 pares | Los pies fríos arruinan todo |
+| Gorro de lana | 1 | Cubre orejas |
+| Guantes impermeables | 1 par | Manos secas = manos calientes |
+| Botas impermeables | 1 par | Trekking, que cubran el tobillo |
+| Muda seca en bolsa impermeable | 1 | Emergencia |
+
+"El secreto es el **sistema de capas**", explica tu consejero. "Varias capas delgadas son mejor que una gruesa. Si tienes calor, te quitas una. Si tienes frío, te pones otra. Simple."
 
 ---
 
-### 2. Preparar una lista de ropas o vestimentas necesarias para campamentos en climas calientes y en climas fríos
+### Armar las listas de equipo
 
-**Respuesta:**
+*(Requisito 5)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes preparar dos listas completas de ropa según el clima.
+Tu consejero divide una pizarra en dos columnas: "Lo que llevas tú" y "Lo que lleva la unidad".
 
-**CAMPAMENTO EN CLIMA CALIENTE:**
-- Camisetas de manga corta (2-3) de tela que respire
-- Pantalones largos livianos (1) y shorts (1-2) - los largos protegen de sol e insectos
-- Gorra o sombrero con ala ancha
-- Ropa interior y calcetines de algodón (cambio diario)
-- Calzado cerrado para caminar + sandalias para el campamento
-- Traje de baño (si hay agua)
-- Sudadera liviana o chaqueta para las noches
-- Lentes de sol y bloqueador solar
-- Pañuelo o buff para el cuello
+"No todo lo carga una persona. Nos organizamos."
 
-**CAMPAMENTO EN CLIMA FRÍO:**
-- Capa base térmica (superior e inferior) para mantener el calor
-- Camisetas de manga larga (2)
-- Pantalones gruesos o de trekking
-- Chaqueta aislante (plumas o sintética)
-- Chaqueta impermeable/cortavientos (capa externa)
-- Ropa interior térmica y calcetines de lana (2-3 pares)
-- Gorro de lana que cubra las orejas
-- Guantes impermeables
-- Bufanda o cuello polar
-- Botas de trekking impermeables
-- Muda extra de ropa seca en bolsa impermeable
+**Tu mochila personal**
 
-**Principio importante:** Sistema de capas - mejor varias capas delgadas que una gruesa, así puedes ajustar según la actividad.
+| Categoría | Artículos |
+|-----------|-----------|
+| Dormir | Saco de dormir, aislante/colchoneta, almohada pequeña |
+| Higiene | Cepillo y pasta de dientes, jabón biodegradable, toalla de secado rápido, papel higiénico en bolsa plástica, repelente, protector solar |
+| Documentos | Identificación, tarjeta de seguro médico, contactos de emergencia |
+| Herramientas | Linterna frontal + pilas extra, navaja en funda, cantimplora, plato/taza/cubiertos, bolsas de basura, silbato |
+| Espiritual | Biblia, materiales devocionales |
+
+**Equipo de la unidad**
+
+| Categoría | Artículos |
+|-----------|-----------|
+| Refugio | Carpas (calcular por persona), lona/toldo para área común, estacas y cuerdas extras, mazo |
+| Cocina | Estufa/parrilla, combustible, ollas/sartenes, tabla de cortar, cuchillo de cocina, abrelatas, cooler, bidones de agua, fósforos en bolsa impermeable, lavavajillas biodegradable |
+| Seguridad | Botiquín de primeros auxilios, mapa del área, brújula, radio o medio de comunicación, linterna grande |
+| Herramientas | Hacha pequeña, sierra plegable, pala, cuerda de nylon (20-30m), cinta adhesiva |
+| Documentos | Lista de participantes con contactos, permisos, itinerario, números de emergencia locales |
+
+"Revisen esta lista antes de salir. Si falta algo, nos damos cuenta acá y no en el campo", dice tu consejero.
 
 ---
 
-### 3. Conocer y practicar las reglas de seguridad de un campamento
+### Planificar el menú
 
-**Respuesta:**
+*(Requisito 6)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar que conoces y aplicas estas reglas durante un campamento.
+"¿Quién cocina?", pregunta tu consejero. "Todos. Vamos a armar el menú juntos."
 
-**REGLAS BÁSICAS DE SEGURIDAD:**
+Un buen menú de campamento es **balanceado, práctico y posible de cocinar en fogata o estufa portátil**. Necesitas los cinco grupos: granos, proteínas, frutas/vegetales, lácteos y grasas saludables.
 
-1. **Ubicación del campamento:**
-   - Nunca bajo árboles secos o con ramas muertas
-   - Lejos de hormigueros, panales o nidos de avispas
-   - No en lechos secos de ríos (pueden llenarse súbitamente)
-   - En terreno plano y bien drenado
+**Ejemplo para un día completo:**
 
-2. **Fuego:**
-   - Mantén fogata pequeña y controlada
-   - Límpiala de hojas secas y ramas en un radio de 2 metros
-   - NUNCA dejes fuego sin supervisión
-   - Apágalo completamente con agua antes de dormir o salir
+| Comida | Menú | Grupos cubiertos |
+|--------|------|------------------|
+| **Desayuno** | Avena con pasas y nueces, huevos revueltos, pan tostado, fruta fresca, jugo | Granos, proteínas, grasas, frutas |
+| **Almuerzo** | Sándwiches variados, vegetales crudos (zanahoria, pepino), galletas, fruta, trail mix | Granos, proteínas, vegetales, grasas |
+| **Cena** | Arroz o pasta, lentejas o hamburguesas vegetarianas a la parrilla, ensalada, pan, fruta asada de postre | Granos, proteínas, vegetales |
+| **Snacks** | Trail mix, barras energéticas, frutas secas | Energía sostenida durante el día |
 
-3. **Herramientas cortantes:**
-   - Usa cuchillo y hacha siempre alejándolos de tu cuerpo
-   - Entrega herramientas por el mango, nunca por la hoja
-   - Guárdalas en su funda cuando no las uses
+**Principios para el menú:**
 
-4. **Comida:**
-   - Guarda alimentos en recipientes cerrados
-   - Cuelga la comida en árbol lejos del campamento si hay osos/animales grandes
-   - Lava platos y utensilios inmediatamente después de comer
-   - Tira basura orgánica lejos del campamento
+- Más actividad física = más calorías necesarias
+- Alimentos no perecederos para días 2-3, perecederos en cooler para día 1
+- Considera restricciones alimentarias del grupo (vegetarianos, alergias)
+- **Hidratación:** mínimo 3 litros por persona/día, más si hace calor
 
-5. **Sistema de compañeros:**
-   - NUNCA vayas solo a ningún lado, siempre con un compañero
-   - Informa al grupo si te alejas del campamento
-   - Conoce las señales de emergencia (3 silbidos = emergencia)
-
-6. **Clima:**
-   - Revisa el pronóstico antes y durante el campamento
-   - Ten un plan de emergencia si empeora el clima
-   - Conoce dónde refugiarte en caso de tormenta eléctrica
-
-7. **Primeros auxilios:**
-   - Siempre lleva botiquín de primeros auxilios
-   - Conoce la ubicación del centro médico más cercano
-   - Informa sobre alergias o condiciones médicas al grupo
+"Cada pareja de conquistadores se encarga de una comida. Así todos participan y todos aprenden", cierra tu consejero.
 
 ---
 
-### 4. Demostrar tu habilidad en el uso del cuchillo: demuestra o explica las reglas de seguridad para su uso y prepara leña para una fogata utilizando las reglas aprendidas
+## Fase 2 - Antes de salir
 
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar físicamente estas habilidades ante tu instructor.
-
-**REGLAS DE SEGURIDAD DEL CUCHILLO:**
-
-1. **Círculo de seguridad:**
-   - Extiende tu brazo con el cuchillo
-   - Gira 360° - nadie debe estar dentro de ese círculo
-   - Si alguien entra, detén el trabajo inmediatamente
-
-2. **Dirección de corte:**
-   - SIEMPRE corta alejándote de tu cuerpo
-   - Nunca hacia tus piernas, pies o manos
-   - Mantén la otra mano detrás de la hoja
-
-3. **Agarre correcto:**
-   - Sostén firmemente el mango completo
-   - Pulgar en un lado, cuatro dedos en el otro
-   - Nunca pongas el dedo índice sobre el lomo de la hoja
-
-4. **Transporte:**
-   - Guarda el cuchillo en su funda cuando camines
-   - Si debes entregarlo, hazlo por el mango con la hoja cerrada
-   - Nunca lo tires o lo lances
-
-5. **Mantenimiento:**
-   - Mantén la hoja limpia y seca
-   - Un cuchillo afilado es más seguro que uno desafilado
-   - Guárdalo en lugar seco
-
-**PREPARAR LEÑA PARA FOGATA:**
-
-Necesitas tres tamaños de madera:
-
-1. **Yesca (iniciador):**
-   - Material que prende con chispa: corteza seca, hojas secas, ramitas muy finas
-   - Tamaño: del grosor de un fósforo o más delgado
-   - Usa el cuchillo para hacer virutas finas de madera seca
-
-2. **Leña pequeña (combustible):**
-   - Ramas del grosor de un lápiz a un dedo
-   - Córtalas a 15-20 cm de largo
-   - Corta siempre apoyando la rama en tronco firme
-
-3. **Leña grande (para mantener):**
-   - Ramas del grosor de tu muñeca
-   - Córtalas a 30-40 cm
-   - Para ramas gruesas, mejor usar hacha o sierra
-
-**Técnica de corte con cuchillo:**
-- Apoya la rama en un tronco estable
-- Haz cortes en ángulo, nunca directos
-- Deja que el peso del cuchillo haga el trabajo
-- No fuerces el corte
+*Es sábado de tarde. La unidad se reúne para practicar tres cosas que necesitan saber antes de ir al campo. Tu consejero dice: "En el campo no hay hospital a cinco minutos. Lo que aprendan hoy puede evitar un accidente."*
 
 ---
 
-### 5. Preparar un campamento para tu unidad. Hacer una lista de los objetos personales que debes llevar y de los instrumentos necesarios para toda la unidad
+### Reglas de seguridad
 
-**Respuesta:**
+*(Requisito 3)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes preparar estas listas y usarlas en un campamento real.
+Tu consejero repasa las reglas una por una. "Estas no son sugerencias. Son reglas."
 
-**OBJETOS PERSONALES (Mochila individual):**
+**Ubicación del campamento:**
+- Nunca bajo árboles secos o con ramas muertas
+- Lejos de hormigueros, panales o nidos
+- No en lechos secos de ríos - pueden llenarse de golpe
+- Terreno plano y bien drenado
 
-**Dormir:**
-- Saco de dormir apropiado para la temperatura
-- Aislante o colchoneta
-- Almohada pequeña (o usa ropa)
-- Carpa individual (si no hay carpas compartidas)
+**Fuego:**
+- Fogata pequeña y controlada
+- Limpiar hojas y ramas en un radio de 2 metros
+- NUNCA dejar fuego sin supervisión
+- Apagar completamente antes de dormir o salir
 
-**Higiene personal:**
-- Cepillo y pasta de dientes
-- Jabón biodegradable
-- Toalla de secado rápido
-- Papel higiénico en bolsa plástica
-- Peine/cepillo
-- Repelente de insectos
-- Protector solar
+**Herramientas cortantes:**
+- Cortar siempre alejando la hoja de tu cuerpo
+- Entregar por el mango, nunca por la hoja
+- Guardar en funda cuando no se usen
 
-**Documentos y dinero:**
-- Identificación personal
-- Tarjeta de seguro médico
-- Dinero en efectivo (pequeño monto)
-- Información de contactos de emergencia
+**Comida y animales:**
+- Guardar alimentos en recipientes cerrados
+- Colgar comida lejos del campamento si hay animales grandes
+- Lavar platos inmediatamente después de comer
 
-**Otros personales:**
-- Linterna con pilas extra o lámpara frontal
-- Navaja o cuchillo en funda
-- Cantimplora o botella de agua
-- Plato, taza, cubiertos personales
-- Bolsas de basura
-- Silbato
-- Libreta pequeña y lápiz
-- Biblia y materiales devocionales
+**Sistema de compañeros:**
+- NUNCA ir solo a ningún lado
+- Informar al grupo si te alejas
+- 3 silbidos = emergencia
 
-**EQUIPO COLECTIVO DE LA UNIDAD:**
+**Clima:**
+- Revisar pronóstico antes y durante
+- Tener plan de emergencia
+- Saber dónde refugiarse en tormenta eléctrica
 
-**Carpas y refugio:**
-- Carpas (calcular personas por carpa)
-- Lona o toldo para área común
-- Estacas y cuerdas extras
-- Martillo o mazo para estacas
-
-**Cocina:**
-- Estufa de campamento o parrilla portátil
-- Combustible (gas, carbón, etc.)
-- Ollas y sartenes
-- Tabla de cortar
-- Cuchillo de cocina
-- Abrelatas
-- Cooler o hielera para alimentos perecederos
-- Agua potable extra (bidones)
-- Fósforos o encendedor en bolsa impermeable
-- Lavavajillas biodegradable y esponja
-
-**Seguridad y emergencias:**
-- Botiquín de primeros auxilios completo
-- Mapa del área
-- Brújula o GPS
-- Silbato para cada persona
-- Radio o medio de comunicación
-- Linterna grande para el campamento
-
-**Herramientas:**
-- Hacha pequeña
-- Sierra plegable
-- Pala pequeña
-- Cuerda de nylon (20-30 metros)
-- Cinta adhesiva (duct tape)
-
-**Documentos del grupo:**
-- Lista de participantes con contactos de emergencia
-- Permisos necesarios para el área
-- Itinerario del campamento
-- Números de emergencia locales
+**Primeros auxilios:**
+- Siempre llevar botiquín
+- Conocer la ubicación del centro médico más cercano
+- Informar alergias o condiciones médicas al grupo
 
 ---
 
-### 6. Preparar un menú balanceado para el desayuno, almuerzo y cena
+### El cuchillo y la leña
 
-**Respuesta:**
+*(Requisito 4)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes preparar un menú real que se pueda cocinar en campamento.
+"Saquen sus cuchillos", dice tu consejero. "Hoy aprenden a usarlos bien."
 
-**EJEMPLO DE MENÚ BALANCEADO PARA UN DÍA:**
+**El círculo de seguridad**
 
-**DESAYUNO:**
-- Avena con pasas, nueces y canela
-- Huevos revueltos o tortilla
-- Pan tostado con mantequilla
-- Fruta fresca (manzana, banano, naranja)
-- Jugo de naranja natural o agua
-- Opcional: leche caliente con miel
+Antes de cualquier corte: extiende tu brazo con el cuchillo y gira 360°. Nadie debe estar dentro de ese radio. Si alguien entra, detén todo.
 
-**Valor nutricional:** Carbohidratos (energía rápida), proteínas (huevos), grasas saludables (nueces), vitaminas (fruta).
+**Reglas de corte:**
+- SIEMPRE corta alejándote de tu cuerpo
+- Sostén firme el mango completo - pulgar de un lado, cuatro dedos del otro
+- Nunca pongas el dedo índice sobre el lomo de la hoja
+- Para transportar: funda puesta. Para entregar: por el mango
+- Un cuchillo afilado es más seguro que uno desafilado - el desafilado resbala
 
-**ALMUERZO:**
-- Sándwiches variados (jamón/queso, mantequilla de maní/mermelada, atún)
-- Vegetales crudos (zanahoria, pepino, tomate)
-- Papas chips o galletas saladas
-- Fruta (uvas, manzana)
-- Agua o jugo
-- Barrita de granola o trail mix
+**Preparar leña para fogata**
 
-**Valor nutricional:** Menú portable, fácil de comer, con buenos carbohidratos, proteínas y vegetales frescos.
+Tu consejero pone tres montones en el suelo. "Para hacer fuego necesitan tres tamaños de madera. Sin los tres, no funciona."
 
-**CENA (comida principal):**
-- Arroz o pasta
-- Pollo o carne a la parrilla (o lentejas para vegetarianos)
-- Ensalada mixta o vegetales cocidos
-- Pan de ajo o tortillas
-- Agua o bebida caliente
-- Postre: S'mores o fruta asada
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Campfire_preparation.jpg" alt="Preparación de fogata con leña organizada" width="450">
+  <p><em>Leña organizada y lista para armar la fogata. (CC BY-SA 3.0, Alex Zelenko)</em></p>
+</div>
 
-**Valor nutricional:** Comida completa con proteínas (carne/legumbres), carbohidratos (arroz/pasta), vegetales, y grasas.
+| Tipo | Grosor | Largo | Para qué |
+|------|--------|-------|----------|
+| **Yesca** | Grosor de fósforo o menos | Libre | Prende con chispa. Corteza seca, hojas, virutas finas |
+| **Leña pequeña** | De lápiz a dedo | 15-20 cm | Alimenta el fuego inicial |
+| **Leña grande** | Grosor de muñeca | 30-40 cm | Mantiene el fuego encendido |
 
-**SNACKS durante el día:**
-- Trail mix (frutos secos y nueces)
-- Barras energéticas
-- Frutas secas
-- Galletas integrales
+**Técnica de corte:** apoya la rama en un tronco estable, haz cortes en ángulo (nunca directos), deja que el peso del cuchillo haga el trabajo.
 
-**PRINCIPIOS DE UN MENÚ BALANCEADO:**
-
-1. **Incluye los 5 grupos alimenticios:**
-   - Granos/cereales (energía)
-   - Proteínas (construcción muscular)
-   - Frutas y vegetales (vitaminas y minerales)
-   - Lácteos (calcio)
-   - Grasas saludables (energía sostenida)
-
-2. **Considera la actividad física:**
-   - Más actividad = más calorías necesarias
-   - Carbohidratos complejos dan energía duradera
-   - Proteínas ayudan a la recuperación muscular
-
-3. **Practicidad en campamento:**
-   - Alimentos no perecederos para el inicio
-   - Perecederos en cooler para primer día
-   - Menú simple pero nutritivo
-   - Considera restricciones alimentarias del grupo (vegetarianos, alergias)
-
-4. **Hidratación:**
-   - Agua abundante todo el día
-   - Mínimo 3 litros por persona/día
-   - Más si hace calor o hay mucha actividad
+"Practiquen en casa. El día del campamento no es momento de aprender esto por primera vez."
 
 ---
 
-### 7. Realizar las siguientes actividades mientras se está de campamento
+### Qué hacer si te pierdes
 
-**a) Preparar el terreno debajo de la carpa para tener un buen descanso**
+*(Requisito 8)*
 
-**Respuesta:**
+"Ahora lo más importante", dice tu consejero. "¿Qué hacen si se pierden en el campo?"
 
-**[PRÁCTICA REQUERIDA]**
-Debes demostrar esta habilidad armando una carpa correctamente.
+Alguien responde: "Caminar hasta encontrar el camino." Tu consejero niega con la cabeza.
 
-**PASOS PARA PREPARAR EL TERRENO:**
+"Eso es exactamente lo que NO haces. Caminar más solo te aleja más."
 
-1. **Elegir el lugar:**
-   - Terreno plano y nivelado
-   - Sin piedras grandes, raíces o ramas
-   - Ligeramente elevado (para que drene agua si llueve)
-   - Evita depresiones donde se acumule agua
+**Los 8 pasos:**
 
-2. **Limpiar el área:**
-   - Quita todas las piedras, piñas, palos, ramas
-   - Remueve o aplana protuberancias de tierra
-   - El área debe ser ligeramente más grande que la carpa
+1. **DETENTE** - En cuanto te das cuenta que estás perdido, para. Siéntate.
 
-3. **Nivelar:**
-   - Si hay desnivel ligero, ubica la cabeza en la parte alta
-   - Rellena pequeños huecos con tierra suelta
-   - Nunca cavar zanjas (daña el ecosistema)
+2. **QUÉDATE EN UN LUGAR** - Es mucho más fácil encontrarte si estás quieto. Busca un lugar visible: claro del bosque, al lado de un árbol grande.
 
-4. **Protección del suelo:**
-   - Coloca lona o huella protectora (footprint) antes que la carpa
-   - Esto protege el piso de la carpa de humedad y desgaste
-   - La lona debe ser del tamaño exacto de la carpa o más pequeña
+3. **MANTÉN LA CALMA** - El pánico te hace tomar malas decisiones. Respira profundo. Te van a buscar. La mayoría de personas perdidas se encuentran en 24-48 horas.
 
-5. **Orientación:**
-   - Puerta de la carpa lejos del viento dominante
-   - Evita que la puerta dé directamente al sol de la mañana (si quieres dormir más)
-   - O hacia el sol si quieres que se caliente temprano
+4. **SEÑALA TU POSICIÓN** - Usa tu silbato: 3 silbidos = emergencia. Repite cada 5-10 minutos. Cuelga ropa de colores brillantes en una rama alta. Si tienes espejo, usa reflejos de sol. Forma SOS con piedras o ramas en área abierta.
 
-**b) Armar correctamente una carpa**
+5. **BUSCA O CONSTRUYE REFUGIO** - Protégete del sol, viento o lluvia. Bajo un árbol caído, entre rocas grandes. No gastes mucha energía en algo elaborado.
 
-**Respuesta:**
+6. **LOCALÍZATE SI PUEDES** - ¿Cuándo notaste que estabas perdido? ¿Qué puntos de referencia viste? Si tienes mapa y brújula, intenta ubicarte. Pero NO sigas caminando "buscando el camino".
 
-**[PRÁCTICA REQUERIDA]**
+7. **CONSERVA ENERGÍA Y RECURSOS** - Raciona el agua. No comas plantas desconocidas. Descansa.
 
-**PASOS GENERALES (pueden variar según modelo):**
+8. **HAZTE ESCUCHAR Y VER** - Si escuchas voces, grita fuerte. Si escuchas helicóptero, sal a área abierta y mueve los brazos. Por la noche, mantén fogata si sabes hacerla con seguridad.
 
-1. **Extender la carpa:**
-   - Saca toda la carpa de su bolsa
-   - Identifica todas las piezas: carpa interna, techo, estacas, varillas
-   - Lee las instrucciones si es primera vez
+```mermaid
+graph TD
+    A["😰 ¡Estoy perdido!"] --> B["🛑 DETENTE"]
+    B --> C["📍 Quédate en un lugar"]
+    C --> D["🧘 Mantén la calma"]
+    D --> E["📢 Señala tu posición"]
+    E --> F["🏕️ Busca refugio"]
+    F --> G["🗺️ Localízate si puedes"]
+    G --> H["💧 Conserva energía"]
+    H --> I["👋 Hazte escuchar y ver"]
 
-2. **Armar estructura:**
-   - Ensambla las varillas/postes
-   - Insértalas en las fundas o clips de la carpa
-   - Arquea las varillas para dar forma a la carpa
+    style A fill:#f85149,color:#fff
+    style B fill:#f97316,color:#fff
+    style I fill:#3fb950,color:#fff
+```
 
-3. **Estaquear:**
-   - Comienza estacando las esquinas opuestas
-   - Clava estacas en ángulo de 45° alejándose de la carpa
-   - Tensa la carpa uniformemente (no demasiado, no muy flojo)
-   - Estaca todos los puntos indicados
+**Prevención:** NUNCA te separes del grupo. Sistema de compañeros. Lleva siempre silbato, agua y algo de abrigo.
 
-4. **Colocar el techo (rainfly):**
-   - Coloca el sobretecho sobre la estructura
-   - Debe quedar separado de la carpa interna (ventilación)
-   - Asegura con clips o cuerdas incluidas
-   - Estaca los tensores del techo
-
-5. **Ajustes finales:**
-   - Verifica que la carpa esté tensa y simétrica
-   - Ajusta tensores si es necesario
-   - Prueba abrir/cerrar las puertas y ventanas
-   - Guarda las bolsas y equipo extra dentro o en el vestíbulo
-
-**CONSEJOS:**
-- Practica armar tu carpa EN CASA antes del campamento
-- Revisa que todas las piezas estén completas
-- Si llueve, arma rápido para que el interior no se moje
-- Cierra la puerta para que no entren insectos
-
-**c) Preparar un área para encender una fogata**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-
-**PREPARACIÓN SEGURA DE FOGATA:**
-
-1. **Ubicación:**
-   - Lejos de carpas (mínimo 5 metros)
-   - Lejos de árboles, arbustos, pasto seco
-   - Protegida del viento pero con buena ventilación
-   - En área designada si existe, o en suelo mineral (tierra, arena, roca)
-
-2. **Limpiar el área:**
-   - Radio de 2-3 metros alrededor del fuego
-   - Quita todo material inflamable: hojas secas, ramas, pasto
-   - Raspa hasta llegar a tierra mineral
-   - Ten agua o arena cerca para emergencias
-
-3. **Crear el círculo de fuego:**
-   - **Opción 1:** Usa un anillo de fuego existente
-   - **Opción 2:** Haz círculo de piedras (30-40 cm de diámetro)
-   - Las piedras deben ser del tamaño de tu puño
-   - NO uses piedras de río (pueden explotar con el calor)
-   - Deja espacio entre piedras para flujo de aire
-
-4. **Preparar la fogata:**
-   - Ten lista la leña en tres tamaños (yesca, pequeña, grande)
-   - Prepara más leña de la que crees necesitar
-   - Mantén la leña organizada y seca
-   - Nunca cortes árboles vivos - usa solo madera caída y seca
-
-5. **Equipamiento de seguridad:**
-   - Balde con agua cerca
-   - Pala para echar tierra si es necesario
-   - Guantes para manipular leña
-   - Palo largo para mover troncos
-
-**REGLA DE ORO:** Si no puedes apagar el fuego completamente con los recursos disponibles, NO lo enciendas.
-
-**d) Demostrar cómo proteger el campamento de los animales, los insectos, el mal tiempo o lluvia**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-
-**PROTECCIÓN CONTRA ANIMALES:**
-
-1. **Comida:**
-   - NUNCA guardes comida en la carpa donde duermes
-   - Cuelga la comida en un árbol a 3-4 metros de altura y 1 metro de distancia del tronco
-   - O usa contenedores a prueba de animales
-   - Lava los platos inmediatamente después de comer
-   - Elimina olores: guarda jabón, pasta de dientes, bloqueador en el mismo lugar que la comida
-
-2. **Basura:**
-   - Guarda basura en bolsas cerradas lejos del campamento
-   - O cuélgala junto con la comida
-   - No dejes basura en el suelo (ni por un minuto)
-
-3. **Zona de actividades:**
-   - Cocina mínimo 50 metros lejos de donde duermes
-   - Triángulo: zona de dormir - zona de cocina - zona de almacenar comida
-   - Si ves animales, haz ruido y aléjalos (no los alimentes)
-
-**PROTECCIÓN CONTRA INSECTOS:**
-
-1. **Prevención:**
-   - Usa repelente en piel expuesta
-   - Ropa de manga larga al amanecer y atardecer (momento de más mosquitos)
-   - Evita perfumes o jabones con olores fuertes
-   - Cierra carpas completamente (revisa mosquiteros)
-
-2. **En el campamento:**
-   - Elimina agua estancada cerca (mosquitos se reproducen ahí)
-   - El humo de fogata ayuda a repeler insectos
-   - Usa mosquiteros o redes si es zona con muchos insectos
-   - Revisa ropa y zapatos antes de ponértelos (escorpiones, arañas)
-
-3. **Tratamiento:**
-   - Lleva crema para picaduras
-   - Si alguien es alérgico a picaduras, debe tener su medicamento
-
-**PROTECCIÓN CONTRA MAL TIEMPO/LLUVIA:**
-
-1. **Antes de armar campamento:**
-   - Verifica pronóstico del tiempo
-   - Ubica carpas en terreno alto (nunca en depresión)
-   - Identifica refugio natural cercano por si hay tormenta eléctrica
-
-2. **Carpas:**
-   - Asegura bien las estacas y tensores
-   - Verifica que el techo cubra bien y no toque la carpa interna
-   - Cierra todas las ventanas y puertas si hay viento/lluvia
-   - Guarda todo el equipo dentro o bajo techo
-
-3. **Equipamiento:**
-   - Ten todo en bolsas impermeables
-   - Cubre mochila con funda impermeable
-   - Prepara ropa seca de cambio en bolsa sellada
-   - Lona extra para cubrir zona de cocina
-
-4. **Durante tormenta eléctrica:**
-   - Entra a la carpa (es más seguro que estar afuera)
-   - Aléjate de árboles altos aislados
-   - Si estás afuera: agáchate con pies juntos, no te acuestes
-   - Espera 30 minutos después del último trueno antes de salir
-
-5. **Después de la lluvia:**
-   - Seca carpas y equipo cuando salga el sol
-   - Ventila carpas para evitar moho
-   - Revisa que no hayan charcos bajo o dentro de carpas
-
-**e) Demostrar cómo preservar la naturaleza durante el campamento y dejar el lugar como si nadie hubiera estado allí**
-
-**Respuesta:**
-
-**[PRÁCTICA REQUERIDA]**
-
-**PRINCIPIOS DE "NO DEJAR RASTRO":**
-
-1. **Planifica con anticipación:**
-   - Acampa en áreas designadas cuando existan
-   - Estudia las regulaciones del área
-   - Lleva bolsas para toda tu basura
-
-2. **Superficie durable:**
-   - Camina en senderos establecidos
-   - Acampa en sitios ya usados si existen
-   - Si haces nuevo campamento, usa pasto, grava o tierra
-   - No crees nuevos senderos o atajos
-
-3. **Basura:**
-   - **LLEVA TODO LO QUE TRAJISTE**
-   - Recoge TODA la basura, incluso la que no es tuya
-   - Empaca cáscaras de frutas, semillas, restos orgánicos
-   - Separa reciclables si es posible
-   - Filtra agua gris (de lavar platos) antes de desecharla lejos del campamento
-
-4. **Fogatas:**
-   - Usa estufa en vez de fogata cuando sea posible
-   - Si haces fogata, usa anillo existente
-   - Quema completamente toda la leña hasta cenizas
-   - Apaga completamente: agua + revolver + más agua
-   - Cenizas frías se esparcen lejos del campamento
-   - Si creaste nuevo anillo de piedras, desármalo y esparce las piedras
-
-5. **Respeta la vida silvestre:**
-   - Observa animales desde lejos, NO te acerques
-   - NUNCA alimentes animales silvestres
-   - Protege la comida y basura de los animales
-   - No molestes nidos, madrigueras o hábitats
-
-6. **Respeta otros visitantes:**
-   - Mantén ruidos bajos, especialmente de noche
-   - Ubica tu campamento lejos de otros grupos
-   - Deja los senderos limpios y despejados
-   - Respeta las áreas de privacidad
-
-7. **Sanitarios:**
-   - Usa baños designados cuando existan
-   - Si no hay: cava hueco de 15-20 cm, a 60 metros de agua
-   - Entierra desechos humanos y papel (o lleva el papel en bolsa)
-   - Tapa completamente el hueco
-
-8. **Plantas:**
-   - No cortes árboles o arbustos vivos
-   - No arranques flores o plantas
-   - Deja todo como lo encontraste
-   - Usa solo madera caída y seca
-
-**AL DESARMAR EL CAMPAMENTO:**
-- Inspecciona toda el área en cuadrícula
-- Recoge cada pedacito de basura, cuerda, estaca olvidada
-- Aplana áreas donde dormiste
-- Esparce hojas/agujas de pino para cubrir zonas compactadas
-- Toma foto final del área limpia
-
-**LEMA:** "Toma solo fotografías, deja solo huellas, mata solo el tiempo"
+> **Regla del 3:** 3 minutos sin aire, 3 horas sin refugio (clima extremo), 3 días sin agua, 3 semanas sin comida. Prioridad: refugio y temperatura corporal antes que comida.
 
 ---
 
-### 8. Saber ocho cosas que debes hacer cuando estás perdido
+## Fase 3 - Tres días en el campo
 
-**Respuesta:**
-
-**PROTOCOLO CUANDO ESTÁS PERDIDO:**
-
-1. **DETENTE - NO SIGAS CAMINANDO**
-   - En cuanto te das cuenta que estás perdido, PARA
-   - Caminar más solo te aleja más del grupo
-   - Siéntate y mantén la calma
-
-2. **QUÉDATE EN UN LUGAR**
-   - Es mucho más fácil que te encuentren si estás quieto
-   - Si sigues moviéndote, los rescatistas te persiguen sin alcanzarte
-   - Busca un lugar visible y seguro (claro del bosque, al lado de árbol grande)
-
-3. **MANTÉN LA CALMA - PIENSA**
-   - El pánico te hace tomar malas decisiones
-   - Respira profundo varias veces
-   - Recuerda que te van a buscar
-   - La mayoría de personas perdidas se encuentran en 24-48 horas
-
-4. **SEÑALA TU POSICIÓN**
-   - Usa tu silbato: 3 silbidos = señal de emergencia
-   - Espera respuesta, repite cada 5-10 minutos
-   - Haz señales visibles: ropa de colores brillantes en rama alta
-   - Si tienes espejo, usa reflejos de sol para señalizar
-   - Forma SOS con piedras o ramas en área abierta (visible desde aire)
-
-5. **BUSCA O CONSTRUYE REFUGIO**
-   - Protégete del sol, viento, lluvia
-   - Mantente seco y a temperatura adecuada
-   - Refugio simple: bajo árbol caído, cueva pequeña, entre rocas grandes
-   - No gastes mucha energía construyendo refugio elaborado
-
-6. **LOCALÍZATE SI PUEDES**
-   - Piensa: ¿Cuándo notaste que estabas perdido?
-   - ¿Qué puntos de referencia viste? (río, montaña, camino)
-   - Si tienes mapa y brújula, trata de ubicarte
-   - NO sigas caminando "buscando el camino"
-
-7. **CONSERVA ENERGÍA Y RECURSOS**
-   - Racional el agua que tengas
-   - No comas plantas que no conozcas (pueden ser venenosas)
-   - Descansa y guarda energía
-   - Mantente abrigado
-
-8. **HAZTE ESCUCHAR Y VER**
-   - Responde inmediatamente si escuchas voces o silbidos
-   - Grita fuerte: "¡AUXILIO!" o "¡AQUÍ!"
-   - Si escuchas helicóptero: sal a área abierta, mueve los brazos
-   - Por la noche: mantén fogata (si sabes hacerla con seguridad)
-
-**PREVENCIÓN ES MEJOR:**
-- NUNCA te separes del grupo
-- Usa sistema de compañeros
-- Informa al grupo si vas al baño o te alejas
-- Lleva siempre silbato, agua, y algo de abrigo
-
-**Regla del 3:**
-- 3 minutos sin aire
-- 3 horas sin refugio (en clima extremo)
-- 3 días sin agua
-- 3 semanas sin comida
-**Prioridad: refugio y temperatura corporal antes que comida**
+*Es viernes temprano. La unidad carga las mochilas en el vehículo. Hay nervios, hay emoción. Tu consejero revisa la lista una última vez: "¿Todos tienen su equipo? ¿Botiquín? ¿Agua extra?" Sí. Vamos.*
 
 ---
 
-### 9. Acampar durante tres días y dos noches seguidas, dormir al aire libre o dentro de una carpa. Participar activamente en la preparación de, por lo menos, dos comidas
+### Preparar el terreno
 
-**Respuesta:**
+*(Requisito 7a)* **[PRÁCTICA REQUERIDA]**
 
-**[PRÁCTICA REQUERIDA]**
-Debes realizar un campamento real de 3 días/2 noches para completar este requisito.
+Llegan al lugar. Lo primero: elegir dónde poner las carpas.
 
-**PLANIFICACIÓN DEL CAMPAMENTO:**
+Tu consejero camina el terreno señalando: "Acá no - hay una raíz grande. Acá tampoco - es una depresión, se acumula agua si llueve. Acá sí - plano, ligeramente elevado, sin piedras."
 
-**Antes del campamento:**
-- Verifica que tienes todo el equipo necesario (requisito 5)
-- Revisa el pronóstico del tiempo
-- Planifica el menú (requisito 6)
-- Asigna responsabilidades: quién cocina qué comida
-- Estudia el mapa del área donde acamparán
-- Avisa a tus padres/tutores del itinerario completo
+**Pasos para preparar el terreno:**
 
-**Durante el campamento debes:**
-
-1. **Día 1 - Llegada y establecimiento:**
-   - Armar tu carpa correctamente (requisito 7b)
-   - Preparar el terreno para dormir (requisito 7a)
-   - Organizar área de fogata (requisito 7c)
-   - Guardar comida de manera segura (requisito 7d)
-   - Participar en preparación de cena
-
-2. **Día 2 - Día completo en campamento:**
-   - Desayuno en campamento
-   - Actividades grupales (caminatas, juegos, devoción)
-   - Almuerzo
-   - Más actividades o tiempo libre
-   - Preparar cena (esta es tu segunda comida donde participas)
-   - Fogata por la noche
-
-3. **Día 3 - Desarme y salida:**
-   - Desayuno
-   - Desarmar campamento
-   - Limpiar área completamente (requisito 7e)
-   - Inspección final del área
-   - Regreso a casa
-
-**PARTICIPACIÓN EN COMIDAS:**
-
-Debes participar activamente en preparar al menos 2 comidas. Esto puede incluir:
-- Preparar y encender la fogata
-- Cortar vegetales o ingredientes
-- Cocinar en fogata o estufa bajo supervisión
-- Servir la comida
-- Lavar platos y utensilios después
-- Guardar alimentos sobrantes apropiadamente
-
-**LO QUE APRENDERÁS:**
-- Convivencia en naturaleza por período extendido
-- Trabajo en equipo
-- Responsabilidad personal
-- Conexión con la naturaleza
-- Habilidades prácticas de campamento
-- Confianza en tus capacidades
-
-**DOCUMENTACIÓN:**
-- Toma fotos del campamento
-- Escribe reflexión sobre tu experiencia
-- Anota qué funcionó bien y qué mejorarías
+1. **Elegir:** Terreno plano, sin piedras ni raíces, ligeramente elevado para drenaje
+2. **Limpiar:** Quitar piedras, piñas, palos. El área debe ser un poco más grande que la carpa
+3. **Nivelar:** Si hay desnivel ligero, la cabeza va en la parte alta. Rellenar huecos con tierra suelta. Nunca cavar zanjas - daña el ecosistema
+4. **Proteger el suelo:** Colocar lona protectora antes que la carpa. Debe ser del tamaño exacto o más pequeña que la carpa
+5. **Orientar:** Puerta lejos del viento dominante. Hacia el sol si quieres calor temprano; lejos si quieres dormir más
 
 ---
 
-### 10. Teniendo en cuenta lo aprendido en esta especialidad y en los campamentos realizados, ¿cuál es el significado y la razón del Código de Campamentos de los Conquistadores?
+### Armar la carpa
 
-**Respuesta:**
+*(Requisito 7b)* **[PRÁCTICA REQUERIDA]**
 
-**CÓDIGO DE CAMPAMENTOS DE LOS CONQUISTADORES:**
+"¿Quién ha armado una carpa antes?" Pocas manos se levantan. "Perfecto. Hoy todos aprenden."
 
-El Código de Campamentos resume las actitudes y principios que todo conquistador debe tener al estar en la naturaleza. Refleja nuestro compromiso cristiano de ser buenos mayordomos de la creación de Dios.
+**Pasos generales:**
 
-**EL CÓDIGO:**
+1. **Extender** - Saca todo de la bolsa. Identifica piezas: carpa interna, techo (rainfly), estacas, varillas
+2. **Armar estructura** - Ensambla varillas, insértalas en fundas o clips, arquéalas para dar forma
+3. **Estaquear** - Comienza por esquinas opuestas. Estacas en ángulo de 45° alejándose de la carpa. Tensa uniformemente
+4. **Colocar techo** - El sobretecho debe quedar separado de la carpa interna (ventilación). Asegura con clips y estaca los tensores
+5. **Ajustes** - Verifica que esté tensa y simétrica. Prueba abrir y cerrar puertas y ventanas
 
-*"Por la gracia de Dios, seré:*
-- *Considerado con todos los campistas*
-- *Obediente a los reglamentos del campamento*
-- *Limpio en mi cuerpo, pensamientos y lenguaje*
-- *Cuidadoso con todo el material del campamento*
-- *Cortés y cooperador*
-- *Agradecido por el mundo que Dios me dio"*
+"Practiquen armar su carpa EN CASA antes de un campamento. Llegar al campo de noche y no saber armarla no es divertido para nadie."
 
-**SIGNIFICADO Y RAZÓN:**
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Dome_tent_in_the_BWCA_%28CDM11452CT%29.jpg" alt="Carpa domo armada en terreno de campamento" width="500">
+  <p><em>Carpa tipo domo correctamente armada en terreno plano y despejado. (CC BY-SA 4.0, ModalPeak)</em></p>
+</div>
 
-1. **"Considerado con todos los campistas"**
-   - Respeta el espacio y necesidades de otros
-   - No hagas ruidos molestos
-   - Comparte recursos y ayuda a quien lo necesita
-   - Sé amable y paciente, aunque estés cansado o incómodo
-   - **Razón:** Acampar en grupo requiere convivencia armoniosa
+---
 
-2. **"Obediente a los reglamentos del campamento"**
-   - Sigue las reglas de seguridad
-   - Respeta horarios establecidos
-   - Permanece en áreas designadas
-   - Escucha a líderes y consejeros
-   - **Razón:** Las reglas protegen tu seguridad y la del grupo
+### La fogata
 
-3. **"Limpio en mi cuerpo, pensamientos y lenguaje"**
-   - Mantén higiene personal aunque estés en naturaleza
-   - Evita palabras groseras o vocabulario inapropiado
-   - Mantén tu mente en cosas puras y edificantes
-   - Rechaza conversaciones o bromas de mal gusto
-   - **Razón:** Representamos a Cristo en todo lugar y momento
+*(Requisito 7c)* **[PRÁCTICA REQUERIDA]**
 
-4. **"Cuidadoso con todo el material del campamento"**
-   - Trata el equipo prestado mejor que si fuera tuyo
-   - Usa herramientas apropiadamente
-   - Devuelve todo limpio y en buen estado
-   - Reporta daños o problemas inmediatamente
-   - **Razón:** El equipo es costoso y debe durar para futuros campamentos
+Con las carpas listas, es hora de preparar el área de fogata. "¿Qué tipo de fogata armamos?", pregunta alguien. Tu consejero explica que hay varios tipos, y cada uno tiene su uso:
 
-5. **"Cortés y cooperador"**
-   - Ofrece ayuda sin que te la pidan
-   - Participa en tareas del campamento con buena actitud
-   - Da las gracias, pide por favor
-   - Reconoce el trabajo de otros
-   - **Razón:** El campamento es responsabilidad de todos, no solo de los líderes
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:1.5rem 0;">
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Camp_Teepee_Fire.svg" alt="Fogata tipo tipi" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Tipi</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Cono de leña. Calienta e ilumina. La más común para principiantes.</span>
+</div>
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Camp_Log_Cabin_Fire.svg" alt="Fogata tipo cabaña" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Cabaña</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Troncos en cuadrado. Brasas parejas - ideal para cocinar.</span>
+</div>
+<div style="flex:1 1 160px; max-width:200px; background:var(--bg-secondary); border:1px solid var(--border-color); border-radius:10px; padding:16px; text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Camp_Star_Fire.svg" alt="Fogata tipo estrella" style="width:120px; height:auto; margin:0 auto 8px; border:none;">
+<strong style="display:block; color:var(--primary-color); font-size:0.95rem;">Estrella</strong>
+<span style="font-size:0.82rem; color:var(--text-dim);">Troncos en estrella, se empujan al centro. Dura mucho, poco mantenimiento.</span>
+</div>
+</div>
+<p style="text-align:center; font-size:0.8rem; color:var(--text-muted); margin-top:-8px;"><em>Dominio público, Jazzmanian</em></p>
 
-6. **"Agradecido por el mundo que Dios me dio"**
-   - Reconoce la belleza de la creación de Dios
-   - Cuida y protege la naturaleza (no dejes rastro)
-   - No dañes plantas ni animales innecesariamente
-   - Aprende sobre el mundo natural y valóralo
-   - **Razón:** Somos mayordomos de la creación, no dueños
+**Ubicación:**
+- Mínimo 5 metros de las carpas
+- Lejos de árboles, arbustos, pasto seco
+- Protegida del viento pero con ventilación
+- En suelo mineral (tierra, arena, roca) o área designada
 
-**REFLEXIÓN FINAL:**
+**Preparación:**
 
-Este código nos recuerda que acampar no es solo diversión y aventura, sino una oportunidad de:
-- Crecer en carácter
-- Servir a otros
-- Cuidar la creación de Dios
-- Representar los valores cristianos
-- Desarrollar responsabilidad y madurez
+1. Limpiar un radio de 2-3 metros - quitar todo material inflamable
+2. Crear círculo de piedras (30-40 cm de diámetro). NO usar piedras de río - pueden explotar con el calor
+3. Tener lista la leña en tres tamaños (lo que practicaron en la Fase 2)
+4. Preparar más leña de la que crees necesitar
+5. Nunca cortar árboles vivos - solo madera caída y seca
 
-Al seguir este código, honramos a Dios, respetamos a otros, y preservamos la naturaleza para futuras generaciones.
+**Equipamiento de seguridad cerca:**
+- Balde con agua
+- Pala para echar tierra
+- Guantes
+- Palo largo para mover troncos
+
+```mermaid
+graph TB
+    subgraph "Triángulo de campamento"
+        A["🏕️ Zona de dormir"]
+        B["🔥 Zona de cocina"]
+        C["🎒 Almacén de comida"]
+    end
+    A -- "mínimo 50m" --- B
+    B -- "mínimo 50m" --- C
+    C -- "mínimo 50m" --- A
+
+    style A fill:#58a6ff,color:#fff
+    style B fill:#f97316,color:#fff
+    style C fill:#3fb950,color:#fff
+```
+
+> **Regla de oro:** Si no puedes apagar el fuego completamente con los recursos disponibles, NO lo enciendas.
+
+---
+
+### Proteger el campamento
+
+*(Requisito 7d)* **[PRÁCTICA REQUERIDA]**
+
+La primera noche siempre trae sorpresas. Tu consejero anticipa: "La naturaleza no se adapta a nosotros. Nosotros nos adaptamos a ella."
+
+**Contra animales:**
+- NUNCA guardar comida en la carpa donde duermes
+- Colgar comida en un árbol: 3-4 metros de altura, 1 metro del tronco
+- Lavar platos inmediatamente después de comer
+- Guardar jabón, pasta de dientes y bloqueador junto con la comida - los olores atraen animales
+
+**Contra insectos:**
+- Repelente en piel expuesta, especialmente al amanecer y atardecer
+- Ropa de manga larga en las horas de más mosquitos
+- Cerrar carpas completamente - revisar mosquiteros
+- Eliminar agua estancada cerca (mosquitos se reproducen ahí)
+- Revisar ropa y zapatos antes de ponértelos (escorpiones, arañas)
+
+**Contra mal tiempo y lluvia:**
+- Asegurar estacas y tensores de las carpas
+- Verificar que el techo no toque la carpa interna
+- Todo el equipo en bolsas impermeables
+- Lona extra para cubrir zona de cocina
+
+**En tormenta eléctrica:**
+- Entrar a la carpa (más seguro que estar afuera)
+- Alejarse de árboles altos aislados
+- Si estás afuera: agáchate con pies juntos, no te acuestes
+- Esperar 30 minutos después del último trueno
+
+---
+
+### Vivir el campamento
+
+*(Requisito 9)* **[PRÁCTICA REQUERIDA]**
+
+Tres días, dos noches. Este es el corazón de la especialidad.
+
+**Día 1 - Llegada:**
+- Armar carpas y organizar campamento
+- Preparar área de fogata
+- Guardar comida de manera segura
+- Primera cena juntos - tu turno de participar en la cocina
+
+**Día 2 - Día completo en el campo:**
+- Desayuno en campamento
+- Actividades: caminatas, juegos, devocional
+- Almuerzo
+- Tarde libre o más actividades
+- Cena - tu segunda comida preparando
+- Fogata nocturna
+
+**Día 3 - Cierre:**
+- Desayuno
+- Desarmar campamento
+- Limpieza del área
+- Regreso
+
+**Participación en comidas:** Debes participar activamente en al menos 2 comidas. Esto incluye preparar la fogata, cortar ingredientes, cocinar, servir, lavar platos y guardar sobrantes.
+
+"No se trata solo de estar tres días afuera", dice tu consejero durante el devocional del segundo día. "Se trata de aprender a convivir, a servir, a confiar en tus compañeros y en Dios."
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/A_simple_campfire.jpg" alt="Fogata encendida de noche en campamento" width="500">
+  <p><em>Fogata nocturna - el corazón del campamento. (CC BY-SA 2.0, Leon Bovenkerk)</em></p>
+</div>
+
+---
+
+## Fase 4 - Volver a casa
+
+*Tercer día. El sol sale y el campamento se siente distinto - ya no es nuevo, es familiar. Pero es hora de irse. Y la forma en que te vas importa tanto como la forma en que llegaste.*
+
+---
+
+### No dejar rastro
+
+*(Requisito 7e)* **[PRÁCTICA REQUERIDA]**
+
+Tu consejero reúne a la unidad: "Vamos a dejar este lugar como si nunca hubiéramos estado. Mejor todavía: más limpio que cuando llegamos."
+
+**Principios de "No Dejar Rastro":**
+
+1. **Basura** - LLEVA TODO lo que trajiste. Recoge TODA la basura, incluso la que no es tuya. Empaca cáscaras, semillas, restos orgánicos
+2. **Fogata** - Quema toda la leña hasta cenizas. Apaga con agua, revuelve, más agua. Cenizas frías se esparcen lejos. Si creaste anillo de piedras, desármalo
+3. **Vida silvestre** - Observa desde lejos. NUNCA alimentes animales silvestres
+4. **Sanitarios** - Usa baños si existen. Si no: hueco de 15-20 cm, a 60 metros del agua. Tapa completamente
+5. **Plantas** - No cortes árboles ni arbustos vivos. No arranques flores. Usa solo madera caída
+
+**Al desarmar:**
+- Inspeccionar toda el área en cuadrícula
+- Recoger cada pedacito de basura, cuerda, estaca olvidada
+- Aplanar áreas donde dormiste
+- Esparcir hojas o agujas de pino para cubrir zonas compactadas
+
+> "Toma solo fotografías, deja solo huellas, mata solo el tiempo."
+
+---
+
+### El Código de Campamentos
+
+*(Requisito 10)*
+
+De vuelta en el vehículo, tu consejero saca una tarjeta y lee:
+
+> *"Por la gracia de Dios, seré:*
+> - *Considerado con todos los campistas*
+> - *Obediente a los reglamentos del campamento*
+> - *Limpio en mi cuerpo, pensamientos y lenguaje*
+> - *Cuidadoso con todo el material del campamento*
+> - *Cortés y cooperador*
+> - *Agradecido por el mundo que Dios me dio"*
+
+"Hace tres días esto eran solo palabras. Ahora ustedes saben lo que significan porque lo vivieron."
+
+**Considerado** - Compartiste espacio, fuiste paciente aunque estabas cansado. Respetar a otros en convivencia no es fácil, y lo hiciste.
+
+**Obediente** - Seguiste las reglas de seguridad. No porque alguien te obligó, sino porque entiendes que protegen a todos.
+
+**Limpio** - Mantuviste higiene personal en el campo. Cuidaste tu lenguaje. Mantuviste tu mente en cosas que edifican.
+
+**Cuidadoso** - Trataste el equipo prestado con respeto. Lo devolviste limpio y en buen estado.
+
+**Cortés y cooperador** - Ayudaste sin que te lo pidieran. Participaste en las tareas con buena actitud.
+
+**Agradecido** - Viste la creación de Dios de cerca. La cuidaste. La valoraste.
+
+"Este código no es una lista de reglas", dice tu consejero. "Es un recordatorio de quiénes queremos ser - en el campo y fuera de él."
+
+---
+
+## Referencia
+
+### Mapa de requisitos
+
+| Requisito | Tema | Fase | Sección |
+|-----------|------|------|---------|
+| 1 | Elegir lugar (clima, estaciones, agua) | Fase 1 | Elegir el lugar |
+| 2 | Listas de ropa | Fase 1 | Qué llevar puesto |
+| 3 | Reglas de seguridad | Fase 2 | Reglas de seguridad |
+| 4 | Uso de cuchillo y preparar leña | Fase 2 | El cuchillo y la leña |
+| 5 | Equipo personal y grupal | Fase 1 | Armar las listas de equipo |
+| 6 | Menú balanceado | Fase 1 | Planificar el menú |
+| 7a | Preparar terreno | Fase 3 | Preparar el terreno |
+| 7b | Armar carpa | Fase 3 | Armar la carpa |
+| 7c | Área de fogata | Fase 3 | La fogata |
+| 7d | Protección del campamento | Fase 3 | Proteger el campamento |
+| 7e | No dejar rastro | Fase 4 | No dejar rastro |
+| 8 | Qué hacer si te pierdes | Fase 2 | Qué hacer si te pierdes |
+| 9 | Campamento de 3 días/2 noches | Fase 3 | Vivir el campamento |
+| 10 | Código de Campamentos | Fase 4 | El Código de Campamentos |
 
 ---
 
 ## 📚 Referencias y recursos adicionales
 
-- **Libros:**
-  - "Manual de Campismo" - Club de Conquistadores
-  - "Guía completa de supervivencia" - Varios autores
-  - "No dejes rastro - Manual de conservación"
+- [**Manual No Deje Rastro**](https://drive.google.com/file/d/1g8IEtGrYmk0_mk2vqykZfZ24QE7lniC_/view) - Sendero de Chile / NOLS / CONAMA. Los 7 principios de mínimo impacto adaptados a Chile (22 páginas)
+- [**Leave No Trace**](https://lnt.org/why/7-principles/) - Los 7 principios originales en inglés
+- [**Pathfinders Online - Camp Craft**](https://wiki.pathfindersonline.org/honors/camping/camp-craft) - Referencia de la especialidad en inglés
 
-- **Videos recomendados:**
-  - Técnicas básicas de campamento (YouTube: canal Conquistadores)
-  - Cómo armar diferentes tipos de carpas
-  - Principios de No Dejar Rastro (Leave No Trace)
-
-- **Sitios web:**
-  - Leave No Trace Center for Outdoor Ethics: lnt.org
-  - Club de Conquistadores DSA: conquistadores.org.ar
-  - Pronósticos del tiempo locales
-
-- **Aplicaciones útiles:**
-  - Mapas offline (Maps.me, Gaia GPS)
-  - Identificación de plantas (PlantNet)
-  - Primeros auxilios (Cruz Roja)
+**Aplicaciones útiles:**
+- [Maps.me](https://maps.me/) - Mapas offline
+- [PlantNet](https://plantnet.org/) - Identificación de plantas
+- [Cruz Roja - Primeros Auxilios](https://play.google.com/store/apps/details?id=com.cube.arc.fa) - App de primeros auxilios
 
 ---
 
 ## ✅ Notas para el instructor
 
 **Requisitos prácticos obligatorios:**
-- Requisito 4: Demostración de uso seguro de cuchillo
-- Requisito 5: Listas completas de equipo
-- Requisito 7: Todas las habilidades deben demostrarse en campamento real
-- Requisito 9: Campamento de 3 días/2 noches es obligatorio
+- Req 2: Listas de ropa preparadas por el conquistador
+- Req 4: Demostración de uso seguro de cuchillo y preparación de leña
+- Req 5: Listas de equipo preparadas por el conquistador
+- Req 6: Menú planificado por el conquistador
+- Req 7a-e: Todas las habilidades demostradas en campamento real
+- Req 9: Campamento de 3 días/2 noches obligatorio, con participación en al menos 2 comidas
 
-**Evaluación:**
+**Cómo evaluar:**
 - Observar al conquistador durante todo el campamento
 - Verificar participación activa en tareas
 - Confirmar que conoce y aplica reglas de seguridad
 - Evaluar actitud de servicio y cuidado del ambiente
 
-**Seguridad:**
-- Supervisar siempre el uso de herramientas cortantes
-- Verificar que todos conocen señales de emergencia
-- Mantener botiquín de primeros auxilios accesible
-- Revisar condiciones climáticas regularmente
-- Establecer sistema de compañeros antes de iniciar actividades
-
-**Consejos pedagógicos:**
-- Esta especialidad es fundamental para conquistadores
+**Sugerencias pedagógicas:**
 - Practicar habilidades múltiples veces antes del campamento de evaluación
 - Hacer campamentos cortos (1 noche) como preparación
 - Involucrar a conquistadores en toda la planificación
 - Enfatizar el aspecto espiritual: Dios se revela en la naturaleza
-- Fomentar respeto y cuidado del ambiente desde el inicio
 
-**Materiales sugeridos para la enseñanza:**
-- Diferentes tipos de carpas para practicar
-- Kit de herramientas de campamento
-- Ejemplos de menús balanceados
-- Lista de verificación impresa de equipo
-- Ejemplos físicos de yesca, leña pequeña y grande
-- Mapa del área donde acamparán
+**Seguridad:**
+- Supervisar siempre el uso de herramientas cortantes
+- Verificar que todos conocen señales de emergencia (3 silbidos)
+- Mantener botiquín accesible
+- Revisar condiciones climáticas regularmente
+- Establecer sistema de compañeros antes de iniciar actividades
 
 ---
 
-<div align="center">
-
-*Manual de Especialidades - Club de Conquistadores*
-*División Sudamericana*
-
-</div>
+*Manual de Especialidades - Club de Conquistadores - División Sudamericana*

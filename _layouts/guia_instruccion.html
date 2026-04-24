@@ -385,6 +385,52 @@
       }
       .toc-list a:hover { background: var(--bg-tertiary); color: var(--primary-color); text-decoration: none; }
 
+      /* ── Specialty header ─────────────────── */
+      .specialty-header {
+        text-align: center;
+        background: var(--bg-secondary);
+        padding: 24px 16px;
+        border-radius: 10px;
+        border: 1px solid var(--border-color);
+        margin: 0 0 24px;
+      }
+      .specialty-header .header-logo {
+        width: 80px; height: auto;
+        margin: 0 auto 12px;
+        border: none;
+        border-radius: 0;
+      }
+      .specialty-header .header-title {
+        font-size: 1.8rem;
+        color: var(--primary-color);
+        border-bottom: none;
+        margin: 0 0 12px;
+        padding: 0;
+        text-shadow: 0 0 20px var(--primary-dim);
+      }
+      @media (min-width: 768px) {
+        .specialty-header .header-title { font-size: 2.2rem; }
+      }
+      .header-meta {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px 16px;
+      }
+      .meta-tag {
+        font-size: 0.85rem;
+        color: var(--text-dim);
+        background: var(--bg-tertiary);
+        padding: 4px 10px;
+        border-radius: 6px;
+        border: 1px solid var(--border-color);
+      }
+      .meta-tag strong { color: var(--primary-color); }
+      .specialty-header hr {
+        margin: 16px 0 0;
+        border-color: var(--border-color);
+      }
+
       ::selection { background: var(--primary-color); color: var(--bg-color); }
       :focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
 
@@ -397,6 +443,11 @@
       @media print {
         body { background: white; color: #333; font-size: 12pt; line-height: 1.5; padding: 0; max-width: 100%; }
         .page-nav, .floating-nav, .reading-progress, .toc-menu { display: none !important; }
+        .specialty-header { background: transparent; border: 1pt solid #ccc; }
+        .specialty-header .header-title { color: #2c3e50; text-shadow: none; font-size: 20pt; }
+        .specialty-header .header-logo { width: 60px; }
+        .meta-tag { background: transparent; border: 1pt solid #ccc; color: #333; }
+        .meta-tag strong { color: #2c3e50; }
         @page {
           margin: 2cm; size: A4;
           @top-left { content: "Guia de Instruccion"; font-size: 9pt; color: #666; }
@@ -440,6 +491,20 @@
         <span class="area-label">{{ page.area }}</span>
         {% endif %}
       </nav>
+      {% if page.codigo %}
+      <div class="specialty-header">
+        <img src="{{ site.baseurl }}/assets/images/logo.svg" alt="Logo Conquistadores" class="header-logo">
+        <h1 class="header-title">{{ page.title }}</h1>
+        <div class="header-meta">
+          {% if page.area %}<span class="meta-tag"><strong>Área:</strong> {{ page.area }}</span>{% endif %}
+          {% if page.codigo %}<span class="meta-tag"><strong>Código:</strong> {{ page.codigo }}</span>{% endif %}
+          {% if page.nivel %}<span class="meta-tag"><strong>Nivel:</strong> {{ page.nivel }}</span>{% endif %}
+          {% if page.ano_creacion %}<span class="meta-tag"><strong>Año de creación:</strong> {{ page.ano_creacion }}</span>{% endif %}
+          {% if page.institucion_origen %}<span class="meta-tag"><strong>Institución de origen:</strong> {{ page.institucion_origen }}</span>{% endif %}
+        </div>
+        <hr>
+      </div>
+      {% endif %}
       {{ content }}
     </div>
   </body>
