@@ -26,6 +26,7 @@ Requisitos extraídos del Manual DSA 2013 con respuestas investigadas para Conqu
 - [Campamento I](./especialidades/AR/campamento_i.md) (AR-049)
 - [Campamento II](./especialidades/AR/campamento_ii.md) (AR-050)
 - [Campamento III](./especialidades/AR/campamento_iii.md) (AR-051)
+- [Campamento IV](./especialidades/AR/campamento_iv.md) (AR-053)
 - [Fútbol](./especialidades/AR/futbol.md) (AR-064)
 - [Nudos y amarras](./especialidades/AR/nudos_y_amarras.md) (AR-040)
 - [Pionerismo](./especialidades/AR/pionerismo.md) (AR-021)

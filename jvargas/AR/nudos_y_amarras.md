@@ -234,21 +234,21 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 1. **[Nudo simple](https://knots3d.com/es/nudo-simple)** (overhand)
 
-   ![Nudo simple](../../assets/especialidades/nudos_y_amarras/nudo-simple.webp)
+   ![Nudo simple](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-simple.webp)
 
    - **Para qué sirve:** tope básico para evitar que la cuerda se salga de un ojal o polea.
    - **Limitaciones:** se aprieta mucho; difícil de desatar después de cargarlo.
 
 2. **[Nudo ocho](https://knots3d.com/es/nudo-ocho)** (figure-8)
 
-   ![Nudo ocho](../../assets/especialidades/nudos_y_amarras/nudo-ocho.webp)
+   ![Nudo ocho](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-ocho.webp)
 
    - **Para qué sirve:** tope fuerte y seguro, muy usado en escalada.
    - **Limitaciones:** consume más cuerda que el nudo simple; no sirve para unir cuerdas.
 
 3. **[Nudo fraile](https://knots3d.com/es/nudo-simple-triple)**
 
-   ![Nudo fraile](../../assets/especialidades/nudos_y_amarras/nudo-simple-triple.webp)
+   ![Nudo fraile](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-simple-triple.webp)
 
    - **Para qué sirve:** remate decorativo y práctico al final de un cabo, evita que el chicote pase por una polea.
    - **Limitaciones:** no está pensado para unir cuerdas ni soportar grandes cargas.
@@ -257,14 +257,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 4. **[Nudo llano / verdadero / rizo](https://knots3d.com/es/nudo-de-rizo)**
 
-   ![Nudo llano](../../assets/especialidades/nudos_y_amarras/nudo-de-rizo.webp)
+   ![Nudo llano](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-rizo.webp)
 
    - **Para qué sirve:** unir dos cuerdas de igual grosor en situaciones simples (vendas, vendas de primeros auxilios, paquetes).
    - **Limitaciones:** puede soltarse si las cuerdas son de distinto grosor o muy resbaladizas; peligroso en rescate.
 
 5. **[Nudo grupo de calabrote o carrick](https://knots3d.com/es/nudo-carrick)** (carrick bend)
 
-   ![Nudo carrick](../../assets/especialidades/nudos_y_amarras/nudo-carrick.webp)
+   ![Nudo carrick](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-carrick.webp)
 
    - **Para qué sirve:** unión segura para cuerdas gruesas, especialmente en cargas pesadas.
    - **Limitaciones:** requiere práctica para hacerlo correctamente; voluminoso.
@@ -301,21 +301,21 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 13. **[Nudo constrictor](https://knots3d.com/es/nudo-constrictor)**
 
-    ![Nudo constrictor](../../assets/especialidades/nudos_y_amarras/nudo-constrictor.webp)
+    ![Nudo constrictor](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-constrictor.webp)
 
     - **Para qué sirve:** amarre muy firme para cerrar sacos, atar objetos que no se deban soltar.
     - **Limitaciones:** extremadamente difícil de desatar; no apto si luego se necesita recuperar la cuerda fácilmente.
 
 14. **[Nudo vuelta de ballestrinque](https://knots3d.com/es/ballestrinque-nudo)** (clove hitch)
 
-    ![Ballestrinque](../../assets/especialidades/nudos_y_amarras/ballestrinque-nudo.webp)
+    ![Ballestrinque](../../assets/images/especialidades/AR/nudos_y_amarras/ballestrinque-nudo.webp)
 
     - **Para qué sirve:** sujetar rápidamente una cuerda a un palo o poste.
     - **Limitaciones:** puede deslizarse si la carga no es constante o si la cuerda es muy lisa; se recomienda asegurar con medio cote.
 
 15. **[Nudo as de guía corredizo](https://knots3d.com/es/as-de-gu%C3%ADa-corredizo-nudo)** (running bowline)
 
-    ![As de guía corredizo](../../assets/especialidades/nudos_y_amarras/as-de-gu%C3%ADa-corredizo-nudo.webp)
+    ![As de guía corredizo](../../assets/images/especialidades/AR/nudos_y_amarras/as-de-gu%C3%ADa-corredizo-nudo.webp)
 
     - **Para qué sirve:** lazo corredizo seguro, usado para rodear troncos u objetos que se van a arrastrar.
     - **Limitaciones:** no es adecuado para sujetar personas por el cuello o partes delicadas; se ajusta con fuerza.
@@ -326,14 +326,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 17. **[Nudo vuelta de braza](https://knots3d.com/es/nudo-de-le%C3%B1ador)** (timber hitch)
 
-    ![Vuelta de braza](../../assets/especialidades/nudos_y_amarras/nudo-de-le%C3%B1ador.webp)
+    ![Vuelta de braza](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-le%C3%B1ador.webp)
 
     - **Para qué sirve:** arrastrar troncos u objetos alargados.
     - **Limitaciones:** si no hay tensión se puede aflojar.
 
 18. **[Nudo vuelta redonda con dos medios cotes](https://knots3d.com/es/nudo-de-cote-doble)**
 
-    ![Vuelta redonda dos medios cotes](../../assets/especialidades/nudos_y_amarras/nudo-de-cote-doble.webp)
+    ![Vuelta redonda dos medios cotes](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-cote-doble.webp)
 
     - **Para qué sirve:** fijar una cuerda a un poste con buena seguridad y fácil desate.
     - **Limitaciones:** requiere un lugar donde dar la vuelta completa; en superficies muy lisas puede deslizar un poco.
@@ -342,14 +342,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 19. **[Nudo as de guía](https://knots3d.com/es/as-de-gu%C3%ADa-nudo)** (bowline)
 
-    ![As de guía](../../assets/especialidades/nudos_y_amarras/as-de-gu%C3%ADa-nudo.webp)
+    ![As de guía](../../assets/images/especialidades/AR/nudos_y_amarras/as-de-gu%C3%ADa-nudo.webp)
 
     - **Para qué sirve:** formar un lazo fijo que no corre; clásico en rescate y navegación.
     - **Limitaciones:** si está mal hecho se puede desarmar; no se debe cargar sin asegurar el chicote.
 
 20. **[As de guía doble](https://knots3d.com/es/as-de-gu%C3%ADa-por-seno-nudo)** (double bowline / bowline on a bight)
 
-    ![As de guía doble](../../assets/especialidades/nudos_y_amarras/as-de-gu%C3%ADa-por-seno-nudo.webp)
+    ![As de guía doble](../../assets/images/especialidades/AR/nudos_y_amarras/as-de-gu%C3%ADa-por-seno-nudo.webp)
 
     - **Para qué sirve:** lazo doble para sujetar a una persona como silla o arnés improvisado.
     - **Limitaciones:** requiere práctica; se debe revisar bien antes de usar en rescate.
@@ -360,14 +360,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 22. **[Nudo Prusik](https://knots3d.com/es/nudo-prusik)**
 
-    ![Nudo Prusik](../../assets/especialidades/nudos_y_amarras/nudo-prusik.webp)
+    ![Nudo Prusik](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-prusik.webp)
 
     - **Para qué sirve:** nudo de fricción que se desliza sin carga y se bloquea con carga; útil para subir por la cuerda o autoasegurarse.
     - **Limitaciones:** requiere cuerda auxiliar de menor diámetro; si los diámetros no son adecuados, puede no bloquear bien.
 
 23. **[Nudo silla de bombero](https://knots3d.com/es/silla-de-bombero-nudo)** (bowline on a bight / rescue seat)
 
-    ![Silla de bombero](../../assets/especialidades/nudos_y_amarras/silla-de-bombero-nudo.webp)
+    ![Silla de bombero](../../assets/images/especialidades/AR/nudos_y_amarras/silla-de-bombero-nudo.webp)
 
     - **Para qué sirve:** formar dos lazos que sirven de "asiento" para levantar o bajar a una persona.
     - **Limitaciones:** no reemplaza un arnés homologado; se debe revisar muy bien.
@@ -380,14 +380,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 25. **[Nudo vuelta de gato / zarpa de gato](https://knots3d.com/es/zarpa-de-gato-nudo)** (cat's paw)
 
-    ![Zarpa de gato](../../assets/especialidades/nudos_y_amarras/zarpa-de-gato-nudo.webp)
+    ![Zarpa de gato](../../assets/images/especialidades/AR/nudos_y_amarras/zarpa-de-gato-nudo.webp)
 
     - **Para qué sirve:** izar baldes, cubos u objetos con ganchos o para usar con poleas.
     - **Limitaciones:** si no se hace correctamente puede desarmarse.
 
 26. **[Nudo vuelta de escota](https://knots3d.com/es/vuelta-de-escota-nudo)** (sheet bend)
 
-    ![Vuelta de escota](../../assets/especialidades/nudos_y_amarras/vuelta-de-escota-nudo.webp)
+    ![Vuelta de escota](../../assets/images/especialidades/AR/nudos_y_amarras/vuelta-de-escota-nudo.webp)
 
     - **Para qué sirve:** unir cuerdas de distinto grosor.
     - **Limitaciones:** se recomienda asegurar con doble vuelta cuando la diferencia de grosores es grande.
@@ -396,14 +396,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 27. **[Nudo cuadrado](https://knots3d.com/es/nudo-de-la-amistad)** (decorativo / macramé)
 
-    ![Nudo cuadrado](../../assets/especialidades/nudos_y_amarras/nudo-de-la-amistad.webp)
+    ![Nudo cuadrado](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-la-amistad.webp)
 
     - **Para qué sirve:** trenzado decorativo para pulseras, llaveros, etc.
     - **Limitaciones:** no está diseñado para cargas pesadas.
 
 28. **[Nudo encapilladura](https://knots3d.com/es/nudo-de-corona)** (crown knot)
 
-    ![Nudo encapilladura](../../assets/especialidades/nudos_y_amarras/nudo-de-corona.webp)
+    ![Nudo encapilladura](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-de-corona.webp)
 
     - **Para qué sirve:** remate en el extremo de un cabo para que no se deshilache.
     - **Limitaciones:** requiere práctica; no se usa para unir cuerdas.
@@ -412,14 +412,14 @@ Otros ejemplos posibles (según la región): **abacá o manila**, lino, fibras d
 
 29. **[Nudo único](https://knots3d.com/es/nudo-simple)** (overhand on a bight / stopper simple de sujeción)
 
-    ![Nudo único](../../assets/especialidades/nudos_y_amarras/nudo-simple.webp)
+    ![Nudo único](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-simple.webp)
 
     - **Para qué sirve:** sujetar algo sencillo o impedir que pase por un agujero pequeño.
     - **Limitaciones:** no está pensado para unir cuerdas ni para rescate.
 
 30. **[Nudo margarita](https://knots3d.com/es/nudo-margarita)** (sheepshank)
 
-    ![Nudo margarita](../../assets/especialidades/nudos_y_amarras/nudo-margarita.webp)
+    ![Nudo margarita](../../assets/images/especialidades/AR/nudos_y_amarras/nudo-margarita.webp)
 
     - **Para qué sirve:** acortar temporalmente una cuerda sin cortarla.
     - **Limitaciones:** se puede salir si la cuerda pierde tensión; no usar para asegurar personas.

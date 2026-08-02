@@ -870,7 +870,7 @@ El **certificado (o partida) de nacimiento** es el documento oficial que registr
 21. **Sello oficial**
 22. **Folio y tomo:** Números de archivo
 
-!["Nacimiento"](../../assets/especialidades/cuidado_de_bebes/cert_nat.png)
+!["Nacimiento"](../../assets/images/especialidades/HD/cuidado_de_bebes/cert_nat.png)
 
 ---
 

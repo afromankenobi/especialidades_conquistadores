@@ -73,7 +73,7 @@
 ```bash
 # Verificar que todas las referencias tienen archivo
 for img in $(rg '!\[.*\]\(.*nudos_y_amarras/(.*\.webp|.*\.png|.*\.jpg)\)' especialidades/AR/nudos_y_amarras.md -o | sed 's/.*nudos_y_amarras\///' | sed 's/).*//'); do
-  if [ -f "assets/especialidades/nudos_y_amarras/$img" ]; then
+  if [ -f "assets/images/especialidades/AR/nudos_y_amarras/$img" ]; then
     echo "✅ $img"
   else
     echo "❌ FALTA: $img"
@@ -86,7 +86,7 @@ done
 **✅ Referencias correctas (27):**
 - Todos los nudos principales tienen imagen
 - Nombres de archivo coinciden con referencias
-- Rutas relativas correctas (`../../assets/especialidades/nudos_y_amarras/`)
+- Rutas relativas correctas (`../../assets/images/especialidades/AR/nudos_y_amarras/`)
 
 **⏳ Referencias con placeholder (7):**
 - Marcadas con nota de descarga en el manual
@@ -126,24 +126,24 @@ done
 
 **Correcto:**
 ```markdown
-![Nombre del Nudo](../../assets/especialidades/nudos_y_amarras/archivo.webp)
+![Nombre del Nudo](../../assets/images/especialidades/AR/nudos_y_amarras/archivo.webp)
 ```
 
 **Con placeholder:**
 ```markdown
-![Nombre del Nudo](../../assets/especialidades/nudos_y_amarras/archivo.webp)
+![Nombre del Nudo](../../assets/images/especialidades/AR/nudos_y_amarras/archivo.webp)
 *Imagen: Descargar de [URL]*
 ```
 
 ### Verificación de Rutas:
 
 **Desde:** `especialidades/AR/nudos_y_amarras.md`
-**Hacia:** `assets/especialidades/nudos_y_amarras/imagen.webp`
+**Hacia:** `assets/images/especialidades/AR/nudos_y_amarras/imagen.webp`
 
-**Ruta relativa:** `../../assets/especialidades/nudos_y_amarras/`
+**Ruta relativa:** `../../assets/images/especialidades/AR/nudos_y_amarras/`
 
 - ✅ Sube 2 niveles (`../..`) desde `especialidades/AR/`
-- ✅ Entra a `assets/especialidades/nudos_y_amarras/`
+- ✅ Entra a `assets/images/especialidades/AR/nudos_y_amarras/`
 - ✅ Correcto para Jekyll y GitHub Pages
 
 ---
@@ -207,7 +207,7 @@ bundle exec jekyll serve
 **Para completar al 100%:**
 
 Descargar manualmente estas 7 imágenes y guardarlas en:
-`/Users/jvargas/code/personal/especialidades/assets/especialidades/nudos_y_amarras/`
+`/Users/jvargas/code/personal/especialidades/assets/images/especialidades/AR/nudos_y_amarras/`
 
 **Prioridad Alta (3):**
 1. insignia.png

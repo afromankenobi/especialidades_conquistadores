@@ -56,7 +56,7 @@
 6. ⏳ empalme-ejemplo.jpg
 7. ⏳ nudo-cuadrado-decorativo.jpg
 
-**Path de descarga:** `/Users/jvargas/code/personal/especialidades/assets/especialidades/nudos_y_amarras/`
+**Path de descarga:** `/Users/jvargas/code/personal/especialidades/assets/images/especialidades/AR/nudos_y_amarras/`
 
 **Instrucciones completas:** `docs/INSTRUCCIONES_descarga_nudos.md`
 
@@ -162,7 +162,7 @@
 
 ### Manual y Contenido:
 - ✅ `especialidades/AR/nudos_y_amarras.md` (Manual GO! narrativo)
-- ✅ `assets/especialidades/nudos_y_amarras/` (30 imágenes)
+- ✅ `assets/images/especialidades/AR/nudos_y_amarras/` (30 imágenes)
 
 ### Documentación Interna:
 - ✅ `docs/mapeos/MAPEO_nudos_y_amarras.md` (Validación requisitos)
@@ -189,7 +189,7 @@
 6. empalme-ejemplo.jpg → https://upload.wikimedia.org/wikipedia/commons/d/d2/Kurzspleiss.jpg
 7. nudo-cuadrado-decorativo.jpg → https://upload.wikimedia.org/wikipedia/commons/3/3b/Chinese_button_knot.jpg
 
-**Guardar en:** `/Users/jvargas/code/personal/especialidades/assets/especialidades/nudos_y_amarras/`
+**Guardar en:** `/Users/jvargas/code/personal/especialidades/assets/images/especialidades/AR/nudos_y_amarras/`
 
 ---
 
