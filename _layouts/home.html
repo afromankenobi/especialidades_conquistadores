@@ -357,13 +357,41 @@
 <body>
   {% comment %} ── Calcular totales ── {% endcomment %}
   {% assign total_completadas = 0 %}
+  {% assign docs = "" %}
   {% for area in site.data.especialidades.areas %}
     {% assign total_completadas = total_completadas | plus: area.especialidades.size %}
+    {% for esp in area.especialidades %}
+      {% unless esp.respuesta == false %}
+        {% assign docs = docs | append: "|" | append: esp.nombre | append: "|" %}
+      {% endunless %}
+    {% endfor %}
   {% endfor %}
-  {% assign objetivo = site.data.especialidades.total_objetivo %}
-  {% assign pct = total_completadas | times: 100 | divided_by: objetivo %}
-  {% assign bar_filled = pct | divided_by: 5 %}
-  {% assign bar_empty = 20 | minus: bar_filled %}
+
+  {% comment %} ── Guía Mayor: requisitos con nombre cumplidos ── {% endcomment %}
+  {% assign gm_total = site.data.especialidades.guia_mayor.requisitos.size %}
+  {% assign gm_hechos = 0 %}
+  {% assign gm_pendientes_list = "" %}
+  {% for req in site.data.especialidades.guia_mayor.requisitos %}
+    {% assign req_hecho = false %}
+    {% if req.opciones %}
+      {% for op in req.opciones %}
+        {% assign op_wrapped = op | prepend: "|" | append: "|" %}
+        {% if docs contains op_wrapped %}{% assign req_hecho = true %}{% endif %}
+      {% endfor %}
+    {% else %}
+      {% assign nombre_wrapped = req.nombre | prepend: "|" | append: "|" %}
+      {% if docs contains nombre_wrapped %}{% assign req_hecho = true %}{% endif %}
+    {% endif %}
+    {% if req_hecho %}
+      {% assign gm_hechos = gm_hechos | plus: 1 %}
+    {% else %}
+      {% if gm_pendientes_list != "" %}{% assign gm_pendientes_list = gm_pendientes_list | append: ", " %}{% endif %}
+      {% assign gm_pendientes_list = gm_pendientes_list | append: req.nombre %}
+    {% endif %}
+  {% endfor %}
+  {% assign gm_pct = gm_hechos | times: 100 | divided_by: gm_total %}
+  {% assign gm_bar_filled = gm_pct | divided_by: 5 %}
+  {% assign gm_bar_empty = 20 | minus: gm_bar_filled %}
 
   <div class="terminal">
     <!-- Title bar -->
@@ -404,7 +432,12 @@
             <ul class="tree-items">
               {% for esp in area.especialidades %}
               <li>
+                {% if esp.guia == false %}
+                <span>{{ esp.nombre }}</span>
+                <span class="item-status status-pending">&#9675;</span>
+                {% else %}
                 <a href="{{ site.baseurl }}/especialidades/{{ area.codigo }}/{{ esp.archivo }}">{{ esp.nombre }}</a>
+                {% endif %}
                 <span class="item-code">{{ esp.codigo }}</span>
               </li>
               {% endfor %}
@@ -416,7 +449,7 @@
         <!-- RIGHT: Jorge's Lab -->
         <div class="column">
           <div class="col-header">
-            <span class="prompt">></span> Jorge's Lab: Respuestas &amp; Progreso
+            <span class="prompt">></span> Respuestas &amp; Progreso
           </div>
           <div class="col-subtitle">Club K2 · Zona Poniente · AMCH</div>
 
@@ -431,8 +464,13 @@
             <ul class="tree-items">
               {% for esp in area.especialidades %}
               <li>
+                {% if esp.respuesta == false %}
+                <span>{{ esp.nombre }}</span>
+                <span class="item-status status-pending">&#9675;</span>
+                {% else %}
                 <a href="{{ site.baseurl }}/jvargas/{{ area.codigo }}/{{ esp.archivo }}">{{ esp.nombre }}</a>
                 <span class="item-status status-done">&#10003;</span>
+                {% endif %}
                 <span class="item-code">{{ esp.codigo }}</span>
               </li>
               {% endfor %}
@@ -440,29 +478,117 @@
           </details>
           {% endfor %}
 
-          <!-- Progress total -->
+          <!-- Total documentadas -->
           <div class="progress-section">
             <div class="progress-label">
-              <span>Total completadas</span>
-              <span class="progress-pct">{{ total_completadas }}/{{ objetivo }}</span>
-            </div>
-            <div class="progress-bar-bg">
-              <div class="progress-bar-fill" style="width: {{ pct }}%"></div>
-            </div>
-            <div class="progress-ascii">
-              [<span class="filled">{% for i in (1..bar_filled) %}█{% endfor %}</span><span class="empty">{% for i in (1..bar_empty) %}░{% endfor %}</span>]
-              <span class="progress-pct">{{ pct }}%</span>
+              <span>Especialidades documentadas</span>
+              <span class="progress-pct">{{ total_completadas }}</span>
             </div>
           </div>
 
-          {% if site.data.especialidades.pendientes.size > 0 %}
+          {% if gm_pendientes_list != "" %}
           <div class="pending-section">
-            <span class="label">PENDIENTES:</span>
-            {% for p in site.data.especialidades.pendientes %}
-              {{ p.nombre }} ({{ p.codigo }}){% unless forloop.last %},{% endunless %}
-            {% endfor %}
+            <span class="label">PENDIENTES (Guía Mayor):</span>
+            {{ gm_pendientes_list }}
           </div>
           {% endif %}
+
+          <!-- Camino a Guía Mayor -->
+          <div class="progress-section">
+            <div class="progress-label">
+              <span>Camino a Guía Mayor</span>
+              <span class="progress-pct">{{ gm_hechos }}/{{ gm_total }}</span>
+            </div>
+            <div class="progress-bar-bg">
+              <div class="progress-bar-fill" style="width: {{ gm_pct }}%"></div>
+            </div>
+            <div class="progress-ascii">
+              [<span class="filled">{% for i in (1..gm_bar_filled) %}█{% endfor %}</span><span class="empty">{% for i in (1..gm_bar_empty) %}░{% endfor %}</span>]
+              <span class="progress-pct">{{ gm_pct }}%</span>
+            </div>
+
+            {% for area in site.data.especialidades.areas %}
+            {% assign gm_items = site.data.especialidades.guia_mayor.requisitos | where: "area", area.codigo %}
+            {% if gm_items.size > 0 %}
+            <details class="area-tree">
+              <summary>
+                <span class="area-icon">{{ area.icono }}</span>
+                <span class="area-name">{{ area.nombre }}</span>
+                <span class="area-code">({{ area.codigo }})</span>
+                <span class="area-count">{{ gm_items.size }}</span>
+              </summary>
+              <ul class="tree-items">
+                {% for req in gm_items %}
+                {% assign req_hecho = false %}
+                {% if req.opciones %}
+                  {% for op in req.opciones %}
+                    {% assign op_wrapped = op | prepend: "|" | append: "|" %}
+                    {% if docs contains op_wrapped %}{% assign req_hecho = true %}{% endif %}
+                  {% endfor %}
+                {% else %}
+                  {% assign nombre_wrapped = req.nombre | prepend: "|" | append: "|" %}
+                  {% if docs contains nombre_wrapped %}{% assign req_hecho = true %}{% endif %}
+                {% endif %}
+                <li>
+                  <span>{{ req.nombre }}</span>
+                  <span class="badge">{{ req.clase }}</span>
+                  {% if req_hecho %}<span class="item-status status-done">&#10003;</span>{% else %}<span class="item-status status-pending">&#9675;</span>{% endif %}
+                </li>
+                {% endfor %}
+              </ul>
+            </details>
+            {% endif %}
+            {% endfor %}
+
+            {% assign gm_mc_items = site.data.especialidades.guia_mayor.requisitos | where: "area", "MC" %}
+            {% if gm_mc_items.size > 0 %}
+            <details class="area-tree">
+              <summary>
+                <span class="area-icon">&#129309;</span>
+                <span class="area-name">Actividades Misioneras y Comunitarias</span>
+                <span class="area-code">(MC)</span>
+                <span class="area-count">{{ gm_mc_items.size }}</span>
+              </summary>
+              <ul class="tree-items">
+                {% for req in gm_mc_items %}
+                {% assign req_hecho = false %}
+                {% if req.opciones %}
+                  {% for op in req.opciones %}
+                    {% assign op_wrapped = op | prepend: "|" | append: "|" %}
+                    {% if docs contains op_wrapped %}{% assign req_hecho = true %}{% endif %}
+                  {% endfor %}
+                {% else %}
+                  {% assign nombre_wrapped = req.nombre | prepend: "|" | append: "|" %}
+                  {% if docs contains nombre_wrapped %}{% assign req_hecho = true %}{% endif %}
+                {% endif %}
+                <li>
+                  <span>{{ req.nombre }}</span>
+                  <span class="badge">{{ req.clase }}</span>
+                  {% if req_hecho %}<span class="item-status status-done">&#10003;</span>{% else %}<span class="item-status status-pending">&#9675;</span>{% endif %}
+                </li>
+                {% endfor %}
+              </ul>
+            </details>
+            {% endif %}
+
+            <details class="sources">
+              <summary>Electivas de área por definir ({{ site.data.especialidades.guia_mayor.electivas_area.size }})</summary>
+              <ul>
+                {% for e in site.data.especialidades.guia_mayor.electivas_area %}
+                <li>{{ e.descripcion }} <span class="badge">{{ e.clase }}</span></li>
+                {% endfor %}
+              </ul>
+            </details>
+
+            <details class="sources">
+              <summary>Maestrías ({{ site.data.especialidades.guia_mayor.maestrias.size }})</summary>
+              <ul>
+                {% for m in site.data.especialidades.guia_mayor.maestrias %}
+                <li>{{ m.nombre }} - requiere {{ m.requeridas }} especialidades afines <span class="badge">{{ m.clase }}</span></li>
+                {% endfor %}
+              </ul>
+            </details>
+          </div>
         </div>
       </div>
 

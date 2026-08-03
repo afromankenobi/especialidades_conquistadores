@@ -397,22 +397,6 @@ Con las carpas listas, es hora de preparar el área de fogata. "¿Qué tipo de f
 - Guantes
 - Palo largo para mover troncos
 
-```mermaid
-graph TB
-    subgraph "Triángulo de campamento"
-        A["🏕️ Zona de dormir"]
-        B["🔥 Zona de cocina"]
-        C["🎒 Almacén de comida"]
-    end
-    A -- "mínimo 50m" --- B
-    B -- "mínimo 50m" --- C
-    C -- "mínimo 50m" --- A
-
-    style A fill:#58a6ff,color:#fff
-    style B fill:#f97316,color:#fff
-    style C fill:#3fb950,color:#fff
-```
-
 > **Regla de oro:** Si no puedes apagar el fuego completamente con los recursos disponibles, NO lo enciendas.
 
 ---
@@ -447,6 +431,22 @@ La primera noche siempre trae sorpresas. Tu consejero anticipa: "La naturaleza n
 - Alejarse de árboles altos aislados
 - Si estás afuera: agáchate con pies juntos, no te acuestes
 - Esperar 30 minutos después del último trueno
+
+```mermaid
+graph TB
+    subgraph "Triángulo de campamento"
+        A["🏕️ Zona de dormir"]
+        B["🔥 Zona de cocina"]
+        C["🎒 Almacén de comida"]
+    end
+    A -- "30m" --- B
+    B -- "30m" --- C
+    C -- "30m" --- A
+
+    style A fill:#58a6ff,color:#fff
+    style B fill:#f97316,color:#fff
+    style C fill:#3fb950,color:#fff
+```
 
 ---
 

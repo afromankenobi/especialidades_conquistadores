@@ -3,9 +3,9 @@ layout: respuesta_evaluacion
 title: Primeros Auxilios
 area: Ciencia y Salud
 area_codigo: CS
-codigo: CS-001
+codigo: CS-003
 nivel: 1
-ano_creacion: 1938
+ano_creacion: 1951
 institucion_origen: Asociación General
 ---
 

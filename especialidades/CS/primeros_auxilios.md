@@ -10,9 +10,9 @@ title: Primeros Auxilios
 ![Logo Conquistadores](../../assets/images/logo.svg)
 
 **Área:** Ciencia y Salud
-**Código:** CS-001
+**Código:** CS-003
 **Nivel:** 1
-**Año de creación:** 1938
+**Año de creación:** 1951
 **Institución de origen:** Asociación General
 
 ---

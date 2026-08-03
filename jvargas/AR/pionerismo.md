@@ -3,7 +3,7 @@ layout: respuesta_evaluacion
 title: Pionerismo
 area: Actividades Recreativas
 area_codigo: AR
-codigo: AR-021
+codigo: AR-022
 nivel: 2
 ano_creacion: 1956
 institucion_origen: Asociación General

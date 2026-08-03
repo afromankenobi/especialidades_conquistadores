@@ -10,7 +10,7 @@ title: Pionerismo
 ![Logo Conquistadores](../../assets/images/logo.svg)
 
 **Área:** Actividades Recreativas
-**Código:** AR-021
+**Código:** AR-022
 **Nivel:** 2
 **Año de creación:** 1956
 **Institución de origen:** Asociación General

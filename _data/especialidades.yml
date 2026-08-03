@@ -1,8 +1,6 @@
 # Datos de especialidades para el homepage
 # Se usa en _layouts/home.html via site.data.especialidades
 
-total_objetivo: 30  # Construcciones rústicas pendiente
-
 areas:
   - codigo: AR
     nombre: Actividades Recreativas
@@ -27,8 +25,12 @@ areas:
       - nombre: Nudos y amarras
         codigo: AR-040
         archivo: nudos_y_amarras
-      - nombre: Pionerismo
+      - nombre: Orientación
         codigo: AR-021
+        archivo: orientacion
+        guia: false
+      - nombre: Pionerismo
+        codigo: AR-022
         archivo: pionerismo
       - nombre: Vida silvestre
         codigo: AR-024
@@ -79,7 +81,7 @@ areas:
         codigo: CS-021
         archivo: higiene_oral
       - nombre: Primeros auxilios
-        codigo: CS-001
+        codigo: CS-003
         archivo: primeros_auxilios
       - nombre: Rescate básico
         codigo: CS-010
@@ -121,7 +123,140 @@ areas:
         codigo: HD-002
         archivo: cuidado_de_bebes
 
-pendientes:
-  - nombre: Construcciones rústicas
-    codigo: AR-028
-    area: AR
+  - codigo: AP
+    nombre: Actividades Profesionales
+    icono: "&#128188;"
+    color: "#0ea5e9"
+    especialidades:
+      - nombre: Computación I
+        codigo: AP-045
+        archivo: computacion_i
+        guia: false
+
+# Camino a Guía Mayor (Amigo -> Guía Mayor): 39 requisitos individuales + 2 Maestrías.
+# "hecho" se calcula en home.html comparando nombre/opciones contra especialidades ya documentadas,
+# no contra el campo codigo (los libros DSA repiten prefijos de 2 letras entre áreas distintas,
+# ej. AM se usa tanto para Artes y Actividades Manuales como para Actividades Misioneras).
+guia_mayor:
+  requisitos:
+    - nombre: Campamento I
+      area: AR
+      clase: Amigo
+    - nombre: Arte de acampar
+      area: AR
+      clase: Amigo Avanzada
+    - nombre: Caminata con mochila
+      area: AR
+      clase: Compañero Avanzada
+    - nombre: Rescate básico
+      area: CS
+      clase: Pionero
+    - nombre: Civismo cristiano
+      area: MC
+      clase: Pionero Avanzada
+    - nombre: Orientación
+      area: AR
+      clase: Pionero Avanzada
+    - nombre: Fogatas y cocina al aire libre
+      area: AR
+      clase: Pionero Avanzada
+    - nombre: Temperancia
+      area: AM
+      clase: Excursionista
+    - nombre: Aventurero para Cristo
+      area: MC
+      clase: Excursionista
+    - nombre: Construcciones rústicas
+      area: AR
+      clase: Excursionista
+    - nombre: Testificación de menores
+      area: MC
+      clase: Excursionista Avanzada
+    - nombre: Orden cerrado
+      area: AR
+      clase: Excursionista Avanzada
+    - nombre: Vida silvestre
+      area: AR
+      clase: Excursionista Avanzada
+    - nombre: Mayordomía
+      area: MC
+      clase: Guía Avanzada
+    - nombre: Liderazgo al aire libre
+      area: AR
+      clase: Guía Avanzada
+    - nombre: Presupuesto familiar
+      area: HD
+      clase: Guía Avanzada
+    - nombre: Arte de contar historias cristianas
+      area: MC
+      clase: Guía Mayor
+    - nombre: "Natación - Principiante I, Aptitud física, Nudos y amarras o Seguridad básica en el agua"
+      area: AR
+      clase: Amigo
+      opciones: ["Natación - Principiante I", "Aptitud física", "Nudos y amarras", "Seguridad básica en el agua"]
+    - nombre: "Natación - Principiante II o Campamento II"
+      area: AR
+      clase: Compañero
+      opciones: ["Natación - Principiante II", "Campamento II"]
+    - nombre: "Anfibios, Aves, Aves domésticas, Ganadería, Reptiles, Moluscos, Árboles o Arbustos"
+      area: EN
+      clase: Compañero
+      opciones: ["Anfibios", "Aves", "Aves domésticas", "Ganadería", "Reptiles", "Moluscos", "Árboles", "Arbustos"]
+    - nombre: "Campamento III o Primeros auxilios - Básico"
+      area: AR
+      clase: Explorador
+      opciones: ["Campamento III", "Primeros auxilios"]
+    - nombre: "Astronomía, Cactus, Climatología, Flores o Rastreo de animales"
+      area: EN
+      clase: Explorador
+      opciones: ["Astronomía", "Cactus", "Climatología", "Flores", "Rastreo de animales"]
+    - nombre: "Modales cristianos o Vida familiar"
+      area: MC
+      clase: Explorador Avanzada
+      opciones: ["Modales cristianos", "Vida familiar"]
+    - nombre: "Nutrición o Educación física"
+      area: CS
+      clase: Guía
+      opciones: ["Nutrición", "Educación física"]
+    - nombre: "Ecología o Conservación ambiental"
+      area: EN
+      clase: Guía
+      opciones: ["Ecología", "Conservación ambiental"]
+
+  electivas_area:
+    - descripcion: 1 Especialidad en Artes y habilidades manuales
+      clase: Amigo
+    - descripcion: 1 Especialidad en Act. Misioneras y comunitarias o Act. Agrícolas
+      clase: Amigo Avanzada
+    - descripcion: 1 Especialidad en Artes y habilidades manuales
+      clase: Compañero
+    - descripcion: 1 Esp. en Hab. domésticas, Ciencia y salud, Act. Misioneras o Agrícolas
+      clase: Compañero Avanzada
+    - descripcion: 1 Especialidad en Artes y habilidades manuales
+      clase: Explorador
+    - descripcion: 1 Esp. en Hab. domésticas, Ciencia y salud, Act. Misioneras o Agrícolas
+      clase: Explorador Avanzada
+    - descripcion: 1 Especialidad en Estudio de la Naturaleza
+      clase: Pionero
+    - descripcion: 1 Esp. en Act. Misioneras y comunitarias, Profesionales o Agrícolas
+      clase: Pionero
+    - descripcion: 1 Especialidad en Actividades Recreativas
+      clase: Pionero Avanzada
+    - descripcion: 1 Especialidad en Estudio de la Naturaleza
+      clase: Excursionista
+    - descripcion: 1 Esp. en Act. Misioneras, Agrícolas, Ciencia y salud o Hab. Domésticas
+      clase: Excursionista
+    - descripcion: 1 Esp. útil para Maestría (Acuática, Deportes, Recreativas o Nat. Silvestre)
+      clase: Guía
+    - descripcion: 1 Esp. en Act. Recreativas, Ciencia y salud, Hab. Domésticas o Profesionales
+      clase: Guía
+    - descripcion: 1 Especialidad para Maestría en Naturaleza silvestre
+      clase: Guía Avanzada
+
+  maestrias:
+    - nombre: Maestría en Naturaleza silvestre
+      clase: Guía Avanzada
+      requeridas: 7
+    - nombre: "Maestría en Zoología, Botánica o Act. Recreativas"
+      clase: Guía Mayor
+      requeridas: 7
