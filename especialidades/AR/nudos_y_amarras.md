@@ -11,7 +11,7 @@ institucion_origen: "Asociación General"
 
 *Es viernes por la tarde en la sede del club. Tu consejero llega con una mochila que suena distinto hoy - no son ollas ni estacas. La abre sobre la mesa y caen rollos de cuerdas de todos los colores y grosores. "Hoy empieza algo nuevo", dice. "Antes de construir algo en el próximo campamento, necesitan dominar esto." Toma una cuerda, la pasa entre sus manos, y en tres segundos tiene un nudo que nunca habías visto. "Al final de esta especialidad, van a poder hacer esto con los ojos cerrados."*
 
-Esta guía es el primer tomo de la **Serie Campismo**: Nudos y Amarras -> [Pionerismo](pionerismo.md) -> Construcciones Rústicas. Aquí aprendes la base - vocabulario, materiales, técnicas, catálogo de nudos. En Pionerismo usarás estos nudos para construir. En Construcciones Rústicas, escalarás a proyectos mayores.
+Esta guía es el primer tomo de la **Serie Campismo**: Nudos y Amarras -> Pionerismo (guía pendiente) -> Construcciones Rústicas. Aquí aprendes la base - vocabulario, materiales, técnicas, catálogo de nudos. En Pionerismo usarás estos nudos para construir. En Construcciones Rústicas, escalarás a proyectos mayores.
 
 Si ya completaste la serie Campamento (especialmente [Campamento III](campamento_iii.md)), ya conoces 4 amarras y algunos nudos básicos. Esta especialidad profundiza: vas a dominar 20+ nudos, fabricar tus propias cuerdas, y entender por qué cada material y cada nudo tiene su lugar.
 
@@ -586,7 +586,7 @@ graph TD
 - *The Ashley Book of Knots* - Clifford Ashley (referencia con más de 3800 nudos)
 - *Enciclopedia Ilustrada de los Nudos* - Geoffrey Budworth
 - [Campamento III](campamento_iii.md) - Amarras básicas en contexto de campamento
-- [Pionerismo](pionerismo.md) - Uso de nudos y cuerdas en construcción pionera
+- Pionerismo (guía pendiente) - Uso de nudos y cuerdas en construcción pionera
 
 ---
 
@@ -616,10 +616,10 @@ graph TD
 - Nunca practicar nudos corredizos cerca del cuello
 
 **Serie Campismo:**
-Esta guía es el Tomo 1. Prepara para [Pionerismo](pionerismo.md) (construcción con cuerdas y palos) y eventualmente Construcciones Rústicas (estructuras mayores). El consejero guía paso a paso - es la primera exposición sistemática a cuerdas y nudos.
+Esta guía es el Tomo 1. Prepara para Pionerismo (construcción con cuerdas y palos) y eventualmente Construcciones Rústicas (estructuras mayores). El consejero guía paso a paso - es la primera exposición sistemática a cuerdas y nudos.
 
 ---
 
 *Tu consejero mira los cuadros de nudos terminados, colgados en la pared de la sede. Cada uno distinto, cada uno con 25 nudos prolijos. "La próxima vez que vayamos al campo", dice, "ya no voy a tener que enseñarles a amarrar una carpa o construir una mesa. Ustedes van a saber." Sonríe. "Y en Pionerismo, van a usar todo esto para construir cosas que nunca imaginaron."*
 
-[Siguiente en Serie Campismo: Pionerismo ->](pionerismo.md)
+Siguiente en Serie Campismo: Pionerismo (guía pendiente).

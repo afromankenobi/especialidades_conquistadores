@@ -338,7 +338,7 @@ Si no tienes pastillas ni filtro comercial, puedes improvisar uno:
 
 Silencio alrededor de la fogata. Luego alguien dice: "¿Y qué viene después?"
 
-Tu consejero sonríe. "Después vienen [Nudos y Amarras](nudos_y_amarras.md), [Pionerismo](pionerismo.md), y si se atreven, Construcciones Rústicas. Pero eso es otra historia."
+Tu consejero sonríe. "Después vienen [Nudos y Amarras](nudos_y_amarras.md), Pionerismo (guía pendiente), y si se atreven, Construcciones Rústicas. Pero eso es otra historia."
 
 ---
 

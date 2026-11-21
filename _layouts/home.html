@@ -359,9 +359,9 @@
   {% assign total_completadas = 0 %}
   {% assign docs = "" %}
   {% for area in site.data.especialidades.areas %}
-    {% assign total_completadas = total_completadas | plus: area.especialidades.size %}
     {% for esp in area.especialidades %}
       {% unless esp.respuesta == false %}
+        {% assign total_completadas = total_completadas | plus: 1 %}
         {% assign docs = docs | append: "|" | append: esp.nombre | append: "|" %}
       {% endunless %}
     {% endfor %}
@@ -422,12 +422,16 @@
           <div class="col-subtitle">Enfoque: Enseñanza, Metodología, Manuales GO!</div>
 
           {% for area in site.data.especialidades.areas %}
+          {% assign guias_disponibles = 0 %}
+          {% for esp in area.especialidades %}
+            {% unless esp.guia == false %}{% assign guias_disponibles = guias_disponibles | plus: 1 %}{% endunless %}
+          {% endfor %}
           <details class="area-tree"{% if forloop.first %} open{% endif %}>
             <summary>
               <span class="area-icon">{{ area.icono }}</span>
               <span class="area-name">{{ area.nombre }}</span>
               <span class="area-code">({{ area.codigo }})</span>
-              <span class="area-count">{{ area.especialidades | size }}</span>
+              <span class="area-count">{{ guias_disponibles }} guías</span>
             </summary>
             <ul class="tree-items">
               {% for esp in area.especialidades %}
@@ -454,12 +458,16 @@
           <div class="col-subtitle">Club K2 · Zona Poniente · AMCH</div>
 
           {% for area in site.data.especialidades.areas %}
+          {% assign respuestas_disponibles = 0 %}
+          {% for esp in area.especialidades %}
+            {% unless esp.respuesta == false %}{% assign respuestas_disponibles = respuestas_disponibles | plus: 1 %}{% endunless %}
+          {% endfor %}
           <details class="area-tree"{% if forloop.first %} open{% endif %}>
             <summary>
               <span class="area-icon">{{ area.icono }}</span>
               <span class="area-name">{{ area.nombre }}</span>
               <span class="area-code">({{ area.codigo }})</span>
-              <span class="area-count">{{ area.especialidades | size }}</span>
+              <span class="area-count">{{ respuestas_disponibles }} respuestas</span>
             </summary>
             <ul class="tree-items">
               {% for esp in area.especialidades %}

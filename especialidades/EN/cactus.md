@@ -1,3 +1,8 @@
+---
+layout: guia_instruccion
+title: Cactus
+---
+
 # **CACTUS**
 
 ## **Estudios de la Naturaleza (EN-015)**

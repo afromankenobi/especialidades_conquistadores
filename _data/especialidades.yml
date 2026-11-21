@@ -19,9 +19,14 @@ areas:
       - nombre: Campamento III
         codigo: AR-051
         archivo: campamento_iii
+      - nombre: Campamento IV
+        codigo: AR-053
+        archivo: campamento_iv
+        respuesta: false
       - nombre: Fútbol
         codigo: AR-064
         archivo: futbol
+        guia: false
       - nombre: Nudos y amarras
         codigo: AR-040
         archivo: nudos_y_amarras
@@ -32,9 +37,11 @@ areas:
       - nombre: Pionerismo
         codigo: AR-022
         archivo: pionerismo
+        guia: false
       - nombre: Vida silvestre
         codigo: AR-024
         archivo: vida_silvestre
+        guia: false
 
   - codigo: EN
     nombre: Estudio de la Naturaleza
@@ -44,33 +51,41 @@ areas:
       - nombre: Árboles
         codigo: EN-006
         archivo: arboles
+        guia: false
       - nombre: Arbustos
         codigo: EN-019
         archivo: arbustos
+        guia: false
       - nombre: Aves domésticas
         codigo: EN-004
         archivo: aves_domesticas
+        guia: false
       - nombre: Cactus
         codigo: EN-015
         archivo: cactus
       - nombre: Energía renovable
         codigo: EN-081
         archivo: energia_renovable
+        guia: false
       - nombre: Flores
         codigo: EN-005
         archivo: flores
       - nombre: Mamíferos
         codigo: EN-010
         archivo: mamiferos
+        guia: false
       - nombre: Reptiles
         codigo: EN-011
         archivo: reptiles
+        guia: false
       - nombre: Rocas y minerales
         codigo: EN-012
         archivo: rocas_y_minerales
+        guia: false
       - nombre: Virus
         codigo: EN-095
         archivo: virus
+        guia: false
 
   - codigo: CS
     nombre: Ciencia y Salud
@@ -80,12 +95,15 @@ areas:
       - nombre: Higiene oral
         codigo: CS-021
         archivo: higiene_oral
+        guia: false
       - nombre: Primeros auxilios
         codigo: CS-003
         archivo: primeros_auxilios
+        guia: false
       - nombre: Rescate básico
         codigo: CS-010
         archivo: rescate_basico
+        guia: false
 
   - codigo: AM
     nombre: Artes y Actividades Manuales
@@ -95,21 +113,27 @@ areas:
       - nombre: Escatología
         codigo: AM-037
         archivo: escatologia
+        guia: false
       - nombre: Globos aerostáticos
         codigo: AM-074
         archivo: globos_aerostaticos
+        guia: false
       - nombre: Goma Eva
         codigo: AM-078
         archivo: goma_eva
+        guia: false
       - nombre: Marcado de biblia
         codigo: AM-018
         archivo: marcado_de_biblia
+        guia: false
       - nombre: Origami
         codigo: AM-059
         archivo: origami
+        guia: false
       - nombre: Resolución de conflictos
         codigo: AM-007
         archivo: resolucion_de_conflictos
+        guia: false
       - nombre: Temperancia
         codigo: AM-012
         archivo: temperancia
@@ -122,6 +146,7 @@ areas:
       - nombre: Cuidado de bebés
         codigo: HD-002
         archivo: cuidado_de_bebes
+        guia: false
 
   - codigo: AP
     nombre: Actividades Profesionales
