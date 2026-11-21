@@ -1,25 +1,15 @@
 ---
 layout: guia_instruccion
 title: Temperancia
+codigo: AM-012
+area: Actividades Misioneras y Comunitarias
+area_codigo: AM
+nivel: 1
+ano_creacion: 1976
+institucion_origen: Asociación General
 ---
 
-# Temperancia
-
-<div align="center">
-
-![Logo Conquistadores](../../assets/images/logo.svg)
-
-**Área:** Actividades Misioneras y Comunitarias
-**Código:** AM-012
-**Nivel:** 1
-**Año de creación:** 1976
-**Institución de origen:** Asociación General
-
----
-
-</div>
-
-## ¿CONOCES? Temperancia - Más que solo decir "no"
+## Temperancia: más que solo decir "no"
 
 Cuando escuchas la palabra "temperancia", ¿qué te viene a la mente? ¿Solo "no fumes, no bebas"? La temperancia es mucho más que una lista de prohibiciones. Es un **estilo de vida** que te empodera para tomar decisiones que honran tu cuerpo, tu mente y tu relación con Dios.
 
@@ -33,10 +23,11 @@ No se trata de reglas impuestas, sino de **decisiones informadas** que tomas por
 
 ---
 
-## HISTORIA: Daniel en Babilonia
-El poder de decidir diferente
+## Historia: Daniel en Babilonia
 
-### El Dilema de Daniel
+*El poder de decidir diferente*
+
+### El dilema de Daniel
 
 Año 605 a.C. Daniel, un joven israelita de unos 15 años (¡tu edad!), fue llevado cautivo a Babilonia. El rey Nabucodonosor ordenó que Daniel y sus amigos fueran entrenados en el palacio real. Como parte del entrenamiento, debían comer de la **mesa del rey**: carnes selectas y vino fino.
 
@@ -51,18 +42,19 @@ Daniel sabía que esa comida no honraba a Dios:
 
 **El dilema:** Rechazar la comida del rey podría ofenderlo. En Babilonia, ofender al rey significaba... muerte.
 
-### La Decisión Valiente
+### La decisión valiente
 
 > *"Y Daniel propuso en su corazón no contaminarse con la porción de la comida del rey, ni con el vino que él bebía."* — Daniel 1:8
 
 Daniel tomó una decisión **antes** de estar en la situación. "Propuso en su corazón" = **decidió de antemano**.
 
 **La estrategia de Daniel:**
+
 1. **Respetuoso pero firme:** Pidió permiso, no exigió
 2. **Propuso alternativa:** "Pruébanos con verduras y agua por 10 días"
 3. **Dejó que los resultados hablaran:** Confió en que su estilo de vida mostraría frutos
 
-### El Resultado
+### El resultado
 
 Después de 10 días, Daniel y sus amigos estaban:
 - Más saludables en apariencia
@@ -74,26 +66,31 @@ El rey quedó tan impresionado que les permitió continuar con su dieta.
 **Al final de los 3 años de entrenamiento:**
 > *"En todo asunto de sabiduría e inteligencia que el rey les consultó, los halló diez veces mejores que todos los magos y astrólogos que había en todo su reino."* — Daniel 1:20
 
-### Lecciones para TI
+### Lecciones para ti
 
 **1. Decide de antemano**
+
 No esperes estar en la situación para decidir. Daniel "propuso en su corazón" ANTES.
 
 **2. Las decisiones saludables tienen resultados visibles**
+
 No solo te sentirás mejor, ¡se NOTARÁ!
 
 **3. La presión de grupo no es nueva**
+
 Daniel enfrentó presión del imperio más poderoso del mundo. Tú puedes enfrentar la presión de tu escuela.
 
 **4. Ser diferente está bien**
+
 Daniel no se avergonzó de ser diferente. Su diferencia lo hizo destacar para bien.
 
-**LINK FORWARD:** Las técnicas de Daniel para resistir presión de grupo las verás aplicadas en los dilemas modernos más adelante.
+Las técnicas de Daniel para resistir presión de grupo las verás aplicadas en los [dilemas modernos](#qué-harías-tú) más adelante.
 
 ---
 
-## LA CIENCIA DE LO PERJUDICIAL
-Datos que necesitas saber
+## La ciencia de lo perjudicial
+
+*Datos que necesitas saber*
 
 ### Tabaco - El asesino silencioso
 
@@ -103,6 +100,7 @@ Datos que necesitas saber
 - Cuesta a gobiernos **1.4 trillones de dólares** en gastos de salud
 
 **Componentes tóxicos del cigarrillo:**
+
 El humo del cigarrillo contiene más de **7,000 sustancias químicas**. Estas son algunas de las más peligrosas:
 
 1. **Nicotina** - La droga adictiva (tan adictiva como heroína)
@@ -122,6 +120,7 @@ El humo del cigarrillo contiene más de **7,000 sustancias químicas**. Estas so
 - **Dependencia:** Tu cuerpo se vuelve esclavo de la nicotina
 
 **Fumador pasivo:**
+
 Respirar humo de segunda mano causa las mismas enfermedades. NO es inofensivo. Los niños de fumadores tienen más asma, bronquitis e infecciones de oído.
 
 ### Alcohol - El engañador social
@@ -138,6 +137,7 @@ Respirar humo de segunda mano causa las mismas enfermedades. NO es inofensivo. L
 - **Adicción:** El alcoholismo puede desarrollarse en meses
 
 **Efectos en embarazo:**
+
 El alcohol cruza la placenta. El bebé **bebe lo mismo que la madre**.
 
 **Síndrome Alcohólico Fetal:**
@@ -158,12 +158,14 @@ Las drogas recreativas son especialmente peligrosas porque:
 
 ---
 
-## LOS 8 REMEDIOS NATURALES
-Superhéroes de tu salud
+## Los 8 remedios naturales
+
+*Superhéroes de tu salud*
 
 En lugar de enfocarnos solo en lo negativo (lo que NO debes hacer), veamos lo POSITIVO: **8 remedios naturales** que Dios diseñó para mantenerte saludable.
 
 ### 1. Nutrición (N) 🥗
+
 Alimento saludable es medicina preventiva.
 - Frutas y verduras frescas
 - Granos integrales
@@ -171,41 +173,48 @@ Alimento saludable es medicina preventiva.
 - Nueces y semillas
 
 ### 2. Ejercicio (E) 🏃
+
 Tu cuerpo fue diseñado para moverse.
 - Mínimo 30 minutos diarios
 - Fortalece corazón, músculos, mente
 - Reduce estrés y ansiedad
 
 ### 3. Agua (A) 💧
+
 8 vasos al día, dentro y fuera.
 - Hidratación interna (beber)
 - Higiene externa (baño)
 - 60% de tu cuerpo es agua
 
 ### 4. Sol (S) ☀️
+
 15-20 minutos diarios.
 - Vitamina D natural
 - Mejora ánimo
 - Fortalece huesos
 
 ### 5. Temperancia (T) ⚖️
+
 Moderación en lo bueno, abstinencia de lo malo.
 - No solo sobre sustancias
 - También: comida, pantallas, actividades
 
 ### 6. Aire (A) 🌬️
+
 Respira profundo aire fresco.
 - Oxigena tu cerebro
 - Mejora concentración
 - Fortalece sistema inmune
 
 ### 7. Descanso (D) 😴
+
 8-10 horas para adolescentes.
 - Tu cuerpo se repara mientras duermes
 - Memoria se consolida
 - Hormones de crecimiento trabajan
 
 ### 8. Confianza en Dios (C) ✝️
+
 Paz mental y propósito.
 - Reduce estrés y ansiedad
 - Da sentido a la vida
@@ -216,97 +225,122 @@ Paz mental y propósito.
 
 ---
 
-## PALABRAS QUE DAN VIDA
-Textos para memorizar y vivir
+## Palabras que dan vida
 
-### Textos Bíblicos (elige 3 para memorizar)
+*Textos para memorizar y vivir*
+
+### Textos bíblicos (elige 3 para memorizar)
 
 #### 1 Corintios 6:19-20
+
 > *"¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo."*
 
 **¿Qué significa?**
+
 Tu cuerpo no es solo tuyo. Es donde Dios vive (su templo). Cuidarlo no es vanidad, es **adoración**.
 
 ---
 
 #### 1 Corintios 10:31
+
 > *"Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios."*
 
 **¿Qué significa?**
+
 Hasta comer y beber son actos espirituales. Cada elección puede glorificar a Dios o deshonrarlo.
 
 ---
 
 #### Romanos 12:1-2
+
 > *"Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional."*
 
 **¿Qué significa?**
+
 Adoración verdadera = presentar tu cuerpo sano a Dios. No es solo cantar en iglesia, es vivir saludablemente.
 
 ---
 
 #### Proverbios 20:1
+
 > *"El vino es escarnecedor, la sidra alborotadora, y cualquiera que por ellos yerra no es sabio."*
 
 **¿Qué significa?**
+
 El alcohol "se burla" de ti (te hace hacer cosas tontas). Usarlo no es señal de madurez, es señal de falta de sabiduría.
 
 ---
 
 #### 3 Juan 2
+
 > *"Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma."*
 
 **¿Qué significa?**
+
 Dios desea tu bienestar COMPLETO: espiritual Y físico. No es uno o el otro, es ambos.
 
 ---
 
 #### Gálatas 5:22-23
+
 > *"Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, **templanza**; contra tales cosas no hay ley."*
 
 **¿Qué significa?**
+
 Templanza (autocontrol) es un **fruto del Espíritu**. No es solo fuerza de voluntad humana, es Dios obrando en ti.
 
 ---
 
 ### Textos del Espíritu de Profecía (elige 3 para memorizar)
 
-#### "La verdadera temperancia nos enseña a abstenernos por completo de todo lo perjudicial, y a usar cuerdamente lo que es saludable."
-*(La temperancia, p. 122)*
+#### El equilibrio de la temperancia
+
+> *"La verdadera temperancia nos enseña a abstenernos por completo de todo lo perjudicial, y a usar cuerdamente lo que es saludable."*
+>
+> *(La temperancia, p. 122)*
 
 **¿Qué significa?**
+
 Dos partes: (1) Evitar totalmente lo malo, (2) Usar sabiamente lo bueno. No es extremismo, es equilibrio.
 
 ---
 
-#### "La única conducta segura consiste en no tocar ni probar té, café, vino, tabaco, opio ni bebidas alcohólicas."
-*(Consejos sobre el régimen alimenticio, p. 514)*
+#### La abstinencia
+
+> *"La única conducta segura consiste en no tocar ni probar té, café, vino, tabaco, opio ni bebidas alcohólicas."*
+>
+> *(Consejos sobre el régimen alimenticio, p. 514)*
 
 **¿Qué significa?**
+
 La abstinencia total es la única forma segura. No hay "uso responsable" de sustancias adictivas.
 
 ---
 
-#### "Sólo la temperancia es el fundamento de todas las gracias que proceden de Dios, el fundamento de todas las victorias a ganarse."
-*(La temperancia, p. 178)*
+#### El fundamento del autocontrol
+
+> *"Sólo la temperancia es el fundamento de todas las gracias que proceden de Dios, el fundamento de todas las victorias a ganarse."*
+>
+> *(La temperancia, p. 178)*
 
 **¿Qué significa?**
+
 Sin autocontrol, ninguna otra virtud puede desarrollarse. Es la **base** de todo crecimiento espiritual.
 
 ---
 
----
+## ¿Qué harías tú?
 
-## ¿QUÉ HARÍAS TÚ?
-Dilemas modernos - Role play
+*Dilemas modernos - Role play*
 
 **[PRÁCTICA REQUERIDA]** - Estas situaciones son REALES y te pasarán (si no te han pasado ya).
 
-**BACKLINK:** ¿Recuerdas la estrategia de Daniel? Respetuoso pero firme, propone alternativa, deja que resultados hablen. Usa esa misma estrategia aquí.
+¿Recuerdas la [estrategia de Daniel](#la-decisión-valiente)? Respetuoso pero firme, propone alternativa, deja que resultados hablen. Usa esa misma estrategia aquí.
 
-### DILEMA 1: El Cigarrillo del "Amigo"
+### Dilema 1: el cigarrillo del "amigo"
 
 **Situación:**
+
 Estás en una fiesta de cumpleaños. Tu mejor amigo saca un cigarrillo y te dice: "Prueba uno, no pasa nada. Todos lo están haciendo. ¿O tienes miedo?"
 
 **Presión identificada:**
@@ -326,26 +360,27 @@ Estás en una fiesta de cumpleaños. Tu mejor amigo saca un cigarrillo y te dice
 ✅ Firme, da razón personal, ofrece alternativa, mantiene amistad
 
 **Guión sugerido:**
-```
-TÚ: "Nah, paso. Decidí no meter químicos raros en mi cuerpo."
-AMIGO: "¿Por qué? ¿Eres religioso fanático?"
-TÚ: "No es solo religión, es sentido común. ¿Has visto los pulmones de un fumador? Se ven como carbón. Yo quiero llegar a 80 años escalando montañas, no conectado a un tanque de oxígeno."
-AMIGO: "Pero solo es uno..."
-TÚ: "Todos los adictos empezaron con 'solo uno'. Oye, ¿vamos a jugar algo mejor?"
-```
+
+> **Tú:** "Nah, paso. Decidí no meter químicos raros en mi cuerpo."
+>
+> **Amigo:** "¿Por qué? ¿Eres religioso fanático?"
+>
+> **Tú:** "No es solo religión, es sentido común. ¿Has visto los pulmones de un fumador? Se ven como carbón. Yo quiero llegar a 80 años escalando montañas, no conectado a un tanque de oxígeno."
+>
+> **Amigo:** "Pero solo es uno..."
+>
+> **Tú:** "Todos los adictos empezaron con 'solo uno'. Oye, ¿vamos a jugar algo mejor?"
 
 **Tu turno - Practica:**
-Escribe tu propio guión. ¿Qué dirías TÚ? Practícalo en voz alta.
 
-________________________________________________________
-________________________________________________________
-________________________________________________________
+Escribe tu propio guión. ¿Qué dirías TÚ? Practícalo en voz alta.
 
 ---
 
-### DILEMA 2: Dinero Fácil
+### Dilema 2: dinero fácil
 
 **Situación:**
+
 Un compañero del colegio se te acerca: "Te pago $50 por entregar este paquetito a alguien en la esquina. Solo eso, ni preguntes qué es. ¿Si o no?"
 
 **Presión identificada:**
@@ -358,6 +393,7 @@ Un compañero del colegio se te acerca: "Te pago $50 por entregar este paquetito
 **Opción correcta:** "No, gracias. Si no puedes decirme qué es, no quiero saber."
 
 **Si insiste:**
+
 "Mira, si algo requiere que yo 'no pregunte qué es', probablemente es ilegal. No me arriesgo. No necesito $50 tanto como necesito estar fuera de problemas."
 
 **IMPORTANTE:** Si sospechas que son drogas, cuéntale a un adulto de confianza. No eres "soplón", estás **protegiendo** a tu compañero de destruir su vida.
@@ -366,9 +402,10 @@ Un compañero del colegio se te acerca: "Te pago $50 por entregar este paquetito
 
 ---
 
-### DILEMA 3: El Pariente Mayor
+### Dilema 3: el pariente mayor
 
 **Situación:**
+
 Estás en una reunión familiar. Tu tío te ofrece cerveza: "Ya estás grande, una cerveza no te hace daño. No seas aguafiestas."
 
 **Presión identificada:**
@@ -377,35 +414,41 @@ Estás en una reunión familiar. Tu tío te ofrece cerveza: "Ya estás grande, u
 - No querer ofender a familia
 
 **Opción Daniel:**
+
 "Gracias tío, pero no tomo alcohol. Estoy en entrenamiento [para lo que sea: deportes, conquistadores, banda]. Prefiero estar al 100%. ¿Me pasas un jugo?"
 
 **Si insiste:**
+
 "Tío, respeto tu decisión, pero yo he tomado la mía. Mi cuerpo, mi decisión."
 
 **Frase poderosa:** "Precisamente PORQUE estoy grande, puedo decidir por mí mismo."
 
 ---
 
-### DILEMA 4: Humo de Segunda Mano
+### Dilema 4: humo de segunda mano
 
 **Situación:**
+
 Estás en una parada de bus. Alguien fuma cerca y el humo te molesta.
 
 **¿Qué haces?**
 
 **Opción asertiva:**
+
 "Disculpe, ¿podría fumar más lejos? El humo me está afectando. Gracias."
 
 **Si está en lugar donde fumar está prohibido:**
+
 "Disculpe, aquí no se puede fumar. ¿Podría apagar el cigarrillo?"
 
 **Técnica:** Corto, directo, educado, sin agresión.
 
 ---
 
-### DILEMA 5: La Marihuana "Inofensiva"
+### Dilema 5: la marihuana "inofensiva"
 
 **Situación:**
+
 Un amigo dice: "La marihuana es natural, de una planta. No es como las drogas de verdad. Relájate, prueba."
 
 **Falacias en ese argumento:**
@@ -414,15 +457,17 @@ Un amigo dice: "La marihuana es natural, de una planta. No es como las drogas de
 - "Relájate" (presión emocional)
 
 **Tu respuesta:**
+
 "Natural no significa seguro. El veneno también es natural. Y sí, es una droga: altera tu cerebro. Yo quiero todas mis neuronas funcionando, gracias. ¿Vamos a [actividad alternativa]?"
 
 **Dato científico:** Marihuana en adolescentes afecta desarrollo cerebral permanentemente. Tu cerebro no termina de desarrollarse hasta los 25 años.
 
 ---
 
-### DILEMA 6: El Amigo Ebrio al Volante
+### Dilema 6: el amigo ebrio al volante
 
 **Situación:**
+
 Saliste con amigos. El que conducía tomó alcohol. Dice: "Estoy bien, solo fueron 2 cervezas. Puedo manejar."
 
 **Este es CRÍTICO: Puede morir gente.**
@@ -440,13 +485,14 @@ Saliste con amigos. El que conducía tomó alcohol. Dice: "Estoy bien, solo fuer
 
 ---
 
-## PRÁCTICA - ¡Hazlo!
+## Práctica: ¡hazlo!
 
-### ✅ Ejercicio 1: Role Play en Grupo
+### Ejercicio 1: dramatización en grupo
 
 **Objetivo:** Dramatizar los 6 escenarios con tu unidad/club.
 
 **Cómo hacerlo:**
+
 1. Divídanse en parejas
 2. Uno hace el "tentador", otro el "resistidor"
 3. Improvisen el diálogo (usen los guiones como base, pero háganlo suyo)
@@ -460,7 +506,7 @@ Saliste con amigos. El que conducía tomó alcohol. Dice: "Estoy bien, solo fuer
 - [ ] Ofreció alternativa saludable
 - [ ] Mantuvo la amistad/respeto
 
-### ✅ Ejercicio 2: Crea tu Proyecto de Prevención (elige 3)
+### Ejercicio 2: crea tu proyecto de prevención (elige 3)
 
 **Opción A: Discurso (5-8 minutos)**
 - Tema: Algún aspecto de temperancia
@@ -506,7 +552,7 @@ Saliste con amigos. El que conducía tomó alcohol. Dice: "Estoy bien, solo fuer
 
 ---
 
-### ✅ Ejercicio 3: Investigación Ciudadana
+### Ejercicio 3: investigación ciudadana
 
 **Objetivo:** Conocer las leyes de tu país sobre tabaco y alcohol.
 
@@ -538,6 +584,7 @@ Saliste con amigos. El que conducía tomó alcohol. Dice: "Estoy bien, solo fuer
    - ¿Qué mejorarías?
 
 **Formato de presentación:**
+
 Informe escrito de 1-2 páginas con:
 - Datos investigados
 - Fuentes consultadas (sitios gobierno, leyes oficiales)
@@ -546,16 +593,17 @@ Informe escrito de 1-2 páginas con:
 
 ---
 
-## EL COMPROMISO
-Tu decisión personal
+## El compromiso
 
-### El Voto de Temperancia
+*Tu decisión personal*
 
-**VOTO OFICIAL:**
+### El voto de temperancia
 
-*"Consciente de que el uso del alcohol y tabaco y el uso de drogas no recomendadas por médicos no es compatible con una vida saludable, me comprometo no solo a abstenerme del uso de estas sustancias y vivir de acuerdo con los principios de la Temperancia Cristiana, sino también a ayudar a los demás a comprender y aceptar este estilo más saludable de vida."*
+**Voto oficial:**
 
-### Hazlo Significativo
+> *"Consciente de que el uso del alcohol y tabaco y el uso de drogas no recomendadas por médicos no es compatible con una vida saludable, me comprometo no solo a abstenerme del uso de estas sustancias y vivir de acuerdo con los principios de la Temperancia Cristiana, sino también a ayudar a los demás a comprender y aceptar este estilo más saludable de vida."*
+
+### Hazlo significativo
 
 Firmar un papel es fácil. Hacer que signifique algo es el verdadero desafío.
 
@@ -565,11 +613,12 @@ Firmar un papel es fácil. Hacer que signifique algo es el verdadero desafío.
 - ¿Estoy listo para mantener este compromiso incluso cuando sea difícil?
 - ¿Cómo ayudaré a otros (segunda parte del voto)?
 
-### O Crea Tu Propio Voto
+### O crea tu propio voto
 
 Si prefieres, crea un voto personal que sea significativo para TI.
 
 **Debe incluir:**
+
 1. **Reconocimiento:** "Reconozco que [sustancias] son perjudiciales porque..."
 2. **Compromiso personal:** "Me comprometo a..."
 3. **Razón profunda:** "Lo hago porque..." (no "porque me obligan")
@@ -577,68 +626,76 @@ Si prefieres, crea un voto personal que sea significativo para TI.
 5. **Firma y fecha**
 
 **Ejemplo de voto personal:**
-```
-Yo, [Nombre], reconozco que mi cuerpo es un regalo de Dios y un templo
-donde Su Espíritu vive. Por eso, decido conscientemente:
 
-- Abstenerme completamente de tabaco, alcohol y drogas recreativas
-- Cuidar mi salud con los 8 remedios naturales
-- Usar mi experiencia para inspirar a mis amigos a vivir saludablemente
-- Ser ejemplo de que puedes divertirte y vivir plenamente SIN sustancias
-
-Mi meta no es solo evitar lo malo, sino vivir lo mejor.
-
-Firma: _________________ Fecha: _________________
-```
+> Yo, [Nombre], reconozco que mi cuerpo es un regalo de Dios y un templo donde Su Espíritu vive. Por eso, decido conscientemente:
+>
+> - Abstenerme completamente de tabaco, alcohol y drogas recreativas
+> - Cuidar mi salud con los 8 remedios naturales
+> - Usar mi experiencia para inspirar a mis amigos a vivir saludablemente
+> - Ser ejemplo de que puedes divertirte y vivir plenamente SIN sustancias
+>
+> Mi meta no es solo evitar lo malo, sino vivir lo mejor.
+>
+> **Firma:** ................................
+>
+> **Fecha:** ................................
 
 **Guarda tu voto firmado.** Es un recordatorio en momentos de tentación.
 
 ---
 
-## 📚 Referencias y Recursos
+## Referencias y recursos
 
 ### Libros de Elena G. White
+
 - *La Temperancia*
 - *Consejos sobre el Régimen Alimenticio*
 - *Consejos sobre Salud*
 - *Ministerio Médico* - Capítulo "Estimulantes y Narcóticos"
 
-### Organizaciones y Datos
+### Organizaciones y datos
+
 - **OMS** (Organización Mundial de la Salud) - Datos sobre alcohol y tabaco
 - **NIH** (Instituto Nacional de Salud) - Investigación sobre drogas
 - Ministerio de Salud de tu país
 
-### Videos Educativos (buscar en YouTube)
+### Videos educativos (buscar en YouTube)
+
 - "Efectos del tabaco en el cuerpo" - Videos médicos animados
 - "Alcohol y el cerebro adolescente" - Documentales educativos
 - "Historia de Daniel" - Animaciones bíblicas
 
-### Sitios Web Recomendados
+### Sitios web recomendados
+
 - Pathfinders Online - Recursos de temperancia
 - Adventist Health - Vida saludable
 - Gobierno/salud pública de tu país
 
 ---
 
-## ✅ Registro de Completación
+## Lista de verificación
 
 ### Memorización
+
 - [ ] Voto de Temperancia memorizado y firmado
 - [ ] 3 Textos bíblicos memorizados
 - [ ] 3 Textos Espíritu de Profecía memorizados
 
 ### Conocimiento
+
 - [ ] Componentes tóxicos del tabaco (mínimo 4)
 - [ ] Enfermedades causadas (mínimo 2)
 - [ ] Efectos del alcohol y drogas
 - [ ] 8 Remedios Naturales (NEWASTART)
 
 ### Práctica
+
 - [ ] Role play: 6 escenarios dramatizados
 - [ ] 3 Proyectos creativos completados (cuáles: ______, ______, ______)
 - [ ] Investigación de leyes nacionales (informe entregado)
 
-### Compromiso Personal
+### Compromiso personal
+
 - [ ] He firmado mi voto de temperancia
 - [ ] Fecha de firma: _________________
 - [ ] Testigos (opcionales): _________________
@@ -647,14 +704,16 @@ Firma: _________________ Fecha: _________________
 
 <div align="center">
 
-**🌟 TU DECISIÓN CAMBIÓ TU VIDA 🌟**
+**Tu decisión cambió tu vida**
 
 Al completar esta especialidad y firmar el Voto de Temperancia,
 te unes a millones de jóvenes adventistas alrededor del mundo
 que han decidido vivir saludablemente.
 
 **Como Daniel, tu decisión te hará destacar.**
+
 **Como Daniel, tu vida será más plena.**
+
 **Como Daniel, inspirarás a otros.**
 
 *"Y Daniel propuso en su corazón..."* — ¿Y tú?
