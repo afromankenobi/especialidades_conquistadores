@@ -43,8 +43,7 @@ Se incluyen materiales con actividades, secuencias de aprendizaje o instruccione
 
 ## 📚 Especialidades por Área
 
-<details open>
-<summary>🏕️ Actividades Recreativas (AR) - 6 guías</summary>
+### 🏕️ Actividades Recreativas (AR) - 6 guías
 
 - [Arte de acampar](./AR/arte_de_acampar.md) (AR-001)
 - [Campamento I](./AR/campamento_i.md) (AR-049)
@@ -53,22 +52,14 @@ Se incluyen materiales con actividades, secuencias de aprendizaje o instruccione
 - [Campamento IV](./AR/campamento_iv.md) (AR-053)
 - [Nudos y amarras](./AR/nudos_y_amarras.md) (AR-040)
 
-</details>
-
-<details>
-<summary>🌳 Estudio de la Naturaleza (EN) - 2 guías</summary>
+### 🌳 Estudio de la Naturaleza (EN) - 2 guías
 
 - [Cactus](./EN/cactus.md) (EN-015)
 - [Flores](./EN/flores.md) (EN-005)
 
-</details>
-
-<details>
-<summary>🎨 Artes y Actividades Manuales (AM) - 1 guía</summary>
+### 🎨 Artes y Actividades Manuales (AM) - 1 guía
 
 - [Temperancia](./AM/temperancia.md) (AM-012)
-
-</details>
 
 ---
 
